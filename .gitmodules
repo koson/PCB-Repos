@@ -41,3 +41,6 @@
 [submodule "ESP32-Sense-Kit-Altium-Files"]
 	path = ESP32-Sense-Kit-Altium-Files
 	url = https://github.com/DigiMaxIO/ESP32-Sense-Kit-Altium-Files.git
+[submodule "stm32/ESP32-Sense-Kit-Altium-Files"]
+	path = stm32/ESP32-Sense-Kit-Altium-Files
+	url = https://github.com/DigiMaxIO/ESP32-Sense-Kit-Altium-Files.git
