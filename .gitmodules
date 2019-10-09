@@ -12,7 +12,7 @@
 	url = https://github.com/istarc/stm32.git
 [submodule "stm32/AltiumDesigner_PcbLibrary"]
 	path = stm32/AltiumDesigner_PcbLibrary
-	url = https://github.com/liquanqing/AltiumDesigner_PcbLibrary.git
+	url = https://github.com/KitSprout/AltiumDesigner_PcbLibrary.git
 
 [submodule "stm32/Tailsitter_Brain"]
 	path = stm32/Tailsitter_Brain
