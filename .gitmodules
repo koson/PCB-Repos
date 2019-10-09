@@ -13,6 +13,4 @@
 [submodule "stm32/AltiumDesigner_PcbLibrary"]
 	path = stm32/AltiumDesigner_PcbLibrary
 	url = https://github.com/liquanqing/AltiumDesigner_PcbLibrary.git
-[submodule "Tailsitter_Brain"]
-	path = Tailsitter_Brain
-	url = https://github.com/AlexiLlaiho/Tailsitter_Brain.git
+
