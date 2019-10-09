@@ -20,3 +20,21 @@
 [submodule "stm32/SmartEnergyMeterv2"]
 	path = stm32/SmartEnergyMeterv2
 	url = https://github.com/logitek00/SmartEnergyMeterv2.git
+[submodule "stm32/SEM_BMS"]
+	path = stm32/SEM_BMS
+	url = https://github.com/LoganHorowitz/SEM_BMS.git
+[submodule "stm32/R3_Robot"]
+	path = stm32/R3_Robot
+	url = https://github.com/xmmemory/R3_Robot.git
+[submodule "stm32/ODriveHardware"]
+	path = stm32/ODriveHardware
+	url = https://github.com/madcowswe/ODriveHardware.git
+[submodule "stm32/My_PCB_Project_Github"]
+	path = stm32/My_PCB_Project_Github
+	url = https://github.com/Samwuzhitao/My_PCB_Project_Github.git
+[submodule "stm32/Multi-interface-Sensor"]
+	path = stm32/Multi-interface-Sensor
+	url = https://github.com/hsonbk/Multi-interface-Sensor.git
+[submodule "stm32/Laser-LED-STM-Board-Project"]
+	path = stm32/Laser-LED-STM-Board-Project
+	url = https://github.com/fxslava/Laser-LED-STM-Board-Project.git
