@@ -38,3 +38,6 @@
 [submodule "stm32/Laser-LED-STM-Board-Project"]
 	path = stm32/Laser-LED-STM-Board-Project
 	url = https://github.com/fxslava/Laser-LED-STM-Board-Project.git
+[submodule "ESP32-Sense-Kit-Altium-Files"]
+	path = ESP32-Sense-Kit-Altium-Files
+	url = https://github.com/DigiMaxIO/ESP32-Sense-Kit-Altium-Files.git
