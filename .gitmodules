@@ -110,3 +110,18 @@
 [submodule "stm32/NBFi_AX5043"]
 	path = stm32/NBFi_AX5043
 	url = https://github.com/waviot/NBFi_AX5043.git
+[submodule "stm32/qbcan-resources"]
+	path = stm32/qbcan-resources
+	url = https://github.com/opencosmos/qbcan-resources.git
+[submodule "stm32/SEM_DAQ_2019"]
+	path = stm32/SEM_DAQ_2019
+	url = https://github.com/LoganHorowitz/SEM_DAQ_2019.git
+[submodule "stm32/STM32_Platform"]
+	path = stm32/STM32_Platform
+	url = https://github.com/JUMA-IO/STM32_Platform.git
+[submodule "stm32/Stress-Monitor-Based-on-NB-IoT"]
+	path = stm32/Stress-Monitor-Based-on-NB-IoT
+	url = https://github.com/Neyzoter/Stress-Monitor-Based-on-NB-IoT.git
+[submodule "stm32/WPT_RX"]
+	path = stm32/WPT_RX
+	url = https://github.com/LoganHorowitz/WPT_RX.git
