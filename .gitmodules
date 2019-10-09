@@ -44,3 +44,69 @@
 [submodule "stm32/ESP32-Sense-Kit-Altium-Files"]
 	path = stm32/ESP32-Sense-Kit-Altium-Files
 	url = https://github.com/DigiMaxIO/ESP32-Sense-Kit-Altium-Files.git
+[submodule "stm32/nixie-clock-esp32"]
+	path = stm32/nixie-clock-esp32
+	url = https://github.com/glynnmccabe/nixie-clock-esp32.git
+[submodule "stm32/nixie-clock-IN14-adaptor"]
+	path = stm32/nixie-clock-IN14-adaptor
+	url = https://github.com/glynnmccabe/nixie-clock-IN14-adaptor.git
+[submodule "stm32/Amper_PCB"]
+	path = stm32/Amper_PCB
+	url = https://github.com/eakhmadishin/Amper_PCB.git
+[submodule "stm32/AnanasStepper2.0-hardware"]
+	path = stm32/AnanasStepper2.0-hardware
+	url = https://github.com/Dark-Guan/AnanasStepper2.0-hardware.git
+[submodule "stm32/AnimalMonitoring"]
+	path = stm32/AnimalMonitoring
+	url = https://github.com/HaoliangLi/AnimalMonitoring.git
+[submodule "stm32/Bee_Shaker"]
+	path = stm32/Bee_Shaker
+	url = https://github.com/LoganHorowitz/Bee_Shaker.git
+[submodule "stm32/BIGTIFFANYRS"]
+	path = stm32/BIGTIFFANYRS
+	url = https://github.com/waviot/BIGTIFFANYRS.git
+[submodule "stm32/BLDC_PCB"]
+	path = stm32/BLDC_PCB
+	url = https://github.com/bauman-robotics/BLDC_PCB.git
+[submodule "stm32/BLDC-control_SM7"]
+	path = stm32/BLDC-control_SM7
+	url = https://github.com/bauman-robotics/BLDC-control_SM7.git
+[submodule "stm32/Delta-Robot"]
+	path = stm32/Delta-Robot
+	url = https://github.com/Dark-Guan/Delta-Robot.git
+[submodule "stm32/DFMiniMp3"]
+	path = stm32/DFMiniMp3
+	url = https://github.com/LoganHorowitz/DFMiniMp3.git
+[submodule "stm32/DT_Altium"]
+	path = stm32/DT_Altium
+	url = https://github.com/dinhthong/DT_Altium.git
+[submodule "stm32/DT_Arduino"]
+	path = stm32/DT_Arduino
+	url = https://github.com/dinhthong/DT_Arduino.git
+[submodule "stm32/ece3400-2017"]
+	path = stm32/ece3400-2017
+	url = https://github.com/CEI-lab/ece3400-2017.git
+[submodule "stm32/ECE3400-2017-teamAlpha"]
+	path = stm32/ECE3400-2017-teamAlpha
+	url = https://github.com/CEI-lab/ECE3400-2017-teamAlpha.git
+[submodule "stm32/ece3400-2018"]
+	path = stm32/ece3400-2018
+	url = https://github.com/CEI-lab/ece3400-2018.git
+[submodule "stm32/Flyback_LowPower"]
+	path = stm32/Flyback_LowPower
+	url = https://github.com/LoganHorowitz/Flyback_LowPower.git
+[submodule "stm32/Inchworm_v0"]
+	path = stm32/Inchworm_v0
+	url = https://github.com/LoganHorowitz/Inchworm_v0.git
+[submodule "stm32/Buck_Horn"]
+	path = stm32/Buck_Horn
+	url = https://github.com/LoganHorowitz/Buck_Horn.git
+[submodule "stm32/SEM_DAQ_2018"]
+	path = stm32/SEM_DAQ_2018
+	url = https://github.com/LoganHorowitz/SEM_DAQ_2018.git
+[submodule "stm32/MultiBot-MultipurposeRobot"]
+	path = stm32/MultiBot-MultipurposeRobot
+	url = https://github.com/OskOnu/MultiBot-MultipurposeRobot.git
+[submodule "stm32/NBFi_AX5043"]
+	path = stm32/NBFi_AX5043
+	url = https://github.com/waviot/NBFi_AX5043.git
