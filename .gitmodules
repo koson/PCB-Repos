@@ -14,3 +14,9 @@
 	path = stm32/AltiumDesigner_PcbLibrary
 	url = https://github.com/liquanqing/AltiumDesigner_PcbLibrary.git
 
+[submodule "stm32/Tailsitter_Brain"]
+	path = stm32/Tailsitter_Brain
+	url = https://github.com/AlexiLlaiho/Tailsitter_Brain.git
+[submodule "stm32/SmartEnergyMeterv2"]
+	path = stm32/SmartEnergyMeterv2
+	url = https://github.com/logitek00/SmartEnergyMeterv2.git
