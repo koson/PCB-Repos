@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=A Pin=P9-3
+Added Pin To Net: NetName=+24V Pin=P9-4
+Added Pin To Net: NetName=GND Pin=P9-5
+Added Pin To Net: NetName=GND Pin=P9-6
+Change Net Name : Old Net Name=NetP7_16 New Net Name=VAC_READ

@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=NetD1_1 Pin=L1-2
+Added Pin To Net: NetName=NetD2_1 Pin=L2-2
+Added Pin To Net: NetName=S1Q4 Pin=P2-aa
+Added Pin To Net: NetName=VOG Pin=P2-bb
+Added Pin To Net: NetName=VOD Pin=P2-cc
+Added Pin To Net: NetName=RTDF(+) Pin=P2-ff
+Added Pin To Net: NetName=TGA Pin=P2-gg
+Added Pin To Net: NetName=SG Pin=P2-X
+Added Pin To Net: NetName=HEATER(+) Pin=P2-Y
+Added Pin To Net: NetName=HEATER(-) Pin=P2-Z
+Added Pin To Net: NetName=A3OUT Pin=P5-7
+Added Pin To Net: NetName=A2OUT Pin=P5-13
+Added Pin To Net: NetName=A1OUT Pin=P2-dd
+Added Pin To Net: NetName=A1OUT Pin=P5-17
+Added Net: Name=A1OUT
+Added Pin To Net: NetName=A4OUT Pin=P2-ee
+Added Pin To Net: NetName=A4OUT Pin=P5-3
+Added Net: Name=A4OUT

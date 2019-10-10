@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=LED Driver Board Member=TP3
+Added Component: Designator=D3(SMC)
+Added Component: Designator=D4(SMC)
+Added Component: Designator=D5(SMC)
+Added Component: Designator=U7(TSSOP14)
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=24V Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=24V Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=24V Pin=D5-2
+Added Pin To Net: NetName=ADD0 Pin=U7-1
+Added Pin To Net: NetName=SCL Pin=U7-2
+Added Pin To Net: NetName=SDA Pin=U7-3
+Added Pin To Net: NetName=ADD0 Pin=U7-4
+Added Pin To Net: NetName=ADD0 Pin=U7-5
+Added Pin To Net: NetName=ADD0 Pin=U7-6
+Added Pin To Net: NetName=5V Pin=U7-7
+Added Pin To Net: NetName=+5ANA Pin=U7-8
+Added Pin To Net: NetName=ADD0 Pin=U7-9
+Added Pin To Net: NetName=NetU7_10 Pin=U7-10
+Added Pin To Net: NetName=ADD0 Pin=U7-11
+Added Pin To Net: NetName=+5ANA Pin=U7-12
+Added Pin To Net: NetName=VREF Pin=U7-13
+Added Pin To Net: NetName=ADD0 Pin=U7-14
+Added Member To Class: ClassName=LED Driver Board Member=Component D3 SL43-E3/57T
+Added Member To Class: ClassName=LED Driver Board Member=Component D4 SL43-E3/57T
+Added Member To Class: ClassName=LED Driver Board Member=Component D5 SL43-E3/57T
+Added Member To Class: ClassName=LED Driver Board Member=Component U7 MAX1169

@@ -1,0 +1,14 @@
+Added Component: Designator=P5(MMCX2.54-V5)
+Added Component: Designator=P15(MMCX2.54-V5)
+Added Pin To Net: NetName=GPS_1HZ Pin=P5-1
+Added Pin To Net: NetName=A Pin=P5-2
+Added Pin To Net: NetName=A Pin=P5-3
+Added Pin To Net: NetName=A Pin=P5-4
+Added Pin To Net: NetName=A Pin=P5-5
+Added Pin To Net: NetName=NetJ2_1 Pin=P15-1
+Added Pin To Net: NetName=A Pin=P15-2
+Added Pin To Net: NetName=A Pin=P15-3
+Added Pin To Net: NetName=A Pin=P15-4
+Added Pin To Net: NetName=A Pin=P15-5
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component P5 COAX-M
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component P15 COAX-M

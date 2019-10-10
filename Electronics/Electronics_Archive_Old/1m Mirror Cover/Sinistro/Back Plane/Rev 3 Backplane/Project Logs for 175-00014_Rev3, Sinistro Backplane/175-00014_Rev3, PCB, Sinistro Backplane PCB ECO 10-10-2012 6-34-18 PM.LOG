@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=VCC Pin=D3-ANOD
+Removed Pin From Net: NetName=LED_1 Pin=D3-CATH
+Removed Pin From Net: NetName=VCC Pin=D4-ANOD
+Removed Pin From Net: NetName=LED_2 Pin=D4-CATH
+Removed Pin From Net: NetName=VCC Pin=D5-ANOD
+Removed Pin From Net: NetName=LED_3 Pin=D5-CATH
+Removed Pin From Net: NetName=VCC Pin=D6-ANOD
+Removed Pin From Net: NetName=LED_4 Pin=D6-CATH
+Removed Pin From Net: NetName=VCC Pin=D7-ANOD
+Removed Pin From Net: NetName=LED_5 Pin=D7-CATH
+Removed Pin From Net: NetName=VCC Pin=D8-ANOD
+Removed Pin From Net: NetName=LED_6 Pin=D8-CATH
+Added Component: Designator=P1(HDR1X8 for IDC)
+Added Component: Designator=Q1(SOT23A)
+Added Component: Designator=Q2(SOT23A)
+Added Component: Designator=Q3(SOT23A)
+Added Component: Designator=Q4(SOT23A)
+Added Component: Designator=Q5(SOT23A)
+Added Component: Designator=Q6(SOT23A)
+Added Component: Designator=R1(SMD_0805)
+Added Component: Designator=R2(SMD_0805)
+Added Component: Designator=R3(SMD_0805)
+Added Component: Designator=R4(SMD_0805)
+Added Component: Designator=R5(SMD_0805)
+Added Component: Designator=R6(SMD_0805)
+Added Pin To Net: NetName=+24V Pin=D3-ANOD
+Added Pin To Net: NetName=+24V Pin=D4-ANOD
+Added Pin To Net: NetName=+24V Pin=D5-ANOD
+Added Pin To Net: NetName=+24V Pin=D6-ANOD
+Added Pin To Net: NetName=+24V Pin=D7-ANOD
+Added Pin To Net: NetName=+24V Pin=D8-ANOD
+Added Pin To Net: NetName=+24V Pin=P1-7
+Added Pin To Net: NetName=+24V Pin=P1-8
+Added Pin To Net: NetName=LED_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=LED_2 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=LED_3 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=LED_4 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=LED_5 Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=LED_6 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=NetD3_CATH Pin=D3-CATH
+Added Pin To Net: NetName=NetD3_CATH Pin=P1-6
+Added Pin To Net: NetName=NetD3_CATH Pin=R1-2
+Added Net: Name=NetD3_CATH
+Added Pin To Net: NetName=NetD4_CATH Pin=D4-CATH
+Added Pin To Net: NetName=NetD4_CATH Pin=P1-5
+Added Pin To Net: NetName=NetD4_CATH Pin=R2-2
+Added Net: Name=NetD4_CATH
+Added Pin To Net: NetName=NetD5_CATH Pin=D5-CATH
+Added Pin To Net: NetName=NetD5_CATH Pin=P1-4
+Added Pin To Net: NetName=NetD5_CATH Pin=R3-2
+Added Net: Name=NetD5_CATH
+Added Pin To Net: NetName=NetD6_CATH Pin=D6-CATH
+Added Pin To Net: NetName=NetD6_CATH Pin=P1-3
+Added Pin To Net: NetName=NetD6_CATH Pin=R4-2
+Added Net: Name=NetD6_CATH
+Added Pin To Net: NetName=NetD7_CATH Pin=D7-CATH
+Added Pin To Net: NetName=NetD7_CATH Pin=P1-2
+Added Pin To Net: NetName=NetD7_CATH Pin=R5-2
+Added Net: Name=NetD7_CATH
+Added Pin To Net: NetName=NetD8_CATH Pin=D8-CATH
+Added Pin To Net: NetName=NetD8_CATH Pin=P1-1
+Added Pin To Net: NetName=NetD8_CATH Pin=R6-2
+Added Net: Name=NetD8_CATH
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R1-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R2-1
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R3-1
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R4-1
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R5-1
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R6-1
+Added Net: Name=NetQ6_3
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component P1 Header 8
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component Q1 2N7002
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component Q2 2N7002
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component Q3 2N7002
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component Q4 2N7002
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component Q5 2N7002
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component Q6 2N7002
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R1 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R2 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R3 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R4 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R5 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R6 Res 0805

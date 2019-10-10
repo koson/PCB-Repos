@@ -1,0 +1,53 @@
+Removed Parameter Bottom:10 from Part C37
+Removed Parameter Bottom:10 from Part C38
+Removed Parameter Bottom:10 from Part C39
+Removed Parameter Bottom:20 from Part D6
+Removed Parameter Bottom:20 from Part D7
+Removed Parameter Bottom:20 from Part D8
+Removed Parameter Bottom:20 from Part D9
+Removed Parameter Bottom:20 from Part U10
+Removed Parameter Code_IEC:1005 from Part FER1
+Removed Parameter Code_IEC:1005 from Part FER2
+Removed Parameter Code_JEDEC:SMD-220 from Part U11
+Removed Parameter Code_JEITA:0402 from Part FER1
+Removed Parameter Code_JEITA:0402 from Part FER2
+Removed Parameter Current:4A Hold, 8A Trip from Part F1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C24
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part F1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part FER1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part FER2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part FER3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part U11
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C24
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part F1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part FER1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part FER2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part FER3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part U11
+Removed Parameter PackageReference:0402-A from Part FER1
+Removed Parameter PackageReference:0402-A from Part FER2
+Removed Parameter PackageReference:D2PAK from Part U11
+Removed Parameter PackageReference:PIN-W2/E2.8 from Part F1
+Removed Parameter PackageReference:RAD-0.3 from Part C24
+Removed Parameter PackageReference:TRF_4 from Part FER3
+Removed Parameter Published:8-Jun-2000 from Part C24
+Removed Parameter Published:8-Jun-2000 from Part FER1
+Removed Parameter Published:8-Jun-2000 from Part FER2
+Removed Parameter Published:8-Jun-2000 from Part FER3
+Removed Parameter Published:24-Mar-1999 from Part F1
+Removed Parameter Published:24-Mar-1999 from Part U11
+Removed Parameter Publisher:Altium Limited from Part C24
+Removed Parameter Publisher:Altium Limited from Part F1
+Removed Parameter Publisher:Altium Limited from Part FER1
+Removed Parameter Publisher:Altium Limited from Part FER2
+Removed Parameter Publisher:Altium Limited from Part FER3
+Removed Parameter Publisher:Altium Limited from Part U11
+Removed Parameter Right:20 from Part D6
+Removed Parameter Right:20 from Part D7
+Removed Parameter Right:20 from Part D8
+Removed Parameter Right:20 from Part D9
+Removed Parameter Right:20 from Part U10
+Removed Parameter Right:30 from Part C37
+Removed Parameter Right:30 from Part C38
+Removed Parameter Right:30 from Part C39
+Removed Parameter Voltage:30V from Part F1

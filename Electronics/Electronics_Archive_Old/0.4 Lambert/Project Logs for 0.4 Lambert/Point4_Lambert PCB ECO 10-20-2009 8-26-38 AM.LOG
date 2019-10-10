@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=C? NewDesignator=C57
+Change Component Designator: OldDesignator=C? NewDesignator=C58
+Change Component Designator: OldDesignator=C? NewDesignator=C59
+Change Component Designator: OldDesignator=C? NewDesignator=C60
+Change Component Designator: OldDesignator=C? NewDesignator=C61
+Change Component Designator: OldDesignator=C? NewDesignator=C62
+Change Component Designator: OldDesignator=C? NewDesignator=C63
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=VCC Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=VCC Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=VCC Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=VCC Pin=C60-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=VCC Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=VCC Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=VCC Pin=C63-2
+Added Member To Class: ClassName=Schematic for PLD program Member=Component C56 Cap SMD
+Added Member To Class: ClassName=Schematic for PLD program Member=Component C57 Cap SMD
+Added Member To Class: ClassName=Schematic for PLD program Member=Component C58 Cap SMD
+Added Member To Class: ClassName=Schematic for PLD program Member=Component C59 Cap SMD
+Added Member To Class: ClassName=Schematic for PLD program Member=Component C60 Cap SMD
+Added Member To Class: ClassName=Schematic for PLD program Member=Component C61 Cap SMD
+Added Member To Class: ClassName=Schematic for PLD program Member=Component C62 Cap SMD

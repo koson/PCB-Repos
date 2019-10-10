@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetQ7_2 Pin=Q7-1
+Removed Pin From Net: NetName=GND Pin=Q7-2
+Removed Pin From Net: NetName=POSV_ON Pin=Q7-3
+Removed Pin From Net: NetName=SPLY_DLY Pin=Q8-1
+Removed Pin From Net: NetName=GND Pin=Q8-2
+Removed Pin From Net: NetName=NetQ7_2 Pin=Q8-3
+Change Component Footprint: Designator=Q7 Old Footprint=SOT-23B New Footprint=SMD_SOT23_3
+Change Component Footprint: Designator=Q8 Old Footprint=SOT-23B New Footprint=SMD_SOT23_3
+Change Component Footprint: Designator=Q9 Old Footprint=SOT-23B New Footprint=SMD_SOT23_3
+Change Component Footprint: Designator=U10 Old Footprint=TO-220 w/Heatsink 7136DG New Footprint=TO-220-AB
+Added Pin To Net: NetName=POSV_ON Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_2 Pin=Q8-1
+Added Pin To Net: NetName=SPLY_DLY Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q8-3
+Change Class Name : Old Net Name=780-00028_rev2_Pg1, Sinistro Power Supply New Net Name=780-00028_rev3_Pg1, Sinistro Power Supply
+Change Class Name : Old Net Name=780-00028_rev2_Pg2, Sinistro Power Supply New Net Name=780-00028_rev3_Pg2, Sinistro Power Supply
+Change Room Name: Old Name=780-00028_rev2_Pg2, Sinistro Power Supply New Name=780-00028_rev3_Pg2, Sinistro Power Supply
+Change Room Scope: Old Scope=InComponentClass('780-00028_rev2_Pg2, Sinistro Power Supply') New Scope=InComponentClass('780-00028_rev3_Pg2, Sinistro Power Supply')
+Added Room: Name=780-00028_rev3_Pg1, Sinistro Power Supply

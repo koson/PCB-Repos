@@ -1,0 +1,55 @@
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U1
+Removed Parameter ComponentLink1URL:http://www.st.com/ from Part U1
+Removed Parameter ComponentLink2Description:Datasheet from Part U1
+Removed Parameter ComponentLink2URL:http://www.st.com/stonline/products/literature/ds/4578/m24c32-w.pdf from Part U1
+Removed Parameter DatasheetVersion:Jul-1999 from Part U1
+Removed Parameter LatestRevisionDate:13-Apr-2006 from Part U1
+Removed Parameter LatestRevisionNote:IPC-7351 Footprint Added. from Part U1
+Removed Parameter PackageDescription:8-Pin Small Outline Integrated Circuit 1.27 mm Pitch from Part U1
+Removed Parameter PackageReference:SOP8 from Part U1
+Removed Parameter PackageVersion:Jul-1999 from Part U1
+Removed Parameter Published:24-Aug-2001 from Part U1
+Removed Parameter Publisher:Altium Limited from Part U1
+Change Value of Parameter LCO p/n in Part P1 Old= New=125-00047
+Change Value of Parameter LCO p/n in Part P4 Old= New=125-00047
+Change Value of Parameter LCO p/n in Part P5 Old= New=125-00047
+Added Parameter Arena Prefix= to Part P3
+Added Parameter Arena Prefix= to Part P8
+Added Parameter Arena Prefix= to Part P9
+Added Parameter Arena Prefix= to Part U1
+Added Parameter Arena Type= to Part P3
+Added Parameter Arena Type= to Part P8
+Added Parameter Arena Type= to Part P9
+Added Parameter Arena Type= to Part U1
+Added Parameter COST= to Part P3
+Added Parameter COST= to Part P8
+Added Parameter COST= to Part P9
+Added Parameter COST= to Part U1
+Added Parameter LCO p/n= to Part P3
+Added Parameter LCO p/n= to Part P8
+Added Parameter LCO p/n= to Part P9
+Added Parameter LCO p/n= to Part U1
+Added Parameter Manufacturer= to Part P3
+Added Parameter Manufacturer= to Part P8
+Added Parameter Manufacturer= to Part P9
+Added Parameter Manufacturer= to Part U1
+Added Parameter Manuf p/n= to Part P3
+Added Parameter Manuf p/n= to Part P8
+Added Parameter Manuf p/n= to Part P9
+Added Parameter Manuf p/n= to Part U1
+Added Parameter VALUE= to Part P3
+Added Parameter VALUE= to Part P8
+Added Parameter VALUE= to Part P9
+Added Parameter VALUE= to Part U1
+Added Parameter Vendor= to Part P3
+Added Parameter Vendor= to Part P8
+Added Parameter Vendor= to Part P9
+Added Parameter Vendor= to Part U1
+Added Parameter Vendor Mult.= to Part P3
+Added Parameter Vendor Mult.= to Part P8
+Added Parameter Vendor Mult.= to Part P9
+Added Parameter Vendor Mult.= to Part U1
+Added Parameter Vendor p/n= to Part P3
+Added Parameter Vendor p/n= to Part P8
+Added Parameter Vendor p/n= to Part P9
+Added Parameter Vendor p/n= to Part U1

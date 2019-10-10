@@ -1,0 +1,81 @@
+Change Value of Parameter COST in Part J2 Old= New=0.29
+Change Value of Parameter Manufacturer in Part J2 Old= New=Fci
+Change Value of Parameter Manuf p/n in Part J2 Old= New=68001-203HLF
+Change Value of Parameter Vendor in Part J2 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part J2 Old= New=1
+Change Value of Parameter Vendor p/n in Part J2 Old= New=609-3470-ND
+Change Value of Parameter COST in Part J7 Old= New=0.32
+Change Value of Parameter Manufacturer in Part J7 Old= New=tyco AMP
+Change Value of Parameter Manuf p/n in Part J7 Old= New=640456-6
+Change Value of Parameter Vendor in Part J7 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part J7 Old= New=1
+Change Value of Parameter Vendor p/n in Part J7 Old= New=A1923-ND
+Change Value of Parameter COST in Part J8 Old= New=0.31
+Change Value of Parameter Manufacturer in Part J8 Old= New=tyco AMP
+Change Value of Parameter Manuf p/n in Part J8 Old= New=640456-4
+Change Value of Parameter Vendor in Part J8 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part J8 Old= New=1
+Change Value of Parameter Vendor p/n in Part J8 Old= New=A1922-ND
+Change Value of Parameter COST in Part J9 Old= New=0.30
+Change Value of Parameter Manufacturer in Part J9 Old= New=Fci
+Change Value of Parameter Manuf p/n in Part J9 Old= New=68000-202HLF
+Change Value of Parameter Value in Part J9 Old=MTA 2pin New=2 pin
+Change Value of Parameter Vendor in Part J9 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part J9 Old= New=1
+Change Value of Parameter Vendor p/n in Part J9 Old= New=609-3502-ND
+Change Value of Parameter COST in Part J10 Old= New=7.29
+Change Value of Parameter Manufacturer in Part J10 Old= New=tyco AMP
+Change Value of Parameter Manuf p/n in Part J10 Old= New=5747847-4
+Change Value of Parameter Value in Part J10 Old= New=37 p dsub
+Change Value of Parameter Vendor in Part J10 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part J10 Old= New=1
+Change Value of Parameter Vendor p/n in Part J10 Old= New=A32129-ND
+Change Value of Parameter COST in Part J11 Old= New=0.31
+Change Value of Parameter Manufacturer in Part J11 Old= New=tyco AMP
+Change Value of Parameter Manuf p/n in Part J11 Old= New=640456-4
+Change Value of Parameter Value in Part J11 Old= New=MTA 4 pin
+Change Value of Parameter Vendor in Part J11 Old=MTA 4 pin New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part J11 Old= New=1
+Change Value of Parameter Vendor p/n in Part J11 Old= New=A1922-ND
+Change Value of Parameter COST in Part P5 Old= New=10.64
+Change Value of Parameter Manufacturer in Part P5 Old= New=Emerson
+Change Value of Parameter Manuf p/n in Part P5 Old= New=135-3701-311
+Change Value of Parameter Value in Part P5 Old= New=coax MMCX
+Change Value of Parameter Vendor in Part P5 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part P5 Old= New=1
+Change Value of Parameter Vendor p/n in Part P5 Old= New=J600-ND
+Change Value of Parameter COST in Part P15 Old= New=10.64
+Change Value of Parameter Manufacturer in Part P15 Old= New=Emerson
+Change Value of Parameter Manuf p/n in Part P15 Old= New=135-3701-311
+Change Value of Parameter Value in Part P15 Old= New=coax MMCX
+Change Value of Parameter Vendor in Part P15 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part P15 Old= New=1
+Change Value of Parameter Vendor p/n in Part P15 Old= New=J600-ND
+Change Value of Parameter COST in Part U1 Old= New=0.55
+Change Value of Parameter Manufacturer in Part U1 Old= New=FAIRCHILD
+Change Value of Parameter Manuf p/n in Part U1 Old= New=DM74ALS00AN
+Change Value of Parameter Value in Part U1 Old= New=74ALS00
+Change Value of Parameter Vendor in Part U1 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part U1 Old= New=1
+Change Value of Parameter Vendor p/n in Part U1 Old= New=DM74ALS00AN-ND
+Change Value of Parameter COST in Part U1 Old= New=0.55
+Change Value of Parameter Manufacturer in Part U1 Old= New=FAIRCHILD
+Change Value of Parameter Manuf p/n in Part U1 Old= New=DM74ALS00AN
+Change Value of Parameter Value in Part U1 Old= New=74ALS00
+Change Value of Parameter Vendor in Part U1 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part U1 Old= New=1
+Change Value of Parameter Vendor p/n in Part U1 Old= New=DM74ALS00AN-ND
+Change Value of Parameter COST in Part U1 Old= New=0.55
+Change Value of Parameter Manufacturer in Part U1 Old= New=FAIRCHILD
+Change Value of Parameter Manuf p/n in Part U1 Old= New=DM74ALS00AN
+Change Value of Parameter Value in Part U1 Old= New=74ALS00
+Change Value of Parameter Vendor in Part U1 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part U1 Old= New=1
+Change Value of Parameter Vendor p/n in Part U1 Old= New=DM74ALS00AN-ND
+Change Value of Parameter COST in Part U3 Old= New=0.56
+Change Value of Parameter Manufacturer in Part U3 Old= New=FAIRCHILD
+Change Value of Parameter Manuf p/n in Part U3 Old= New=DM74ALS74AN
+Change Value of Parameter Value in Part U3 Old= New=74ALS74
+Change Value of Parameter Vendor in Part U3 Old= New=DIGIKEY
+Change Value of Parameter Vendor Mult. in Part U3 Old= New=1
+Change Value of Parameter Vendor p/n in Part U3 Old= New=DM74ALS74AN-ND

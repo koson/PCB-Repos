@@ -1,0 +1,81 @@
+Added Component: Designator=J1(Conn feed thru)
+Added Component: Designator=J2(Conn feed thru)
+Added Component: Designator=J3(Conn feed thru)
+Added Component: Designator=J4(Conn feed thru)
+Added Component: Designator=J5(Conn feed thru)
+Added Component: Designator=J6(Conn feed thru)
+Added Component: Designator=J7(Conn feed thru)
+Added Component: Designator=J8(Conn feed thru)
+Added Component: Designator=J9(Conn feed thru)
+Added Component: Designator=J10(Conn feed thru)
+Added Component: Designator=J11(Conn feed thru)
+Added Component: Designator=J12(Conn feed thru)
+Added Component: Designator=J13(Conn feed thru)
+Added Component: Designator=J14(Conn feed thru)
+Added Component: Designator=J15(Conn feed thru)
+Added Component: Designator=J16(Conn feed thru)
+Added Component: Designator=J17(Conn feed thru)
+Added Component: Designator=J18(Conn feed thru)
+Added Component: Designator=J19(Conn feed thru)
+Added Component: Designator=J20(Conn feed thru)
+Added Component: Designator=J21(Conn feed thru)
+Added Component: Designator=J22(Conn feed thru)
+Added Component: Designator=J23(Conn feed thru)
+Added Component: Designator=J24(Conn feed thru)
+Added Component: Designator=J25(Conn feed thru)
+Added Component: Designator=J26(Conn feed thru)
+Added Component: Designator=J27(Conn feed thru)
+Added Pin To Net: NetName=VDD Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=SG Pin=J3-1
+Added Pin To Net: NetName=TGB Pin=J4-1
+Added Pin To Net: NetName=P2B Pin=J5-1
+Added Pin To Net: NetName=P1B Pin=J6-1
+Added Pin To Net: NetName=P3B Pin=J7-1
+Added Pin To Net: NetName=P1A Pin=J8-1
+Added Pin To Net: NetName=P2A Pin=J9-1
+Added Pin To Net: NetName=TGA Pin=J10-1
+Added Pin To Net: NetName=A2OUT Pin=J11-1
+Added Pin To Net: NetName=VRD Pin=J12-1
+Added Pin To Net: NetName=RG Pin=J13-1
+Added Pin To Net: NetName=VOD Pin=J14-1
+Added Pin To Net: NetName=S2Q2 Pin=J15-1
+Added Pin To Net: NetName=S1Q2 Pin=J16-1
+Added Pin To Net: NetName=S3 Pin=J17-1
+Added Pin To Net: NetName=S1Q1 Pin=J18-1
+Added Pin To Net: NetName=S2Q1 Pin=J19-1
+Added Pin To Net: NetName=P3A Pin=J20-1
+Added Pin To Net: NetName=S1Q4 Pin=J21-1
+Added Pin To Net: NetName=S2Q4 Pin=J22-1
+Added Pin To Net: NetName=S2Q3 Pin=J23-1
+Added Pin To Net: NetName=S1Q3 Pin=J24-1
+Added Pin To Net: NetName=A4OUT Pin=J25-1
+Added Pin To Net: NetName=A3OUT Pin=J26-1
+Added Pin To Net: NetName=A1OUT Pin=J27-1
+Added Member To Class: ClassName=CCD Socket Member=Component J1 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J2 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J3 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J4 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J5 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J6 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J7 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J8 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J9 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J10 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J11 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J12 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J13 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J14 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J15 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J16 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J17 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J18 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J19 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J20 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J21 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J22 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J23 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J24 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J25 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J26 Conn Feedthru
+Added Member To Class: ClassName=CCD Socket Member=Component J27 Conn Feedthru

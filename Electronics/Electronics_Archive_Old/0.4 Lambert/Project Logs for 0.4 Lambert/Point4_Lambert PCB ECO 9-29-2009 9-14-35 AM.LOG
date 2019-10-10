@@ -1,0 +1,149 @@
+Removed Pin From Net: NetName=VCC Pin=C19-1
+Removed Pin From Net: NetName=+5ANA Pin=C20-1
+Removed Pin From Net: NetName=+5ANA Pin=C21-2
+Removed Pin From Net: NetName=VCC Pin=C26-1
+Removed Pin From Net: NetName=VCC Pin=C27-1
+Removed Pin From Net: NetName=VCC Pin=C28-1
+Removed Pin From Net: NetName=+5ANA Pin=C36-1
+Removed Pin From Net: NetName=VCC Pin=C38-1
+Removed Pin From Net: NetName=VCC Pin=D8-1
+Removed Pin From Net: NetName=VCC Pin=FER2-2
+Removed Pin From Net: NetName=SCL Pin=J2-1
+Removed Pin From Net: NetName=SDA Pin=J2-2
+Removed Pin From Net: NetName=ADD0 Pin=J2-3
+Removed Pin From Net: NetName=ADD0 Pin=J19-1
+Removed Pin From Net: NetName=ADD0 Pin=J19-3
+Removed Pin From Net: NetName=+5ANA Pin=J22-1
+Removed Pin From Net: NetName=ADD0 Pin=J22-2
+Removed Pin From Net: NetName=EARTH Pin=J23-1
+Removed Pin From Net: NetName=NetF1_1 Pin=J23-2
+Removed Pin From Net: NetName=NetD6_2 Pin=J23-3
+Removed Pin From Net: NetName=+5ANA Pin=Q4-3
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=R7-2
+Removed Pin From Net: NetName=+5ANA Pin=R11-1
+Removed Pin From Net: NetName=+5ANA Pin=R15-2
+Removed Pin From Net: NetName=VCC Pin=TP5-1
+Removed Pin From Net: NetName=+5ANA Pin=TP8-1
+Removed Pin From Net: NetName=+5ANA Pin=U9-4
+Removed Pin From Net: NetName=VCC Pin=U10-3
+Removed Member From Class: ClassName=BlackFin board Member=J2
+Removed Member From Class: ClassName=BlackFin board Member=J4
+Removed Member From Class: ClassName=BlackFin board Member=J5
+Removed Member From Class: ClassName=BlackFin board Member=J6
+Removed Member From Class: ClassName=BlackFin board Member=J7
+Removed Member From Class: ClassName=BlackFin board Member=J8
+Removed Member From Class: ClassName=BlackFin board Member=J9
+Removed Member From Class: ClassName=BlackFin board Member=J11
+Removed Member From Class: ClassName=BlackFin board Member=J12
+Removed Member From Class: ClassName=LED Driver Board Member=J13
+Removed Member From Class: ClassName=LED Driver Board Member=J14
+Removed Member From Class: ClassName=LED Driver Board Member=J15
+Removed Member From Class: ClassName=LED Driver Board Member=J16
+Removed Member From Class: ClassName=LED Driver Board Member=J17
+Removed Member From Class: ClassName=LED Driver Board Member=J18
+Removed Member From Class: ClassName=LED Driver Board Member=J19
+Removed Member From Class: ClassName=LED Driver Board Member=J20
+Removed Member From Class: ClassName=LED Driver Board Member=J21
+Removed Member From Class: ClassName=Power Input Member=J22
+Removed Member From Class: ClassName=Power Input Member=J23
+Removed Member From Class: ClassName=Stepper Motor Drive Member=J24
+Removed Member From Class: ClassName=Stepper Motor Drive Member=J25
+Removed Member From Class: ClassName=Stepper Motor Drive Member=J26
+Removed Member From Class: ClassName=Stepper Motor Drive Member=J27
+Removed Member From Class: ClassName=Power Input Member=TP5
+Removed Member From Class: ClassName=Power Input Member=TP7
+Removed Member From Class: ClassName=Power Input Member=TP8
+Change Component DesignItemId : Designator=J2 Old DesignItemId=Header 3 New DesignItemId=D Connector 15
+Change Component Footprint: Designator=J2 Old Footprint=Tyco Electronics 282834-3 New Footprint=DSUB1.385-2H15
+Change Component Comment : Designator=J2 Old Comment=282834-3 New Comment=D Connector 15
+Added Component: Designator=P1(HDR 1x12 PHX)
+Added Component: Designator=P2(HDR1X4 for IDC)
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=VCC Pin=C29-1
+Added Pin To Net: NetName=VCC Pin=C30-1
+Added Pin To Net: NetName=VCC Pin=C39-1
+Added Pin To Net: NetName=VCC Pin=D9-1
+Added Pin To Net: NetName=VLED1_POS Pin=J2-1
+Added Pin To Net: NetName=VLED2_POS Pin=J2-2
+Added Pin To Net: NetName=VLED3_POS Pin=J2-3
+Added Pin To Net: NetName=VCC Pin=J2-7
+Added Pin To Net: NetName=ADD0 Pin=J2-8
+Added Pin To Net: NetName=VLED1_NEG Pin=J2-9
+Added Pin To Net: NetName=VLED2_NEG Pin=J2-10
+Added Pin To Net: NetName=VLED3_NEG Pin=J2-11
+Added Pin To Net: NetName=ADD0 Pin=J2-12
+Added Pin To Net: NetName=+5ANA Pin=J2-15
+Added Pin To Net: NetName=ADD0 Pin=J2-16
+Added Pin To Net: NetName=ADD0 Pin=J2-17
+Added Pin To Net: NetName=CCW_NC Pin=P1-1
+Added Pin To Net: NetName=CCW_NO Pin=P1-2
+Added Pin To Net: NetName=CCW_WIPER Pin=P1-3
+Added Pin To Net: NetName=CW_NC Pin=P1-4
+Added Pin To Net: NetName=CW_NO Pin=P1-5
+Added Pin To Net: NetName=CCW_WIPER Pin=P1-6
+Added Pin To Net: NetName=EARTH Pin=P2-1
+Added Pin To Net: NetName=NetF1_1 Pin=P2-2
+Added Pin To Net: NetName=NetD6_2 Pin=P2-3
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=S2-1
+Added Pin To Net: NetName=VCC Pin=S2-2
+Added Pin To Net: NetName=VCC Pin=S2-3
+Added Pin To Net: NetName=VCC Pin=U3-9
+Added Pin To Net: NetName=VCC Pin=U3-10
+Added Pin To Net: NetName=VCC Pin=U3-103
+Added Pin To Net: NetName=VCC Pin=U10-2
+Added Pin To Net: NetName=VCC Pin=U10-4
+Change Net Name : Old Net Name=+5ANA New Net Name=24V
+Added Pin To Net: NetName=+5ANA Pin=C20-1
+Added Pin To Net: NetName=+5ANA Pin=C21-2
+Added Pin To Net: NetName=+5ANA Pin=C36-1
+Added Pin To Net: NetName=+5ANA Pin=Q4-3
+Added Pin To Net: NetName=+5ANA Pin=R11-1
+Added Pin To Net: NetName=+5ANA Pin=R15-2
+Added Pin To Net: NetName=+5ANA Pin=U9-4
+Added Net: Name=+5ANA
+Added Pin To Net: NetName=5V Pin=C19-1
+Added Pin To Net: NetName=5V Pin=C26-1
+Added Pin To Net: NetName=5V Pin=C27-1
+Added Pin To Net: NetName=5V Pin=C28-1
+Added Pin To Net: NetName=5V Pin=C38-1
+Added Pin To Net: NetName=5V Pin=D8-1
+Added Pin To Net: NetName=5V Pin=FER2-2
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=5V Pin=R7-2
+Added Pin To Net: NetName=5V Pin=U10-3
+Added Net: Name=5V
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=P1-8
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=U4-7
+Added Net: Name=DC_MOTOR_NEG
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=P1-7
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=U4-1
+Added Net: Name=DC_MOTOR_POS
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=U13-46
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=U13-54
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_13 Pin=J2-13
+Added Pin To Net: NetName=NetJ2_13 Pin=U13-56
+Added Net: Name=NetJ2_13
+Added Pin To Net: NetName=NetJ2_14 Pin=J2-14
+Added Pin To Net: NetName=NetJ2_14 Pin=U13-75
+Added Net: Name=NetJ2_14
+Added Pin To Net: NetName=TEMP_OUT Pin=J2-4
+Added Pin To Net: NetName=TEMP_OUT Pin=R11-2
+Added Pin To Net: NetName=TEMP_OUT Pin=R12-2
+Added Net: Name=TEMP_OUT
+Added Member To Class: ClassName=LED Driver Board Member=Component J2 D Connector 15
+Added Member To Class: ClassName=BlackFin board Member=Component P1 Header 12 for screw term
+Added Member To Class: ClassName=Power Input Member=Component P2 Header 4

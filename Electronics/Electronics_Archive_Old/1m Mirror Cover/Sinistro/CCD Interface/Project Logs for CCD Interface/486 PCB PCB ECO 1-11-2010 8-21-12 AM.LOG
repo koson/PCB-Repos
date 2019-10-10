@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=AGND Pin=R13-1
+Removed Pin From Net: NetName=AGND Pin=R13-2
+Added Component: Designator=C13(SMD_CAP_3216)
+Added Component: Designator=C14(SMD_CAP_3216)
+Added Component: Designator=C15(SMD_CAP_3216)
+Added Component: Designator=C16(SMD_CAP_3216)
+Added Component: Designator=C17(SMD_CAP_3216)
+Added Component: Designator=C18(SMD_CAP_3216)
+Added Pin To Net: NetName=VOD Pin=C13-1
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Pin To Net: NetName=VOD Pin=C14-1
+Added Pin To Net: NetName=AGND Pin=C14-2
+Added Pin To Net: NetName=VOD Pin=C15-1
+Added Pin To Net: NetName=AGND Pin=C15-2
+Added Pin To Net: NetName=VRD Pin=C16-1
+Added Pin To Net: NetName=AGND Pin=C16-2
+Added Pin To Net: NetName=VRD Pin=C17-1
+Added Pin To Net: NetName=AGND Pin=C17-2
+Added Pin To Net: NetName=VRD Pin=C18-1
+Added Pin To Net: NetName=AGND Pin=C18-2
+Added Member To Class: ClassName=486 board Member=Component C13 35V
+Added Member To Class: ClassName=486 board Member=Component C14 35V
+Added Member To Class: ClassName=486 board Member=Component C15 35V
+Added Member To Class: ClassName=486 board Member=Component C16 35V
+Added Member To Class: ClassName=486 board Member=Component C17 35V
+Added Member To Class: ClassName=486 board Member=Component C18 35V

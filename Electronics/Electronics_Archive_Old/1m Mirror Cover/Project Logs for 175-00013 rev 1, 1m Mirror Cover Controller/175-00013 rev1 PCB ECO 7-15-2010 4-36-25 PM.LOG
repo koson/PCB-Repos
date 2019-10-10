@@ -1,0 +1,80 @@
+Added Component: Designator=C1(SMD_Pana size H13)
+Added Component: Designator=C2(SMD_Pana size H13)
+Added Component: Designator=D1(SOT-143)
+Added Component: Designator=J1(CONN Molex Micro-fit)
+Added Component: Designator=J2(CONN Molex Micro-fit)
+Added Component: Designator=J3(CONN Molex Micro-fit)
+Added Component: Designator=J4(CONN Molex Micro-fit)
+Added Component: Designator=J5(CONN Molex Micro-fit)
+Added Component: Designator=J6(CONN Molex Micro-fit)
+Added Component: Designator=J7(CONN Molex Micro-fit)
+Added Component: Designator=J8(61729-0010BLF)
+Added Component: Designator=J9(CONN Molex Micro-fit)
+Added Component: Designator=J10(RJ-45 w/magnetics)
+Added Component: Designator=P1(HDR 1x12 PHX)
+Added Component: Designator=R1(SMD_0805)
+Added Component: Designator=R2(SMD_0805)
+Added Component: Designator=TP1(SMD_TEST POINT)
+Added Component: Designator=TP2(SMD_TEST POINT)
+Added Component: Designator=TP3(SMD_TEST POINT)
+Added Component: Designator=TP4(SMD_TEST POINT)
+Added Component: Designator=TP5(SMD_TEST POINT)
+Added Component: Designator=TP6(SMD_TEST POINT)
+Added Component: Designator=TP7(SMD_TEST POINT)
+Added Component: Designator=TP8(SMD_TEST POINT)
+Added Component: Designator=U1(SuperFin Footprint)
+Added Component: Designator=U2(TO220-7)
+Added Component: Designator=U3(TO220-7)
+Added Pin To Net: NetName=24V Pin=C1-1
+Added Pin To Net: NetName=24V Pin=C2-1
+Added Pin To Net: NetName=24V Pin=U2-6
+Added Pin To Net: NetName=24V Pin=U3-6
+Added Net: Name=24V
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=TP4-1
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=TP8-1
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=U2-7
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=U3-7
+Added Net: Name=DC_MOTOR_NEG
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=TP2-1
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=TP6-1
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=U2-1
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=U3-1
+Added Net: Name=DC_MOTOR_POS
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Net: Name=GND
+Added Pin To Net: NetName=H_BRIDGE_ERR Pin=R1-1
+Added Pin To Net: NetName=H_BRIDGE_ERR Pin=R2-1
+Added Pin To Net: NetName=H_BRIDGE_ERR Pin=U2-2
+Added Pin To Net: NetName=H_BRIDGE_ERR Pin=U3-2
+Added Net: Name=H_BRIDGE_ERR
+Added Pin To Net: NetName=IN1 Pin=TP1-1
+Added Pin To Net: NetName=IN1 Pin=TP5-1
+Added Pin To Net: NetName=IN1 Pin=U2-3
+Added Pin To Net: NetName=IN1 Pin=U3-3
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=TP3-1
+Added Pin To Net: NetName=IN2 Pin=TP7-1
+Added Pin To Net: NetName=IN2 Pin=U2-5
+Added Pin To Net: NetName=IN2 Pin=U3-5
+Added Net: Name=IN2
+Added Pin To Net: NetName=USBD+ Pin=D1-4
+Added Pin To Net: NetName=USBD+ Pin=J8-3
+Added Net: Name=USBD+
+Added Pin To Net: NetName=USBD- Pin=D1-3
+Added Pin To Net: NetName=USBD- Pin=J8-2
+Added Net: Name=USBD-
+Added Pin To Net: NetName=VBUS Pin=D1-2
+Added Pin To Net: NetName=VBUS Pin=J8-1
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Net: Name=VCC
+Added Class: Name=780-00017_rev1_Pg1
+Added Room: Name=780-00017_rev1_Pg1

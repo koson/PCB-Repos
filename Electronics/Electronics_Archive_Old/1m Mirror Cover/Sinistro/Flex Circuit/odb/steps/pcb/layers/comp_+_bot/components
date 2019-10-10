@@ -1,0 +1,16 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 30.78599 20.263842 180 N R2 Empty_Part_Name ;0=2,1=0.1000
+TOP 0 30.28599 20.263842 0 N 4 0 R2-1
+TOP 1 30.78599 20.263842 0 N 3 0 R2-2
+#
+# CMP 1
+CMP 0 30.28599 20.586676 0 N R1 Empty_Part_Name ;0=2,1=0.1000
+TOP 0 30.78599 20.586676 180 N 3 1 R1-1
+TOP 1 30.28599 20.586676 180 N 5 0 R1-2
+#

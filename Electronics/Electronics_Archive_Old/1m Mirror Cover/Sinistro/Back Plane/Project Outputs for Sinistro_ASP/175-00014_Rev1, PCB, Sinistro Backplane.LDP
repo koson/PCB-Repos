@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Files\users\rlobdill\Altum Projects\Sinistro\Back Plane\175-00014_Rev1, PCB, Sinistro Backplane.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=175-00014_rev1, pcb, sinistro backplane-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=175-00014_rev1, pcb, sinistro backplane-nonplated.txt|LayerPairs=gtl,gbl

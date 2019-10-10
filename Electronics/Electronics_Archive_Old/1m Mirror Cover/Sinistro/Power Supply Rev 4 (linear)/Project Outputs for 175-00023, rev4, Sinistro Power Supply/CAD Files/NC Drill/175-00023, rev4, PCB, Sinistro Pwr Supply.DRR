@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00023, rev4, PCB, Sinistro Pwr Supply.PcbDoc   2/27/2013  12:14:37 PM
+---------------------------------------------------------------------------
+
+Layer Pair : TopLayer (*.GTL) to BottomLayer (*GBL)
+ASCII Plated RoundHoles File : 175-00023, rev4, PCB, Sinistro Pwr Supply-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00023, rev4, PCB, Sinistro Pwr Supply-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          118              33.08 Inch (840.15 mm)
+T2        28mil (0.7112mm)         Round          41               24.68 Inch (626.77 mm)
+T3        35mil (0.889mm)          Round          4                0.91 Inch (23.01 mm)
+T4        39mil (0.9906mm)         Round          21               3.92 Inch (99.66 mm)
+T5        40mil (1.016mm)          Round          27               6.86 Inch (174.31 mm)
+T6        47mil (1.1938mm)         Round          14               8.41 Inch (213.69 mm)
+T7        52mil (1.3208mm)         Round          45               26.39 Inch (670.28 mm)
+T8        60mil (1.524mm)          Round          42               23.22 Inch (589.75 mm)
+T9        70mil (1.778mm)          Round          8                1.09 Inch (27.74 mm)
+T10       71mil (1.8034mm)         Round          4                1.00 Inch (25.40 mm)
+T11       125mil (3.175mm)         Round          2                1.00 Inch (25.40 mm)
+T12       150mil (3.81mm)          Round          2         NPTH   1.75 Inch (44.45 mm)
+T13       166mil (4.2164mm)        Round          2         NPTH   3.50 Inch (88.90 mm)
+---------------------------------------------------------------------------
+Totals                                            330              135.81 Inch (3449.51 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

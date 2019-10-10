@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=TP5 Old DesignItemId=Test Point SMD New DesignItemId=Test point
+Change Component Footprint: Designator=TP3A Old Footprint=PAD_80D_052H New Footprint=SMD_TEST POINT
+Change Component Footprint: Designator=TP3B Old Footprint=PAD_80D_052H New Footprint=SMD_TEST POINT
+Change Component Footprint: Designator=TP4A Old Footprint=PAD_80D_052H New Footprint=SMD_TEST POINT
+Change Component Footprint: Designator=TP4B Old Footprint=PAD_80D_052H New Footprint=SMD_TEST POINT
+Change Component Footprint: Designator=TP6 Old Footprint=PAD_80D_052H New Footprint=SMD_TEST POINT
+Change Component Footprint: Designator=TP7A Old Footprint=PAD_80D_052H New Footprint=SMD_TEST POINT
+Change Component Footprint: Designator=TP7B Old Footprint=PAD_80D_052H New Footprint=SMD_TEST POINT
+Change Component Comment : Designator=TP5 Old Comment=Test Point SMD New Comment=Test point
+Change Component Description : Designator=TP5 Old Description=SMD loop test point New Description=Test Point
+Added Component: Designator=TP10(PAD_80D_052H)
+Added Pin To Net: NetName=+3.3V Pin=TP10-1
+Added Member To Class: ClassName=780-00050, rev1, Pg1, SCH, Temp Controller Dev Board Member=Component TP10 Test point

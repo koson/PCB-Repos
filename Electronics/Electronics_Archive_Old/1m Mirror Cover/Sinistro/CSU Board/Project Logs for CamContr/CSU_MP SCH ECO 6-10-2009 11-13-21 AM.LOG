@@ -1,0 +1,22 @@
+Change Component Parameter Comment in D5 Old= New= LNJ311G8TRA
+Change Value of Parameter COST in Part D5 Old= New=0.36
+Change Value of Parameter Manufacturer in Part D5 Old= New=Panasonic
+Change Value of Parameter Manuf p/n in Part D5 Old= New=LNJ311G8TRA
+Change Value of Parameter Value in Part D5 Old=SML10G4-TR New=LNJ311G8TRA
+Change Value of Parameter Vendor in Part D5 Old= New=Digikey
+Change Value of Parameter Vendor p/n in Part D5 Old= New=P11529CT-ND
+Change Value of Parameter Manufacturer in Part L1 Old= New=Epcos
+Change Value of Parameter Manufacturer in Part L3 Old= New=Epcos
+Change Value of Parameter Manufacturer in Part L4 Old= New=Epcos
+Change Component Parameter Comment in U6 Old= New=TPS3836K33
+Change Value of Parameter COST in Part U6 Old= New=2.25
+Change Value of Parameter Manufacturer in Part U6 Old= New=TI
+Change Value of Parameter Manuf p/n in Part U6 Old= New=TPS3836K33QDBVRQ1
+Change Value of Parameter Value in Part U6 Old=TPS3836K33DBVT New=TPS3836K33
+Change Value of Parameter Vendor in Part U6 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part U6 Old= New=296-15663-1-ND
+Change Value of Parameter COST in Part U28 Old= New=0.64
+Change Value of Parameter Manufacturer in Part U28 Old= New=Microchip
+Change Value of Parameter Manuf p/n in Part U28 Old= New=24AA64-I/SN
+Change Value of Parameter Vendor in Part U28 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part U28 Old= New=24AA64-I/SN-ND

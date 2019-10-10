@@ -1,0 +1,19 @@
+Remove Pin=P1-18 From Net=P1A
+Remove Pin=P1-20 From Net=TGA
+Remove Pin=P1-24 From Net=S1Q1
+Remove Pin=P1-44 From Net=S2Q2
+Remove Pin=P1-46 From Net=S1Q2
+Remove Pin=P1-51 From Net=HEATER(-)
+Remove Pin=P1-53 From Net=HEATER(-)
+Remove Pin=P1-55 From Net=HEATER(-)
+Add Pin To Net: Pin=P1-18 Old Net=P1A New Net=HEATER(-)
+Add Pin To Net: Pin=P1-20 Old Net=TGA New Net=HEATER(-)
+Add Pin To Net: Pin=P1-24 Old Net=S1Q1 New Net=HEATER(-)
+Add Pin To Net: Pin=P1-41 Old Net=HEATER(+) New Net=S2Q2
+Add Pin To Net: Pin=P1-43 Old Net=HEATER(+) New Net=S1Q2
+Add Pin To Net: Pin=P1-44 Old Net=S2Q2 New Net=HEATER(+)
+Add Pin To Net: Pin=P1-46 Old Net=S1Q2 New Net=HEATER(+)
+Add Pin To Net: Pin=P1-48 Old Net=NetP1_48 New Net=HEATER(+)
+Add Pin To Net: Pin=P1-51 Old Net=HEATER(-) New Net=TGA
+Add Pin To Net: Pin=P1-53 Old Net=HEATER(-) New Net=P1A
+Add Pin To Net: Pin=P1-55 Old Net=HEATER(-) New Net=S1Q1

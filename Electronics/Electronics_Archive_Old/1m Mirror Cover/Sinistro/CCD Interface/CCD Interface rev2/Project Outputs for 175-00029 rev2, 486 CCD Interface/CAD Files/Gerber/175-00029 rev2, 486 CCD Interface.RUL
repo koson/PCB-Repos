@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: \\Files\users\rlobdill\Altum Projects\Sinistro\CCD Interface\CCD Interface rev2\175-00029 rev2, 486 CCD Interface.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=+5V/DGND trace|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=MSOP pad spacing|Scope=Board|Minimum=6.00

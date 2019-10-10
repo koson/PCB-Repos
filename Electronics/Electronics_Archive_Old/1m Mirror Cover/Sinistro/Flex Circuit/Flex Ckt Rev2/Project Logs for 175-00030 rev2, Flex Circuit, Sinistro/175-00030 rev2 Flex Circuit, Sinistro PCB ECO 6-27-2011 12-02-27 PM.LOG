@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RTDS(+) Pin=J1-61
+Removed Pin From Net: NetName=RTDF(+) Pin=J1-63
+Removed Pin From Net: NetName=RTDS(-) Pin=J1-65
+Removed Pin From Net: NetName=RTDF(-) Pin=J1-67
+Added Pin To Net: NetName=AGND Pin=J1-58
+Added Pin To Net: NetName=AGND Pin=J1-60
+Added Pin To Net: NetName=RTDS(+) Pin=J1-62
+Added Pin To Net: NetName=RTDF(+) Pin=J1-64
+Added Pin To Net: NetName=RTDS(-) Pin=J1-66
+Added Pin To Net: NetName=RTDF(-) Pin=J1-68

@@ -1,0 +1,796 @@
+Removed Parameter Value1:0.1uF from Part C138
+Change Value of Parameter Value in Part C1 Old= New=10uF 6V
+Change Value of Parameter Value in Part C2 Old= New=1uF
+Change Value of Parameter Value in Part C3 Old= New=0.1uF
+Change Value of Parameter Value in Part C4 Old= New=0.15uF
+Change Value of Parameter Value in Part C5 Old= New=0.1uF
+Change Value of Parameter Value in Part C6 Old= New=0.15uF
+Change Value of Parameter Value in Part C7 Old= New=0.1uF
+Change Value of Parameter Value in Part C9 Old= New=0.1uF
+Change Value of Parameter Value in Part C13 Old= New=22uF 10V
+Change Value of Parameter Value in Part C15 Old= New=0.1uF
+Change Value of Parameter Value in Part C16 Old= New=0.15uF
+Change Value of Parameter Value in Part C17 Old= New=0.15uF
+Change Value of Parameter Value in Part C18 Old= New=0.1uF
+Change Value of Parameter Value in Part C19 Old= New=0.15uF
+Change Value of Parameter Value in Part C20 Old= New=0.1uF
+Change Value of Parameter Value in Part C22 Old= New=0.1uF
+Change Value of Parameter Value in Part C24 Old= New=0.1uF
+Change Value of Parameter Value in Part C25 Old= New=0.1uF
+Change Value of Parameter Value in Part C26 Old= New=0.1uF
+Change Value of Parameter Value in Part C27 Old= New=0.1uF
+Change Value of Parameter Value in Part C28 Old= New=0.1uF
+Change Value of Parameter Value in Part C30 Old= New=0.1uF
+Change Value of Parameter Value in Part C31 Old= New=10uF 6V
+Change Value of Parameter Value in Part C32 Old= New=22uF 10V
+Change Value of Parameter Value in Part C35 Old= New=0.1uF
+Change Value of Parameter Value in Part C37 Old= New=0.01uF
+Change Value of Parameter Value in Part C38 Old= New=0.01uF
+Change Value of Parameter Value in Part C39 Old= New=0.1uF
+Change Value of Parameter Value in Part C40 Old= New=22uF 6V
+Change Value of Parameter Value in Part C41 Old= New=22uF 6V
+Change Value of Parameter Value in Part C42 Old= New=0.1uF
+Change Value of Parameter Value in Part C43 Old= New=0.1uF
+Change Value of Parameter Value in Part C44 Old= New=0.1uF
+Change Value of Parameter Value in Part C45 Old= New=0.1uF
+Change Value of Parameter Value in Part C47 Old= New=0.1uF
+Change Value of Parameter Value in Part C48 Old= New=0.1uF
+Change Value of Parameter Value in Part C50 Old= New=0.1uF
+Change Value of Parameter Value in Part C51 Old= New=0.1uF
+Change Value of Parameter Value in Part C52 Old= New=0.1uF
+Change Value of Parameter Value in Part C53 Old= New=0.1uF
+Change Value of Parameter Value in Part C55 Old= New=22uF 6V
+Change Value of Parameter Value in Part C56 Old= New=22uF 6V
+Change Value of Parameter Value in Part C57 Old= New=0.1uF
+Change Value of Parameter Value in Part C58 Old= New=0.1uF
+Change Value of Parameter Value in Part C59 Old= New=0.1uF
+Change Value of Parameter Value in Part C60 Old= New=0.1uF
+Change Value of Parameter Value in Part C61 Old= New=0.1uF
+Change Value of Parameter Value in Part C62 Old= New=0.1uF
+Change Value of Parameter Value in Part C64 Old= New=0.1uF
+Change Value of Parameter Value in Part C65 Old= New=0.1uF
+Change Value of Parameter Value in Part C66 Old= New=0.1uF
+Change Value of Parameter Value in Part C67 Old= New=0.1uF
+Change Value of Parameter Value in Part C68 Old= New=0.1uF
+Change Value of Parameter Value in Part C69 Old= New=10uF 6V
+Change Value of Parameter Value in Part C70 Old= New=10uF 6V
+Change Value of Parameter Value in Part C72 Old= New=0.1uF
+Change Value of Parameter Value in Part C73 Old= New=0.1uF
+Change Value of Parameter Value in Part C74 Old= New=0.1uF
+Change Value of Parameter Value in Part C79 Old= New=0.1uF
+Change Value of Parameter Value in Part C80 Old= New=0.1uF
+Change Value of Parameter Value in Part C108 Old= New=0.1uF
+Change Value of Parameter Value in Part C110 Old= New=0.47uF
+Change Value of Parameter Value in Part C112 Old= New=10uF 6V
+Change Value of Parameter Value in Part C113 Old= New=0.1uF
+Change Value of Parameter Value in Part C138 Old= New=0.1uF
+Change Value of Parameter Value in Part D1 Old= New=MMBD914
+Change Value of Parameter Value in Part D2 Old= New=SML10G4-TR
+Change Value of Parameter Value in Part D5 Old= New=SML10G4-TR
+Change Value of Parameter Value in Part J4 Old= New=USB_B
+Change Value of Parameter Value in Part J6 Old= New=AMP5103310-02
+Change Value of Parameter Value in Part J8 Old= New=CON3
+Change Value of Parameter Value in Part L1 Old= New=56uHn
+Change Value of Parameter Value in Part L2 Old= New=600R
+Change Value of Parameter Value in Part L3 Old= New=56uHn
+Change Value of Parameter Value in Part L4 Old= New=56uHn
+Change Value of Parameter Value in Part L5 Old= New=600R
+Change Value of Parameter Value in Part R13 Old= New=10K
+Change Value of Parameter Value in Part R14 Old= New=100K
+Change Value of Parameter Value in Part R15 Old= New=36K
+Change Value of Parameter Value in Part R18 Old= New=100K
+Change Value of Parameter Value in Part R22 Old= New=22R
+Change Value of Parameter Value in Part R24 Old= New=22R
+Change Value of Parameter Value in Part R25 Old= New=3K
+Change Value of Parameter Value in Part R26 Old= New=3K
+Change Value of Parameter Value in Part R27 Old= New=3K
+Change Value of Parameter Value in Part R28 Old= New=3K
+Change Value of Parameter Value in Part R29 Old= New=390R
+Change Value of Parameter Value in Part R30 Old= New=1K
+Change Value of Parameter Value in Part R31 Old= New=10K
+Change Value of Parameter Value in Part R32 Old= New=100K
+Change Value of Parameter Value in Part R39 Old= New=1K02
+Change Value of Parameter Value in Part R40 Old= New=1K78
+Change Value of Parameter Value in Part R41 Old= New=1K10
+Change Value of Parameter Value in Part R42 Old= New=1K02
+Change Value of Parameter Value in Part R56 Old= New=1K5
+Change Value of Parameter Value in Part R57 Old= New=1K5
+Change Value of Parameter Value in Part R58 Old= New=1K5
+Change Value of Parameter Value in Part RN3 Old= New=1K
+Change Value of Parameter Value in Part RN4 Old= New=10K
+Change Value of Parameter Value in Part RN5 Old= New=1K
+Change Value of Parameter Value in Part TP1 Old= New=CON1
+Change Value of Parameter Value in Part U2 Old= New=24MHz, SMT 3.3V
+Change Value of Parameter Value in Part U3 Old= New=FIN1002M5
+Change Value of Parameter Value in Part U4 Old= New=LTC2630A_LM12
+Change Value of Parameter Value in Part U5 Old= New=MAX3226ECAE(16-SSOP)
+Change Value of Parameter Value in Part U6 Old= New=TPS3836K33DBVT
+Change Value of Parameter Value in Part U7 Old= New=PGB102ST323WR
+Change Value of Parameter Value in Part U8 Old= New=LT6003CS5
+Change Value of Parameter Value in Part U11 Old= New=CY7C68013A-128AXC
+Change Value of Parameter Value in Part U12 Old= New=INA122
+Change Value of Parameter Value in Part U14 Old= New=C5310-D105-SV033-RFL-A1-100
+Change Value of Parameter Value in Part U15 Old= New=72V2105
+Change Value of Parameter Value in Part U16 Old= New=72V2105
+Change Value of Parameter Value in Part U18 Old= New=IDT72V2111L15PF
+Change Value of Parameter Value in Part U19 Old= New=72V2105
+Change Value of Parameter Value in Part U20 Old= New=DS2411R
+Change Value of Parameter Value in Part U21 Old= New=TPS3836K33DBVT
+Change Value of Parameter Value in Part U23 Old= New=MC74HC125A
+Change Value of Parameter Value in Part U28 Old= New=INA122
+Change Value of Parameter Value in Part U29 Old= New=MSP430F5438
+Added Parameter COST= to Part C1
+Added Parameter COST= to Part C2
+Added Parameter COST= to Part C3
+Added Parameter COST= to Part C4
+Added Parameter COST= to Part C5
+Added Parameter COST= to Part C6
+Added Parameter COST= to Part C7
+Added Parameter COST= to Part C8
+Added Parameter COST= to Part C9
+Added Parameter COST= to Part C13
+Added Parameter COST= to Part C15
+Added Parameter COST= to Part C16
+Added Parameter COST= to Part C17
+Added Parameter COST= to Part C18
+Added Parameter COST= to Part C19
+Added Parameter COST= to Part C20
+Added Parameter COST= to Part C22
+Added Parameter COST= to Part C24
+Added Parameter COST= to Part C25
+Added Parameter COST= to Part C26
+Added Parameter COST= to Part C27
+Added Parameter COST= to Part C28
+Added Parameter COST= to Part C30
+Added Parameter COST= to Part C31
+Added Parameter COST= to Part C32
+Added Parameter COST= to Part C34
+Added Parameter COST= to Part C35
+Added Parameter COST= to Part C37
+Added Parameter COST= to Part C38
+Added Parameter COST= to Part C39
+Added Parameter COST= to Part C40
+Added Parameter COST= to Part C41
+Added Parameter COST= to Part C42
+Added Parameter COST= to Part C43
+Added Parameter COST= to Part C44
+Added Parameter COST= to Part C45
+Added Parameter COST= to Part C47
+Added Parameter COST= to Part C48
+Added Parameter COST= to Part C50
+Added Parameter COST= to Part C51
+Added Parameter COST= to Part C52
+Added Parameter COST= to Part C53
+Added Parameter COST= to Part C55
+Added Parameter COST= to Part C56
+Added Parameter COST= to Part C57
+Added Parameter COST= to Part C58
+Added Parameter COST= to Part C59
+Added Parameter COST= to Part C60
+Added Parameter COST= to Part C61
+Added Parameter COST= to Part C62
+Added Parameter COST= to Part C64
+Added Parameter COST= to Part C65
+Added Parameter COST= to Part C66
+Added Parameter COST= to Part C67
+Added Parameter COST= to Part C68
+Added Parameter COST= to Part C69
+Added Parameter COST= to Part C70
+Added Parameter COST= to Part C72
+Added Parameter COST= to Part C73
+Added Parameter COST= to Part C74
+Added Parameter COST= to Part C79
+Added Parameter COST= to Part C80
+Added Parameter COST= to Part C108
+Added Parameter COST= to Part C110
+Added Parameter COST= to Part C112
+Added Parameter COST= to Part C113
+Added Parameter COST= to Part C138
+Added Parameter COST= to Part D1
+Added Parameter COST= to Part D2
+Added Parameter COST= to Part D5
+Added Parameter COST= to Part J4
+Added Parameter COST= to Part J6
+Added Parameter COST= to Part J8
+Added Parameter COST= to Part L1
+Added Parameter COST= to Part L2
+Added Parameter COST= to Part L3
+Added Parameter COST= to Part L4
+Added Parameter COST= to Part L5
+Added Parameter COST= to Part R1
+Added Parameter COST= to Part R3
+Added Parameter COST= to Part R4
+Added Parameter COST= to Part R5
+Added Parameter COST= to Part R6
+Added Parameter COST= to Part R7
+Added Parameter COST= to Part R8
+Added Parameter COST= to Part R9
+Added Parameter COST= to Part R10
+Added Parameter COST= to Part R11
+Added Parameter COST= to Part R12
+Added Parameter COST= to Part R13
+Added Parameter COST= to Part R14
+Added Parameter COST= to Part R15
+Added Parameter COST= to Part R16
+Added Parameter COST= to Part R17
+Added Parameter COST= to Part R18
+Added Parameter COST= to Part R22
+Added Parameter COST= to Part R24
+Added Parameter COST= to Part R25
+Added Parameter COST= to Part R26
+Added Parameter COST= to Part R27
+Added Parameter COST= to Part R28
+Added Parameter COST= to Part R29
+Added Parameter COST= to Part R30
+Added Parameter COST= to Part R31
+Added Parameter COST= to Part R32
+Added Parameter COST= to Part R39
+Added Parameter COST= to Part R40
+Added Parameter COST= to Part R41
+Added Parameter COST= to Part R42
+Added Parameter COST= to Part R56
+Added Parameter COST= to Part R57
+Added Parameter COST= to Part R58
+Added Parameter COST= to Part RN3
+Added Parameter COST= to Part RN4
+Added Parameter COST= to Part RN5
+Added Parameter COST= to Part TP1
+Added Parameter COST= to Part U2
+Added Parameter COST= to Part U3
+Added Parameter COST= to Part U4
+Added Parameter COST= to Part U5
+Added Parameter COST= to Part U6
+Added Parameter COST= to Part U7
+Added Parameter COST= to Part U8
+Added Parameter COST= to Part U11
+Added Parameter COST= to Part U12
+Added Parameter COST= to Part U14
+Added Parameter COST= to Part U15
+Added Parameter COST= to Part U16
+Added Parameter COST= to Part U18
+Added Parameter COST= to Part U19
+Added Parameter COST= to Part U20
+Added Parameter COST= to Part U21
+Added Parameter COST= to Part U23
+Added Parameter COST= to Part U28
+Added Parameter COST= to Part U29
+Added Parameter Manufacturer= to Part C1
+Added Parameter Manufacturer= to Part C2
+Added Parameter Manufacturer= to Part C3
+Added Parameter Manufacturer= to Part C4
+Added Parameter Manufacturer= to Part C5
+Added Parameter Manufacturer= to Part C6
+Added Parameter Manufacturer= to Part C7
+Added Parameter Manufacturer= to Part C8
+Added Parameter Manufacturer= to Part C9
+Added Parameter Manufacturer= to Part C13
+Added Parameter Manufacturer= to Part C15
+Added Parameter Manufacturer= to Part C16
+Added Parameter Manufacturer= to Part C17
+Added Parameter Manufacturer= to Part C18
+Added Parameter Manufacturer= to Part C19
+Added Parameter Manufacturer= to Part C20
+Added Parameter Manufacturer= to Part C22
+Added Parameter Manufacturer= to Part C24
+Added Parameter Manufacturer= to Part C25
+Added Parameter Manufacturer= to Part C26
+Added Parameter Manufacturer= to Part C27
+Added Parameter Manufacturer= to Part C28
+Added Parameter Manufacturer= to Part C30
+Added Parameter Manufacturer= to Part C31
+Added Parameter Manufacturer= to Part C32
+Added Parameter Manufacturer= to Part C34
+Added Parameter Manufacturer= to Part C35
+Added Parameter Manufacturer= to Part C37
+Added Parameter Manufacturer= to Part C38
+Added Parameter Manufacturer= to Part C39
+Added Parameter Manufacturer= to Part C40
+Added Parameter Manufacturer= to Part C41
+Added Parameter Manufacturer= to Part C42
+Added Parameter Manufacturer= to Part C43
+Added Parameter Manufacturer= to Part C44
+Added Parameter Manufacturer= to Part C45
+Added Parameter Manufacturer= to Part C47
+Added Parameter Manufacturer= to Part C48
+Added Parameter Manufacturer= to Part C50
+Added Parameter Manufacturer= to Part C51
+Added Parameter Manufacturer= to Part C52
+Added Parameter Manufacturer= to Part C53
+Added Parameter Manufacturer= to Part C55
+Added Parameter Manufacturer= to Part C56
+Added Parameter Manufacturer= to Part C57
+Added Parameter Manufacturer= to Part C58
+Added Parameter Manufacturer= to Part C59
+Added Parameter Manufacturer= to Part C60
+Added Parameter Manufacturer= to Part C61
+Added Parameter Manufacturer= to Part C62
+Added Parameter Manufacturer= to Part C64
+Added Parameter Manufacturer= to Part C65
+Added Parameter Manufacturer= to Part C66
+Added Parameter Manufacturer= to Part C67
+Added Parameter Manufacturer= to Part C68
+Added Parameter Manufacturer= to Part C69
+Added Parameter Manufacturer= to Part C70
+Added Parameter Manufacturer= to Part C72
+Added Parameter Manufacturer= to Part C73
+Added Parameter Manufacturer= to Part C74
+Added Parameter Manufacturer= to Part C79
+Added Parameter Manufacturer= to Part C80
+Added Parameter Manufacturer= to Part C108
+Added Parameter Manufacturer= to Part C110
+Added Parameter Manufacturer= to Part C112
+Added Parameter Manufacturer= to Part C113
+Added Parameter Manufacturer= to Part C138
+Added Parameter Manufacturer= to Part D1
+Added Parameter Manufacturer= to Part D2
+Added Parameter Manufacturer= to Part D5
+Added Parameter Manufacturer= to Part J4
+Added Parameter Manufacturer= to Part J6
+Added Parameter Manufacturer= to Part J8
+Added Parameter Manufacturer= to Part L1
+Added Parameter Manufacturer= to Part L2
+Added Parameter Manufacturer= to Part L3
+Added Parameter Manufacturer= to Part L4
+Added Parameter Manufacturer= to Part L5
+Added Parameter Manufacturer= to Part R1
+Added Parameter Manufacturer= to Part R3
+Added Parameter Manufacturer= to Part R4
+Added Parameter Manufacturer= to Part R5
+Added Parameter Manufacturer= to Part R6
+Added Parameter Manufacturer= to Part R7
+Added Parameter Manufacturer= to Part R8
+Added Parameter Manufacturer= to Part R9
+Added Parameter Manufacturer= to Part R10
+Added Parameter Manufacturer= to Part R11
+Added Parameter Manufacturer= to Part R12
+Added Parameter Manufacturer= to Part R13
+Added Parameter Manufacturer= to Part R14
+Added Parameter Manufacturer= to Part R15
+Added Parameter Manufacturer= to Part R16
+Added Parameter Manufacturer= to Part R17
+Added Parameter Manufacturer= to Part R18
+Added Parameter Manufacturer= to Part R22
+Added Parameter Manufacturer= to Part R24
+Added Parameter Manufacturer= to Part R25
+Added Parameter Manufacturer= to Part R26
+Added Parameter Manufacturer= to Part R27
+Added Parameter Manufacturer= to Part R28
+Added Parameter Manufacturer= to Part R29
+Added Parameter Manufacturer= to Part R30
+Added Parameter Manufacturer= to Part R31
+Added Parameter Manufacturer= to Part R32
+Added Parameter Manufacturer= to Part R39
+Added Parameter Manufacturer= to Part R40
+Added Parameter Manufacturer= to Part R41
+Added Parameter Manufacturer= to Part R42
+Added Parameter Manufacturer= to Part R56
+Added Parameter Manufacturer= to Part R57
+Added Parameter Manufacturer= to Part R58
+Added Parameter Manufacturer= to Part RN3
+Added Parameter Manufacturer= to Part RN4
+Added Parameter Manufacturer= to Part RN5
+Added Parameter Manufacturer= to Part TP1
+Added Parameter Manufacturer= to Part U2
+Added Parameter Manufacturer= to Part U3
+Added Parameter Manufacturer= to Part U4
+Added Parameter Manufacturer= to Part U5
+Added Parameter Manufacturer= to Part U6
+Added Parameter Manufacturer= to Part U7
+Added Parameter Manufacturer= to Part U8
+Added Parameter Manufacturer= to Part U11
+Added Parameter Manufacturer= to Part U12
+Added Parameter Manufacturer= to Part U14
+Added Parameter Manufacturer= to Part U15
+Added Parameter Manufacturer= to Part U16
+Added Parameter Manufacturer= to Part U18
+Added Parameter Manufacturer= to Part U19
+Added Parameter Manufacturer= to Part U20
+Added Parameter Manufacturer= to Part U21
+Added Parameter Manufacturer= to Part U23
+Added Parameter Manufacturer= to Part U28
+Added Parameter Manufacturer= to Part U29
+Added Parameter Manuf p/n= to Part C1
+Added Parameter Manuf p/n= to Part C2
+Added Parameter Manuf p/n= to Part C3
+Added Parameter Manuf p/n= to Part C4
+Added Parameter Manuf p/n= to Part C5
+Added Parameter Manuf p/n= to Part C6
+Added Parameter Manuf p/n= to Part C7
+Added Parameter Manuf p/n= to Part C8
+Added Parameter Manuf p/n= to Part C9
+Added Parameter Manuf p/n= to Part C13
+Added Parameter Manuf p/n= to Part C15
+Added Parameter Manuf p/n= to Part C16
+Added Parameter Manuf p/n= to Part C17
+Added Parameter Manuf p/n= to Part C18
+Added Parameter Manuf p/n= to Part C19
+Added Parameter Manuf p/n= to Part C20
+Added Parameter Manuf p/n= to Part C22
+Added Parameter Manuf p/n= to Part C24
+Added Parameter Manuf p/n= to Part C25
+Added Parameter Manuf p/n= to Part C26
+Added Parameter Manuf p/n= to Part C27
+Added Parameter Manuf p/n= to Part C28
+Added Parameter Manuf p/n= to Part C30
+Added Parameter Manuf p/n= to Part C31
+Added Parameter Manuf p/n= to Part C32
+Added Parameter Manuf p/n= to Part C34
+Added Parameter Manuf p/n= to Part C35
+Added Parameter Manuf p/n= to Part C37
+Added Parameter Manuf p/n= to Part C38
+Added Parameter Manuf p/n= to Part C39
+Added Parameter Manuf p/n= to Part C40
+Added Parameter Manuf p/n= to Part C41
+Added Parameter Manuf p/n= to Part C42
+Added Parameter Manuf p/n= to Part C43
+Added Parameter Manuf p/n= to Part C44
+Added Parameter Manuf p/n= to Part C45
+Added Parameter Manuf p/n= to Part C47
+Added Parameter Manuf p/n= to Part C48
+Added Parameter Manuf p/n= to Part C50
+Added Parameter Manuf p/n= to Part C51
+Added Parameter Manuf p/n= to Part C52
+Added Parameter Manuf p/n= to Part C53
+Added Parameter Manuf p/n= to Part C55
+Added Parameter Manuf p/n= to Part C56
+Added Parameter Manuf p/n= to Part C57
+Added Parameter Manuf p/n= to Part C58
+Added Parameter Manuf p/n= to Part C59
+Added Parameter Manuf p/n= to Part C60
+Added Parameter Manuf p/n= to Part C61
+Added Parameter Manuf p/n= to Part C62
+Added Parameter Manuf p/n= to Part C64
+Added Parameter Manuf p/n= to Part C65
+Added Parameter Manuf p/n= to Part C66
+Added Parameter Manuf p/n= to Part C67
+Added Parameter Manuf p/n= to Part C68
+Added Parameter Manuf p/n= to Part C69
+Added Parameter Manuf p/n= to Part C70
+Added Parameter Manuf p/n= to Part C72
+Added Parameter Manuf p/n= to Part C73
+Added Parameter Manuf p/n= to Part C74
+Added Parameter Manuf p/n= to Part C79
+Added Parameter Manuf p/n= to Part C80
+Added Parameter Manuf p/n= to Part C108
+Added Parameter Manuf p/n= to Part C110
+Added Parameter Manuf p/n= to Part C112
+Added Parameter Manuf p/n= to Part C113
+Added Parameter Manuf p/n= to Part C138
+Added Parameter Manuf p/n= to Part D1
+Added Parameter Manuf p/n= to Part D2
+Added Parameter Manuf p/n= to Part D5
+Added Parameter Manuf p/n= to Part J4
+Added Parameter Manuf p/n= to Part J6
+Added Parameter Manuf p/n= to Part J8
+Added Parameter Manuf p/n= to Part L1
+Added Parameter Manuf p/n= to Part L2
+Added Parameter Manuf p/n= to Part L3
+Added Parameter Manuf p/n= to Part L4
+Added Parameter Manuf p/n= to Part L5
+Added Parameter Manuf p/n= to Part R1
+Added Parameter Manuf p/n= to Part R3
+Added Parameter Manuf p/n= to Part R4
+Added Parameter Manuf p/n= to Part R5
+Added Parameter Manuf p/n= to Part R6
+Added Parameter Manuf p/n= to Part R7
+Added Parameter Manuf p/n= to Part R8
+Added Parameter Manuf p/n= to Part R9
+Added Parameter Manuf p/n= to Part R10
+Added Parameter Manuf p/n= to Part R11
+Added Parameter Manuf p/n= to Part R12
+Added Parameter Manuf p/n= to Part R13
+Added Parameter Manuf p/n= to Part R14
+Added Parameter Manuf p/n= to Part R15
+Added Parameter Manuf p/n= to Part R16
+Added Parameter Manuf p/n= to Part R17
+Added Parameter Manuf p/n= to Part R18
+Added Parameter Manuf p/n= to Part R22
+Added Parameter Manuf p/n= to Part R24
+Added Parameter Manuf p/n= to Part R25
+Added Parameter Manuf p/n= to Part R26
+Added Parameter Manuf p/n= to Part R27
+Added Parameter Manuf p/n= to Part R28
+Added Parameter Manuf p/n= to Part R29
+Added Parameter Manuf p/n= to Part R30
+Added Parameter Manuf p/n= to Part R31
+Added Parameter Manuf p/n= to Part R32
+Added Parameter Manuf p/n= to Part R39
+Added Parameter Manuf p/n= to Part R40
+Added Parameter Manuf p/n= to Part R41
+Added Parameter Manuf p/n= to Part R42
+Added Parameter Manuf p/n= to Part R56
+Added Parameter Manuf p/n= to Part R57
+Added Parameter Manuf p/n= to Part R58
+Added Parameter Manuf p/n= to Part RN3
+Added Parameter Manuf p/n= to Part RN4
+Added Parameter Manuf p/n= to Part RN5
+Added Parameter Manuf p/n= to Part TP1
+Added Parameter Manuf p/n= to Part U2
+Added Parameter Manuf p/n= to Part U3
+Added Parameter Manuf p/n= to Part U4
+Added Parameter Manuf p/n= to Part U5
+Added Parameter Manuf p/n= to Part U6
+Added Parameter Manuf p/n= to Part U7
+Added Parameter Manuf p/n= to Part U8
+Added Parameter Manuf p/n= to Part U11
+Added Parameter Manuf p/n= to Part U12
+Added Parameter Manuf p/n= to Part U14
+Added Parameter Manuf p/n= to Part U15
+Added Parameter Manuf p/n= to Part U16
+Added Parameter Manuf p/n= to Part U18
+Added Parameter Manuf p/n= to Part U19
+Added Parameter Manuf p/n= to Part U20
+Added Parameter Manuf p/n= to Part U21
+Added Parameter Manuf p/n= to Part U23
+Added Parameter Manuf p/n= to Part U28
+Added Parameter Manuf p/n= to Part U29
+Added Parameter Vendor= to Part C1
+Added Parameter Vendor= to Part C2
+Added Parameter Vendor= to Part C3
+Added Parameter Vendor= to Part C4
+Added Parameter Vendor= to Part C5
+Added Parameter Vendor= to Part C6
+Added Parameter Vendor= to Part C7
+Added Parameter Vendor= to Part C8
+Added Parameter Vendor= to Part C9
+Added Parameter Vendor= to Part C13
+Added Parameter Vendor= to Part C15
+Added Parameter Vendor= to Part C16
+Added Parameter Vendor= to Part C17
+Added Parameter Vendor= to Part C18
+Added Parameter Vendor= to Part C19
+Added Parameter Vendor= to Part C20
+Added Parameter Vendor= to Part C22
+Added Parameter Vendor= to Part C24
+Added Parameter Vendor= to Part C25
+Added Parameter Vendor= to Part C26
+Added Parameter Vendor= to Part C27
+Added Parameter Vendor= to Part C28
+Added Parameter Vendor= to Part C30
+Added Parameter Vendor= to Part C31
+Added Parameter Vendor= to Part C32
+Added Parameter Vendor= to Part C34
+Added Parameter Vendor= to Part C35
+Added Parameter Vendor= to Part C37
+Added Parameter Vendor= to Part C38
+Added Parameter Vendor= to Part C39
+Added Parameter Vendor= to Part C40
+Added Parameter Vendor= to Part C41
+Added Parameter Vendor= to Part C42
+Added Parameter Vendor= to Part C43
+Added Parameter Vendor= to Part C44
+Added Parameter Vendor= to Part C45
+Added Parameter Vendor= to Part C47
+Added Parameter Vendor= to Part C48
+Added Parameter Vendor= to Part C50
+Added Parameter Vendor= to Part C51
+Added Parameter Vendor= to Part C52
+Added Parameter Vendor= to Part C53
+Added Parameter Vendor= to Part C55
+Added Parameter Vendor= to Part C56
+Added Parameter Vendor= to Part C57
+Added Parameter Vendor= to Part C58
+Added Parameter Vendor= to Part C59
+Added Parameter Vendor= to Part C60
+Added Parameter Vendor= to Part C61
+Added Parameter Vendor= to Part C62
+Added Parameter Vendor= to Part C64
+Added Parameter Vendor= to Part C65
+Added Parameter Vendor= to Part C66
+Added Parameter Vendor= to Part C67
+Added Parameter Vendor= to Part C68
+Added Parameter Vendor= to Part C69
+Added Parameter Vendor= to Part C70
+Added Parameter Vendor= to Part C72
+Added Parameter Vendor= to Part C73
+Added Parameter Vendor= to Part C74
+Added Parameter Vendor= to Part C79
+Added Parameter Vendor= to Part C80
+Added Parameter Vendor= to Part C108
+Added Parameter Vendor= to Part C110
+Added Parameter Vendor= to Part C112
+Added Parameter Vendor= to Part C113
+Added Parameter Vendor= to Part C138
+Added Parameter Vendor= to Part D1
+Added Parameter Vendor= to Part D2
+Added Parameter Vendor= to Part D5
+Added Parameter Vendor= to Part J4
+Added Parameter Vendor= to Part J6
+Added Parameter Vendor= to Part J8
+Added Parameter Vendor= to Part L1
+Added Parameter Vendor= to Part L2
+Added Parameter Vendor= to Part L3
+Added Parameter Vendor= to Part L4
+Added Parameter Vendor= to Part L5
+Added Parameter Vendor= to Part R1
+Added Parameter Vendor= to Part R3
+Added Parameter Vendor= to Part R4
+Added Parameter Vendor= to Part R5
+Added Parameter Vendor= to Part R6
+Added Parameter Vendor= to Part R7
+Added Parameter Vendor= to Part R8
+Added Parameter Vendor= to Part R9
+Added Parameter Vendor= to Part R10
+Added Parameter Vendor= to Part R11
+Added Parameter Vendor= to Part R12
+Added Parameter Vendor= to Part R13
+Added Parameter Vendor= to Part R14
+Added Parameter Vendor= to Part R15
+Added Parameter Vendor= to Part R16
+Added Parameter Vendor= to Part R17
+Added Parameter Vendor= to Part R18
+Added Parameter Vendor= to Part R22
+Added Parameter Vendor= to Part R24
+Added Parameter Vendor= to Part R25
+Added Parameter Vendor= to Part R26
+Added Parameter Vendor= to Part R27
+Added Parameter Vendor= to Part R28
+Added Parameter Vendor= to Part R29
+Added Parameter Vendor= to Part R30
+Added Parameter Vendor= to Part R31
+Added Parameter Vendor= to Part R32
+Added Parameter Vendor= to Part R39
+Added Parameter Vendor= to Part R40
+Added Parameter Vendor= to Part R41
+Added Parameter Vendor= to Part R42
+Added Parameter Vendor= to Part R56
+Added Parameter Vendor= to Part R57
+Added Parameter Vendor= to Part R58
+Added Parameter Vendor= to Part RN3
+Added Parameter Vendor= to Part RN4
+Added Parameter Vendor= to Part RN5
+Added Parameter Vendor= to Part TP1
+Added Parameter Vendor= to Part U2
+Added Parameter Vendor= to Part U3
+Added Parameter Vendor= to Part U4
+Added Parameter Vendor= to Part U5
+Added Parameter Vendor= to Part U6
+Added Parameter Vendor= to Part U7
+Added Parameter Vendor= to Part U8
+Added Parameter Vendor= to Part U11
+Added Parameter Vendor= to Part U12
+Added Parameter Vendor= to Part U14
+Added Parameter Vendor= to Part U15
+Added Parameter Vendor= to Part U16
+Added Parameter Vendor= to Part U18
+Added Parameter Vendor= to Part U19
+Added Parameter Vendor= to Part U20
+Added Parameter Vendor= to Part U21
+Added Parameter Vendor= to Part U23
+Added Parameter Vendor= to Part U28
+Added Parameter Vendor= to Part U29
+Added Parameter Vendor p/n= to Part C1
+Added Parameter Vendor p/n= to Part C2
+Added Parameter Vendor p/n= to Part C3
+Added Parameter Vendor p/n= to Part C4
+Added Parameter Vendor p/n= to Part C5
+Added Parameter Vendor p/n= to Part C6
+Added Parameter Vendor p/n= to Part C7
+Added Parameter Vendor p/n= to Part C8
+Added Parameter Vendor p/n= to Part C9
+Added Parameter Vendor p/n= to Part C13
+Added Parameter Vendor p/n= to Part C15
+Added Parameter Vendor p/n= to Part C16
+Added Parameter Vendor p/n= to Part C17
+Added Parameter Vendor p/n= to Part C18
+Added Parameter Vendor p/n= to Part C19
+Added Parameter Vendor p/n= to Part C20
+Added Parameter Vendor p/n= to Part C22
+Added Parameter Vendor p/n= to Part C24
+Added Parameter Vendor p/n= to Part C25
+Added Parameter Vendor p/n= to Part C26
+Added Parameter Vendor p/n= to Part C27
+Added Parameter Vendor p/n= to Part C28
+Added Parameter Vendor p/n= to Part C30
+Added Parameter Vendor p/n= to Part C31
+Added Parameter Vendor p/n= to Part C32
+Added Parameter Vendor p/n= to Part C34
+Added Parameter Vendor p/n= to Part C35
+Added Parameter Vendor p/n= to Part C37
+Added Parameter Vendor p/n= to Part C38
+Added Parameter Vendor p/n= to Part C39
+Added Parameter Vendor p/n= to Part C40
+Added Parameter Vendor p/n= to Part C41
+Added Parameter Vendor p/n= to Part C42
+Added Parameter Vendor p/n= to Part C43
+Added Parameter Vendor p/n= to Part C44
+Added Parameter Vendor p/n= to Part C45
+Added Parameter Vendor p/n= to Part C47
+Added Parameter Vendor p/n= to Part C48
+Added Parameter Vendor p/n= to Part C50
+Added Parameter Vendor p/n= to Part C51
+Added Parameter Vendor p/n= to Part C52
+Added Parameter Vendor p/n= to Part C53
+Added Parameter Vendor p/n= to Part C55
+Added Parameter Vendor p/n= to Part C56
+Added Parameter Vendor p/n= to Part C57
+Added Parameter Vendor p/n= to Part C58
+Added Parameter Vendor p/n= to Part C59
+Added Parameter Vendor p/n= to Part C60
+Added Parameter Vendor p/n= to Part C61
+Added Parameter Vendor p/n= to Part C62
+Added Parameter Vendor p/n= to Part C64
+Added Parameter Vendor p/n= to Part C65
+Added Parameter Vendor p/n= to Part C66
+Added Parameter Vendor p/n= to Part C67
+Added Parameter Vendor p/n= to Part C68
+Added Parameter Vendor p/n= to Part C69
+Added Parameter Vendor p/n= to Part C70
+Added Parameter Vendor p/n= to Part C72
+Added Parameter Vendor p/n= to Part C73
+Added Parameter Vendor p/n= to Part C74
+Added Parameter Vendor p/n= to Part C79
+Added Parameter Vendor p/n= to Part C80
+Added Parameter Vendor p/n= to Part C108
+Added Parameter Vendor p/n= to Part C110
+Added Parameter Vendor p/n= to Part C112
+Added Parameter Vendor p/n= to Part C113
+Added Parameter Vendor p/n= to Part C138
+Added Parameter Vendor p/n= to Part D1
+Added Parameter Vendor p/n= to Part D2
+Added Parameter Vendor p/n= to Part D5
+Added Parameter Vendor p/n= to Part J4
+Added Parameter Vendor p/n= to Part J6
+Added Parameter Vendor p/n= to Part J8
+Added Parameter Vendor p/n= to Part L1
+Added Parameter Vendor p/n= to Part L2
+Added Parameter Vendor p/n= to Part L3
+Added Parameter Vendor p/n= to Part L4
+Added Parameter Vendor p/n= to Part L5
+Added Parameter Vendor p/n= to Part R1
+Added Parameter Vendor p/n= to Part R3
+Added Parameter Vendor p/n= to Part R4
+Added Parameter Vendor p/n= to Part R5
+Added Parameter Vendor p/n= to Part R6
+Added Parameter Vendor p/n= to Part R7
+Added Parameter Vendor p/n= to Part R8
+Added Parameter Vendor p/n= to Part R9
+Added Parameter Vendor p/n= to Part R10
+Added Parameter Vendor p/n= to Part R11
+Added Parameter Vendor p/n= to Part R12
+Added Parameter Vendor p/n= to Part R13
+Added Parameter Vendor p/n= to Part R14
+Added Parameter Vendor p/n= to Part R15
+Added Parameter Vendor p/n= to Part R16
+Added Parameter Vendor p/n= to Part R17
+Added Parameter Vendor p/n= to Part R18
+Added Parameter Vendor p/n= to Part R22
+Added Parameter Vendor p/n= to Part R24
+Added Parameter Vendor p/n= to Part R25
+Added Parameter Vendor p/n= to Part R26
+Added Parameter Vendor p/n= to Part R27
+Added Parameter Vendor p/n= to Part R28
+Added Parameter Vendor p/n= to Part R29
+Added Parameter Vendor p/n= to Part R30
+Added Parameter Vendor p/n= to Part R31
+Added Parameter Vendor p/n= to Part R32
+Added Parameter Vendor p/n= to Part R39
+Added Parameter Vendor p/n= to Part R40
+Added Parameter Vendor p/n= to Part R41
+Added Parameter Vendor p/n= to Part R42
+Added Parameter Vendor p/n= to Part R56
+Added Parameter Vendor p/n= to Part R57
+Added Parameter Vendor p/n= to Part R58
+Added Parameter Vendor p/n= to Part RN3
+Added Parameter Vendor p/n= to Part RN4
+Added Parameter Vendor p/n= to Part RN5
+Added Parameter Vendor p/n= to Part TP1
+Added Parameter Vendor p/n= to Part U2
+Added Parameter Vendor p/n= to Part U3
+Added Parameter Vendor p/n= to Part U4
+Added Parameter Vendor p/n= to Part U5
+Added Parameter Vendor p/n= to Part U6
+Added Parameter Vendor p/n= to Part U7
+Added Parameter Vendor p/n= to Part U8
+Added Parameter Vendor p/n= to Part U11
+Added Parameter Vendor p/n= to Part U12
+Added Parameter Vendor p/n= to Part U14
+Added Parameter Vendor p/n= to Part U15
+Added Parameter Vendor p/n= to Part U16
+Added Parameter Vendor p/n= to Part U18
+Added Parameter Vendor p/n= to Part U19
+Added Parameter Vendor p/n= to Part U20
+Added Parameter Vendor p/n= to Part U21
+Added Parameter Vendor p/n= to Part U23
+Added Parameter Vendor p/n= to Part U28
+Added Parameter Vendor p/n= to Part U29

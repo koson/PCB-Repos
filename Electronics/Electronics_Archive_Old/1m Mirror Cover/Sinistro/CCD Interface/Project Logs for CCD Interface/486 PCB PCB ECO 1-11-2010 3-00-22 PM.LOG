@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RTD(-) Pin=P1-26
+Added Pin To Net: NetName=RTD(+) Pin=P1-26
+Added Pin To Net: NetName=RTD(-) Pin=P1-37
+Added Pin To Net: NetName=RTD(-) Pin=P1-41
+Change Net Name : Old Net Name=RTD(+) New Net Name=RTDF(+)
+Change Net Name : Old Net Name=RTD(-) New Net Name=RTDF(-)

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DIN_DAC Pin=J2-58
+Removed Pin From Net: NetName=DIN_DAC Pin=J2-58
+Removed Pin From Net: NetName=SCLK_DAC Pin=J2-60
+Removed Pin From Net: NetName=SCLK_DAC Pin=J2-60
+Added Pin To Net: NetName=SCLK_DAC Pin=J2-58
+Added Pin To Net: NetName=SCLK_DAC Pin=J2-58
+Added Pin To Net: NetName=DIN_DAC Pin=J2-60
+Added Pin To Net: NetName=DIN_DAC Pin=J2-60

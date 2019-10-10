@@ -1,0 +1,10 @@
+Change Pin Designator/Name:  Old Designator=U16A-1 Old Name=Anode New Designator =Anode New Name=7
+Change Pin Designator/Name:  Old Designator=U16C-5 Old Name=Anode New Designator =Anode New Name=1
+Change Pin Designator/Name:  Old Designator=U16C-6 Old Name=Cathode New Designator =Collector New Name=10
+Change Pin Designator/Name:  Old Designator=U16D-7 Old Name=Anode New Designator =Anode New Name=5
+Change Pin Designator/Name:  Old Designator=U16D-8 Old Name=Cathode New Designator =Collector New Name=12
+Change Pin Designator/Name:  Old Designator=U16D-9 Old Name=Emitter New Designator =Collector New Name=16
+Change Pin Designator/Name:  Old Designator=U16D-10 Old Name=Collector New Designator =Cathode New Name=6
+Change Pin Designator/Name:  Old Designator=U16C-12 Old Name=Collector New Designator =Emitter New Name=15
+Change Pin Designator/Name:  Old Designator=U16A-15 Old Name=Emitter New Designator =Emitter New Name=9
+Change Pin Designator/Name:  Old Designator=U16A-16 Old Name=Collector New Designator =Cathode New Name=8

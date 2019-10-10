@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=D1-1
+Removed Pin From Net: NetName=A Pin=D1-2
+Removed Pin From Net: NetName=NetC6_1 Pin=D2-1
+Removed Pin From Net: NetName=NetC9_2 Pin=D2-2
+Removed Pin From Net: NetName=A Pin=D4-1
+Removed Pin From Net: NetName=NetC13_2 Pin=D4-2
+Removed Pin From Net: NetName=NetC21_1 Pin=D6-1
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=NetD6_4 Pin=T3-6
+Removed Pin From Net: NetName=NetD6_3 Pin=T3-7
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=C21
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=C22
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=C23
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=D1
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=D4
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=R13
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=R14
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=TP10
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=U10
+Change Component Footprint: Designator=T3 Old Footprint=XFRMR TRIAD FS10-1200 New Footprint=XFRMR TRIAD FS28-700 (20VA)
+Change Component Comment : Designator=T3 Old Comment=12 VA New Comment=20VA
+Change Component Comment : Designator=C6 Old Comment=16V New Comment=25V
+Change Component Comment : Designator=C9 Old Comment=16V New Comment=25V
+Change Component Comment : Designator=C21 Old Comment=35V New Comment=10V
+Change Component Comment : Designator=C18 Old Comment=35V New Comment=50V
+Added Component: Designator=T2(XFRMR TRIAD FS10-600 (6 VA))
+Added Pin To Net: NetName=NetC21_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-4
+Added Pin To Net: NetName=NetC3_1 Pin=D2-1
+Added Pin To Net: NetName=NetC13_2 Pin=D2-2
+Added Pin To Net: NetName=NetC6_1 Pin=D6-1
+Added Pin To Net: NetName=NetC9_2 Pin=D6-2
+Added Pin To Net: NetName=AA Pin=T2-1
+Added Pin To Net: NetName=CC Pin=T2-2
+Added Pin To Net: NetName=BB Pin=T2-3
+Added Pin To Net: NetName=DD Pin=T2-4
+Added Pin To Net: NetName=NetD2_3 Pin=T2-5
+Added Pin To Net: NetName=A Pin=T2-6
+Added Pin To Net: NetName=A Pin=T2-7
+Added Pin To Net: NetName=NetD2_4 Pin=T2-8
+Added Pin To Net: NetName=A Pin=T3-6
+Added Pin To Net: NetName=A Pin=T3-7
+Added Net: Name=NetT1_6
+Added Net: Name=NetT4_6
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component C21 10V
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component C22 35V
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component C23 35V
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component D1 Diode Bridge
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component R13 Res 0805
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component R14 Res 0805
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component T2 6VA
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component TP10 Test point
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component U10 LM350T

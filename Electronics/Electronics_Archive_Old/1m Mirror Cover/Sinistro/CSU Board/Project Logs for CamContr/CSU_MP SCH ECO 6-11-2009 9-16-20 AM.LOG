@@ -1,0 +1,14 @@
+Change Value of Parameter COST in Part C13 Old=.39 New=0.39
+Change Value of Parameter COST in Part C32 Old=.39 New=0.39
+Change Value of Parameter COST in Part C40 Old=.39 New=0.39
+Change Value of Parameter COST in Part C41 Old=.39 New=0.39
+Change Value of Parameter COST in Part C55 Old=.39 New=0.39
+Change Value of Parameter COST in Part C56 Old=.39 New=0.39
+Change Value of Parameter COST in Part TP1 Old= New=0.32
+Change Value of Parameter Manufacturer in Part TP1 Old= New=Keystone
+Change Value of Parameter Manuf p/n in Part TP1 Old= New=5001
+Change Value of Parameter Value in Part TP1 Old= New=Test point mini
+Change Value of Parameter Vendor in Part TP1 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part TP1 Old= New=5001K-ND
+Change Value of Parameter COST in Part U29 Old= New=9.70
+Change Value of Parameter Manufacturer in Part U29 Old= New=TI

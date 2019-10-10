@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TEC_DRIVE(+)A Pin=P5A-7
+Removed Pin From Net: NetName=TEC_DRIVE(-)A Pin=P5A-8
+Removed Pin From Net: NetName=TEC_DRIVE(+)B Pin=P5B-7
+Removed Pin From Net: NetName=TEC_DRIVE(-)B Pin=P5B-8
+Change Component DesignItemId : Designator=P5A Old DesignItemId=Header 8 New DesignItemId=Header 6
+Change Component DesignItemId : Designator=P5B Old DesignItemId=Header 8 New DesignItemId=Header 6
+Change Component Footprint: Designator=P5A Old Footprint=HDR1X8 for IDC New Footprint=HDR1X6 for IDC
+Change Component Footprint: Designator=P5B Old Footprint=HDR1X8 for IDC New Footprint=HDR1X6 for IDC
+Change Component Comment : Designator=P5A Old Comment=Header 8 New Comment=Header 6
+Change Component Comment : Designator=P5B Old Comment=Header 8 New Comment=Header 6

@@ -1,0 +1,14 @@
+Added Component: Designator=J2(MS-3116 Size 20-41)
+Added Pin To Net: NetName=GND Pin=P1-157
+Added Pin To Net: NetName=GND Pin=P1-158
+Added Pin To Net: NetName=GND Pin=P1-159
+Added Pin To Net: NetName=GND Pin=P3-157
+Added Pin To Net: NetName=GND Pin=P3-158
+Added Pin To Net: NetName=GND Pin=P3-159
+Added Pin To Net: NetName=GND Pin=P8-157
+Added Pin To Net: NetName=GND Pin=P8-158
+Added Pin To Net: NetName=GND Pin=P8-159
+Added Pin To Net: NetName=GND Pin=P9-157
+Added Pin To Net: NetName=GND Pin=P9-158
+Added Pin To Net: NetName=GND Pin=P9-159
+Added Member To Class: ClassName=BackPlane_10A Member=Component J2 MS3116-20-41

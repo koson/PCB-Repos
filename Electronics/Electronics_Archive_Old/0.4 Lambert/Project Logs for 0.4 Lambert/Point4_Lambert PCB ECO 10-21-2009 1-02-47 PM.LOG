@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res3 New DesignItemId=Res SMD
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res3 New DesignItemId=Res SMD
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res3 New DesignItemId=Res SMD
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Res3 New DesignItemId=Res SMD
+Change Component DesignItemId : Designator=R6 Old DesignItemId=Res3 New DesignItemId=Res SMD
+Change Component Footprint: Designator=R1 Old Footprint=smd_0805 New Footprint=SMD_0805
+Change Component Footprint: Designator=R2 Old Footprint=smd_0805 New Footprint=SMD_0805
+Change Component Footprint: Designator=R3 Old Footprint=smd_0805 New Footprint=SMD_0805
+Change Component Footprint: Designator=R5 Old Footprint=smd_0805 New Footprint=SMD_0805
+Change Component Footprint: Designator=R6 Old Footprint=smd_0805 New Footprint=SMD_0805
+Change Component Comment : Designator=R3 Old Comment=4.7K New Comment=Res 0805
+Change Component Comment : Designator=R6 Old Comment=4.7k New Comment=Res 0805
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=Res 0805
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=Res 0805
+Change Component Comment : Designator=R5 Old Comment=100k New Comment=Res 0805

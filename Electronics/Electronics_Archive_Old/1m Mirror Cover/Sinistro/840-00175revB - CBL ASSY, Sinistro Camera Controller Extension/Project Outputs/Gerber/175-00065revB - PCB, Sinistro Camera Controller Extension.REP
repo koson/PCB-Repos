@@ -1,0 +1,309 @@
+*************************************************************
+FileName = 175-00065revB - PCB, Sinistro Camera Controller Extension.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Silkscreen
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GTO
+
+    Adding Layer      : Top Silkscreen
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Soldermask
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GTS
+
+    Adding Layer      : Top Soldermask
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Soldermask
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GBS
+
+    Adding Layer      : Bottom Soldermask
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GD1
+
+    Adding Layer      : Mechanical 2
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 175-00065revB - PCB, Sinistro Camera Controller Extension.GG1
+
+    Adding Layer      : Mechanical 2
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D32
+*************************************************************
+

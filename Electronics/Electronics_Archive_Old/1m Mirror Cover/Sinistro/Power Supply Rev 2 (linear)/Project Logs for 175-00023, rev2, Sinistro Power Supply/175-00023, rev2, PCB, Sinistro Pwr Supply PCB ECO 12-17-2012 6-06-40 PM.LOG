@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+24V Pin=C25-POS
+Removed Pin From Net: NetName=+24V Pin=FER3-4
+Added Component: Designator=F7(SMD 2920  PolySwitch)
+Added Pin To Net: NetName=+24V Pin=F7-2
+Added Pin To Net: NetName=NetC25_pos Pin=C25-POS
+Added Pin To Net: NetName=NetC25_pos Pin=F7-1
+Added Pin To Net: NetName=NetC25_pos Pin=FER3-4
+Added Net: Name=NetC25_pos
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component F7 Res 0805

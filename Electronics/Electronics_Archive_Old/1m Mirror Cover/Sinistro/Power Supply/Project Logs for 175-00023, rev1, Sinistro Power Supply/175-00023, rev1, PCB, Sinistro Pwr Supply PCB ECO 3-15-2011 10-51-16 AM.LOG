@@ -1,0 +1,6 @@
+Change Component Description : Designator=TP14 Old Description=Tektronix scope probe test point New Description=Tektronix p/n 131 5031 00
+Change Component Description : Designator=TP15 Old Description=Tektronix scope probe test point New Description=Tektronix p/n 131 5031 00
+Change Component Description : Designator=TP16 Old Description=Tektronix scope probe test point New Description=Tektronix p/n 131 5031 00
+Change Component Description : Designator=TP17 Old Description=Tektronix scope probe test point New Description=Tektronix p/n 131 5031 00
+Change Component Description : Designator=TP18 Old Description=Tektronix scope probe test point New Description=Tektronix p/n 131 5031 00
+Added Pin To Net: NetName=+24V_IN Pin=TP2-1

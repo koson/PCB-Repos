@@ -1,0 +1,10 @@
+Remove Pin=P1-2 From Net=P1B
+Remove Pin=P1-58 From Net=SG
+Remove Pin=P1-63 From Net=TGB
+Remove Pin=P1-65 From Net=RG
+Remove Pin=P1-68 From Net=VOG
+Add Pin To Net: Pin=P1-2 Old Net=P1B New Net=SG
+Add Pin To Net: Pin=P1-38 Old Net=NetP1_38 New Net=TGB
+Add Pin To Net: Pin=P1-40 Old Net=NetP1_40 New Net=VOG
+Add Pin To Net: Pin=P1-58 Old Net=SG New Net=P1B
+Add Pin To Net: Pin=P1-68 Old Net=VOG New Net=RG

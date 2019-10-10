@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=MON_LO1 Pin=R17A-1
+Removed Pin From Net: NetName=MON_LO2 Pin=R17B-1
+Removed Pin From Net: NetName=MON_LO3 Pin=R17C-1
+Removed Pin From Net: NetName=MON_LO4 Pin=R17D-1
+Removed Pin From Net: NetName=MON_LO5 Pin=R17E-1
+Removed Pin From Net: NetName=MON_LO6 Pin=R17F-1
+Removed Pin From Net: NetName=A Pin=R23A-1
+Removed Pin From Net: NetName=MON_LO1 Pin=R23A-2
+Removed Pin From Net: NetName=A Pin=R23B-1
+Removed Pin From Net: NetName=MON_LO2 Pin=R23B-2
+Removed Pin From Net: NetName=A Pin=R23C-1
+Removed Pin From Net: NetName=MON_LO3 Pin=R23C-2
+Removed Pin From Net: NetName=A Pin=R23D-1
+Removed Pin From Net: NetName=MON_LO4 Pin=R23D-2
+Removed Pin From Net: NetName=A Pin=R23E-1
+Removed Pin From Net: NetName=MON_LO5 Pin=R23E-2
+Removed Pin From Net: NetName=A Pin=R23F-1
+Removed Pin From Net: NetName=MON_LO6 Pin=R23F-2
+Added Component: Designator=C44A(SMD_0805)
+Added Component: Designator=C44B(SMD_0805)
+Added Component: Designator=C44C(SMD_0805)
+Added Component: Designator=C44D(SMD_0805)
+Added Component: Designator=C44E(SMD_0805)
+Added Component: Designator=C44F(SMD_0805)
+Added Component: Designator=U20A(SMD_SOT23_5)
+Added Component: Designator=U20B(SMD_SOT23_5)
+Added Component: Designator=U20C(SMD_SOT23_5)
+Added Component: Designator=U20D(SMD_SOT23_5)
+Added Component: Designator=U20E(SMD_SOT23_5)
+Added Component: Designator=U20F(SMD_SOT23_5)
+Added Pin To Net: NetName=+5ANA Pin=C44A-1
+Added Pin To Net: NetName=A Pin=C44A-2
+Added Pin To Net: NetName=+5ANA Pin=C44B-1
+Added Pin To Net: NetName=A Pin=C44B-2
+Added Pin To Net: NetName=+5ANA Pin=C44C-1
+Added Pin To Net: NetName=A Pin=C44C-2
+Added Pin To Net: NetName=+5ANA Pin=C44D-1
+Added Pin To Net: NetName=A Pin=C44D-2
+Added Pin To Net: NetName=+5ANA Pin=C44E-1
+Added Pin To Net: NetName=A Pin=C44E-2
+Added Pin To Net: NetName=+5ANA Pin=C44F-1
+Added Pin To Net: NetName=A Pin=C44F-2
+Added Pin To Net: NetName=MON_LO1 Pin=R23A-1
+Added Pin To Net: NetName=MON_LO2 Pin=R23B-1
+Added Pin To Net: NetName=MON_LO3 Pin=R23C-1
+Added Pin To Net: NetName=MON_LO4 Pin=R23D-1
+Added Pin To Net: NetName=MON_LO5 Pin=R23E-1
+Added Pin To Net: NetName=MON_LO6 Pin=R23F-1
+Added Pin To Net: NetName=MON_LO1 Pin=U20A-1
+Added Pin To Net: NetName=A Pin=U20A-2
+Added Pin To Net: NetName=A Pin=U20A-3
+Added Pin To Net: NetName=+5ANA Pin=U20A-5
+Added Pin To Net: NetName=MON_LO2 Pin=U20B-1
+Added Pin To Net: NetName=A Pin=U20B-2
+Added Pin To Net: NetName=A Pin=U20B-3
+Added Pin To Net: NetName=+5ANA Pin=U20B-5
+Added Pin To Net: NetName=MON_LO3 Pin=U20C-1
+Added Pin To Net: NetName=A Pin=U20C-2
+Added Pin To Net: NetName=A Pin=U20C-3
+Added Pin To Net: NetName=+5ANA Pin=U20C-5
+Added Pin To Net: NetName=MON_LO4 Pin=U20D-1
+Added Pin To Net: NetName=A Pin=U20D-2
+Added Pin To Net: NetName=A Pin=U20D-3
+Added Pin To Net: NetName=+5ANA Pin=U20D-5
+Added Pin To Net: NetName=MON_LO5 Pin=U20E-1
+Added Pin To Net: NetName=A Pin=U20E-2
+Added Pin To Net: NetName=A Pin=U20E-3
+Added Pin To Net: NetName=+5ANA Pin=U20E-5
+Added Pin To Net: NetName=MON_LO6 Pin=U20F-1
+Added Pin To Net: NetName=A Pin=U20F-2
+Added Pin To Net: NetName=A Pin=U20F-3
+Added Pin To Net: NetName=+5ANA Pin=U20F-5
+Added Pin To Net: NetName=NetR17A_1 Pin=R17A-1
+Added Pin To Net: NetName=NetR17A_1 Pin=R23A-2
+Added Pin To Net: NetName=NetR17A_1 Pin=U20A-4
+Added Net: Name=NetR17A_1
+Added Pin To Net: NetName=NetR17B_1 Pin=R17B-1
+Added Pin To Net: NetName=NetR17B_1 Pin=R23B-2
+Added Pin To Net: NetName=NetR17B_1 Pin=U20B-4
+Added Net: Name=NetR17B_1
+Added Pin To Net: NetName=NetR17C_1 Pin=R17C-1
+Added Pin To Net: NetName=NetR17C_1 Pin=R23C-2
+Added Pin To Net: NetName=NetR17C_1 Pin=U20C-4
+Added Net: Name=NetR17C_1
+Added Pin To Net: NetName=NetR17D_1 Pin=R17D-1
+Added Pin To Net: NetName=NetR17D_1 Pin=R23D-2
+Added Pin To Net: NetName=NetR17D_1 Pin=U20D-4
+Added Net: Name=NetR17D_1
+Added Pin To Net: NetName=NetR17E_1 Pin=R17E-1
+Added Pin To Net: NetName=NetR17E_1 Pin=R23E-2
+Added Pin To Net: NetName=NetR17E_1 Pin=U20E-4
+Added Net: Name=NetR17E_1
+Added Pin To Net: NetName=NetR17F_1 Pin=R17F-1
+Added Pin To Net: NetName=NetR17F_1 Pin=R23F-2
+Added Pin To Net: NetName=NetR17F_1 Pin=U20F-4
+Added Net: Name=NetR17F_1
+Added Member To Class: ClassName=RefAmps1 Member=Component C44A (C44) Cap SMD
+Added Member To Class: ClassName=RefAmps2 Member=Component C44B (C44) Cap SMD
+Added Member To Class: ClassName=RefAmps3 Member=Component C44C (C44) Cap SMD
+Added Member To Class: ClassName=RefAmps4 Member=Component C44D (C44) Cap SMD
+Added Member To Class: ClassName=RefAmps5 Member=Component C44E (C44) Cap SMD
+Added Member To Class: ClassName=RefAmps6 Member=Component C44F (C44) Cap SMD
+Added Member To Class: ClassName=RefAmps1 Member=Component U20A (U20) AD8605
+Added Member To Class: ClassName=RefAmps2 Member=Component U20B (U20) AD8605
+Added Member To Class: ClassName=RefAmps3 Member=Component U20C (U20) AD8605
+Added Member To Class: ClassName=RefAmps4 Member=Component U20D (U20) AD8605
+Added Member To Class: ClassName=RefAmps5 Member=Component U20E (U20) AD8605
+Added Member To Class: ClassName=RefAmps6 Member=Component U20F (U20) AD8605

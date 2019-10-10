@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=+24V Pin=R21-2
+Removed Member From Class: ClassName=780-00018_rev3_Pg1 Member=C29
+Removed Member From Class: ClassName=780-00018_rev3_Pg1 Member=R21
+Removed Member From Class: ClassName=780-00018_rev3_Pg1 Member=R22
+Change Component DesignItemId : Designator=P11 Old DesignItemId=Header 4 New DesignItemId=CONN 4 pin 3mm
+Change Component Footprint: Designator=P11 Old Footprint=HDR1X4 for IDC New Footprint=CONN Molex Micro-fit, 4 POS
+Change Component Comment : Designator=P11 Old Comment=Header 4 New Comment=Molex 43045-0412
+Added Pin To Net: NetName=FAN_SPEED_OUT Pin=P7-76
+Added Pin To Net: NetName=FAN_SPEED_OUT Pin=P11-2
+Added Net: Name=FAN_SPEED_OUT

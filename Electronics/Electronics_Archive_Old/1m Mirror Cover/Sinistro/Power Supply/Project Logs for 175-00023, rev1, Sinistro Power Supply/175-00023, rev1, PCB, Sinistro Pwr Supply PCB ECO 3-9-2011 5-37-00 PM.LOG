@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=+24V_IN Pin=C2-1
+Removed Pin From Net: NetName=+24V_IN Pin=R5-1
+Removed Pin From Net: NetName=+28V Pin=TP2-1
+Removed Pin From Net: NetName=+24V Pin=TP3-1
+Removed Pin From Net: NetName=+VOUT_PWRA Pin=TP5-1
+Removed Pin From Net: NetName=-VOUT_PWRA Pin=TP6-1
+Removed Pin From Net: NetName=-VOUT_PWRB Pin=TP7-1
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=TP8-1
+Removed Pin From Net: NetName=+24V_IN Pin=U2-1
+Removed Pin From Net: NetName=+24V_IN Pin=U4-3
+Added Component: Designator=C18(SMD_0805)
+Added Component: Designator=C19(SMD_0805)
+Added Component: Designator=F2(SMD 2920  PolySwitch)
+Added Component: Designator=F3(SMD 2920  PolySwitch)
+Added Component: Designator=P6(HDR1X2)
+Added Component: Designator=Q1(SMD_SOT23_3)
+Added Component: Designator=S1(CAS-120B)
+Added Component: Designator=TP9A(SMD_TEST POINT)
+Added Component: Designator=TP9B(SMD_TEST POINT)
+Added Component: Designator=TP9C(SMD_TEST POINT)
+Added Component: Designator=TP10A(SMD_TEST POINT)
+Added Component: Designator=TP10B(SMD_TEST POINT)
+Added Component: Designator=TP10C(SMD_TEST POINT)
+Added Component: Designator=TP11A(SMD_TEST POINT)
+Added Component: Designator=TP11B(SMD_TEST POINT)
+Added Component: Designator=TP11C(SMD_TEST POINT)
+Added Component: Designator=TP12A(SMD_TEST POINT)
+Added Component: Designator=TP12B(SMD_TEST POINT)
+Added Component: Designator=TP12C(SMD_TEST POINT)
+Added Component: Designator=TP13(SMD_TEST POINT)
+Added Component: Designator=U8(PW008_N)
+Added Component: Designator=U10(SMD_SOT23_3)
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=+24V_IN Pin=F2-1
+Added Pin To Net: NetName=+24V_IN Pin=F3-1
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=+3.3V Pin=P4-5
+Added Pin To Net: NetName=+3.3V Pin=P4-15
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=A Pin=P6-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=A Pin=TP3-1
+Added Pin To Net: NetName=A Pin=TP4-1
+Added Pin To Net: NetName=A Pin=TP5-1
+Added Pin To Net: NetName=A Pin=TP6-1
+Added Pin To Net: NetName=A Pin=TP7-1
+Added Pin To Net: NetName=+28V Pin=TP8-1
+Added Pin To Net: NetName=+5V_IMON Pin=TP9A-1
+Added Pin To Net: NetName=+12V_IMON Pin=TP9B-1
+Added Pin To Net: NetName=+28V_IMON Pin=TP9C-1
+Added Pin To Net: NetName=+VOUT_PWRA Pin=TP10A-1
+Added Pin To Net: NetName=+VOUT_PWRB Pin=TP10B-1
+Added Pin To Net: NetName=+VOUT_PWRC Pin=TP10C-1
+Added Pin To Net: NetName=-VOUT_PWRA Pin=TP11A-1
+Added Pin To Net: NetName=-VOUT_PWRB Pin=TP11B-1
+Added Pin To Net: NetName=-VOUT_PWRC Pin=TP11C-1
+Added Pin To Net: NetName=-5V_IMON Pin=TP12A-1
+Added Pin To Net: NetName=-12V_IMON Pin=TP12B-1
+Added Pin To Net: NetName=-I_MON_OUTC Pin=TP12C-1
+Added Pin To Net: NetName=+24V_IN Pin=TP13-1
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U10-3
+Change Net Name : Old Net Name=+3.3_IMON New Net Name=VCC_IMON
+Change Net Name : Old Net Name=+3.3V New Net Name=VCC
+Added Pin To Net: NetName=+3.3V_BKPL Pin=C18-1
+Added Pin To Net: NetName=+3.3V_BKPL Pin=C19-1
+Added Pin To Net: NetName=+3.3V_BKPL Pin=P1-11
+Added Pin To Net: NetName=+3.3V_BKPL Pin=Q1-2
+Added Pin To Net: NetName=+3.3V_BKPL Pin=S1-3
+Added Pin To Net: NetName=+3.3V_BKPL Pin=U8-8
+Added Net: Name=+3.3V_BKPL
+Added Pin To Net: NetName=I2C_SCL Pin=U8-6
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=U8-3
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=F2-2
+Added Pin To Net: NetName=NetC2_1 Pin=U2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetF3_2 Pin=F3-2
+Added Pin To Net: NetName=NetF3_2 Pin=R5-1
+Added Pin To Net: NetName=NetF3_2 Pin=U4-3
+Added Net: Name=NetF3_2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U8-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=U8-5
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=U10-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Net: Name=NetS1_2
+Added Pin To Net: NetName=SILICON_SN Pin=P1-6
+Added Pin To Net: NetName=SILICON_SN Pin=U10-1
+Added Net: Name=SILICON_SN
+Added Pin To Net: NetName=~CS_SLOT Pin=P1-4
+Added Pin To Net: NetName=~CS_SLOT Pin=Q1-1
+Added Pin To Net: NetName=~CS_SLOT Pin=U8-1
+Added Pin To Net: NetName=~CS_SLOT Pin=U8-7
+Added Net: Name=~CS_SLOT
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component C18 Cap SMD
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component C19 Cap SMD
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component F2 500mA Hold/ 1A Trip
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component F3 500mA Hold/ 1A Trip
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component P6 Header 2
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component Q1 FDV304P
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component S1 CJS-1200TB
+Added Member To Class: ClassName=5V_PS Member=Component TP9A (TP9) Test Point SMD
+Added Member To Class: ClassName=12V_PS Member=Component TP9B (TP9) Test Point SMD
+Added Member To Class: ClassName=30V_PS Member=Component TP9C (TP9) Test Point SMD
+Added Member To Class: ClassName=5V_PS Member=Component TP10A (TP10) Test Point SMD
+Added Member To Class: ClassName=12V_PS Member=Component TP10B (TP10) Test Point SMD
+Added Member To Class: ClassName=30V_PS Member=Component TP10C (TP10) Test Point SMD
+Added Member To Class: ClassName=5V_PS Member=Component TP11A (TP11) Test Point SMD
+Added Member To Class: ClassName=12V_PS Member=Component TP11B (TP11) Test Point SMD
+Added Member To Class: ClassName=30V_PS Member=Component TP11C (TP11) Test Point SMD
+Added Member To Class: ClassName=5V_PS Member=Component TP12A (TP12) Test Point SMD
+Added Member To Class: ClassName=12V_PS Member=Component TP12B (TP12) Test Point SMD
+Added Member To Class: ClassName=30V_PS Member=Component TP12C (TP12) Test Point SMD
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component TP13 Test Point SMD
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component U8 SN74CBT3306PWLE
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component U10 DS2411

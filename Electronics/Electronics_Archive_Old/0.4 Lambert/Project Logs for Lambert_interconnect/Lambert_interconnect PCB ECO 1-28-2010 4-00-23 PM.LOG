@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=~POS_LIMIT Pin=P1-2
+Removed Pin From Net: NetName=~NEG_LIMIT Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P3-8
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 4 New DesignItemId=Header 6
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 6 New DesignItemId=Header 6 0.156"
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 for IDC New Footprint=HDR1X6 for IDC
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X6 for IDC New Footprint=HDR 1X6 0.156"
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=Header 6
+Change Component Comment : Designator=P2 Old Comment=Header 6 New Comment=Header 6 0.156"
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=~POS_LIMIT Pin=P1-3
+Added Pin To Net: NetName=24V Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=~NEG_LIMIT Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P3-6

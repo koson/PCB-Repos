@@ -1,0 +1,132 @@
+Removed Member From Class: ClassName=SerialPhase11 Member=C1N
+Removed Member From Class: ClassName=SerialPhase12 Member=C1O
+Removed Member From Class: ClassName=SerialPhase11 Member=C2N
+Removed Member From Class: ClassName=SerialPhase12 Member=C2O
+Removed Member From Class: ClassName=SerialPhase11 Member=C3N
+Removed Member From Class: ClassName=SerialPhase12 Member=C3O
+Removed Member From Class: ClassName=SerialPhase11 Member=C4N
+Removed Member From Class: ClassName=SerialPhase12 Member=C4O
+Removed Member From Class: ClassName=SerialPhase11 Member=L1N
+Removed Member From Class: ClassName=SerialPhase12 Member=L1O
+Removed Member From Class: ClassName=SerialPhase11 Member=L2N
+Removed Member From Class: ClassName=SerialPhase12 Member=L2O
+Removed Member From Class: ClassName=SerialPhase11 Member=R1N
+Removed Member From Class: ClassName=SerialPhase12 Member=R1O
+Removed Member From Class: ClassName=SerialPhase11 Member=R2N
+Removed Member From Class: ClassName=SerialPhase12 Member=R2O
+Removed Member From Class: ClassName=SerialPhase11 Member=TP3N
+Removed Member From Class: ClassName=SerialPhase12 Member=TP3O
+Removed Member From Class: ClassName=SerialPhase11 Member=U1N
+Removed Member From Class: ClassName=SerialPhase12 Member=U1O
+Removed Member From Class: ClassName=SerialPhase11 Member=U2N
+Removed Member From Class: ClassName=SerialPhase12 Member=U2O
+Removed Member From Class: ClassName=SerialPhase11 Member=U3N
+Removed Member From Class: ClassName=SerialPhase12 Member=U3O
+Added Component: Designator=C1M(SMD_CAP_7343)
+Added Component: Designator=C2M(SMD_0805)
+Added Component: Designator=C3M(SMD_CAP_7343)
+Added Component: Designator=C4M(SMD_0805)
+Added Component: Designator=L1M(SMD_1210_INDUCT)
+Added Component: Designator=L2M(SMD_1210_INDUCT)
+Added Component: Designator=R1M(SMD_0805)
+Added Component: Designator=R2M(SMD_0805)
+Added Component: Designator=TP3M(SMD_TEST POINT)
+Added Component: Designator=U1M(SOT23A)
+Added Component: Designator=U2M(182H_M)
+Added Component: Designator=U3M(182H_M)
+Added Pin To Net: NetName=A Pin=C1M-NEG
+Added Pin To Net: NetName=NetC1M_pos Pin=C1M-POS
+Added Pin To Net: NetName=VREFLO1 Pin=C2M-1
+Added Pin To Net: NetName=NetC2M_2 Pin=C2M-2
+Added Pin To Net: NetName=NetC3M_neg Pin=C3M-NEG
+Added Pin To Net: NetName=A Pin=C3M-POS
+Added Pin To Net: NetName=VREFLO1 Pin=C4M-1
+Added Pin To Net: NetName=VREFHI1 Pin=C4M-2
+Added Pin To Net: NetName=VREFHI1 Pin=L1M-1
+Added Pin To Net: NetName=NetC1M_pos Pin=L1M-2
+Added Pin To Net: NetName=VREFLO1 Pin=L2M-1
+Added Pin To Net: NetName=NetC3M_neg Pin=L2M-2
+Added Pin To Net: NetName=PH_CLK8 Pin=R1M-1
+Added Pin To Net: NetName=NetR1M_2 Pin=R1M-2
+Added Pin To Net: NetName=NetR2M_1 Pin=R2M-1
+Added Pin To Net: NetName=CDO8 Pin=R2M-2
+Added Pin To Net: NetName=NetR2M_1 Pin=TP3M-1
+Added Pin To Net: NetName=NetC2M_2 Pin=U1M-1
+Added Pin To Net: NetName=VREFHI1 Pin=U1M-2
+Added Pin To Net: NetName=VREFLO1 Pin=U1M-3
+Added Pin To Net: NetName=NetR1M_2 Pin=U2M-2
+Added Pin To Net: NetName=A Pin=U2M-3
+Added Pin To Net: NetName=NetC2M_2 Pin=U2M-5
+Added Pin To Net: NetName=NetU2M_6 Pin=U2M-6
+Added Pin To Net: NetName=VREFLO1 Pin=U2M-8
+Added Pin To Net: NetName=NetU2M_6 Pin=U3M-2
+Added Pin To Net: NetName=NetC3M_neg Pin=U3M-3
+Added Pin To Net: NetName=NetU2M_6 Pin=U3M-4
+Added Pin To Net: NetName=NetR2M_1 Pin=U3M-5
+Added Pin To Net: NetName=NetC1M_pos Pin=U3M-6
+Added Pin To Net: NetName=NetR2M_1 Pin=U3M-7
+Change Class Name : Old Net Name=SerialPhase6 New Net Name=SerialPhase9
+Change Class Name : Old Net Name=SerialPhase7 New Net Name=SerialPhase10
+Change Class Name : Old Net Name=SerialPhase8 New Net Name=SerialPhase11
+Change Class Name : Old Net Name=SerialPhase9 New Net Name=SerialPhase12
+Change Class Name : Old Net Name=SerialPhase10 New Net Name=SerialPhase7
+Change Class Name : Old Net Name=SerialPhase11 New Net Name=SerialPhase6
+Change Class Name : Old Net Name=SerialPhase12 New Net Name=SerialPhase8
+Added Member To Class: ClassName=SerialPhase6 Member=Component C1F (C1) 35V
+Added Member To Class: ClassName=SerialPhase7 Member=Component C1G (C1) 35V
+Added Member To Class: ClassName=SerialPhase8 Member=Component C1H (C1) 35V
+Added Member To Class: ClassName=SerialPhase13 Member=Component C1M (C1) 35V
+Added Member To Class: ClassName=SerialPhase6 Member=Component C2F (C2) Cap SMD
+Added Member To Class: ClassName=SerialPhase7 Member=Component C2G (C2) Cap SMD
+Added Member To Class: ClassName=SerialPhase8 Member=Component C2H (C2) Cap SMD
+Added Member To Class: ClassName=SerialPhase13 Member=Component C2M (C2) Cap SMD
+Added Member To Class: ClassName=SerialPhase6 Member=Component C3F (C3) 35V
+Added Member To Class: ClassName=SerialPhase7 Member=Component C3G (C3) 35V
+Added Member To Class: ClassName=SerialPhase8 Member=Component C3H (C3) 35V
+Added Member To Class: ClassName=SerialPhase13 Member=Component C3M (C3) 35V
+Added Member To Class: ClassName=SerialPhase6 Member=Component C4F (C4) Cap SMD
+Added Member To Class: ClassName=SerialPhase7 Member=Component C4G (C4) Cap SMD
+Added Member To Class: ClassName=SerialPhase8 Member=Component C4H (C4) Cap SMD
+Added Member To Class: ClassName=SerialPhase13 Member=Component C4M (C4) Cap SMD
+Added Member To Class: ClassName=SerialPhase6 Member=Component L1F (L1) Inductor
+Added Member To Class: ClassName=SerialPhase7 Member=Component L1G (L1) Inductor
+Added Member To Class: ClassName=SerialPhase8 Member=Component L1H (L1) Inductor
+Added Member To Class: ClassName=SerialPhase13 Member=Component L1M (L1) Inductor
+Added Member To Class: ClassName=SerialPhase6 Member=Component L2F (L2) Inductor
+Added Member To Class: ClassName=SerialPhase7 Member=Component L2G (L2) Inductor
+Added Member To Class: ClassName=SerialPhase8 Member=Component L2H (L2) Inductor
+Added Member To Class: ClassName=SerialPhase13 Member=Component L2M (L2) Inductor
+Added Member To Class: ClassName=SerialPhase6 Member=Component R1F (R1) Res SMD
+Added Member To Class: ClassName=SerialPhase7 Member=Component R1G (R1) Res SMD
+Added Member To Class: ClassName=SerialPhase8 Member=Component R1H (R1) Res SMD
+Added Member To Class: ClassName=SerialPhase13 Member=Component R1M (R1) Res SMD
+Added Member To Class: ClassName=SerialPhase6 Member=Component R2F (R2) Res SMD
+Added Member To Class: ClassName=SerialPhase7 Member=Component R2G (R2) Res SMD
+Added Member To Class: ClassName=SerialPhase8 Member=Component R2H (R2) Res SMD
+Added Member To Class: ClassName=SerialPhase13 Member=Component R2M (R2) Res SMD
+Added Member To Class: ClassName=SerialPhase6 Member=Component TP3F (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase7 Member=Component TP3G (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase8 Member=Component TP3H (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase13 Member=Component TP3M (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase6 Member=Component U1F (U1) LM3480IM3-5.0
+Added Member To Class: ClassName=SerialPhase7 Member=Component U1G (U1) LM3480IM3-5.0
+Added Member To Class: ClassName=SerialPhase8 Member=Component U1H (U1) LM3480IM3-5.0
+Added Member To Class: ClassName=SerialPhase13 Member=Component U1M (U1) LM3480IM3-5.0
+Added Member To Class: ClassName=SerialPhase6 Member=Component U2F (U2) FOD0708
+Added Member To Class: ClassName=SerialPhase7 Member=Component U2G (U2) FOD0708
+Added Member To Class: ClassName=SerialPhase8 Member=Component U2H (U2) FOD0708
+Added Member To Class: ClassName=SerialPhase13 Member=Component U2M (U2) FOD0708
+Added Member To Class: ClassName=SerialPhase6 Member=Component U3F (U3) IXDN404
+Added Member To Class: ClassName=SerialPhase7 Member=Component U3G (U3) IXDN404
+Added Member To Class: ClassName=SerialPhase8 Member=Component U3H (U3) IXDN404
+Added Member To Class: ClassName=SerialPhase13 Member=Component U3M (U3) IXDN404
+Added Room: Name=Reset Gate
+Added Room: Name=SerialPhase6
+Added Room: Name=SerialPhase8
+Added Room: Name=SerialPhase9
+Added Room: Name=SerialPhase10
+Added Room: Name=SerialPhase11
+Added Room: Name=SerialPhase12
+Added Room: Name=SerialPhase13
+Added Room: Name=SerialPhase14
+Added Room: Name=Summing Gate

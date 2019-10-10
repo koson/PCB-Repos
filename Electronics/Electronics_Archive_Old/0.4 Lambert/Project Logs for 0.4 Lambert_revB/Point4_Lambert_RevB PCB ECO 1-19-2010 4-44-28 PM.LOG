@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=R3-2
+Removed Member From Class: ClassName=BlackFin --> CPLD/Stepper Motor Drive Member=R3
+Removed Member From Class: ClassName=BlackFin --> CPLD/Stepper Motor Drive Member=R3

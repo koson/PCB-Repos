@@ -1,0 +1,22 @@
+Change Component DesignItemId : Designator=U8 Old DesignItemId=VRE3401 New DesignItemId=MAX6341
+Change Component Comment : Designator=TP29 Old Comment=+3.3V New Comment=
+Change Component Comment : Designator=TP27 Old Comment=+5ANA New Comment=
+Change Component Comment : Designator=TP25 Old Comment=+12V New Comment=
+Change Component Comment : Designator=TP28 Old Comment=+28V New Comment=
+Change Component Comment : Designator=TP30 Old Comment=-5ANA New Comment=
+Change Component Comment : Designator=TP31 Old Comment=-12V New Comment=
+Change Component Comment : Designator=TP14 Old Comment=AGND New Comment=
+Change Component Comment : Designator=TP15 Old Comment=AGND New Comment=
+Change Component Comment : Designator=TP16 Old Comment=AGND New Comment=
+Change Component Comment : Designator=TP17 Old Comment=AGND New Comment=
+Change Component Comment : Designator=TP18 Old Comment=DGND New Comment=
+Change Component Comment : Designator=J5 Old Comment=QMSS-EM-PC4 New Comment=
+Change Component Comment : Designator=TP11 Old Comment=Test point New Comment=
+Change Component Comment : Designator=TP12 Old Comment=Test point New Comment=
+Change Component Comment : Designator=TP13 Old Comment=Test point New Comment=
+Change Component Description : Designator=R8A Old Description= New Description=TCR matched
+Change Component Description : Designator=R8B Old Description= New Description=TCR matched
+Change Component Description : Designator=R8C Old Description= New Description=TCR matched
+Change Component Description : Designator=R8D Old Description= New Description=TCR matched
+Change Component Description : Designator=J5 Old Description=SAMTEC QMSS W/PWR PINS New Description=SAMTEC QMSS EDGE W/PWR PINS
+Added Class: Name=780-00002, rev2, Pg3, SCH, Sinistro ASP

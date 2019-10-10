@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 175-00065revB - PCB, Sinistro Camera Controller Extension.PcbDoc   2016-08-30  23:46:24
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 175-00065revB - PCB, Sinistro Camera Controller Extension-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00065revB - PCB, Sinistro Camera Controller Extension-NonPlated.TXT
+EIA File   : 175-00065revB - PCB, Sinistro Camera Controller Extension.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      22mil (0.559mm)                                           Round             31        PTH        11.31inch (287.17mm)
+T2      35mil (0.889mm)                                           Round             41        PTH        6.66inch (169.24mm)
+T3      60mil (1.524mm)                                           Round             31        PTH        12.51inch (317.65mm)
+T4      71mil (1.801mm)                                           Round             4         PTH        3.87inch (98.28mm)
+T5      138mil (3.5mm)                                            Round             4         NPTH       5.25inch (133.35mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              111
+
+Total Processing Time (hh:mm:ss) : 00:00:00

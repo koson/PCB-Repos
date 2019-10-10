@@ -1,0 +1,13 @@
+Added Component: Designator=P10(HDR1X2)
+Added Component: Designator=TP5(SMD_TEST POINT)
+Added Component: Designator=TP6(SMD_TEST POINT)
+Added Pin To Net: NetName=+12V Pin=C10-1
+Added Pin To Net: NetName=A Pin=P10-1
+Added Pin To Net: NetName=D Pin=P10-2
+Added Pin To Net: NetName=+12V Pin=TP5-1
+Added Pin To Net: NetName=4.096VREF Pin=TP6-1
+Added Pin To Net: NetName=+12V Pin=U4-2
+Added Member To Class: ClassName=780-00050, rev1, Pg1, SCH, Temp Controller Dev Board Member=Component J2 SAMTEC QSH-060-01-X-D-EM2
+Added Member To Class: ClassName=780-00050, rev1, Pg1, SCH, Temp Controller Dev Board Member=Component P10 Header 2
+Added Member To Class: ClassName=780-00050, rev1, Pg1, SCH, Temp Controller Dev Board Member=Component TP5 Test Point SMD
+Added Member To Class: ClassName=780-00050, rev1, Pg1, SCH, Temp Controller Dev Board Member=Component TP6 Test Point SMD

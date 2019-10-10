@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00043, rev1, CCD Simulator, Fairchild 486.PcbDoc   3/13/2012  12:07:44 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (GTL) to Bottom Layer (GBL)
+ASCII Plated RoundHoles File : 175-00043, rev1, CCD Simulator, Fairchild 486-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          78               20.09 Inch (510.29 mm)
+T2        33mil (0.8382mm)         Round          5                0.37 Inch (9.42 mm)
+T3        35mil (0.889mm)          Round          20               3.49 Inch (88.56 mm)
+T4        40mil (1.016mm)          Round          54               13.54 Inch (343.95 mm)
+---------------------------------------------------------------------------
+Totals                                            157              37.49 Inch (952.22 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

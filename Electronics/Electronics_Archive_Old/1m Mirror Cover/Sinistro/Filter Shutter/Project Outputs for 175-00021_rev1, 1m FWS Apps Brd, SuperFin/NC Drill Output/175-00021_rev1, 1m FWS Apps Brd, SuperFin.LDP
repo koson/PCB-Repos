@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Files\users\rlobdill\Altum Projects\Sinistro\Filter Shutter\175-00021_rev1, 1m FWS Apps Brd, SuperFin.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=175-00021_rev1, 1m fws apps brd, superfin-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=175-00021_rev1, 1m fws apps brd, superfin-nonplated.txt|LayerPairs=gtl,gbl

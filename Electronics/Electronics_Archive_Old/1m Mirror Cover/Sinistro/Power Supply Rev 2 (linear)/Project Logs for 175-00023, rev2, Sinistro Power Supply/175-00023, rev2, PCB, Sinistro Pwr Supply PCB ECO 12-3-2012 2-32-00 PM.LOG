@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5ANA Pin=TP14-1
+Removed Pin From Net: NetName=A Pin=TP14-2
+Removed Pin From Net: NetName=A Pin=TP14-2
+Removed Pin From Net: NetName=A Pin=TP14-2
+Removed Pin From Net: NetName=A Pin=TP14-2
+Removed Pin From Net: NetName=-5ANA Pin=TP15-1
+Removed Pin From Net: NetName=A Pin=TP15-2
+Removed Pin From Net: NetName=A Pin=TP15-2
+Removed Pin From Net: NetName=A Pin=TP15-2
+Removed Pin From Net: NetName=A Pin=TP15-2
+Removed Pin From Net: NetName=+12V Pin=TP16-1
+Removed Pin From Net: NetName=A Pin=TP16-2
+Removed Pin From Net: NetName=A Pin=TP16-2
+Removed Pin From Net: NetName=A Pin=TP16-2
+Removed Pin From Net: NetName=A Pin=TP16-2
+Removed Pin From Net: NetName=-12V Pin=TP17-1
+Removed Pin From Net: NetName=A Pin=TP17-2
+Removed Pin From Net: NetName=A Pin=TP17-2
+Removed Pin From Net: NetName=A Pin=TP17-2
+Removed Pin From Net: NetName=A Pin=TP17-2
+Removed Pin From Net: NetName=+28V Pin=TP18-1
+Removed Pin From Net: NetName=A Pin=TP18-2
+Removed Pin From Net: NetName=A Pin=TP18-2
+Removed Pin From Net: NetName=A Pin=TP18-2
+Removed Pin From Net: NetName=A Pin=TP18-2
+Removed Member From Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=TP14
+Removed Member From Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=TP15
+Removed Member From Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=TP16
+Removed Member From Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=TP17
+Removed Member From Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=TP18

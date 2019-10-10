@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=P16-4
+Added Pin To Net: NetName=24RTN Pin=P16-4
+Change Net Name : Old Net Name=+12V_ION New Net Name=+20V_ION

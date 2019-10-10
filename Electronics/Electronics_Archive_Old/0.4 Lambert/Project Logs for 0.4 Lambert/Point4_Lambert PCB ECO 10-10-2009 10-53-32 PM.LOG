@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J2 Old Footprint=DB15 HD PCB New Footprint=DSUB1.385-2H15
+Added Room: Name=BlackFin --> CPLD/Stepper Motor Drive
+Added Room: Name=LED Drive
+Added Room: Name=Power Supplies
+Added Room: Name=Schematic for PLD program
+Added Room: Name=Stepper Motor Driver IC
+Added Room: Name=Top_Level_IO

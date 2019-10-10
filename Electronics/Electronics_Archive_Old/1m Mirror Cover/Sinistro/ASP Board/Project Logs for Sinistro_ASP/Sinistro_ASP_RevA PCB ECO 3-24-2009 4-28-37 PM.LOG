@@ -1,0 +1,10 @@
+Added Component: Designator=RN1(RES ARRAY 0603 x 4)
+Added Pin To Net: NetName=TDI Pin=RN1-1
+Added Pin To Net: NetName=VCC Pin=RN1-2
+Added Pin To Net: NetName=TMS Pin=RN1-3
+Added Pin To Net: NetName=VCC Pin=RN1-4
+Added Pin To Net: NetName=TDO Pin=RN1-5
+Added Pin To Net: NetName=VCC Pin=RN1-6
+Added Pin To Net: NetName=TCK Pin=RN1-7
+Added Pin To Net: NetName=VCC Pin=RN1-8
+Added Member To Class: ClassName=CPLD Member=Component RN1 RES ARRAY  x4

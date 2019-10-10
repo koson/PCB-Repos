@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+12V_ION Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-2
+Removed Pin From Net: NetName=NetP7_25 Pin=P8-3
+Added Pin To Net: NetName=+24V Pin=P8-1
+Added Pin To Net: NetName=NetP7_25 Pin=P8-2
+Change Net Name : Old Net Name=NetP7_13 New Net Name=INTERLOCK_POS
+Change Net Name : Old Net Name=NetP7_15 New Net Name=INTERLOCK_NEG
+Change Net Name : Old Net Name=NetP7_17 New Net Name=V_MON
+Change Net Name : Old Net Name=NetP7_19 New Net Name=I_MON
+Added Pin To Net: NetName=HV_ON_MON Pin=P7-23
+Added Pin To Net: NetName=HV_ON_MON Pin=P8-3
+Added Net: Name=HV_ON_MON

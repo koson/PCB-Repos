@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=H1-0
+Removed Pin From Net: NetName=GND Pin=H1-0
+Added Component: Designator=C?(SMD_0805)
+Added Component: Designator=C?(SMD_0805)
+Added Component: Designator=C?(SMD_0805)
+Added Component: Designator=C?(SMD_0805)
+Added Component: Designator=C?(SMD_0805)
+Added Component: Designator=C?(SMD_0805)
+Added Component: Designator=C?(SMD_0805)
+Added Component: Designator=C?(SMD_0805)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Class: Name=Schematic for PLD program

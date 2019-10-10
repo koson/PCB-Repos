@@ -1,0 +1,12 @@
+Output: DrillDrawing
+Type  : Gerber
+From  : PCB Document [175-00021_rev2, 1m FWS Apps Brd, SuperFin.PcbDoc]
+   Generated File[175-00021_rev2, 1m FWS Apps Brd, SuperFin.GD1]
+   Generated File[175-00021_rev2, 1m FWS Apps Brd, SuperFin.EXTREP]
+   Generated File[175-00021_rev2, 1m FWS Apps Brd, SuperFin.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:03:58 PM On 4/26/2011

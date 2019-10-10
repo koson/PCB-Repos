@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=A Pin=TP6-1
+Removed Pin From Net: NetName=A Pin=TP7-1
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=TP6
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=TP7

@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=S1Q1 Pin=J2-K
+Added Net: Name=S1Q1
+Added Pin To Net: NetName=S1Q2 Pin=J2-L
+Added Net: Name=S1Q2
+Added Pin To Net: NetName=S1Q3 Pin=J2-R
+Added Net: Name=S1Q3
+Added Pin To Net: NetName=S1Q4 Pin=J2-S
+Added Net: Name=S1Q4
+Added Pin To Net: NetName=S2Q1 Pin=J2-dd
+Added Net: Name=S2Q1
+Added Pin To Net: NetName=S2Q2 Pin=J2-ee
+Added Net: Name=S2Q2
+Added Pin To Net: NetName=S2Q3 Pin=J2-ff
+Added Net: Name=S2Q3
+Added Pin To Net: NetName=S2Q4 Pin=J2-gg
+Added Net: Name=S2Q4
+Added Pin To Net: NetName=S3 Pin=J2-N
+Added Net: Name=S3

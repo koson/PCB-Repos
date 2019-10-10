@@ -1,0 +1,95 @@
+Removed Member From Class: ClassName=780-00018_rev2_Pg1 Member=TP6
+Removed Member From Class: ClassName=780-00018_rev2_Pg1 Member=TP14
+Added Component: Designator=C4(SMD_0805)
+Added Component: Designator=C10(SMD_0805)
+Added Component: Designator=C14(SMD_0805)
+Added Component: Designator=C23(SMD_0805)
+Added Component: Designator=C27(SMD_0805)
+Added Component: Designator=C28(SMD_0805)
+Added Component: Designator=F1(SMD 2920  PolySwitch)
+Added Component: Designator=F2(SMD 2920  PolySwitch)
+Added Component: Designator=Q2(SOT223 w/PowerPAD)
+Added Component: Designator=Q4(SOT223 w/PowerPAD)
+Added Component: Designator=R2(SMD_0805)
+Added Component: Designator=R9(SMD_0805)
+Added Component: Designator=R10(SMD_0805)
+Added Component: Designator=R18(SMD_0805)
+Added Component: Designator=R19(SMD_0805)
+Added Component: Designator=R20(SMD_0805)
+Added Pin To Net: NetName=+24V Pin=C10-1
+Added Pin To Net: NetName=A Pin=C10-2
+Added Pin To Net: NetName=-5ANA Pin=C14-1
+Added Pin To Net: NetName=A Pin=C14-2
+Added Pin To Net: NetName=+24V Pin=C27-1
+Added Pin To Net: NetName=A Pin=C27-2
+Added Pin To Net: NetName=-5ANA Pin=C28-1
+Added Pin To Net: NetName=A Pin=C28-2
+Added Pin To Net: NetName=HEATER(+) Pin=F1-1
+Added Pin To Net: NetName=COLDBLK(+) Pin=F2-1
+Added Pin To Net: NetName=GND Pin=P2-aa
+Added Pin To Net: NetName=GND Pin=P2-Y
+Added Pin To Net: NetName=GND Pin=P7-110
+Added Pin To Net: NetName=GND Pin=P7-130
+Added Pin To Net: NetName=+24V Pin=Q2-4
+Added Pin To Net: NetName=+24V Pin=Q2-4
+Added Pin To Net: NetName=+24V Pin=Q2-4
+Added Pin To Net: NetName=+24V Pin=Q2-4
+Added Pin To Net: NetName=+24V Pin=Q2-4
+Added Pin To Net: NetName=+24V Pin=Q2-4
+Added Pin To Net: NetName=+24V Pin=Q2-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=A Pin=R2-2
+Added Pin To Net: NetName=A Pin=R10-1
+Added Pin To Net: NetName=DAC_CCD_HEATER Pin=R10-2
+Added Pin To Net: NetName=A Pin=R18-2
+Added Pin To Net: NetName=A Pin=R20-1
+Added Pin To Net: NetName=DAC_CRYO_HEATER Pin=R20-2
+Added Pin To Net: NetName=DAC_CCD_HEATER Pin=TP1-1
+Added Pin To Net: NetName=DAC_CRYO_HEATER Pin=TP2-1
+Added Pin To Net: NetName=HEATER(+) Pin=TP5-1
+Added Pin To Net: NetName=COLDBLK(+) Pin=TP13-1
+Change Net Name : Old Net Name=GND New Net Name=COLDBLK(-)
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=F1-2
+Added Pin To Net: NetName=NetC4_2 Pin=Q2-3
+Added Pin To Net: NetName=NetC4_2 Pin=R9-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=R18-1
+Added Pin To Net: NetName=NetC23_1 Pin=R19-2
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=F2-2
+Added Pin To Net: NetName=NetC23_2 Pin=Q4-3
+Added Pin To Net: NetName=NetC23_2 Pin=R19-1
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Net: Name=NetQ4_1
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component C4 Cap SMD
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component C10 Cap SMD
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component C14 Cap SMD
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component C23 Cap SMD
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component C27 Cap SMD
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component C28 Cap SMD
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component F1 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component F2 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component Q2 NJT4031N
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component Q4 NJT4031N
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R2 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R9 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R10 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R18 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R19 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R20 Res 0805

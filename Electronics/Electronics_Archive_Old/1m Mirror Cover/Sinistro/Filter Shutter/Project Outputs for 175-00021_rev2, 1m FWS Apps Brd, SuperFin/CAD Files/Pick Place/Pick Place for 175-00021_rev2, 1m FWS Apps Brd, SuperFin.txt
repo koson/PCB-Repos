@@ -1,0 +1,18 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator TARGET_MECHANICAL_5  -31062.26mil -18090.787mil       3535mil       2152mil  -31062.26mil -18090.787mil  T          0.00 Comment        
+Designator TARGET_MECHANICAL_5  -31062.26mil -18090.787mil       -686mil       -516mil  -31062.26mil -18090.787mil  T          0.00 Comment        
+Designator TARGET_MECHANICAL_5  -31062.26mil -18090.787mil       -719mil       2152mil  -31062.26mil -18090.787mil  T          0.00 Comment        
+J1         QMS_EDGE_PWR_PINS_-_104_PIN   1653.543mil    498.031mil   1653.543mil    442.913mil    921.093mil    512.061mil  B        180.00 QMSS-EM-PC4-104pin
+P1         HDR1X8_for_IDC    2220.079mil    925.197mil   1870.079mil    925.197mil   1870.079mil    925.197mil  T        360.00 Header 8       
+P9         FC1_FLEX_CABLE_CONNECTOR_25_POS    728.346mil   1318.898mil    728.346mil   1318.898mil   1200.793mil   1270.669mil  T        180.00 Header 25 for flex cable
+P3         FC1_FLEX_CABLE_CONNECTOR_25_POS   2047.244mil   1318.898mil   2047.244mil   1318.898mil   2519.691mil   1270.669mil  T        180.00 Header 25 for flex cable
+P4         HDR1X8_for_IDC      468.11mil    925.197mil     118.11mil    925.197mil     118.11mil    925.197mil  T        360.00 Header 8       
+P5         HDR1X8_for_IDC    1353.937mil    925.197mil   1003.937mil    925.197mil   1003.937mil    925.197mil  T        360.00 Header 8       
+P8         FC1_FLEX_CABLE_CONNECTOR_25_POS   3110.236mil    866.142mil   3110.236mil    866.142mil   3062.008mil    393.695mil  T         90.00 Header 25 for flex cable
+P7         HDR1X6_for_IDC    2775.591mil   1127.953mil   2775.591mil   1377.953mil   2775.591mil   1377.953mil  T        270.00 Header 6       
+S1         CAS-120B               200mil        440mil        200mil        440mil    131.102mil    363.228mil  T          0.00 CJS-1200TB     
+U1         SOP8_N                 235mil        680mil        235mil        680mil    136.575mil        755mil  T        360.00 M24C32RMN1     
+RN1        RES_ARRAY_0603_x_4   1792.244mil    657.323mil       1745mil        615mil       1745mil    618.937mil  T          0.00 RES ARRAY  x4 10K
+RN2        RES_ARRAY_0603_x_4   1952.244mil    657.323mil       1905mil        615mil       1905mil    618.937mil  T          0.00 RES ARRAY  x4 10K
+

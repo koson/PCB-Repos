@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=AX1_IN1 Pin=TP4-1
+Removed Pin From Net: NetName=AX1_IN2 Pin=TP6-1
+Removed Pin From Net: NetName=AX2_IN1 Pin=TP8-1
+Removed Pin From Net: NetName=AX2_IN2 Pin=TP10-1
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=TP4
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=TP6
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=TP8
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=TP10
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=TP10

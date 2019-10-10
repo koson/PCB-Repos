@@ -1,0 +1,8 @@
+Added Component: Designator=C46(SMD_0805)
+Added Component: Designator=C47(SMD_0805)
+Added Pin To Net: NetName=A Pin=C46-1
+Added Pin To Net: NetName=-5ANA Pin=C46-2
+Added Pin To Net: NetName=-5ANA Pin=C47-1
+Added Pin To Net: NetName=A Pin=C47-2
+Added Member To Class: ClassName=Bias Voltages Member=Component C46 Cap SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component C47 Cap SMD

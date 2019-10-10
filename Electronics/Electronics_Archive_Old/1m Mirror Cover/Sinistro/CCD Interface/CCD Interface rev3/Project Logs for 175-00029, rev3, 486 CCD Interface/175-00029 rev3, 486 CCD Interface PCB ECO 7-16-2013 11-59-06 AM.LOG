@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=780-00033 rev 2, 486 CCD Interface New Net Name=780-00033 rev 3, 486 CCD Interface
+Change Room Name: Old Name=780-00033 rev 2, 486 CCD Interface New Name=780-00033 rev 3, 486 CCD Interface
+Change Room Scope: Old Scope=InComponentClass('780-00033 rev 2, 486 CCD Interface') New Scope=InComponentClass('780-00033 rev 3, 486 CCD Interface')

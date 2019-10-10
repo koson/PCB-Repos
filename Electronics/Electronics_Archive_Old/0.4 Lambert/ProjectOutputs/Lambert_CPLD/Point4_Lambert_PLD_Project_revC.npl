@@ -1,0 +1,10 @@
+JDF G
+PROJECT Point4_Lambert_PLD_Project_revC
+DESIGN Point4_Lambert_PLD_Project_revC
+DEVFAM XPLA3
+DEVICE XCR3128XL
+DEVPKG VQ100
+DEVSPEED -10
+DEVTOPLEVELMODULETYPE EDIF
+SOURCE Point4_Lambert_PLD_Project_revC.EDF
+DEPASSOC Point4_Lambert_PLD_Project_revC Point4_Lambert_PLD_Project_revC_BUILD.ucf

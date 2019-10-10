@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=C21-1
+Added Pin To Net: NetName=NetC22_pos Pin=C21-1
+Change Net Name : Old Net Name=NetC22_pos New Net Name=NetC21_1

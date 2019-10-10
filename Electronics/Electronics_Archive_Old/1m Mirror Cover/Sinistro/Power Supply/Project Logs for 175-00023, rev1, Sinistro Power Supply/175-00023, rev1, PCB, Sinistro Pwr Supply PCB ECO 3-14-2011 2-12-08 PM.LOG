@@ -1,0 +1,35 @@
+Added Component: Designator=TP14(Test Point Tektronix probe)
+Added Component: Designator=TP15(Test Point Tektronix probe)
+Added Component: Designator=TP16(Test Point Tektronix probe)
+Added Component: Designator=TP17(Test Point Tektronix probe)
+Added Component: Designator=TP18(Test Point Tektronix probe)
+Added Pin To Net: NetName=+VOUT_PWRA Pin=TP14-1
+Added Pin To Net: NetName=A Pin=TP14-2
+Added Pin To Net: NetName=A Pin=TP14-2
+Added Pin To Net: NetName=A Pin=TP14-2
+Added Pin To Net: NetName=A Pin=TP14-2
+Added Pin To Net: NetName=-VOUT_PWRA Pin=TP15-1
+Added Pin To Net: NetName=A Pin=TP15-2
+Added Pin To Net: NetName=A Pin=TP15-2
+Added Pin To Net: NetName=A Pin=TP15-2
+Added Pin To Net: NetName=A Pin=TP15-2
+Added Pin To Net: NetName=+VOUT_PWRB Pin=TP16-1
+Added Pin To Net: NetName=A Pin=TP16-2
+Added Pin To Net: NetName=A Pin=TP16-2
+Added Pin To Net: NetName=A Pin=TP16-2
+Added Pin To Net: NetName=A Pin=TP16-2
+Added Pin To Net: NetName=-VOUT_PWRB Pin=TP17-1
+Added Pin To Net: NetName=A Pin=TP17-2
+Added Pin To Net: NetName=A Pin=TP17-2
+Added Pin To Net: NetName=A Pin=TP17-2
+Added Pin To Net: NetName=A Pin=TP17-2
+Added Pin To Net: NetName=+28V Pin=TP18-1
+Added Pin To Net: NetName=A Pin=TP18-2
+Added Pin To Net: NetName=A Pin=TP18-2
+Added Pin To Net: NetName=A Pin=TP18-2
+Added Pin To Net: NetName=A Pin=TP18-2
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component TP14 Test Point Scope Probe
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component TP15 Test Point Scope Probe
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component TP16 Test Point Scope Probe
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component TP17 Test Point Scope Probe
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component TP18 Test Point Scope Probe

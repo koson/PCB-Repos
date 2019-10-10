@@ -1,0 +1,88 @@
+Change Component Designator: OldDesignator=C7_5V_PS NewDesignator=C7A
+Change Component Designator: OldDesignator=C7_12V_PS NewDesignator=C7B
+Change Component Designator: OldDesignator=C7_30V_PS NewDesignator=C7C
+Change Component Designator: OldDesignator=C8_5V_PS NewDesignator=C8A
+Change Component Designator: OldDesignator=C8_12V_PS NewDesignator=C8B
+Change Component Designator: OldDesignator=C8_30V_PS NewDesignator=C8C
+Change Component Designator: OldDesignator=C9_5V_PS NewDesignator=C9A
+Change Component Designator: OldDesignator=C9_12V_PS NewDesignator=C9B
+Change Component Designator: OldDesignator=C9_30V_PS NewDesignator=C9C
+Change Component Designator: OldDesignator=C10_5V_PS NewDesignator=C10A
+Change Component Designator: OldDesignator=C10_12V_PS NewDesignator=C10B
+Change Component Designator: OldDesignator=C10_30V_PS NewDesignator=C10C
+Change Component Designator: OldDesignator=C11_5V_PS NewDesignator=C11A
+Change Component Designator: OldDesignator=C11_12V_PS NewDesignator=C11B
+Change Component Designator: OldDesignator=C11_30V_PS NewDesignator=C11C
+Change Component Designator: OldDesignator=C12_5V_PS NewDesignator=C12A
+Change Component Designator: OldDesignator=C12_12V_PS NewDesignator=C12B
+Change Component Designator: OldDesignator=C12_30V_PS NewDesignator=C12C
+Change Component Designator: OldDesignator=C13_5V_PS NewDesignator=C13A
+Change Component Designator: OldDesignator=C13_12V_PS NewDesignator=C13B
+Change Component Designator: OldDesignator=C13_30V_PS NewDesignator=C13C
+Change Component Designator: OldDesignator=C14_5V_PS NewDesignator=C14A
+Change Component Designator: OldDesignator=C14_12V_PS NewDesignator=C14B
+Change Component Designator: OldDesignator=C14_30V_PS NewDesignator=C14C
+Change Component Designator: OldDesignator=C15_5V_PS NewDesignator=C15A
+Change Component Designator: OldDesignator=C15_12V_PS NewDesignator=C15B
+Change Component Designator: OldDesignator=C15_30V_PS NewDesignator=C15C
+Change Component Designator: OldDesignator=C16_5V_PS NewDesignator=C16A
+Change Component Designator: OldDesignator=C16_12V_PS NewDesignator=C16B
+Change Component Designator: OldDesignator=C16_30V_PS NewDesignator=C16C
+Change Component Designator: OldDesignator=C17_5V_PS NewDesignator=C17A
+Change Component Designator: OldDesignator=C17_12V_PS NewDesignator=C17B
+Change Component Designator: OldDesignator=C17_30V_PS NewDesignator=C17C
+Change Component Designator: OldDesignator=F1_5V_PS NewDesignator=F1A
+Change Component Designator: OldDesignator=F1_12V_PS NewDesignator=F1B
+Change Component Designator: OldDesignator=F1_30V_PS NewDesignator=F1C
+Change Component Designator: OldDesignator=FB1_5V_PS NewDesignator=FB1A
+Change Component Designator: OldDesignator=FB1_12V_PS NewDesignator=FB1B
+Change Component Designator: OldDesignator=FB1_30V_PS NewDesignator=FB1C
+Change Component Designator: OldDesignator=FB2_5V_PS NewDesignator=FB2A
+Change Component Designator: OldDesignator=FB2_12V_PS NewDesignator=FB2B
+Change Component Designator: OldDesignator=FB2_30V_PS NewDesignator=FB2C
+Change Component Designator: OldDesignator=L1_5V_PS NewDesignator=L1A
+Change Component Designator: OldDesignator=L1_12V_PS NewDesignator=L1B
+Change Component Designator: OldDesignator=L1_30V_PS NewDesignator=L1C
+Change Component Designator: OldDesignator=PS1_5V_PS NewDesignator=PS1A
+Change Component Designator: OldDesignator=PS1_12V_PS NewDesignator=PS1B
+Change Component Designator: OldDesignator=PS1_30V_PS NewDesignator=PS1C
+Change Component Designator: OldDesignator=R8_5V_PS NewDesignator=R8A
+Change Component Designator: OldDesignator=R8_12V_PS NewDesignator=R8B
+Change Component Designator: OldDesignator=R8_30V_PS NewDesignator=R8C
+Change Component Designator: OldDesignator=R9_5V_PS NewDesignator=R9A
+Change Component Designator: OldDesignator=R9_12V_PS NewDesignator=R9B
+Change Component Designator: OldDesignator=R9_30V_PS NewDesignator=R9C
+Change Component Designator: OldDesignator=U6_5V_PS NewDesignator=U6A
+Change Component Designator: OldDesignator=U6_12V_PS NewDesignator=U6B
+Change Component Designator: OldDesignator=U6_30V_PS NewDesignator=U6C
+Change Component Designator: OldDesignator=U7_5V_PS NewDesignator=U7A
+Change Component Designator: OldDesignator=U7_12V_PS NewDesignator=U7B
+Change Component Designator: OldDesignator=U7_30V_PS NewDesignator=U7C
+Change Net Name : Old Net Name=+VOUT_PWR_5V_PS New Net Name=+VOUT_PWRA
+Change Net Name : Old Net Name=+VOUT_PWR_12V_PS New Net Name=+VOUT_PWRB
+Change Net Name : Old Net Name=+VOUT_PWR_30V_PS New Net Name=+VOUT_PWRC
+Change Net Name : Old Net Name=-I_MON_OUT_30V_PS New Net Name=-I_MON_OUTC
+Change Net Name : Old Net Name=-VOUT_PWR_5V_PS New Net Name=-VOUT_PWRA
+Change Net Name : Old Net Name=-VOUT_PWR_12V_PS New Net Name=-VOUT_PWRB
+Change Net Name : Old Net Name=-VOUT_PWR_30V_PS New Net Name=-VOUT_PWRC
+Change Net Name : Old Net Name=COM_PWR_5V_PS New Net Name=COM_PWRA
+Change Net Name : Old Net Name=COM_PWR_12V_PS New Net Name=COM_PWRB
+Change Net Name : Old Net Name=COM_PWR_30V_PS New Net Name=COM_PWRC
+Change Net Name : Old Net Name=NetC8_5V_PS_pos New Net Name=NetC8A_pos
+Change Net Name : Old Net Name=NetC8_12V_PS_pos New Net Name=NetC8B_pos
+Change Net Name : Old Net Name=NetC8_30V_PS_pos New Net Name=NetC8C_pos
+Change Net Name : Old Net Name=NetC9_5V_PS_pos New Net Name=NetC9A_pos
+Change Net Name : Old Net Name=NetC9_12V_PS_pos New Net Name=NetC9B_pos
+Change Net Name : Old Net Name=NetC9_30V_PS_pos New Net Name=NetC9C_pos
+Change Net Name : Old Net Name=NetC10_5V_PS_pos New Net Name=NetC10A_pos
+Change Net Name : Old Net Name=NetC10_12V_PS_pos New Net Name=NetC10B_pos
+Change Net Name : Old Net Name=NetC10_30V_PS_pos New Net Name=NetC10C_pos
+Change Net Name : Old Net Name=NetC11_5V_PS_pos New Net Name=NetC11A_pos
+Change Net Name : Old Net Name=NetC11_12V_PS_pos New Net Name=NetC11B_pos
+Change Net Name : Old Net Name=NetC11_30V_PS_pos New Net Name=NetC11C_pos
+Change Net Name : Old Net Name=NetC12_5V_PS_neg New Net Name=NetC12A_neg
+Change Net Name : Old Net Name=NetC12_12V_PS_neg New Net Name=NetC12B_neg
+Change Net Name : Old Net Name=NetC12_30V_PS_neg New Net Name=NetC12C_neg
+Change Net Name : Old Net Name=NetC13_5V_PS_neg New Net Name=NetC13A_neg
+Change Net Name : Old Net Name=NetC13_12V_PS_neg New Net Name=NetC13B_neg
+Change Net Name : Old Net Name=NetC13_30V_PS_neg New Net Name=NetC13C_neg

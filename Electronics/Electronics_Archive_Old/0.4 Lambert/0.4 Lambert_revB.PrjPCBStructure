@@ -1,0 +1,18 @@
+Record=SheetSymbol|SourceDocument=Blackfin_revB.SchDoc|Designator=Schematic for PLD program|SchDesignator=Schematic for PLD program|FileName=FPGA_U1_Auto_revB.SchDoc|SymbolType=Normal|RawFileName=FPGA_U1_Auto_revB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Blackfin_revB.SchDoc|Designator=Stepper Motor Driver IC|SchDesignator=Stepper Motor Driver IC|FileName=Stepper_Motor_Drive_revB.SchDoc|SymbolType=Normal|RawFileName=Stepper_Motor_Drive_revB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top_Level_IO_revB.SchDoc|Designator=BlackFin --> CPLD/Stepper Motor Drive|SchDesignator=BlackFin --> CPLD/Stepper Motor Drive|FileName=Blackfin_revB.SchDoc|SymbolType=Normal|RawFileName=Blackfin_revB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top_Level_IO_revB.SchDoc|Designator=LED Drive|SchDesignator=LED Drive|FileName=LED_Drive_RevB.SchDoc|SymbolType=Normal|RawFileName=LED_Drive_RevB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top_Level_IO_revB.SchDoc|Designator=Power Supplies|SchDesignator=Power Supplies|FileName=Power Input_revB.SchDoc|SymbolType=Normal|RawFileName=Power Input_revB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=TopLevelDocument|FileName=Top_Level_IO_revB.SchDoc
+Record=FPGA_COMPONENT|BaseComponentDesignator=U1|DocumentName=FPGA_U1_Auto_revB.SchDoc|LibraryReference=XCR3128XL-10VQ100C|SubProjectPath=Point4_Lambert_PLD_Project.PrjFpg|Configuration=Lambert_CPLD|Description=CoolRunner XPLA3, 3.3V, 128 Macrocell CPLD, 100-Pin VQFP, Commercial Grade|NexusDeviceId=XCR3128XL-10VQ100C|SubPartUniqueId1=GAMUMAPQ|SubPartDocPath1=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId2=BTXGNEIL|SubPartDocPath2=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId3=ESGBOQVJ|SubPartDocPath3=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId4=UHQWSHPN|SubPartDocPath4=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId5=TLKRXALF|SubPartDocPath5=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId6=CJKBNWOR|SubPartDocPath6=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId7=GCTEOKAL|SubPartDocPath7=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId8=HSLXKDRL|SubPartDocPath8=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId9=XOXMHJAC|SubPartDocPath9=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId10=WFXVATBB|SubPartDocPath10=FPGA_U1_Auto_revB.SchDoc|SubPartUniqueId11=JYNIJFYL|SubPartDocPath11=FPGA_U1_Auto_revB.SchDoc

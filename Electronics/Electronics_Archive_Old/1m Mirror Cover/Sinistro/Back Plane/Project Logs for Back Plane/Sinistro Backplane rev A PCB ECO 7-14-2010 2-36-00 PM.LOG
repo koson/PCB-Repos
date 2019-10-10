@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=RG Pin=P2-C
+Removed Pin From Net: NetName=S3 Pin=P2-F
+Removed Pin From Net: NetName=SG Pin=P2-X
+Removed Pin From Net: NetName=SG Pin=P6-109
+Removed Pin From Net: NetName=RG Pin=P6-113
+Removed Pin From Net: NetName=S3 Pin=P6-118
+Change Net Name : Old Net Name=P1A New Net Name=P1A_DRV
+Change Net Name : Old Net Name=P1B New Net Name=P1B_DRV
+Change Net Name : Old Net Name=P2A New Net Name=P2A_DRV
+Change Net Name : Old Net Name=P2B New Net Name=P2B_DRV
+Change Net Name : Old Net Name=P3A New Net Name=P3A_DRV
+Change Net Name : Old Net Name=P3B New Net Name=P3B_DRV
+Change Net Name : Old Net Name=S1Q1 New Net Name=S1Q1_DRV
+Change Net Name : Old Net Name=S1Q2 New Net Name=S1Q2_DRV
+Change Net Name : Old Net Name=S1Q3 New Net Name=S1Q3_DRV
+Change Net Name : Old Net Name=S1Q4 New Net Name=S1Q4_DRV
+Change Net Name : Old Net Name=S2Q1 New Net Name=S2Q1_DRV
+Change Net Name : Old Net Name=S2Q2 New Net Name=S2Q2_DRV
+Change Net Name : Old Net Name=S2Q3 New Net Name=S2Q3_DRV
+Change Net Name : Old Net Name=S2Q4 New Net Name=S2Q4_DRV
+Change Net Name : Old Net Name=TGA New Net Name=TGA_DRV
+Change Net Name : Old Net Name=TGB New Net Name=TGB_DRV
+Added Pin To Net: NetName=RG_DRV Pin=P2-C
+Added Pin To Net: NetName=RG_DRV Pin=P6-113
+Added Net: Name=RG_DRV
+Added Pin To Net: NetName=S3_DRV Pin=P2-F
+Added Pin To Net: NetName=S3_DRV Pin=P6-118
+Added Net: Name=S3_DRV
+Added Pin To Net: NetName=SG_DRV Pin=P2-X
+Added Pin To Net: NetName=SG_DRV Pin=P6-109
+Added Net: Name=SG_DRV

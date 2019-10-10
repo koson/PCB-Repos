@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=AGND Pin=J2-mm
+Removed Pin From Net: NetName=AGND Pin=J2-nn
+Added Component: Designator=R1(AXIAL-0.5)
+Added Component: Designator=R2(AXIAL-0.5)
+Added Component: Designator=RTD5(RTD 1x8mm)
+Added Pin To Net: NetName=COLDBLK(+) Pin=R1-2
+Added Net: Name=COLDBLK(+)
+Added Pin To Net: NetName=COLDBLK(-) Pin=R2-1
+Added Net: Name=COLDBLK(-)
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=RTD_CB(+) Pin=J2-mm
+Added Pin To Net: NetName=RTD_CB(+) Pin=RTD5-1
+Added Net: Name=RTD_CB(+)
+Added Pin To Net: NetName=RTD_CB(-) Pin=J2-nn
+Added Pin To Net: NetName=RTD_CB(-) Pin=RTD5-2
+Added Net: Name=RTD_CB(-)
+Added Member To Class: ClassName=Flex_Circuit Member=Component R1 
+Added Member To Class: ClassName=Flex_Circuit Member=Component R2 
+Added Member To Class: ClassName=Flex_Circuit Member=Component RTD5 RTD 2-wire, 1x8mm

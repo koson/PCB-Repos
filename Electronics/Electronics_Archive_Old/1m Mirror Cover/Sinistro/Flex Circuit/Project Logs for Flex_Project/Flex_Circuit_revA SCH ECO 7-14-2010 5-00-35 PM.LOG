@@ -1,0 +1,54 @@
+Remove Pin=J2C-aa From Net=S1Q3
+Remove Pin=J2A-A From Net=TGB
+Remove Pin=J2C-bb From Net=A3OUT
+Remove Pin=J2A-B From Net=S2Q2
+Remove Pin=J2C-cc From Net=S3
+Remove Pin=J2A-C From Net=S1Q2
+Remove Pin=J2A-D From Net=A2OUT
+Remove Pin=J2C-ee From Net=S1Q1
+Remove Pin=J2C-ff From Net=P3B
+Remove Pin=J2A-F From Net=COLDBLK(+)
+Remove Pin=J2C-gg From Net=P1B
+Remove Pin=J2D-hh From Net=S2Q4
+Remove Pin=J2D-ii From Net=P2A
+Remove Pin=J2A-J From Net=S2Q3
+Remove Pin=J2D-jj From Net=RTDS(+)
+Remove Pin=J2A-K From Net=P2B
+Remove Pin=J2D-kk From Net=S2Q1
+Remove Pin=J2B-M From Net=HEATER(+)
+Remove Pin=J2B-N From Net=HEATER(-)
+Remove Pin=J2B-P From Net=S1Q4
+Remove Pin=J2B-R From Net=VOG
+Remove Pin=J2B-S From Net=VOD
+Remove Pin=J2B-U From Net=A4OUT
+Remove Pin=J2B-V From Net=RTDF(+)
+Remove Pin=J2B-W From Net=TGA
+Remove Pin=J2C-X From Net=RTDS(-)
+Remove Pin=J2C-Z From Net=RG
+Add Pin To Net: Pin=J2C-aa Old Net=S1Q3 New Net=S2Q3
+Add Pin To Net: Pin=J2A-A Old Net=TGB New Net=HEATER(+)
+Add Pin To Net: Pin=J2C-bb Old Net=A3OUT New Net=S3
+Add Pin To Net: Pin=J2A-B Old Net=S2Q2 New Net=P2B
+Add Pin To Net: Pin=J2C-cc Old Net=S3 New Net=S1Q2
+Add Pin To Net: Pin=J2A-C Old Net=S1Q2 New Net=A3OUT
+Add Pin To Net: Pin=J2A-D Old Net=A2OUT New Net=COLDBLK(+)
+Add Pin To Net: Pin=J2C-ee Old Net=S1Q1 New Net=S2Q1
+Add Pin To Net: Pin=J2C-ff Old Net=P3B New Net=TGA
+Add Pin To Net: Pin=J2A-F Old Net=COLDBLK(+) New Net=A2OUT
+Add Pin To Net: Pin=J2C-gg Old Net=P1B New Net=P2A
+Add Pin To Net: Pin=J2D-hh Old Net=S2Q4 New Net=P1B
+Add Pin To Net: Pin=J2D-ii Old Net=P2A New Net=P3B
+Add Pin To Net: Pin=J2D-jj Old Net=RTDS(+) New Net=VOD
+Add Pin To Net: Pin=J2A-J Old Net=S2Q3 New Net=S1Q3
+Add Pin To Net: Pin=J2D-kk Old Net=S2Q1 New Net=TGB
+Add Pin To Net: Pin=J2A-K Old Net=P2B New Net=RG
+Add Pin To Net: Pin=J2B-M Old Net=HEATER(+) New Net=S1Q1
+Add Pin To Net: Pin=J2B-N Old Net=HEATER(-) New Net=RTDS(+)
+Add Pin To Net: Pin=J2B-P Old Net=S1Q4 New Net=RTDS(-)
+Add Pin To Net: Pin=J2B-R Old Net=VOG New Net=S1Q4
+Add Pin To Net: Pin=J2B-S Old Net=VOD New Net=S2Q4
+Add Pin To Net: Pin=J2B-U Old Net=A4OUT New Net=RTDF(+)
+Add Pin To Net: Pin=J2B-V Old Net=RTDF(+) New Net=A4OUT
+Add Pin To Net: Pin=J2B-W Old Net=TGA New Net=HEATER(-)
+Add Pin To Net: Pin=J2C-X Old Net=RTDS(-) New Net=VOG
+Add Pin To Net: Pin=J2C-Z Old Net=RG New Net=S2Q2

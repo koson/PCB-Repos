@@ -1,0 +1,128 @@
+Protel Design System Design Rule Check
+PCB File : \\Files\users\rlobdill\Altum Projects\Sinistro\Clock Board\Sinistro_CLK_RevA.PcbDoc
+Date     : 6/15/2009
+Time     : 2:56:18 PM
+
+Processing Rule : Room +5V References (Bounding Region = (543.0012mm, 401.1805mm, 563.0232mm, 409.3085mm) (InComponentClass('Components Class -1'))
+Rule Violations :0
+
+Processing Rule : Room Analog (Bounding Region = (667.512mm, 464.7184mm, 689.3814mm, 499.5164mm) (InComponentClass('Analog'))
+Rule Violations :0
+
+Processing Rule : Room Bias Voltages (Bounding Region = (660.8572mm, 410.464mm, 690.8292mm, 440.69mm) (InComponentClass('Bias Voltages'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps3 (Bounding Region = (586.9332mm, 477.1565mm, 600.9332mm, 497.1565mm) (InComponentClass('RefAmps3'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase14 (Bounding Region = (613.9332mm, 416.40648mm, 632.1832mm, 428.40648mm) (InComponentClass('SerialPhase14'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase8 (Bounding Region = (591.4332mm, 430.90648mm, 609.6832mm, 442.90648mm) (InComponentClass('SerialPhase8'))
+Rule Violations :0
+
+Processing Rule : Room Summing Gate (Bounding Region = (636.4332mm, 416.40648mm, 654.6832mm, 428.40648mm) (InComponentClass('Summing Gate'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase13 (Bounding Region = (591.4332mm, 416.40648mm, 609.6832mm, 428.40648mm) (InComponentClass('SerialPhase13'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase12 (Bounding Region = (568.9332mm, 416.40648mm, 587.1832mm, 428.40648mm) (InComponentClass('SerialPhase12'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase10 (Bounding Region = (636.4332mm, 430.90648mm, 654.6832mm, 442.90648mm) (InComponentClass('SerialPhase10'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase9 (Bounding Region = (613.9332mm, 430.90648mm, 632.1832mm, 442.90648mm) (InComponentClass('SerialPhase9'))
+Rule Violations :0
+
+Processing Rule : Room PPhase1/24 (Bounding Region = (613.9332mm, 445.90648mm, 632.1832mm, 457.90648mm) (InComponentClass('PPhase1/24'))
+Rule Violations :0
+
+Processing Rule : Room PPhase1/23 (Bounding Region = (591.4332mm, 445.90648mm, 609.6832mm, 457.90648mm) (InComponentClass('PPhase1/23'))
+Rule Violations :0
+
+Processing Rule : Room PPhase1/21 (Bounding Region = (546.4332mm, 445.90648mm, 564.6832mm, 457.90648mm) (InComponentClass('PPhase1/21'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps4 (Bounding Region = (606.9332mm, 477.1565mm, 620.9332mm, 497.1565mm) (InComponentClass('RefAmps4'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps1 (Bounding Region = (546.9332mm, 477.1565mm, 560.9332mm, 497.1565mm) (InComponentClass('RefAmps1'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps5 (Bounding Region = (626.9332mm, 477.1565mm, 640.9332mm, 497.1565mm) (InComponentClass('RefAmps5'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps2 (Bounding Region = (566.9332mm, 477.1565mm, 580.9332mm, 497.1565mm) (InComponentClass('RefAmps2'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps6 (Bounding Region = (646.9332mm, 477.1565mm, 660.9332mm, 497.1565mm) (InComponentClass('RefAmps6'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=7.62mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) ((InComponent('Q1*'))or(InComponent('Q2*')) Or (InComponent('U13')) or (InComponent('U16'))or(InComponent('Q3')) or(InComponent('Q4'))or(InComponent('Q5'))or (InNet(E)))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1.27mm) (Preferred=1.27mm) ((InNet('+5') OR InNet('D')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.381mm) (Max=0.381mm) (Preferred=0.381mm) ((InNet('-5ANA') OR InNet('+5ANA') OR InNet(A)or InNet('+24V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.27mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.27mm) (Preferred=0.127mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1016mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1524mm) ((HasFootprint('TQFP48_m') or HasFootprint('RM-8'))),(All)
+Rule Violations :0
+
+Processing Rule : Room PPhase1/22 (Bounding Region = (568.9332mm, 445.90648mm, 587.1832mm, 457.90648mm) (InComponentClass('PPhase1/22'))
+Rule Violations :0
+
+Processing Rule : Room Reset Gate (Bounding Region = (636.4332mm, 445.90648mm, 654.6832mm, 457.90648mm) (InComponentClass('Reset Gate'))
+Rule Violations :0
+
+Processing Rule : Room P3B (Bounding Region = (573.6832mm, 460.9065mm, 600.1832mm, 472.905mm) (InComponentClass('P3B'))
+Rule Violations :0
+
+Processing Rule : Room TGB (Bounding Region = (628.1832mm, 460.9065mm, 654.6832mm, 472.905mm) (InComponentClass('TGB'))
+Rule Violations :0
+
+Processing Rule : Room TGA (Bounding Region = (600.9332mm, 460.9065mm, 627.4332mm, 472.905mm) (InComponentClass('TGA'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase6 (Bounding Region = (546.4332mm, 430.90648mm, 564.6832mm, 442.90648mm) (InComponentClass('SerialPhase6'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase11 (Bounding Region = (546.4332mm, 416.40648mm, 564.6832mm, 428.40648mm) (InComponentClass('SerialPhase11'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase7 (Bounding Region = (568.9332mm, 430.90648mm, 587.1832mm, 442.90648mm) (InComponentClass('SerialPhase7'))
+Rule Violations :0
+
+Processing Rule : Room P3A (Bounding Region = (546.4332mm, 460.9065mm, 572.9332mm, 472.905mm) (InComponentClass('P3A'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:05

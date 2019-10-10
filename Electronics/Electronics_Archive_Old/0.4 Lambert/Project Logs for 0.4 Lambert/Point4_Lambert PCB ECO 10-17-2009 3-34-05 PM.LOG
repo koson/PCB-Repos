@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R29 Old Footprint=2012[0805] New Footprint=SMD_0805
+Change Component Footprint: Designator=R30 Old Footprint=2012[0805] New Footprint=SMD_0805
+Change Component Footprint: Designator=R31 Old Footprint=2012[0805] New Footprint=SMD_0805
+Change Component Comment : Designator=R31 Old Comment=330k New Comment=Res 0805
+Change Component Comment : Designator=R30 Old Comment=330k New Comment=Res 0805
+Change Component Comment : Designator=R29 Old Comment=330k New Comment=Res 0805

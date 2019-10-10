@@ -1,0 +1,32 @@
+Added Component: Designator=U13A(S8_M)
+Added Component: Designator=U13B(S8_M)
+Added Component: Designator=U13C(S8_M)
+Added Component: Designator=U13D(S8_M)
+Added Pin To Net: NetName=A1_OUT Pin=U13A-1
+Added Pin To Net: NetName=NetC17A_2 Pin=U13A-2
+Added Pin To Net: NetName=NetR17A_2 Pin=U13A-3
+Added Pin To Net: NetName=NetR20A_2 Pin=U13A-6
+Added Pin To Net: NetName=NetC17A_2 Pin=U13A-7
+Added Pin To Net: NetName=NetC17A_2 Pin=U13A-8
+Added Pin To Net: NetName=A2_OUT Pin=U13B-1
+Added Pin To Net: NetName=NetC17B_2 Pin=U13B-2
+Added Pin To Net: NetName=NetR17B_2 Pin=U13B-3
+Added Pin To Net: NetName=NetR20B_2 Pin=U13B-6
+Added Pin To Net: NetName=NetC17B_2 Pin=U13B-7
+Added Pin To Net: NetName=NetC17B_2 Pin=U13B-8
+Added Pin To Net: NetName=A3_OUT Pin=U13C-1
+Added Pin To Net: NetName=NetC17C_2 Pin=U13C-2
+Added Pin To Net: NetName=NetR17C_2 Pin=U13C-3
+Added Pin To Net: NetName=NetR20C_2 Pin=U13C-6
+Added Pin To Net: NetName=NetC17C_2 Pin=U13C-7
+Added Pin To Net: NetName=NetC17C_2 Pin=U13C-8
+Added Pin To Net: NetName=A4_OUT Pin=U13D-1
+Added Pin To Net: NetName=NetC17D_2 Pin=U13D-2
+Added Pin To Net: NetName=NetR17D_2 Pin=U13D-3
+Added Pin To Net: NetName=NetR20D_2 Pin=U13D-6
+Added Pin To Net: NetName=NetC17D_2 Pin=U13D-7
+Added Pin To Net: NetName=NetC17D_2 Pin=U13D-8
+Added Member To Class: ClassName=CH1 Member=Component U13A (U13) SSM2210
+Added Member To Class: ClassName=CH2 Member=Component U13B (U13) SSM2210
+Added Member To Class: ClassName=CH3 Member=Component U13C (U13) SSM2210
+Added Member To Class: ClassName=CH4 Member=Component U13D (U13) SSM2210

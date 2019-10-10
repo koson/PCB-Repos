@@ -1,0 +1,4 @@
+Added Component: Designator=C10(SMD_CAP_6032)
+Added Pin To Net: NetName=NetC9_2 Pin=C10-NEG
+Added Pin To Net: NetName=A Pin=C10-POS
+Added Member To Class: ClassName=780-00028_rev3_Pg2, Sinistro Power Supply Member=Component C10 35V

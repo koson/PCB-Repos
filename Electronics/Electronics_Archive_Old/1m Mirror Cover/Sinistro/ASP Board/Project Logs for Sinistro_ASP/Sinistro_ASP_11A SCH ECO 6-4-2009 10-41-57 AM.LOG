@@ -1,0 +1,301 @@
+Removed Parameter Code_IEC:1005 from Part L1
+Removed Parameter Code_IEC:1005 from Part L2
+Removed Parameter Code_IEC:1005 from Part L3
+Removed Parameter Code_IEC:1005 from Part L4
+Removed Parameter Code_JEDEC:TO-254-AA from Part Q10
+Removed Parameter Code_JEDEC:TO-254-AA from Part Q10
+Removed Parameter Code_JEITA:0402 from Part L1
+Removed Parameter Code_JEITA:0402 from Part L2
+Removed Parameter Code_JEITA:0402 from Part L3
+Removed Parameter Code_JEITA:0402 from Part L4
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U4
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U5
+Removed Parameter ComponentLink1URL:http://www.analog.com/en/prod/0,,759_786_AD745%2C00.html from Part U1
+Removed Parameter ComponentLink1URL:http://www.analog.com/en/prod/0,,759_786_AD745%2C00.html from Part U4
+Removed Parameter ComponentLink1URL:http://www.analog.com/en/prod/0,,759_786_AD745%2C00.html from Part U5
+Removed Parameter ComponentLink2Description:Datasheet from Part U1
+Removed Parameter ComponentLink2Description:Datasheet from Part U4
+Removed Parameter ComponentLink2Description:Datasheet from Part U5
+Removed Parameter ComponentLink2URL:http://www.analog.com/UploadedFiles/Data_Sheets/14077819AD745_d.pdf from Part U1
+Removed Parameter ComponentLink2URL:http://www.analog.com/UploadedFiles/Data_Sheets/14077819AD745_d.pdf from Part U4
+Removed Parameter ComponentLink2URL:http://www.analog.com/UploadedFiles/Data_Sheets/14077819AD745_d.pdf from Part U5
+Removed Parameter DatasheetVersion:1992 from Part U1
+Removed Parameter DatasheetVersion:1992 from Part U4
+Removed Parameter DatasheetVersion:1992 from Part U5
+Removed Parameter LatestRevisionDate:04-Mar-2005 from Part U1
+Removed Parameter LatestRevisionDate:04-Mar-2005 from Part U4
+Removed Parameter LatestRevisionDate:04-Mar-2005 from Part U5
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C5
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C6
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C8
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C9
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C11
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C12
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C13
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C14
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C17
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C18
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C19
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C20
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C22
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C23
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C25
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C26
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C28
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C29
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C30
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C46
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C49
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part L1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part L2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part L3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part L4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q10
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q10
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R6
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R7
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R9
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R10
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R11
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R12
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R13
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R14
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R15
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R16
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R17
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R18
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R19
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R20
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C8
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C9
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C11
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C12
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C13
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C14
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C17
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C18
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C19
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C20
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C22
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C23
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C25
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C26
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C28
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C29
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C30
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C46
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C49
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part L1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part L2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part L3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part L4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q10
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q10
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R7
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R9
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R10
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R11
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R12
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R13
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R14
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R15
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R16
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R17
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R18
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R19
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R20
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U1
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U4
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U5
+Removed Parameter Note:Pin 8 is not connected. from Part U1
+Removed Parameter Note:Pin 8 is not connected. from Part U4
+Removed Parameter Note:Pin 8 is not connected. from Part U5
+Removed Parameter PackageDescription:MSOP-8 from Part U1
+Removed Parameter PackageDescription:MSOP-8 from Part U4
+Removed Parameter PackageDescription:MSOP-8 from Part U5
+Removed Parameter PackageReference:0402-A from Part L1
+Removed Parameter PackageReference:0402-A from Part L2
+Removed Parameter PackageReference:0402-A from Part L3
+Removed Parameter PackageReference:0402-A from Part L4
+Removed Parameter PackageReference:AXIAL-0.3 from Part R3
+Removed Parameter PackageReference:AXIAL-0.3 from Part R4
+Removed Parameter PackageReference:AXIAL-0.3 from Part R6
+Removed Parameter PackageReference:AXIAL-0.3 from Part R7
+Removed Parameter PackageReference:AXIAL-0.3 from Part R9
+Removed Parameter PackageReference:AXIAL-0.3 from Part R10
+Removed Parameter PackageReference:AXIAL-0.3 from Part R11
+Removed Parameter PackageReference:AXIAL-0.3 from Part R12
+Removed Parameter PackageReference:AXIAL-0.3 from Part R13
+Removed Parameter PackageReference:AXIAL-0.3 from Part R14
+Removed Parameter PackageReference:AXIAL-0.3 from Part R15
+Removed Parameter PackageReference:AXIAL-0.3 from Part R16
+Removed Parameter PackageReference:AXIAL-0.3 from Part R17
+Removed Parameter PackageReference:AXIAL-0.3 from Part R20
+Removed Parameter PackageReference:AXIAL-0.4 from Part R18
+Removed Parameter PackageReference:AXIAL-0.4 from Part R19
+Removed Parameter PackageReference:CAPR5-4X5 from Part C10
+Removed Parameter PackageReference:CAPR5-4X5 from Part C15
+Removed Parameter PackageReference:CAPR5-4X5 from Part C16
+Removed Parameter PackageReference:CAPR5-4X5 from Part C21
+Removed Parameter PackageReference:CAPR5-4X5 from Part C24
+Removed Parameter PackageReference:CAPR5-4X5 from Part C31
+Removed Parameter PackageReference:CAPR5-4X5 from Part C48
+Removed Parameter PackageReference:Q-8 from Part U1
+Removed Parameter PackageReference:Q-8 from Part U4
+Removed Parameter PackageReference:Q-8 from Part U5
+Removed Parameter PackageReference:RAD-0.3 from Part C1
+Removed Parameter PackageReference:RAD-0.3 from Part C3
+Removed Parameter PackageReference:RAD-0.3 from Part C4
+Removed Parameter PackageReference:RAD-0.3 from Part C5
+Removed Parameter PackageReference:RAD-0.3 from Part C6
+Removed Parameter PackageReference:RAD-0.3 from Part C8
+Removed Parameter PackageReference:RAD-0.3 from Part C9
+Removed Parameter PackageReference:RAD-0.3 from Part C11
+Removed Parameter PackageReference:RAD-0.3 from Part C12
+Removed Parameter PackageReference:RAD-0.3 from Part C13
+Removed Parameter PackageReference:RAD-0.3 from Part C14
+Removed Parameter PackageReference:RAD-0.3 from Part C17
+Removed Parameter PackageReference:RAD-0.3 from Part C18
+Removed Parameter PackageReference:RAD-0.3 from Part C19
+Removed Parameter PackageReference:RAD-0.3 from Part C20
+Removed Parameter PackageReference:RAD-0.3 from Part C22
+Removed Parameter PackageReference:RAD-0.3 from Part C23
+Removed Parameter PackageReference:RAD-0.3 from Part C25
+Removed Parameter PackageReference:RAD-0.3 from Part C26
+Removed Parameter PackageReference:RAD-0.3 from Part C28
+Removed Parameter PackageReference:RAD-0.3 from Part C29
+Removed Parameter PackageReference:RAD-0.3 from Part C46
+Removed Parameter PackageReference:RAD-0.3 from Part C49
+Removed Parameter PackageReference:RB7.6-15 from Part C30
+Removed Parameter PackageReference:TO-254-AA from Part Q10
+Removed Parameter PackageReference:TO-254-AA from Part Q10
+Removed Parameter PackageVersion:1998 from Part U1
+Removed Parameter PackageVersion:1998 from Part U4
+Removed Parameter PackageVersion:1998 from Part U5
+Removed Parameter Published:8-Jun-2000 from Part C1
+Removed Parameter Published:8-Jun-2000 from Part C3
+Removed Parameter Published:8-Jun-2000 from Part C4
+Removed Parameter Published:8-Jun-2000 from Part C5
+Removed Parameter Published:8-Jun-2000 from Part C6
+Removed Parameter Published:8-Jun-2000 from Part C8
+Removed Parameter Published:8-Jun-2000 from Part C9
+Removed Parameter Published:8-Jun-2000 from Part C11
+Removed Parameter Published:8-Jun-2000 from Part C12
+Removed Parameter Published:8-Jun-2000 from Part C13
+Removed Parameter Published:8-Jun-2000 from Part C14
+Removed Parameter Published:8-Jun-2000 from Part C17
+Removed Parameter Published:8-Jun-2000 from Part C18
+Removed Parameter Published:8-Jun-2000 from Part C19
+Removed Parameter Published:8-Jun-2000 from Part C20
+Removed Parameter Published:8-Jun-2000 from Part C22
+Removed Parameter Published:8-Jun-2000 from Part C23
+Removed Parameter Published:8-Jun-2000 from Part C25
+Removed Parameter Published:8-Jun-2000 from Part C26
+Removed Parameter Published:8-Jun-2000 from Part C28
+Removed Parameter Published:8-Jun-2000 from Part C29
+Removed Parameter Published:8-Jun-2000 from Part C30
+Removed Parameter Published:8-Jun-2000 from Part C46
+Removed Parameter Published:8-Jun-2000 from Part C49
+Removed Parameter Published:8-Jun-2000 from Part L1
+Removed Parameter Published:8-Jun-2000 from Part L2
+Removed Parameter Published:8-Jun-2000 from Part L3
+Removed Parameter Published:8-Jun-2000 from Part L4
+Removed Parameter Published:8-Jun-2000 from Part Q10
+Removed Parameter Published:8-Jun-2000 from Part Q10
+Removed Parameter Published:8-Jun-2000 from Part R3
+Removed Parameter Published:8-Jun-2000 from Part R4
+Removed Parameter Published:8-Jun-2000 from Part R6
+Removed Parameter Published:8-Jun-2000 from Part R7
+Removed Parameter Published:8-Jun-2000 from Part R9
+Removed Parameter Published:8-Jun-2000 from Part R10
+Removed Parameter Published:8-Jun-2000 from Part R11
+Removed Parameter Published:8-Jun-2000 from Part R12
+Removed Parameter Published:8-Jun-2000 from Part R13
+Removed Parameter Published:8-Jun-2000 from Part R14
+Removed Parameter Published:8-Jun-2000 from Part R15
+Removed Parameter Published:8-Jun-2000 from Part R16
+Removed Parameter Published:8-Jun-2000 from Part R17
+Removed Parameter Published:8-Jun-2000 from Part R18
+Removed Parameter Published:8-Jun-2000 from Part R19
+Removed Parameter Published:8-Jun-2000 from Part R20
+Removed Parameter Published:8-Jun-2000 from Part U1
+Removed Parameter Published:8-Jun-2000 from Part U4
+Removed Parameter Published:8-Jun-2000 from Part U5
+Removed Parameter Published:23-Sep-2002 from Part C10
+Removed Parameter Published:23-Sep-2002 from Part C15
+Removed Parameter Published:23-Sep-2002 from Part C16
+Removed Parameter Published:23-Sep-2002 from Part C21
+Removed Parameter Published:23-Sep-2002 from Part C24
+Removed Parameter Published:23-Sep-2002 from Part C31
+Removed Parameter Published:23-Sep-2002 from Part C48
+Removed Parameter Publisher:Altium Limited from Part C1
+Removed Parameter Publisher:Altium Limited from Part C3
+Removed Parameter Publisher:Altium Limited from Part C4
+Removed Parameter Publisher:Altium Limited from Part C5
+Removed Parameter Publisher:Altium Limited from Part C6
+Removed Parameter Publisher:Altium Limited from Part C8
+Removed Parameter Publisher:Altium Limited from Part C9
+Removed Parameter Publisher:Altium Limited from Part C10
+Removed Parameter Publisher:Altium Limited from Part C11
+Removed Parameter Publisher:Altium Limited from Part C12
+Removed Parameter Publisher:Altium Limited from Part C13
+Removed Parameter Publisher:Altium Limited from Part C14
+Removed Parameter Publisher:Altium Limited from Part C15
+Removed Parameter Publisher:Altium Limited from Part C16
+Removed Parameter Publisher:Altium Limited from Part C17
+Removed Parameter Publisher:Altium Limited from Part C18
+Removed Parameter Publisher:Altium Limited from Part C19
+Removed Parameter Publisher:Altium Limited from Part C20
+Removed Parameter Publisher:Altium Limited from Part C21
+Removed Parameter Publisher:Altium Limited from Part C22
+Removed Parameter Publisher:Altium Limited from Part C23
+Removed Parameter Publisher:Altium Limited from Part C24
+Removed Parameter Publisher:Altium Limited from Part C25
+Removed Parameter Publisher:Altium Limited from Part C26
+Removed Parameter Publisher:Altium Limited from Part C28
+Removed Parameter Publisher:Altium Limited from Part C29
+Removed Parameter Publisher:Altium Limited from Part C30
+Removed Parameter Publisher:Altium Limited from Part C31
+Removed Parameter Publisher:Altium Limited from Part C46
+Removed Parameter Publisher:Altium Limited from Part C48
+Removed Parameter Publisher:Altium Limited from Part C49
+Removed Parameter Publisher:Altium Limited from Part L1
+Removed Parameter Publisher:Altium Limited from Part L2
+Removed Parameter Publisher:Altium Limited from Part L3
+Removed Parameter Publisher:Altium Limited from Part L4
+Removed Parameter Publisher:Altium Limited from Part Q10
+Removed Parameter Publisher:Altium Limited from Part Q10
+Removed Parameter Publisher:Altium Limited from Part R3
+Removed Parameter Publisher:Altium Limited from Part R4
+Removed Parameter Publisher:Altium Limited from Part R6
+Removed Parameter Publisher:Altium Limited from Part R7
+Removed Parameter Publisher:Altium Limited from Part R9
+Removed Parameter Publisher:Altium Limited from Part R10
+Removed Parameter Publisher:Altium Limited from Part R11
+Removed Parameter Publisher:Altium Limited from Part R12
+Removed Parameter Publisher:Altium Limited from Part R13
+Removed Parameter Publisher:Altium Limited from Part R14
+Removed Parameter Publisher:Altium Limited from Part R15
+Removed Parameter Publisher:Altium Limited from Part R16
+Removed Parameter Publisher:Altium Limited from Part R17
+Removed Parameter Publisher:Altium Limited from Part R18
+Removed Parameter Publisher:Altium Limited from Part R19
+Removed Parameter Publisher:Altium Limited from Part R20
+Removed Parameter Publisher:Altium Limited from Part U1
+Removed Parameter Publisher:Altium Limited from Part U4
+Removed Parameter Publisher:Altium Limited from Part U5
+Added Parameter Voltage= to Part C1

@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=A+_AXIS3 Pin=P3-17
+Removed Pin From Net: NetName=A+_AXIS3 Pin=P3-18
+Removed Pin From Net: NetName=A-_AXIS3 Pin=P3-19
+Removed Pin From Net: NetName=A-_AXIS3 Pin=P3-20
+Removed Pin From Net: NetName=B+_AXIS3 Pin=P3-21
+Removed Pin From Net: NetName=B+_AXIS3 Pin=P3-22
+Removed Pin From Net: NetName=B-_AXIS3 Pin=P3-23
+Removed Pin From Net: NetName=B-_AXIS3 Pin=P3-24
+Removed Pin From Net: NetName=A+_AXIS1 Pin=P5-1
+Removed Pin From Net: NetName=A-_AXIS1 Pin=P5-2
+Removed Pin From Net: NetName=B+_AXIS1 Pin=P5-3
+Removed Pin From Net: NetName=B-_AXIS1 Pin=P5-4
+Removed Pin From Net: NetName=A+_AXIS2 Pin=P6-1
+Removed Pin From Net: NetName=A-_AXIS2 Pin=P6-2
+Removed Pin From Net: NetName=B+_AXIS2 Pin=P6-3
+Removed Pin From Net: NetName=B-_AXIS2 Pin=P6-4
+Added Pin To Net: NetName=A+_AXIS1 Pin=P2-1
+Added Pin To Net: NetName=A-_AXIS1 Pin=P2-2
+Added Pin To Net: NetName=B+_AXIS1 Pin=P2-3
+Added Pin To Net: NetName=B-_AXIS1 Pin=P2-4
+Added Pin To Net: NetName=A+_AXIS2 Pin=P5-1
+Added Pin To Net: NetName=A-_AXIS2 Pin=P5-2
+Added Pin To Net: NetName=B+_AXIS2 Pin=P5-3
+Added Pin To Net: NetName=B-_AXIS2 Pin=P5-4
+Change Net Name : Old Net Name=A+_AXIS3 New Net Name=A+_AXIS4
+Change Net Name : Old Net Name=A-_AXIS3 New Net Name=A-_AXIS4
+Change Net Name : Old Net Name=B+_AXIS3 New Net Name=B+_AXIS4
+Change Net Name : Old Net Name=B-_AXIS3 New Net Name=B-_AXIS4
+Added Pin To Net: NetName=A+_AXIS3 Pin=P3-17
+Added Pin To Net: NetName=A+_AXIS3 Pin=P3-18
+Added Pin To Net: NetName=A+_AXIS3 Pin=P6-1
+Added Net: Name=A+_AXIS3
+Added Pin To Net: NetName=A-_AXIS3 Pin=P3-19
+Added Pin To Net: NetName=A-_AXIS3 Pin=P3-20
+Added Pin To Net: NetName=A-_AXIS3 Pin=P6-2
+Added Net: Name=A-_AXIS3
+Added Pin To Net: NetName=B+_AXIS3 Pin=P3-21
+Added Pin To Net: NetName=B+_AXIS3 Pin=P3-22
+Added Pin To Net: NetName=B+_AXIS3 Pin=P6-3
+Added Net: Name=B+_AXIS3
+Added Pin To Net: NetName=B-_AXIS3 Pin=P3-23
+Added Pin To Net: NetName=B-_AXIS3 Pin=P3-24
+Added Pin To Net: NetName=B-_AXIS3 Pin=P6-4
+Added Net: Name=B-_AXIS3

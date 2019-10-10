@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-1
+Removed Pin From Net: NetName=NetD2_2 Pin=D2-2
+Removed Pin From Net: NetName=NetD13_1 Pin=D13-1
+Removed Pin From Net: NetName=NetD13_2 Pin=D13-2
+Removed Pin From Net: NetName=NetD16_1 Pin=D16-1
+Removed Pin From Net: NetName=NetD16_2 Pin=D16-2
+Removed Pin From Net: NetName=NetD25_1 Pin=D25-1
+Removed Pin From Net: NetName=NetD25_2 Pin=D25-2
+Removed Pin From Net: NetName=NetJ3_120 Pin=J4-1
+Removed Pin From Net: NetName=NetD103_1 Pin=J4-3
+Removed Pin From Net: NetName=NetJ3_116 Pin=J4-5
+Removed Pin From Net: NetName=NetD98_1 Pin=J4-7
+Removed Pin From Net: NetName=NetJ3_112 Pin=J4-9
+Removed Pin From Net: NetName=NetD94_1 Pin=J4-11
+Removed Pin From Net: NetName=NetJ3_108 Pin=J4-13
+Removed Pin From Net: NetName=NetD89_1 Pin=J4-15
+Removed Pin From Net: NetName=NetJ3_104 Pin=J4-17
+Removed Pin From Net: NetName=NetD85_1 Pin=J4-19
+Removed Pin From Net: NetName=NetJ3_100 Pin=J4-21
+Removed Pin From Net: NetName=NetD82_1 Pin=J4-23
+Removed Pin From Net: NetName=NetJ3_96 Pin=J4-25
+Removed Pin From Net: NetName=NetD77_1 Pin=J4-27
+Removed Pin From Net: NetName=NetJ3_92 Pin=J4-29
+Removed Pin From Net: NetName=NetD73_1 Pin=J4-31
+Removed Pin From Net: NetName=NetJ3_88 Pin=J4-33
+Removed Pin From Net: NetName=NetD68_1 Pin=J4-35
+Removed Pin From Net: NetName=NetJ3_84 Pin=J4-37
+Removed Pin From Net: NetName=NetD64_1 Pin=J4-39
+Removed Pin From Net: NetName=NetJ3_80 Pin=J4-41
+Removed Pin From Net: NetName=NetD61_1 Pin=J4-43
+Removed Pin From Net: NetName=NetJ3_76 Pin=J4-45
+Removed Pin From Net: NetName=NetD56_1 Pin=J4-47
+Removed Pin From Net: NetName=NetJ3_72 Pin=J4-49
+Removed Pin From Net: NetName=NetD52_1 Pin=J4-51
+Removed Pin From Net: NetName=NetJ3_68 Pin=J4-53
+Removed Pin From Net: NetName=NetD51_1 Pin=J4-55
+Removed Pin From Net: NetName=NetJ3_64 Pin=J4-57
+Removed Pin From Net: NetName=NetD49_1 Pin=J4-59
+Added Component: Designator=D2(LED SMD 0402)
+Added Component: Designator=D13(LED SMD 0402)
+Added Component: Designator=D16(LED SMD 0402)
+Added Component: Designator=D25(LED SMD 0402)
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD49_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ3_64 Pin=J4-3
+Added Pin To Net: NetName=NetD51_1 Pin=J4-5
+Added Pin To Net: NetName=NetJ3_68 Pin=J4-7
+Added Pin To Net: NetName=NetD52_1 Pin=J4-9
+Added Pin To Net: NetName=NetJ3_72 Pin=J4-11
+Added Pin To Net: NetName=NetD56_1 Pin=J4-13
+Added Pin To Net: NetName=NetJ3_76 Pin=J4-15
+Added Pin To Net: NetName=NetD61_1 Pin=J4-17
+Added Pin To Net: NetName=NetJ3_80 Pin=J4-19
+Added Pin To Net: NetName=NetD64_1 Pin=J4-21
+Added Pin To Net: NetName=NetJ3_84 Pin=J4-23
+Added Pin To Net: NetName=NetD68_1 Pin=J4-25
+Added Pin To Net: NetName=NetJ3_88 Pin=J4-27
+Added Pin To Net: NetName=NetD73_1 Pin=J4-29
+Added Pin To Net: NetName=NetJ3_92 Pin=J4-31
+Added Pin To Net: NetName=NetD77_1 Pin=J4-33
+Added Pin To Net: NetName=NetJ3_96 Pin=J4-35
+Added Pin To Net: NetName=NetD82_1 Pin=J4-37
+Added Pin To Net: NetName=NetJ3_100 Pin=J4-39
+Added Pin To Net: NetName=NetD85_1 Pin=J4-41
+Added Pin To Net: NetName=NetJ3_104 Pin=J4-43
+Added Pin To Net: NetName=NetD89_1 Pin=J4-45
+Added Pin To Net: NetName=NetJ3_108 Pin=J4-47
+Added Pin To Net: NetName=NetD94_1 Pin=J4-49
+Added Pin To Net: NetName=NetJ3_112 Pin=J4-51
+Added Pin To Net: NetName=NetD98_1 Pin=J4-53
+Added Pin To Net: NetName=NetJ3_116 Pin=J4-55
+Added Pin To Net: NetName=NetD103_1 Pin=J4-57
+Added Pin To Net: NetName=NetJ3_120 Pin=J4-59
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D2 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D13 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D16 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D25 LED SMD 0402

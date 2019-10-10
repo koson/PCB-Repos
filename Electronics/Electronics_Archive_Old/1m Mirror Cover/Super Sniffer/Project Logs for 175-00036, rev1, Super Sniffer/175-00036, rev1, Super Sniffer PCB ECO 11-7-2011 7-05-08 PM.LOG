@@ -1,0 +1,80 @@
+Added Component: Designator=D149(LED SMD 0402)
+Added Component: Designator=D150(LED SMD 0402)
+Added Component: Designator=D151(LED SMD 0402)
+Added Component: Designator=D152(LED SMD 0402)
+Added Component: Designator=D153(LED SMD 0402)
+Added Component: Designator=D154(LED SMD 0402)
+Added Component: Designator=D155(LED SMD 0402)
+Added Component: Designator=D156(LED SMD 0402)
+Added Component: Designator=D157(LED SMD 0402)
+Added Component: Designator=R29(SMD_0805)
+Added Component: Designator=R30(SMD_0805)
+Added Component: Designator=R31(SMD_0805)
+Added Component: Designator=R32(SMD_0805)
+Added Component: Designator=R33(SMD_0805)
+Added Component: Designator=R34(SMD_0805)
+Added Component: Designator=R35(SMD_0805)
+Added Component: Designator=R36(SMD_0805)
+Added Component: Designator=R37(SMD_0805)
+Added Pin To Net: NetName=GND Pin=D149-1
+Added Pin To Net: NetName=GND Pin=D150-1
+Added Pin To Net: NetName=GND Pin=D151-1
+Added Pin To Net: NetName=GND Pin=D152-1
+Added Pin To Net: NetName=GND Pin=D153-1
+Added Pin To Net: NetName=GND Pin=D154-1
+Added Pin To Net: NetName=GND Pin=D155-1
+Added Pin To Net: NetName=GND Pin=D156-1
+Added Pin To Net: NetName=GND Pin=D157-1
+Added Pin To Net: NetName=NetJ1_30 Pin=R29-1
+Added Pin To Net: NetName=NetJ1_28 Pin=R30-1
+Added Pin To Net: NetName=NetJ1_26 Pin=R31-1
+Added Pin To Net: NetName=NetJ1_24 Pin=R32-1
+Added Pin To Net: NetName=NetJ1_22 Pin=R33-1
+Added Pin To Net: NetName=NetJ1_20 Pin=R34-1
+Added Pin To Net: NetName=NetJ1_18 Pin=R35-1
+Added Pin To Net: NetName=NetJ1_16 Pin=R36-1
+Added Pin To Net: NetName=NetD149_2 Pin=D149-2
+Added Pin To Net: NetName=NetD149_2 Pin=R29-2
+Added Net: Name=NetD149_2
+Added Pin To Net: NetName=NetD150_2 Pin=D150-2
+Added Pin To Net: NetName=NetD150_2 Pin=R30-2
+Added Net: Name=NetD150_2
+Added Pin To Net: NetName=NetD151_2 Pin=D151-2
+Added Pin To Net: NetName=NetD151_2 Pin=R31-2
+Added Net: Name=NetD151_2
+Added Pin To Net: NetName=NetD152_2 Pin=D152-2
+Added Pin To Net: NetName=NetD152_2 Pin=R32-2
+Added Net: Name=NetD152_2
+Added Pin To Net: NetName=NetD153_2 Pin=D153-2
+Added Pin To Net: NetName=NetD153_2 Pin=R33-2
+Added Net: Name=NetD153_2
+Added Pin To Net: NetName=NetD154_2 Pin=D154-2
+Added Pin To Net: NetName=NetD154_2 Pin=R34-2
+Added Net: Name=NetD154_2
+Added Pin To Net: NetName=NetD155_2 Pin=D155-2
+Added Pin To Net: NetName=NetD155_2 Pin=R35-2
+Added Net: Name=NetD155_2
+Added Pin To Net: NetName=NetD156_2 Pin=D156-2
+Added Pin To Net: NetName=NetD156_2 Pin=R36-2
+Added Net: Name=NetD156_2
+Added Pin To Net: NetName=NetD157_2 Pin=D157-2
+Added Pin To Net: NetName=NetD157_2 Pin=R37-2
+Added Net: Name=NetD157_2
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D149 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D150 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D151 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D152 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D153 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D154 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D155 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D156 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D157 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R29 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R30 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R31 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R32 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R33 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R34 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R35 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R36 Res 0805
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component R37 Res 0805

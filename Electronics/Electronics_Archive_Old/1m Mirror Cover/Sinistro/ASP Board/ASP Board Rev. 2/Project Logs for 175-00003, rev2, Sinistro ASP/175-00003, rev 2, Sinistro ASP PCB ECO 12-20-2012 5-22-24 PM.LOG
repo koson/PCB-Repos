@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetC12A_2 Pin=R10A-2
+Removed Pin From Net: NetName=NetC12B_2 Pin=R10B-2
+Removed Pin From Net: NetName=NetC12C_2 Pin=R10C-2
+Removed Pin From Net: NetName=NetC12D_2 Pin=R10D-2
+Removed Pin From Net: NetName=CH1_OUT Pin=R13A-1
+Removed Pin From Net: NetName=NetC12A_2 Pin=R13A-2
+Removed Pin From Net: NetName=CH2_OUT Pin=R13B-1
+Removed Pin From Net: NetName=NetC12B_2 Pin=R13B-2
+Removed Pin From Net: NetName=CH3_OUT Pin=R13C-1
+Removed Pin From Net: NetName=NetC12C_2 Pin=R13C-2
+Removed Pin From Net: NetName=CH4_OUT Pin=R13D-1
+Removed Pin From Net: NetName=NetC12D_2 Pin=R13D-2
+Change Component Comment : Designator=C12A Old Comment=Cap New Comment=Cap SMD
+Change Component Comment : Designator=C12B Old Comment=Cap New Comment=Cap SMD
+Change Component Comment : Designator=C12C Old Comment=Cap New Comment=Cap SMD
+Change Component Comment : Designator=C12D Old Comment=Cap New Comment=Cap SMD
+Added Pin To Net: NetName=NetTP5A_1 Pin=R10A-2
+Added Pin To Net: NetName=NetTP5B_1 Pin=R10B-2
+Added Pin To Net: NetName=NetTP5C_1 Pin=R10C-2
+Added Pin To Net: NetName=NetTP5D_1 Pin=R10D-2
+Added Pin To Net: NetName=NetC12A_2 Pin=R13A-1
+Added Pin To Net: NetName=+28V Pin=R13A-2
+Added Pin To Net: NetName=NetC12B_2 Pin=R13B-1
+Added Pin To Net: NetName=+28V Pin=R13B-2
+Added Pin To Net: NetName=NetC12C_2 Pin=R13C-1
+Added Pin To Net: NetName=+28V Pin=R13C-2
+Added Pin To Net: NetName=NetC12D_2 Pin=R13D-1
+Added Pin To Net: NetName=+28V Pin=R13D-2
+Change Net Name : Old Net Name=NetTP5A_1 New Net Name=NetR10A_2
+Change Net Name : Old Net Name=NetTP5B_1 New Net Name=NetR10B_2
+Change Net Name : Old Net Name=NetTP5C_1 New Net Name=NetR10C_2
+Change Net Name : Old Net Name=NetTP5D_1 New Net Name=NetR10D_2

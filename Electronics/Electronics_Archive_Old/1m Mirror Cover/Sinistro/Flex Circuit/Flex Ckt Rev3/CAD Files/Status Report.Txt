@@ -1,0 +1,12 @@
+Output: PCBFabricationDrawing
+Type  : Gerber
+From  : PCB Document [175-00030 rev3 Flex Circuit, Sinistro.PcbDoc]
+   Generated File[175-00030 rev3 Flex Circuit, Sinistro.GPT]
+   Generated File[175-00030 rev3 Flex Circuit, Sinistro.EXTREP]
+   Generated File[175-00030 rev3 Flex Circuit, Sinistro.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:32:23 PM On 7/15/2013

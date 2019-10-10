@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SW_NEUT Pin=P4-5
+Removed Pin From Net: NetName=SW_LINE Pin=P4-6
+Removed Pin From Net: NetName=NEUT Pin=P4-7
+Removed Pin From Net: NetName=LINE Pin=P4-8
+Added Pin To Net: NetName=NEUT Pin=P4-5
+Added Pin To Net: NetName=SW_NEUT Pin=P4-6
+Added Pin To Net: NetName=LINE Pin=P4-7
+Added Pin To Net: NetName=SW_LINE Pin=P4-8

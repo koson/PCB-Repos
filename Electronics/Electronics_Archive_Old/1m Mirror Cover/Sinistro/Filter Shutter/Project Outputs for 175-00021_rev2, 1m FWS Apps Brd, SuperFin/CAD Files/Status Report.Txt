@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [175-00021_rev2, 1m FWS Apps Brd, SuperFin.PcbDoc]
+   Generated File[Pick Place for 175-00021_rev2, 1m FWS Apps Brd, SuperFin.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:06:47 PM On 4/12/2011

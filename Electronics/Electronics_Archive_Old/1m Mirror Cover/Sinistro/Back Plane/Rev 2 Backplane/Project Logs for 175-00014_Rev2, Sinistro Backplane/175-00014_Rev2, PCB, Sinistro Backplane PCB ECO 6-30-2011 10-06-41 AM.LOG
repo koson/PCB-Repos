@@ -1,0 +1,14 @@
+Added Component: Designator=U5(S8_M)
+Added Component: Designator=U9(S8_M)
+Added Pin To Net: NetName=NetC4_1 Pin=U5-2
+Added Pin To Net: NetName=DAC_CCD_HEATER Pin=U5-3
+Added Pin To Net: NetName=-5ANA Pin=U5-4
+Added Pin To Net: NetName=NetQ2_1 Pin=U5-6
+Added Pin To Net: NetName=+24V Pin=U5-7
+Added Pin To Net: NetName=NetC23_1 Pin=U9-2
+Added Pin To Net: NetName=DAC_CRYO_HEATER Pin=U9-3
+Added Pin To Net: NetName=-5ANA Pin=U9-4
+Added Pin To Net: NetName=NetQ4_1 Pin=U9-6
+Added Pin To Net: NetName=+24V Pin=U9-7
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component U5 LT1007CS8#PBF
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component U9 LT1007CS8#PBF

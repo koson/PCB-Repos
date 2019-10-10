@@ -1,0 +1,15 @@
+Field=LCO p/n~String~LCO p/n~113|Field=Designator~String~Designator~301|Field=Quantity~Integer~Quantity~111|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~175-00014_Rev3, Sinistro Backplane.PrjPCB|ReportField=ProjectFullPath~\\Files\users\rlobdill\Altum Projects\Sinistro\Back Plane\Rev 3 Backplane\175-00014_Rev3, Sinistro Backplane.PrjPCB|ReportField=Title~Bill of Materials For Project [175-00014_Rev3, Sinistro Backplane.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~56|ReportField=ReportTime~1:12:52 PM|ReportField=ReportDate~10/18/2012|ReportField=ReportDateTime~10/18/2012 1:12:52 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/18/2012|ReportField=CurrentTime~1:11:20 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~\\Files\users\rlobdill\Altum Projects\Sinistro\Back Plane\Rev 3 Backplane\780-00018_rev3_Pg1.SchDoc|ReportField=DocumentName~780-00018_rev3_Pg1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/15/2012|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.89|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=Tabloid|PrintScaleMode=1|ReportField=ProjectName~175-00014_Rev3, Sinistro Backplane.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~175-00014_Rev3, Sinistro Backplane.PrjPCB|ReportField=DataSourceFullPath~\\Files\users\rlobdill\Altum Projects\Sinistro\Back Plane\Rev 3 Backplane\175-00014_Rev3, Sinistro Backplane.PrjPCB
+120-00022|C18, C19, C24, C25, C26|5
+120-00010|C20, C21|2
+140-00009|D3, D4, D5, D6, D7, D8|6
+125-00047|P1, P8, P9, P10, P12|5
+125-00098|P2|1
+125-00048|P3|1
+125-00046|P4, P5, P6, P7|4
+125-00121|P11|1
+125-00037|P13, P16|2
+125-00110|P14, P15|2
+195-00008|Q1, Q2, Q3, Q4, Q5, Q6|6
+181-02001|R1, R2, R3, R4, R5, R6|6
+181-01002|R23|1
+160-00001|TP15, TP16, TP17, TP18, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29, TP30, TP31|14

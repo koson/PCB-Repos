@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=COLDBLK(+) Pin=P7-108
+Added Pin To Net: NetName=COLDBLK(-) Pin=P7-110
+Added Pin To Net: NetName=RTD_CB(+) Pin=P7-112
+Added Pin To Net: NetName=RTD_CB(-) Pin=P7-114
+Added Pin To Net: NetName=RTDF(+) Pin=P7-118
+Added Pin To Net: NetName=RTDS(+) Pin=P7-120
+Added Pin To Net: NetName=RTDF(-) Pin=P7-122
+Added Pin To Net: NetName=RTDS(-) Pin=P7-124
+Added Pin To Net: NetName=HEATER(+) Pin=P7-128
+Added Pin To Net: NetName=HEATER(-) Pin=P7-130

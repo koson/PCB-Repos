@@ -1,0 +1,88 @@
+Remove Pin=U9A-5 From Net=PH_CLK
+Remove Pin=U9A-16 From Net=PH_CLK
+Remove Pin=U9A-20 From Net=P3
+Remove Pin=U9A-21 From Net=TG
+Remove Pin=U9A-26 From Net=MPP
+Remove Pin=U9A-27 From Net=P2
+Remove Pin=U9A-28 From Net=S1
+Remove Pin=U9A-29 From Net=S2
+Remove Pin=U9A-30 From Net=SOMI
+Remove Pin=U9A-35 From Net=PH_CLK
+Remove Pin=U9A-36 From Net=P1
+Remove Pin=U9A-37 From Net=I_ADDR1
+Remove Pin=U9A-38 From Net=DRV_SEL_N
+Remove Pin=U9A-39 From Net=I_ADDR2
+Remove Pin=U9A-40 From Net=I_ADDR0
+Remove Pin=U9A-41 From Net=RG
+Remove Pin=U9A-42 From Net=S3
+Remove Pin=U9A-47 From Net=SIMO
+Remove Pin=U9A-48 From Net=SG
+Remove Pin=U9B-54 From Net=LOAD_MAX1_N
+Remove Pin=U9B-55 From Net=SEL_MAX1_N
+Remove Pin=U9B-56 From Net=PH_CLK
+Remove Pin=U9B-57 From Net=PH_CLK
+Remove Pin=U9B-58 From Net=PH_CLK
+Remove Pin=U9B-61 From Net=PH_CLK
+Remove Pin=U9B-62 From Net=PH_CLK
+Remove Pin=U9B-64 From Net=PH_CLK
+Remove Pin=U9B-66 From Net=PH_CLK
+Remove Pin=U9B-67 From Net=PH_CLK
+Remove Pin=U9B-68 From Net=PH_CLK
+Remove Pin=U9B-69 From Net=PH_CLK
+Remove Pin=U9B-70 From Net=PH_CLK
+Remove Pin=U9B-71 From Net=PH_CLK
+Remove Pin=U9B-72 From Net=PH_CLK
+Remove Pin=U9B-73 From Net=PH_CLK
+Remove Pin=U9B-74 From Net=PH_CLK
+Remove Pin=U9B-75 From Net=PH_CLK
+Remove Pin=U9B-76 From Net=PH_CLK
+Remove Pin=U9B-77 From Net=PH_CLK
+Remove Pin=U9B-82 From Net=PH_CLK
+Remove Pin=U9B-83 From Net=PH_CLK
+Remove Pin=U9B-90 From Net=SEL_MAX2_N
+Remove Pin=U9B-91 From Net=LOAD_MAX2_N
+Remove Pin=U9B-96 From Net=BIAS_V_ON
+Add Pin To Net: Pin=U9A-26 Old Net=MPP New Net=BIAS_V_ON
+Add Pin To Net: Pin=U9A-37 Old Net=I_ADDR1 New Net=MPP
+Add Pin To Net: Pin=U9A-38 Old Net=DRV_SEL_N New Net=TG
+Add Pin To Net: Pin=U9A-39 Old Net=I_ADDR2 New Net=P3
+Add Pin To Net: Pin=U9A-40 Old Net=I_ADDR0 New Net=P2
+Add Pin To Net: Pin=U9A-41 Old Net=RG New Net=S2
+Add Pin To Net: Pin=U9A-42 Old Net=S3 New Net=S1
+Add Pin To Net: Pin=U9A-47 Old Net=SIMO New Net=SOMI
+Add Pin To Net: Pin=U9A-51 Old Net=NetU9_51 New Net=DRV_SEL_N
+Add Pin To Net: Pin=U9B-52 Old Net=NetU9_52 New Net=I_ADDR2
+Add Pin To Net: Pin=U9B-53 Old Net=NetU9_53 New Net=I_ADDR1
+Add Pin To Net: Pin=U9B-54 Old Net=LOAD_MAX1_N New Net=I_ADDR0
+Add Pin To Net: Pin=U9B-55 Old Net=SEL_MAX1_N New Net=P1
+Add Pin To Net: Pin=U9B-56 Old Net=PH_CLK New Net=RG
+Add Pin To Net: Pin=U9B-57 Old Net=PH_CLK New Net=SG
+Add Pin To Net: Pin=U9B-58 Old Net=PH_CLK New Net=S3
+Add Pin To Net: Pin=U9B-61 Old Net=PH_CLK New Net=SIMO
+Add Pin To Net: Pin=U9B-62 Old Net=PH_CLK New Net=LOAD_MAX2_N
+Add Pin To Net: Pin=U9B-64 Old Net=PH_CLK New Net=SEL_MAX2_N
+Add Pin To Net: Pin=U9B-66 Old Net=PH_CLK New Net=PH_CLK23
+Add Pin To Net: Pin=U9B-67 Old Net=PH_CLK New Net=PH_CLK22
+Add Pin To Net: Pin=U9B-68 Old Net=PH_CLK New Net=PH_CLK21
+Add Pin To Net: Pin=U9B-69 Old Net=PH_CLK New Net=PH_CLK20
+Add Pin To Net: Pin=U9B-70 Old Net=PH_CLK New Net=PH_CLK19
+Add Pin To Net: Pin=U9B-71 Old Net=PH_CLK New Net=PH_CLK18
+Add Pin To Net: Pin=U9B-72 Old Net=PH_CLK New Net=PH_CLK17
+Add Pin To Net: Pin=U9B-73 Old Net=PH_CLK New Net=PH_CLK16
+Add Pin To Net: Pin=U9B-74 Old Net=PH_CLK New Net=PH_CLK9
+Add Pin To Net: Pin=U9B-75 Old Net=PH_CLK New Net=PH_CLK8
+Add Pin To Net: Pin=U9B-76 Old Net=PH_CLK New Net=PH_CLK6
+Add Pin To Net: Pin=U9B-77 Old Net=PH_CLK New Net=PH_CLK7
+Add Pin To Net: Pin=U9B-78 Old Net=NetU9_78 New Net=PH_CLK11
+Add Pin To Net: Pin=U9B-81 Old Net=NetU9_81 New Net=PH_CLK1
+Add Pin To Net: Pin=U9B-82 Old Net=PH_CLK New Net=PH_CLK2
+Add Pin To Net: Pin=U9B-83 Old Net=PH_CLK New Net=PH_CLK3
+Add Pin To Net: Pin=U9B-84 Old Net=NetU9_84 New Net=PH_CLK4
+Add Pin To Net: Pin=U9B-85 Old Net=NetU9_85 New Net=PH_CLK5
+Add Pin To Net: Pin=U9B-86 Old Net=NetU9_86 New Net=PH_CLK12
+Add Pin To Net: Pin=U9B-87 Old Net=NetU9_87 New Net=PH_CLK13
+Add Pin To Net: Pin=U9B-88 Old Net=NetU9_88 New Net=PH_CLK14
+Add Pin To Net: Pin=U9B-89 Old Net=NetU9_89 New Net=PH_CLK15
+Add Pin To Net: Pin=U9B-90 Old Net=SEL_MAX2_N New Net=PH_CLK10
+Add Pin To Net: Pin=U9B-95 Old Net=NetU9_95 New Net=LOAD_MAX1_N
+Add Pin To Net: Pin=U9B-96 Old Net=BIAS_V_ON New Net=SEL_MAX1_N

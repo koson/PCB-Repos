@@ -1,0 +1,19 @@
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=TP11(SMD_TEST POINT)
+Added Component: Designator=TP12(SMD_TEST POINT)
+Added Component: Designator=TP13(SMD_TEST POINT)
+Added Component: Designator=TP14(SMD_TEST POINT)
+Added Component: Designator=TP15(SMD_TEST POINT)
+Added Pin To Net: NetName=A Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=A Pin=TP11-1
+Added Pin To Net: NetName=A Pin=TP12-1
+Added Pin To Net: NetName=A Pin=TP13-1
+Added Pin To Net: NetName=A Pin=TP14-1
+Added Pin To Net: NetName=GND Pin=TP15-1
+Added Member To Class: ClassName=CPLD board Member=Component P2 Header 2
+Added Member To Class: ClassName=CPLD board Member=Component TP11 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP12 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP13 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP14 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP15 Test Point SMD

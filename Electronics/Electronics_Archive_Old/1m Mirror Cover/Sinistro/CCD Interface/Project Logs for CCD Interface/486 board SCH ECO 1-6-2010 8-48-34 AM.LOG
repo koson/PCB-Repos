@@ -1,0 +1,36 @@
+Remove Pin=P1-2 From Net=SG
+Remove Pin=P1-6 From Net=VOD
+Remove Pin=P1-17 From Net=P3B
+Remove Pin=P1-21 From Net=P2B
+Remove Pin=P1-25 From Net=VOG
+Remove Pin=P1-29 From Net=P3A
+Remove Pin=P1-33 From Net=S2Q3
+Remove Pin=P1-37 From Net=P1B
+Remove Pin=P1-41 From Net=S2Q2
+Remove Pin=P1-42 From Net=S2Q1
+Remove Pin=P1-45 From Net=TGA
+Remove Pin=P1-46 From Net=VRD
+Remove Pin=P1-49 From Net=S1Q1
+Remove Pin=P1-50 From Net=RG
+Remove Pin=P1-54 From Net=P2A
+Remove Pin=P1-57 From Net=S3
+Remove Pin=P1-58 From Net=S1Q2
+Remove Pin=P1-62 From Net=S1Q3
+Add Pin To Net: Pin=P1-2 Old Net=SG New Net=VOD
+Add Pin To Net: Pin=P1-6 Old Net=VOD New Net=VOG
+Add Pin To Net: Pin=P1-13 Old Net=NetP1_13 New Net=P1B
+Add Pin To Net: Pin=P1-17 Old Net=P3B New Net=P2A
+Add Pin To Net: Pin=P1-21 Old Net=P2B New Net=P3B
+Add Pin To Net: Pin=P1-25 Old Net=VOG New Net=TGA
+Add Pin To Net: Pin=P1-29 Old Net=P3A New Net=S1Q1
+Add Pin To Net: Pin=P1-33 Old Net=S2Q3 New Net=S2Q1
+Add Pin To Net: Pin=P1-42 Old Net=S2Q1 New Net=SG
+Add Pin To Net: Pin=P1-45 Old Net=TGA New Net=P3A
+Add Pin To Net: Pin=P1-46 Old Net=VRD New Net=P2B
+Add Pin To Net: Pin=P1-49 Old Net=S1Q1 New Net=VRD
+Add Pin To Net: Pin=P1-50 Old Net=RG New Net=S2Q2
+Add Pin To Net: Pin=P1-54 Old Net=P2A New Net=S3
+Add Pin To Net: Pin=P1-57 Old Net=S3 New Net=RG
+Add Pin To Net: Pin=P1-58 Old Net=S1Q2 New Net=S2Q3
+Add Pin To Net: Pin=P1-62 Old Net=S1Q3 New Net=S1Q2
+Add Pin To Net: Pin=P1-66 Old Net=NetP1_66 New Net=S1Q3

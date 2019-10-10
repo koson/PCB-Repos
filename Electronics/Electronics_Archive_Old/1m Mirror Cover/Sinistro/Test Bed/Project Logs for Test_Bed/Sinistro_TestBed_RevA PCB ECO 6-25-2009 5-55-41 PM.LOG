@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=ANALOG CLOCK DRIVES.P1A_DR Pin=TP19-1
+Removed Member From Class: ClassName=ASP BRD #1 Member=TP19
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=TP19
+Change Component Designator: OldDesignator=P2A NewDesignator=TP21
+Change Component Designator: OldDesignator=P2B NewDesignator=TP22
+Change Component Designator: OldDesignator=RG NewDesignator=TP34
+Change Component Designator: OldDesignator=S1Q1 NewDesignator=TP35
+Change Component Designator: OldDesignator=S1Q2 NewDesignator=TP36
+Change Component Designator: OldDesignator=S1Q3 NewDesignator=TP37
+Change Component Designator: OldDesignator=S1Q4 NewDesignator=TP38
+Change Component Designator: OldDesignator=S2Q1 NewDesignator=TP39
+Change Component Designator: OldDesignator=S2Q2 NewDesignator=TP40
+Change Component Designator: OldDesignator=S2Q3 NewDesignator=TP41
+Change Component Designator: OldDesignator=S2Q4 NewDesignator=TP42
+Change Component Designator: OldDesignator=S3 NewDesignator=TP43
+Change Component Designator: OldDesignator=SG NewDesignator=TP44
+Change Component Designator: OldDesignator=TGA NewDesignator=TP45
+Change Component Designator: OldDesignator=TGB NewDesignator=TP46
+Change Component Designator: OldDesignator=VOD NewDesignator=TP47
+Change Component Designator: OldDesignator=VOG NewDesignator=TP48
+Change Component Designator: OldDesignator=VRD NewDesignator=TP49
+Added Component: Designator=TP20(PAD_80D_052H)
+Added Component: Designator=TP32(PAD_80D_052H)
+Added Component: Designator=TP33(PAD_80D_052H)
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P1B_DR Pin=TP20-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3A_DR Pin=TP32-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3B_DR Pin=TP33-1

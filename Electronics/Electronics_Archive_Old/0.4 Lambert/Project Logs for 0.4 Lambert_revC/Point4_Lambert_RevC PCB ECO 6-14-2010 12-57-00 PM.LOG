@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=UV_LOW_SIDE Pin=L1-1
+Removed Pin From Net: NetName=IR_LOW_SIDE Pin=L2-1
+Removed Pin From Net: NetName=UV_LOW_SIDE Pin=TP6-1
+Removed Pin From Net: NetName=IR_LOW_SIDE Pin=TP8-1
+Added Pin To Net: NetName=IR_LOW_SIDE Pin=L1-1
+Added Pin To Net: NetName=UV_LOW_SIDE Pin=L2-1
+Added Pin To Net: NetName=IR_LOW_SIDE Pin=TP6-1
+Added Pin To Net: NetName=UV_LOW_SIDE Pin=TP8-1

@@ -1,0 +1,10 @@
+Added Component: Designator=U9(SOP8_N)
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=I2C_SDA Pin=U9-5
+Added Pin To Net: NetName=I2C_SCL Pin=U9-6
+Added Pin To Net: NetName=NetS1_2 Pin=U9-7
+Added Pin To Net: NetName=+3.3V_BKPL Pin=U9-8
+Added Member To Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=Component U9 M24C32RMN1

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=24V Pin=C20-POS
+Added Pin To Net: NetName=24V Pin=P3-6
+Added Pin To Net: NetName=24V Pin=P3-16
+Added Pin To Net: NetName=24V Pin=P11-1
+Added Pin To Net: NetName=24V Pin=TP17-1
+Change Net Name : Old Net Name=24V New Net Name=+24V

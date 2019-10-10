@@ -1,0 +1,434 @@
+Added Component: Designator=C1(SMD_0805)
+Added Component: Designator=C2(2012[0805])
+Added Component: Designator=C3(SMD_CAP_7343)
+Added Component: Designator=C4(2012[0805])
+Added Component: Designator=C5(SMD_CAP_7343)
+Added Component: Designator=C6(SMD_0805)
+Added Component: Designator=C7_5V_PS(SMD_0805)
+Added Component: Designator=C7_12V_PS(SMD_0805)
+Added Component: Designator=C7_30V_PS(SMD_0805)
+Added Component: Designator=C8_5V_PS(SMD_CAP_6032)
+Added Component: Designator=C8_12V_PS(SMD_CAP_6032)
+Added Component: Designator=C8_30V_PS(SMD_CAP_6032)
+Added Component: Designator=C9_5V_PS(SMD_CAP_6032)
+Added Component: Designator=C9_12V_PS(SMD_CAP_6032)
+Added Component: Designator=C9_30V_PS(SMD_CAP_6032)
+Added Component: Designator=C10_5V_PS(SMD_CAP_7343)
+Added Component: Designator=C10_12V_PS(SMD_CAP_7343)
+Added Component: Designator=C10_30V_PS(SMD_CAP_7343)
+Added Component: Designator=C11_5V_PS(SMD_CAP_7343)
+Added Component: Designator=C11_12V_PS(SMD_CAP_7343)
+Added Component: Designator=C11_30V_PS(SMD_CAP_7343)
+Added Component: Designator=C12_5V_PS(SMD_CAP_6032)
+Added Component: Designator=C12_12V_PS(SMD_CAP_6032)
+Added Component: Designator=C12_30V_PS(SMD_CAP_6032)
+Added Component: Designator=C13_5V_PS(SMD_CAP_6032)
+Added Component: Designator=C13_12V_PS(SMD_CAP_6032)
+Added Component: Designator=C13_30V_PS(SMD_CAP_6032)
+Added Component: Designator=C14_5V_PS(SMD_0805)
+Added Component: Designator=C14_12V_PS(SMD_0805)
+Added Component: Designator=C14_30V_PS(SMD_0805)
+Added Component: Designator=C15_5V_PS(SMD_0805)
+Added Component: Designator=C15_12V_PS(SMD_0805)
+Added Component: Designator=C15_30V_PS(SMD_0805)
+Added Component: Designator=C16_5V_PS(SMD_0805)
+Added Component: Designator=C16_12V_PS(SMD_0805)
+Added Component: Designator=C16_30V_PS(SMD_0805)
+Added Component: Designator=C17_5V_PS(SMD_0805)
+Added Component: Designator=C17_12V_PS(SMD_0805)
+Added Component: Designator=C17_30V_PS(SMD_0805)
+Added Component: Designator=F1_5V_PS(SMD 2920  PolySwitch)
+Added Component: Designator=F1_12V_PS(SMD 2920  PolySwitch)
+Added Component: Designator=F1_30V_PS(SMD 2920  PolySwitch)
+Added Component: Designator=FB1_5V_PS(SMD_1210_INDUCT)
+Added Component: Designator=FB1_12V_PS(SMD_1210_INDUCT)
+Added Component: Designator=FB1_30V_PS(SMD_1210_INDUCT)
+Added Component: Designator=FB2_5V_PS(SMD_1210_INDUCT)
+Added Component: Designator=FB2_12V_PS(SMD_1210_INDUCT)
+Added Component: Designator=FB2_30V_PS(SMD_1210_INDUCT)
+Added Component: Designator=L1_5V_PS(Inductor TDC SLF)
+Added Component: Designator=L1_12V_PS(Inductor TDC SLF)
+Added Component: Designator=L1_30V_PS(Inductor TDC SLF)
+Added Component: Designator=P1(PETC-02-12-02-01-RA)
+Added Component: Designator=P2(HDR-2 pin w/screw)
+Added Component: Designator=P3(HDR1X4 for IDC)
+Added Component: Designator=P4(LEMO SIZE 3 18-pin PCB)
+Added Component: Designator=PS1_5V_PS(BetaDyne LNB15, DC/DC)
+Added Component: Designator=PS1_12V_PS(BetaDyne LNB15, DC/DC)
+Added Component: Designator=PS1_30V_PS(BetaDyne LNB15, DC/DC)
+Added Component: Designator=R1(SMD_0805)
+Added Component: Designator=R2(SMD_0805)
+Added Component: Designator=R3(SMD_0805)
+Added Component: Designator=R4(SMD_0805)
+Added Component: Designator=R5(SMD_0805)
+Added Component: Designator=R6(SMD_0805)
+Added Component: Designator=R7(SMD_0805)
+Added Component: Designator=R8_5V_PS(SMD_0805)
+Added Component: Designator=R8_12V_PS(SMD_0805)
+Added Component: Designator=R8_30V_PS(SMD_0805)
+Added Component: Designator=R9_5V_PS(SMD_0805)
+Added Component: Designator=R9_12V_PS(SMD_0805)
+Added Component: Designator=R9_30V_PS(SMD_0805)
+Added Component: Designator=TP1(SMD_TEST POINT)
+Added Component: Designator=TP2(SMD_TEST POINT)
+Added Component: Designator=TP3(SMD_TEST POINT)
+Added Component: Designator=TP4(SMD_TEST POINT)
+Added Component: Designator=TP5(SMD_TEST POINT)
+Added Component: Designator=TP6(SMD_TEST POINT)
+Added Component: Designator=TP7(SMD_TEST POINT)
+Added Component: Designator=TP8(SMD_TEST POINT)
+Added Component: Designator=U1(SOT23-5)
+Added Component: Designator=U2(PSIP_3_SMD)
+Added Component: Designator=U3(T03B)
+Added Component: Designator=U4(SOT23-5)
+Added Component: Designator=U5(SuperFin Footprint)
+Added Component: Designator=U6_5V_PS(SOT23-5)
+Added Component: Designator=U6_12V_PS(SOT23-5)
+Added Component: Designator=U6_30V_PS(SOT23-5)
+Added Component: Designator=U7_5V_PS(SOT23-5)
+Added Component: Designator=U7_12V_PS(SOT23-5)
+Added Component: Designator=U7_30V_PS(SOT23-5)
+Added Pin To Net: NetName=+3.3_IMON Pin=U1-1
+Added Pin To Net: NetName=+3.3_IMON Pin=U5-A9
+Added Net: Name=+3.3_IMON
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Pin To Net: NetName=+3.3V Pin=TP1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-4
+Added Pin To Net: NetName=+3.3V Pin=U5-B121
+Added Pin To Net: NetName=+3.3V Pin=U5-B121
+Added Pin To Net: NetName=+3.3V Pin=U5-B121
+Added Pin To Net: NetName=+3.3V Pin=U5-B121
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V_IMON Pin=U5-A13
+Added Pin To Net: NetName=+5V_IMON Pin=U6_5V_PS-1
+Added Net: Name=+5V_IMON
+Added Pin To Net: NetName=+5V Pin=U5-A1
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V_IMON Pin=U5-A17
+Added Pin To Net: NetName=+12V_IMON Pin=U6_12V_PS-1
+Added Net: Name=+12V_IMON
+Added Pin To Net: NetName=+24V_IMON Pin=U4-1
+Added Pin To Net: NetName=+24V_IMON Pin=U5-A19
+Added Net: Name=+24V_IMON
+Added Pin To Net: NetName=+24V_IN Pin=C2-1
+Added Pin To Net: NetName=+24V_IN Pin=F1_5V_PS-1
+Added Pin To Net: NetName=+24V_IN Pin=F1_12V_PS-1
+Added Pin To Net: NetName=+24V_IN Pin=F1_30V_PS-1
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-13
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P1-14
+Added Pin To Net: NetName=+24V_IN Pin=P2-1
+Added Pin To Net: NetName=+24V_IN Pin=R5-1
+Added Pin To Net: NetName=+24V_IN Pin=U2-1
+Added Pin To Net: NetName=+24V_IN Pin=U4-3
+Added Net: Name=+24V_IN
+Added Pin To Net: NetName=+24V Pin=P4-6
+Added Pin To Net: NetName=+24V Pin=P4-16
+Added Pin To Net: NetName=+24V Pin=R5-2
+Added Pin To Net: NetName=+24V Pin=TP3-1
+Added Pin To Net: NetName=+24V Pin=U4-4
+Added Net: Name=+24V
+Added Pin To Net: NetName=+28V_IMON Pin=U5-A21
+Added Pin To Net: NetName=+28V_IMON Pin=U6_30V_PS-1
+Added Net: Name=+28V_IMON
+Added Pin To Net: NetName=+28V Pin=C5-POS
+Added Pin To Net: NetName=+28V Pin=P4-7
+Added Pin To Net: NetName=+28V Pin=P4-17
+Added Pin To Net: NetName=+28V Pin=R3-2
+Added Pin To Net: NetName=+28V Pin=TP2-1
+Added Pin To Net: NetName=+28V Pin=U3-2
+Added Net: Name=+28V
+Added Pin To Net: NetName=+VOUT_PWR_5V_PS Pin=P4-4
+Added Pin To Net: NetName=+VOUT_PWR_5V_PS Pin=R8_5V_PS-2
+Added Pin To Net: NetName=+VOUT_PWR_5V_PS Pin=TP5-1
+Added Pin To Net: NetName=+VOUT_PWR_5V_PS Pin=U6_5V_PS-4
+Added Net: Name=+VOUT_PWR_5V_PS
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C1-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C6-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C7_5V_PS-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C7_12V_PS-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C7_30V_PS-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C17_5V_PS-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C17_12V_PS-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=C17_30V_PS-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=P4-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=P4-13
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=R8_12V_PS-2
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=TP8-1
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U1-5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U4-5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U5-A5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U6_5V_PS-5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U6_12V_PS-4
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U6_12V_PS-5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U6_30V_PS-5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U7_5V_PS-5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U7_12V_PS-5
+Added Pin To Net: NetName=+VOUT_PWR_12V_PS Pin=U7_30V_PS-5
+Added Net: Name=+VOUT_PWR_12V_PS
+Added Pin To Net: NetName=+VOUT_PWR_30V_PS Pin=C4-1
+Added Pin To Net: NetName=+VOUT_PWR_30V_PS Pin=R8_30V_PS-2
+Added Pin To Net: NetName=+VOUT_PWR_30V_PS Pin=U3-3
+Added Pin To Net: NetName=+VOUT_PWR_30V_PS Pin=U6_30V_PS-4
+Added Net: Name=+VOUT_PWR_30V_PS
+Added Pin To Net: NetName=-5V_IMON Pin=U5-A11
+Added Pin To Net: NetName=-5V_IMON Pin=U7_5V_PS-1
+Added Net: Name=-5V_IMON
+Added Pin To Net: NetName=-12V_IMON Pin=U5-A15
+Added Pin To Net: NetName=-12V_IMON Pin=U7_12V_PS-1
+Added Net: Name=-12V_IMON
+Added Pin To Net: NetName=-I_MON_OUT_30V_PS Pin=U7_30V_PS-1
+Added Net: Name=-I_MON_OUT_30V_PS
+Added Pin To Net: NetName=-VOUT_PWR_5V_PS Pin=P4-14
+Added Pin To Net: NetName=-VOUT_PWR_5V_PS Pin=R9_5V_PS-1
+Added Pin To Net: NetName=-VOUT_PWR_5V_PS Pin=TP6-1
+Added Pin To Net: NetName=-VOUT_PWR_5V_PS Pin=U7_5V_PS-3
+Added Net: Name=-VOUT_PWR_5V_PS
+Added Pin To Net: NetName=-VOUT_PWR_12V_PS Pin=P4-12
+Added Pin To Net: NetName=-VOUT_PWR_12V_PS Pin=P4-18
+Added Pin To Net: NetName=-VOUT_PWR_12V_PS Pin=R9_12V_PS-1
+Added Pin To Net: NetName=-VOUT_PWR_12V_PS Pin=TP7-1
+Added Pin To Net: NetName=-VOUT_PWR_12V_PS Pin=U5-A3
+Added Pin To Net: NetName=-VOUT_PWR_12V_PS Pin=U7_12V_PS-3
+Added Net: Name=-VOUT_PWR_12V_PS
+Added Pin To Net: NetName=-VOUT_PWR_30V_PS Pin=R2-1
+Added Pin To Net: NetName=-VOUT_PWR_30V_PS Pin=R9_30V_PS-1
+Added Pin To Net: NetName=-VOUT_PWR_30V_PS Pin=U7_30V_PS-3
+Added Net: Name=-VOUT_PWR_30V_PS
+Added Pin To Net: NetName=ANALOG SPLYS ON Pin=P3-1
+Added Pin To Net: NetName=ANALOG SPLYS ON Pin=PS1_5V_PS-1
+Added Pin To Net: NetName=ANALOG SPLYS ON Pin=PS1_12V_PS-1
+Added Pin To Net: NetName=ANALOG SPLYS ON Pin=PS1_30V_PS-1
+Added Pin To Net: NetName=ANALOG SPLYS ON Pin=U5-B47
+Added Net: Name=ANALOG SPLYS ON
+Added Pin To Net: NetName=A Pin=C1-2
+Added Pin To Net: NetName=A Pin=C4-2
+Added Pin To Net: NetName=A Pin=C5-NEG
+Added Pin To Net: NetName=A Pin=C6-2
+Added Pin To Net: NetName=A Pin=C7_5V_PS-2
+Added Pin To Net: NetName=A Pin=C7_12V_PS-2
+Added Pin To Net: NetName=A Pin=C7_30V_PS-2
+Added Pin To Net: NetName=A Pin=C16_5V_PS-1
+Added Pin To Net: NetName=A Pin=C16_12V_PS-1
+Added Pin To Net: NetName=A Pin=C16_30V_PS-1
+Added Pin To Net: NetName=A Pin=C17_5V_PS-2
+Added Pin To Net: NetName=A Pin=C17_12V_PS-2
+Added Pin To Net: NetName=A Pin=C17_30V_PS-2
+Added Pin To Net: NetName=A Pin=P4-2
+Added Pin To Net: NetName=A Pin=P4-3
+Added Pin To Net: NetName=A Pin=R2-2
+Added Pin To Net: NetName=A Pin=R4-1
+Added Pin To Net: NetName=A Pin=R6-2
+Added Pin To Net: NetName=A Pin=R7-2
+Added Pin To Net: NetName=A Pin=U1-2
+Added Pin To Net: NetName=A Pin=U4-2
+Added Pin To Net: NetName=A Pin=U5-A121
+Added Pin To Net: NetName=A Pin=U5-A121
+Added Pin To Net: NetName=A Pin=U5-A121
+Added Pin To Net: NetName=A Pin=U5-A121
+Added Pin To Net: NetName=A Pin=U6_5V_PS-2
+Added Pin To Net: NetName=A Pin=U6_12V_PS-2
+Added Pin To Net: NetName=A Pin=U6_30V_PS-2
+Added Pin To Net: NetName=A Pin=U7_5V_PS-2
+Added Pin To Net: NetName=A Pin=U7_12V_PS-2
+Added Pin To Net: NetName=A Pin=U7_30V_PS-2
+Added Net: Name=A
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=C8_5V_PS-NEG
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=C9_5V_PS-NEG
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=C12_5V_PS-POS
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=C13_5V_PS-POS
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=C14_5V_PS-2
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=C16_5V_PS-2
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=PS1_5V_PS-5
+Added Pin To Net: NetName=COM_PWR_5V_PS Pin=R7-1
+Added Net: Name=COM_PWR_5V_PS
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=C8_12V_PS-NEG
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=C9_12V_PS-NEG
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=C12_12V_PS-POS
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=C13_12V_PS-POS
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=C14_12V_PS-2
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=C16_12V_PS-2
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=PS1_12V_PS-5
+Added Pin To Net: NetName=COM_PWR_12V_PS Pin=R6-1
+Added Net: Name=COM_PWR_12V_PS
+Added Pin To Net: NetName=COM_PWR_30V_PS Pin=C8_30V_PS-NEG
+Added Pin To Net: NetName=COM_PWR_30V_PS Pin=C9_30V_PS-NEG
+Added Pin To Net: NetName=COM_PWR_30V_PS Pin=C12_30V_PS-POS
+Added Pin To Net: NetName=COM_PWR_30V_PS Pin=C13_30V_PS-POS
+Added Pin To Net: NetName=COM_PWR_30V_PS Pin=C14_30V_PS-2
+Added Pin To Net: NetName=COM_PWR_30V_PS Pin=C16_30V_PS-2
+Added Pin To Net: NetName=COM_PWR_30V_PS Pin=PS1_30V_PS-5
+Added Net: Name=COM_PWR_30V_PS
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-NEG
+Added Pin To Net: NetName=GND Pin=C10_5V_PS-NEG
+Added Pin To Net: NetName=GND Pin=C10_12V_PS-NEG
+Added Pin To Net: NetName=GND Pin=C10_30V_PS-NEG
+Added Pin To Net: NetName=GND Pin=C11_5V_PS-NEG
+Added Pin To Net: NetName=GND Pin=C11_12V_PS-NEG
+Added Pin To Net: NetName=GND Pin=C11_30V_PS-NEG
+Added Pin To Net: NetName=GND Pin=C14_5V_PS-1
+Added Pin To Net: NetName=GND Pin=C14_12V_PS-1
+Added Pin To Net: NetName=GND Pin=C14_30V_PS-1
+Added Pin To Net: NetName=GND Pin=C15_5V_PS-1
+Added Pin To Net: NetName=GND Pin=C15_5V_PS-2
+Added Pin To Net: NetName=GND Pin=C15_12V_PS-1
+Added Pin To Net: NetName=GND Pin=C15_12V_PS-2
+Added Pin To Net: NetName=GND Pin=C15_30V_PS-1
+Added Pin To Net: NetName=GND Pin=C15_30V_PS-2
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=GND Pin=P4-10
+Added Pin To Net: NetName=GND Pin=P4-11
+Added Pin To Net: NetName=GND Pin=PS1_5V_PS-2
+Added Pin To Net: NetName=GND Pin=PS1_12V_PS-2
+Added Pin To Net: NetName=GND Pin=PS1_30V_PS-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U5-A122
+Added Pin To Net: NetName=GND Pin=U5-A122
+Added Pin To Net: NetName=GND Pin=U5-A122
+Added Pin To Net: NetName=GND Pin=U5-A122
+Added Pin To Net: NetName=GND Pin=U5-B49
+Added Pin To Net: NetName=GND Pin=U5-B122
+Added Pin To Net: NetName=GND Pin=U5-B122
+Added Pin To Net: NetName=GND Pin=U5-B122
+Added Pin To Net: NetName=GND Pin=U5-B122
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_pos Pin=C3-POS
+Added Pin To Net: NetName=NetC3_pos Pin=R1-1
+Added Pin To Net: NetName=NetC3_pos Pin=U1-3
+Added Pin To Net: NetName=NetC3_pos Pin=U2-3
+Added Net: Name=NetC3_pos
+Added Pin To Net: NetName=NetC8_5V_PS_pos Pin=C8_5V_PS-POS
+Added Pin To Net: NetName=NetC8_5V_PS_pos Pin=FB1_5V_PS-1
+Added Pin To Net: NetName=NetC8_5V_PS_pos Pin=PS1_5V_PS-4
+Added Net: Name=NetC8_5V_PS_pos
+Added Pin To Net: NetName=NetC8_12V_PS_pos Pin=C8_12V_PS-POS
+Added Pin To Net: NetName=NetC8_12V_PS_pos Pin=FB1_12V_PS-1
+Added Pin To Net: NetName=NetC8_12V_PS_pos Pin=PS1_12V_PS-4
+Added Net: Name=NetC8_12V_PS_pos
+Added Pin To Net: NetName=NetC8_30V_PS_pos Pin=C8_30V_PS-POS
+Added Pin To Net: NetName=NetC8_30V_PS_pos Pin=FB1_30V_PS-1
+Added Pin To Net: NetName=NetC8_30V_PS_pos Pin=PS1_30V_PS-4
+Added Net: Name=NetC8_30V_PS_pos
+Added Pin To Net: NetName=NetC9_5V_PS_pos Pin=C9_5V_PS-POS
+Added Pin To Net: NetName=NetC9_5V_PS_pos Pin=FB1_5V_PS-2
+Added Pin To Net: NetName=NetC9_5V_PS_pos Pin=R8_5V_PS-1
+Added Pin To Net: NetName=NetC9_5V_PS_pos Pin=U6_5V_PS-3
+Added Net: Name=NetC9_5V_PS_pos
+Added Pin To Net: NetName=NetC9_12V_PS_pos Pin=C9_12V_PS-POS
+Added Pin To Net: NetName=NetC9_12V_PS_pos Pin=FB1_12V_PS-2
+Added Pin To Net: NetName=NetC9_12V_PS_pos Pin=R8_12V_PS-1
+Added Pin To Net: NetName=NetC9_12V_PS_pos Pin=U6_12V_PS-3
+Added Net: Name=NetC9_12V_PS_pos
+Added Pin To Net: NetName=NetC9_30V_PS_pos Pin=C9_30V_PS-POS
+Added Pin To Net: NetName=NetC9_30V_PS_pos Pin=FB1_30V_PS-2
+Added Pin To Net: NetName=NetC9_30V_PS_pos Pin=R8_30V_PS-1
+Added Pin To Net: NetName=NetC9_30V_PS_pos Pin=U6_30V_PS-3
+Added Net: Name=NetC9_30V_PS_pos
+Added Pin To Net: NetName=NetC10_5V_PS_pos Pin=C10_5V_PS-POS
+Added Pin To Net: NetName=NetC10_5V_PS_pos Pin=F1_5V_PS-2
+Added Pin To Net: NetName=NetC10_5V_PS_pos Pin=L1_5V_PS-1
+Added Net: Name=NetC10_5V_PS_pos
+Added Pin To Net: NetName=NetC10_12V_PS_pos Pin=C10_12V_PS-POS
+Added Pin To Net: NetName=NetC10_12V_PS_pos Pin=F1_12V_PS-2
+Added Pin To Net: NetName=NetC10_12V_PS_pos Pin=L1_12V_PS-1
+Added Net: Name=NetC10_12V_PS_pos
+Added Pin To Net: NetName=NetC10_30V_PS_pos Pin=C10_30V_PS-POS
+Added Pin To Net: NetName=NetC10_30V_PS_pos Pin=F1_30V_PS-2
+Added Pin To Net: NetName=NetC10_30V_PS_pos Pin=L1_30V_PS-1
+Added Net: Name=NetC10_30V_PS_pos
+Added Pin To Net: NetName=NetC11_5V_PS_pos Pin=C11_5V_PS-POS
+Added Pin To Net: NetName=NetC11_5V_PS_pos Pin=L1_5V_PS-2
+Added Pin To Net: NetName=NetC11_5V_PS_pos Pin=PS1_5V_PS-3
+Added Net: Name=NetC11_5V_PS_pos
+Added Pin To Net: NetName=NetC11_12V_PS_pos Pin=C11_12V_PS-POS
+Added Pin To Net: NetName=NetC11_12V_PS_pos Pin=L1_12V_PS-2
+Added Pin To Net: NetName=NetC11_12V_PS_pos Pin=PS1_12V_PS-3
+Added Net: Name=NetC11_12V_PS_pos
+Added Pin To Net: NetName=NetC11_30V_PS_pos Pin=C11_30V_PS-POS
+Added Pin To Net: NetName=NetC11_30V_PS_pos Pin=L1_30V_PS-2
+Added Pin To Net: NetName=NetC11_30V_PS_pos Pin=PS1_30V_PS-3
+Added Net: Name=NetC11_30V_PS_pos
+Added Pin To Net: NetName=NetC12_5V_PS_neg Pin=C12_5V_PS-NEG
+Added Pin To Net: NetName=NetC12_5V_PS_neg Pin=FB2_5V_PS-1
+Added Pin To Net: NetName=NetC12_5V_PS_neg Pin=PS1_5V_PS-6
+Added Net: Name=NetC12_5V_PS_neg
+Added Pin To Net: NetName=NetC12_12V_PS_neg Pin=C12_12V_PS-NEG
+Added Pin To Net: NetName=NetC12_12V_PS_neg Pin=FB2_12V_PS-1
+Added Pin To Net: NetName=NetC12_12V_PS_neg Pin=PS1_12V_PS-6
+Added Net: Name=NetC12_12V_PS_neg
+Added Pin To Net: NetName=NetC12_30V_PS_neg Pin=C12_30V_PS-NEG
+Added Pin To Net: NetName=NetC12_30V_PS_neg Pin=FB2_30V_PS-1
+Added Pin To Net: NetName=NetC12_30V_PS_neg Pin=PS1_30V_PS-6
+Added Net: Name=NetC12_30V_PS_neg
+Added Pin To Net: NetName=NetC13_5V_PS_neg Pin=C13_5V_PS-NEG
+Added Pin To Net: NetName=NetC13_5V_PS_neg Pin=FB2_5V_PS-2
+Added Pin To Net: NetName=NetC13_5V_PS_neg Pin=R9_5V_PS-2
+Added Pin To Net: NetName=NetC13_5V_PS_neg Pin=U7_5V_PS-4
+Added Net: Name=NetC13_5V_PS_neg
+Added Pin To Net: NetName=NetC13_12V_PS_neg Pin=C13_12V_PS-NEG
+Added Pin To Net: NetName=NetC13_12V_PS_neg Pin=FB2_12V_PS-2
+Added Pin To Net: NetName=NetC13_12V_PS_neg Pin=R9_12V_PS-2
+Added Pin To Net: NetName=NetC13_12V_PS_neg Pin=U7_12V_PS-4
+Added Net: Name=NetC13_12V_PS_neg
+Added Pin To Net: NetName=NetC13_30V_PS_neg Pin=C13_30V_PS-NEG
+Added Pin To Net: NetName=NetC13_30V_PS_neg Pin=FB2_30V_PS-2
+Added Pin To Net: NetName=NetC13_30V_PS_neg Pin=R9_30V_PS-2
+Added Pin To Net: NetName=NetC13_30V_PS_neg Pin=U7_30V_PS-4
+Added Net: Name=NetC13_30V_PS_neg
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR3_1 Pin=U3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=RS+ Pin=P4-8
+Added Net: Name=RS+
+Added Pin To Net: NetName=RS- Pin=P4-9
+Added Net: Name=RS-
+Added Pin To Net: NetName=SUPPORT Pin=U2-0
+Added Pin To Net: NetName=SUPPORT Pin=U2-0
+Added Net: Name=SUPPORT
+Added Pin To Net: NetName=VCC Pin=P4-5
+Added Pin To Net: NetName=VCC Pin=P4-15
+Added Pin To Net: NetName=VCC Pin=TP4-1
+Added Net: Name=VCC
+Added Class: Name=5V_PS
+Added Class: Name=12V_PS
+Added Class: Name=30V_PS
+Added Class: Name=780-00028_rev1_Pg1, Sinistro Power Supply
+Added Class: Name=SuperFin Module
+Added Class: Name=780-00028_rev1_Pg3, Sinistro Power Supply
+Added Room: Name=5V_PS
+Added Room: Name=12V_PS
+Added Room: Name=30V_PS
+Added Room: Name=780-00028_rev1_Pg1, Sinistro Power Supply
+Added Room: Name=SuperFin Module

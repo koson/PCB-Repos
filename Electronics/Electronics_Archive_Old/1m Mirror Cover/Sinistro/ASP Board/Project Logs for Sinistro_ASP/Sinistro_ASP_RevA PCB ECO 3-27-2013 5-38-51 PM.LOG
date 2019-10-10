@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TCK Pin=RN1-1
+Removed Pin From Net: NetName=TDO Pin=RN1-3
+Removed Pin From Net: NetName=TMS Pin=RN1-5
+Removed Pin From Net: NetName=TDI Pin=RN1-7
+Added Pin To Net: NetName=TDI Pin=RN1-1
+Added Pin To Net: NetName=TMS Pin=RN1-3
+Added Pin To Net: NetName=TDO Pin=RN1-5
+Added Pin To Net: NetName=TCK Pin=RN1-7

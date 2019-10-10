@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=OPTO_INPUT_3 Pin=RN1-1
+Removed Pin From Net: NetName=NetJ1_62 Pin=RN1-2
+Removed Pin From Net: NetName=OPTO_INPUT_2 Pin=RN1-3
+Removed Pin From Net: NetName=NetJ1_60 Pin=RN1-4
+Removed Pin From Net: NetName=OPTO_INPUT_1 Pin=RN1-5
+Removed Pin From Net: NetName=NetJ1_58 Pin=RN1-6
+Removed Pin From Net: NetName=OPTO_INPUT_0 Pin=RN1-7
+Removed Pin From Net: NetName=NetJ1_56 Pin=RN1-8
+Added Pin To Net: NetName=NetJ1_56 Pin=RN1-1
+Added Pin To Net: NetName=OPTO_INPUT_0 Pin=RN1-2
+Added Pin To Net: NetName=NetJ1_58 Pin=RN1-3
+Added Pin To Net: NetName=OPTO_INPUT_1 Pin=RN1-4
+Added Pin To Net: NetName=NetJ1_60 Pin=RN1-5
+Added Pin To Net: NetName=OPTO_INPUT_2 Pin=RN1-6
+Added Pin To Net: NetName=NetJ1_62 Pin=RN1-7
+Added Pin To Net: NetName=OPTO_INPUT_3 Pin=RN1-8

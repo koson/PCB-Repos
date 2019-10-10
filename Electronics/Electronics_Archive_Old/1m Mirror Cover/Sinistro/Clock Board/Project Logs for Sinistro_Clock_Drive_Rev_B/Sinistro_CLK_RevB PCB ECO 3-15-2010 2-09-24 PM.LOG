@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=MON_VOG Pin=R36-1
+Removed Pin From Net: NetName=A Pin=R38-1
+Removed Pin From Net: NetName=MON_VOG Pin=R38-2
+Removed Pin From Net: NetName=A Pin=U12-1
+Removed Pin From Net: NetName=NetR24_2 Pin=U12-3
+Removed Pin From Net: NetName=NetC30_1 Pin=U12-4
+Removed Pin From Net: NetName=NetC30_2 Pin=U12-5
+Change Component Comment : Designator=R38 Old Comment=Res SMD New Comment=Res 0805
+Change Component Comment : Designator=R36 Old Comment=Res SMD New Comment=Res 0805
+Added Component: Designator=R26(SMD_0805)
+Added Pin To Net: NetName=MON_VOG Pin=R26-2
+Added Pin To Net: NetName=-5VREF Pin=R38-2
+Added Pin To Net: NetName=NetR24_2 Pin=U12-1
+Added Pin To Net: NetName=A Pin=U12-3
+Added Pin To Net: NetName=MON_VOG Pin=U12-5
+Added Pin To Net: NetName=NetC30_2 Pin=U12-7
+Added Pin To Net: NetName=NetC30_1 Pin=U12-8
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=R36-1
+Added Pin To Net: NetName=NetR26_1 Pin=R38-1
+Added Pin To Net: NetName=NetR26_1 Pin=U12-4
+Added Net: Name=NetR26_1
+Added Member To Class: ClassName=Bias Voltages Member=Component R26 Res 0805

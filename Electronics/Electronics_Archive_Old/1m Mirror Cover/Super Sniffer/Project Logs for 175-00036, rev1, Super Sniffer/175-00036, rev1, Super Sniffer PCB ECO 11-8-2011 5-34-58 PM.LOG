@@ -1,0 +1,46 @@
+Added Component: Designator=J7(HDR2X7)
+Added Component: Designator=TP1(PAD_80D_052H)
+Added Component: Designator=TP2(PAD_80D_052H)
+Added Component: Designator=TP3(PAD_80D_052H)
+Added Component: Designator=TP4(PAD_80D_052H)
+Added Component: Designator=TP5(PAD_80D_052H)
+Added Component: Designator=TP6(PAD_80D_052H)
+Added Component: Designator=TP7(PAD_80D_052H)
+Added Component: Designator=TP8(PAD_80D_052H)
+Added Component: Designator=TP9(PAD_80D_052H)
+Added Component: Designator=TP10(PAD_80D_052H)
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Pin To Net: NetName=GND Pin=J7-8
+Added Pin To Net: NetName=GND Pin=J7-9
+Added Pin To Net: NetName=GND Pin=J7-10
+Added Pin To Net: NetName=GND Pin=J7-11
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-13
+Added Pin To Net: NetName=GND Pin=J7-14
+Added Pin To Net: NetName=5V Pin=TP1-1
+Added Pin To Net: NetName=-12V Pin=TP2-1
+Added Pin To Net: NetName=+12V Pin=TP3-1
+Added Pin To Net: NetName=3.3V Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP6-1
+Added Pin To Net: NetName=GND Pin=TP7-1
+Added Pin To Net: NetName=GND Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component J7 15-91-0140
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP1 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP2 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP3 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP4 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP5 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP6 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP7 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP8 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP9 Test point
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component TP10 Test point

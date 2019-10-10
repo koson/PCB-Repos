@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=HEATER(+) Pin=P1-39
+Added Pin To Net: NetName=HEATER(+) Pin=P1-41
+Added Pin To Net: NetName=HEATER(+) Pin=P1-43
+Added Pin To Net: NetName=HEATER(-) Pin=P1-51
+Added Pin To Net: NetName=HEATER(-) Pin=P1-53
+Added Pin To Net: NetName=HEATER(-) Pin=P1-55

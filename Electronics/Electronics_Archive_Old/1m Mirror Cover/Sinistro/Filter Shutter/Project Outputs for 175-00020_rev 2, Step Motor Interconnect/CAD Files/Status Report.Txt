@@ -1,0 +1,10 @@
+Output: IPC-D-356A-NETLIST FILE
+Type  : Test Points
+From  : PCB Document [175-00020_rev 2, Step Motor Interconnect.PcbDoc]
+   Generated File[Fabrication Testpoint Report for 175-00020_rev 2, Step Motor Interconnect.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:04:55 PM On 4/7/2011

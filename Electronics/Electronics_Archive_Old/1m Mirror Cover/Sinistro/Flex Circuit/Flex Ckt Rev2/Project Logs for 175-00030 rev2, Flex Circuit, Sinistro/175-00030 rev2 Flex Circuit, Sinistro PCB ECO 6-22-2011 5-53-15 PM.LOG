@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=A1OUT Pin=J2-B
+Added Net: Name=A1OUT
+Added Pin To Net: NetName=A2OUT Pin=J2-W
+Added Net: Name=A2OUT
+Added Pin To Net: NetName=A3OUT Pin=J2-jj
+Added Net: Name=A3OUT
+Added Pin To Net: NetName=A4OUT Pin=J2-kk
+Added Net: Name=A4OUT
+Added Pin To Net: NetName=RG Pin=J2-M
+Added Net: Name=RG
+Added Pin To Net: NetName=SG Pin=J2-P
+Added Net: Name=SG
+Added Pin To Net: NetName=VOD Pin=J2-X
+Added Net: Name=VOD
+Added Pin To Net: NetName=VOG Pin=J2-A
+Added Net: Name=VOG
+Added Pin To Net: NetName=VRD Pin=J2-V
+Added Net: Name=VRD

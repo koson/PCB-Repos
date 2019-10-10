@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Cap Tant 35V New DesignItemId=Cap 2.2uF 35V Low ESR
+Change Component Description : Designator=C13 Old Description=outline 6.0mm x 3.2mm New Description=outline 3.2mm x 1.6 mm, 1206
+Added Component: Designator=C14(SMD_CAP_3216)
+Added Component: Designator=C15(SMD_CAP_3216)
+Added Component: Designator=C16(SMD_CAP_3216)
+Added Component: Designator=C17(SMD_CAP_3216)
+Added Component: Designator=C18(SMD_CAP_3216)
+Added Component: Designator=C19(SMD_CAP_3216)
+Added Component: Designator=C20(SMD_CAP_3216)
+Added Member To Class: ClassName=486 board Member=Component C14 35V
+Added Member To Class: ClassName=486 board Member=Component C15 35V
+Added Member To Class: ClassName=486 board Member=Component C16 35V
+Added Member To Class: ClassName=486 board Member=Component C17 35V
+Added Member To Class: ClassName=486 board Member=Component C18 35V
+Added Member To Class: ClassName=486 board Member=Component C19 35V
+Added Member To Class: ClassName=486 board Member=Component C20 35V

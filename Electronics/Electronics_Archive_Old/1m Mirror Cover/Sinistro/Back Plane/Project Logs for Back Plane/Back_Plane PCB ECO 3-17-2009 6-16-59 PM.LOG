@@ -1,0 +1,30 @@
+Added Pin To Net: NetName=NetJ1_h Pin=J1-H
+Added Pin To Net: NetName=NetJ1_h Pin=J1-h
+Added Pin To Net: NetName=NetJ1_h Pin=P1-23
+Added Net: Name=NetJ1_h
+Added Pin To Net: NetName=NetJ1_i Pin=J1-i
+Added Pin To Net: NetName=NetJ1_i Pin=P1-25
+Added Net: Name=NetJ1_i
+Added Pin To Net: NetName=NetJ1_j Pin=J1-J
+Added Pin To Net: NetName=NetJ1_j Pin=J1-j
+Added Pin To Net: NetName=NetJ1_j Pin=P1-27
+Added Net: Name=NetJ1_j
+Added Pin To Net: NetName=NetJ1_k Pin=J1-K
+Added Pin To Net: NetName=NetJ1_k Pin=J1-k
+Added Pin To Net: NetName=NetJ1_k Pin=P1-29
+Added Net: Name=NetJ1_k
+Added Pin To Net: NetName=NetJ1_n Pin=J1-N
+Added Pin To Net: NetName=NetJ1_n Pin=J1-n
+Added Pin To Net: NetName=NetJ1_n Pin=P1-33
+Added Net: Name=NetJ1_n
+Added Pin To Net: NetName=NetJ1_p Pin=J1-P
+Added Pin To Net: NetName=NetJ1_p Pin=J1-p
+Added Pin To Net: NetName=NetJ1_p Pin=P1-35
+Added Net: Name=NetJ1_p
+Added Pin To Net: NetName=NetJ1_q Pin=J1-q
+Added Pin To Net: NetName=NetJ1_q Pin=P1-37
+Added Net: Name=NetJ1_q
+Added Pin To Net: NetName=NetJ1_r Pin=J1-R
+Added Pin To Net: NetName=NetJ1_r Pin=J1-r
+Added Pin To Net: NetName=NetJ1_r Pin=P1-39
+Added Net: Name=NetJ1_r

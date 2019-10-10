@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=INDEX4- Pin=P7-1
+Removed Pin From Net: NetName=INDEX4+ Pin=P7-2
+Removed Pin From Net: NetName=QUADB4- Pin=P7-3
+Removed Pin From Net: NetName=QUADA4- Pin=P7-4
+Removed Pin From Net: NetName=QUADB4+ Pin=P7-5
+Removed Pin From Net: NetName=QUADA4+ Pin=P7-6
+Added Pin To Net: NetName=QUADA4+ Pin=P7-1
+Added Pin To Net: NetName=QUADA4- Pin=P7-2
+Added Pin To Net: NetName=QUADB4+ Pin=P7-3
+Added Pin To Net: NetName=QUADB4- Pin=P7-4
+Added Pin To Net: NetName=INDEX4+ Pin=P7-5
+Added Pin To Net: NetName=INDEX4- Pin=P7-6

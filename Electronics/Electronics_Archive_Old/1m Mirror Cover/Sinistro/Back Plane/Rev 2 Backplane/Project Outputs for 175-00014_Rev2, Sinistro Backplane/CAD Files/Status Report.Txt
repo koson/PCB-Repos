@@ -1,0 +1,12 @@
+Output: DrillDrawing
+Type  : Gerber
+From  : PCB Document [175-00014_Rev2, PCB, Sinistro Backplane.PcbDoc]
+   Generated File[175-00014_Rev2, PCB, Sinistro Backplane.GD1]
+   Generated File[175-00014_Rev2, PCB, Sinistro Backplane.EXTREP]
+   Generated File[175-00014_Rev2, PCB, Sinistro Backplane.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:09:08 PM On 7/5/2011

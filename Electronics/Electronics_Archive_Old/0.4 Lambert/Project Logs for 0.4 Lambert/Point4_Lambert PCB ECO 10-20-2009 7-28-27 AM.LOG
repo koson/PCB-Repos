@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=H1-0
+Removed Pin From Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=UV_STRIP Pin=TP3-1

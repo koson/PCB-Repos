@@ -1,0 +1,10 @@
+Added Component: Designator=U9(S8_N)
+Added Pin To Net: NetName=NetC23_2 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=NetC35_2 Pin=U9-3
+Added Pin To Net: NetName=+5ANA Pin=U9-4
+Added Pin To Net: NetName=NetQ4_1 Pin=U9-5
+Added Pin To Net: NetName=24V Pin=U9-6
+Added Pin To Net: NetName=NetTP16_1 Pin=U9-7
+Added Pin To Net: NetName=NetTP16_1 Pin=U9-8
+Added Member To Class: ClassName=LED Drive Member=Component U9 LT1124CS8

@@ -1,0 +1,12 @@
+Added Component: Designator=TP8A(SMD_TEST POINT)
+Added Component: Designator=TP8B(SMD_TEST POINT)
+Added Component: Designator=TP8C(SMD_TEST POINT)
+Added Component: Designator=TP8D(SMD_TEST POINT)
+Added Pin To Net: NetName=NetP6A_1 Pin=TP8A-1
+Added Pin To Net: NetName=NetP6B_1 Pin=TP8B-1
+Added Pin To Net: NetName=NetP6C_1 Pin=TP8C-1
+Added Pin To Net: NetName=NetP6D_1 Pin=TP8D-1
+Added Member To Class: ClassName=ADCMON1 Member=Component TP8A (TP8) Test Point SMD
+Added Member To Class: ClassName=ADCMON2 Member=Component TP8B (TP8) Test Point SMD
+Added Member To Class: ClassName=ADCMON3 Member=Component TP8C (TP8) Test Point SMD
+Added Member To Class: ClassName=ADCMON4 Member=Component TP8D (TP8) Test Point SMD

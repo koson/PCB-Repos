@@ -1,0 +1,36 @@
+Remove Pin=U14A-5 From Net=ADC_DAT0
+Remove Pin=U14A-6 From Net=ADC_DAT1
+Remove Pin=U14A-7 From Net=ADC_DAT2
+Remove Pin=U14A-8 From Net=ADC_DAT3
+Remove Pin=U14A-11 From Net=ADC_DAT4
+Remove Pin=U14A-12 From Net=ADC_DAT5
+Remove Pin=U14A-13 From Net=ADC_DAT6
+Remove Pin=U14A-15 From Net=ASP_SEL_N
+Remove Pin=U14A-18 From Net=SCLK
+Remove Pin=U14A-20 From Net=CLK_100
+Remove Pin=U14A-23 From Net=Q0
+Remove Pin=U14A-24 From Net=Q1
+Remove Pin=U14A-27 From Net=SEL0
+Remove Pin=U14A-28 From Net=SEL1
+Remove Pin=U14A-29 From Net=SEL2
+Remove Pin=U14A-30 From Net=START_ACQ
+Remove Pin=U14A-31 From Net=DAT_STB
+Remove Pin=U14A-32 From Net=MUX
+Add Pin To Net: Pin=U14A-5 Old Net=ADC_DAT0 New Net=Q0
+Add Pin To Net: Pin=U14A-6 Old Net=ADC_DAT1 New Net=SEL1
+Add Pin To Net: Pin=U14A-7 Old Net=ADC_DAT2 New Net=Q1
+Add Pin To Net: Pin=U14A-8 Old Net=ADC_DAT3 New Net=SEL2
+Add Pin To Net: Pin=U14A-11 Old Net=ADC_DAT4 New Net=START_ACQ
+Add Pin To Net: Pin=U14A-12 Old Net=ADC_DAT5 New Net=DAT_STB
+Add Pin To Net: Pin=U14A-13 Old Net=ADC_DAT6 New Net=ASP_SEL_N
+Add Pin To Net: Pin=U14A-15 Old Net=ASP_SEL_N New Net=MUX
+Add Pin To Net: Pin=U14A-18 Old Net=SCLK New Net=CLK_100
+Add Pin To Net: Pin=U14A-20 Old Net=CLK_100 New Net=SCLK
+Add Pin To Net: Pin=U14A-23 Old Net=Q0 New Net=ADC_DAT0
+Add Pin To Net: Pin=U14A-24 Old Net=Q1 New Net=SEL0
+Add Pin To Net: Pin=U14A-27 Old Net=SEL0 New Net=ADC_DAT2
+Add Pin To Net: Pin=U14A-28 Old Net=SEL1 New Net=ADC_DAT1
+Add Pin To Net: Pin=U14A-29 Old Net=SEL2 New Net=ADC_DAT3
+Add Pin To Net: Pin=U14A-30 Old Net=START_ACQ New Net=ADC_DAT4
+Add Pin To Net: Pin=U14A-31 Old Net=DAT_STB New Net=ADC_DAT5
+Add Pin To Net: Pin=U14A-32 Old Net=MUX New Net=ADC_DAT6

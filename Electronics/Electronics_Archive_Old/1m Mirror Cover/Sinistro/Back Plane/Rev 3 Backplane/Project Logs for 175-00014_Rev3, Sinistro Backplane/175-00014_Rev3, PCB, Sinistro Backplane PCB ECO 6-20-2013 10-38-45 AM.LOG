@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+20V_ION Pin=P16-1
+Added Pin To Net: NetName=A Pin=P7-13
+Added Pin To Net: NetName=A Pin=P7-15
+Added Pin To Net: NetName=A Pin=P8-7
+Added Pin To Net: NetName=A Pin=P8-8
+Change Net Name : Old Net Name=HV_ON_MON New Net Name=+24V_VAC
+Change Net Name : Old Net Name=I_MON_VARIAN New Net Name=VAC_ANALOG
+Change Net Name : Old Net Name=V_MON_VARIAN New Net Name=VAC_IDENT
+Added Pin To Net: NetName=+18V_ION Pin=P16-1
+Added Net: Name=+18V_ION
+Change Class Name : Old Net Name=780-00018_rev3_Pg1 New Net Name=780-00018_rev3A_Pg1
+Change Room Name: Old Name=780-00018_rev3_Pg1 New Name=780-00018_rev3A_Pg1
+Change Room Scope: Old Scope=InComponentClass('780-00018_rev3_Pg1') New Scope=InComponentClass('780-00018_rev3A_Pg1')

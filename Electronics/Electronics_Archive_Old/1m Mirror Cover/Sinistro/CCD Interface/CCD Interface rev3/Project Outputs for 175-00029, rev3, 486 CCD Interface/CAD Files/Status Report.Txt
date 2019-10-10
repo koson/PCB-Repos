@@ -1,0 +1,12 @@
+Output: DrillDrawing
+Type  : Gerber
+From  : PCB Document [175-00029 rev3, 486 CCD Interface.PcbDoc]
+   Generated File[175-00029 rev3, 486 CCD Interface.GD1]
+   Generated File[175-00029 rev3, 486 CCD Interface.EXTREP]
+   Generated File[175-00029 rev3, 486 CCD Interface.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:08:50 PM On 7/16/2013

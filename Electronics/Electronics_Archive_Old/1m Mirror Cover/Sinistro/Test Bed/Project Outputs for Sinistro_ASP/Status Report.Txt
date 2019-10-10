@@ -1,0 +1,53 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [Sinistro_TestBed_RevA-1.PcbDoc]
+   Generated File[Pick Place for Sinistro_TestBed_RevA-1.txt]
+
+Output: ArtworkLayers
+Type  : Gerber
+From  : PCB Document [Sinistro_TestBed_RevA-1.PcbDoc]
+   Generated File[Sinistro_TestBed_RevA-1.GTL]
+   Generated File[Sinistro_TestBed_RevA-1.G1]
+   Generated File[Sinistro_TestBed_RevA-1.G2]
+   Generated File[Sinistro_TestBed_RevA-1.G3]
+   Generated File[Sinistro_TestBed_RevA-1.GP1]
+   Generated File[Sinistro_TestBed_RevA-1.GP2]
+   Generated File[Sinistro_TestBed_RevA-1.GBL]
+   Generated File[Sinistro_TestBed_RevA-1.GTO]
+   Generated File[Sinistro_TestBed_RevA-1.GTP]
+   Generated File[Sinistro_TestBed_RevA-1.GTS]
+   Generated File[Sinistro_TestBed_RevA-1.EXTREP]
+   Generated File[Sinistro_TestBed_RevA-1.REP]
+
+Output: DrillDrawing
+Type  : Gerber
+From  : PCB Document [Sinistro_TestBed_RevA-1.PcbDoc]
+   Generated File[Sinistro_TestBed_RevA-1.GD1]
+   Generated File[Sinistro_TestBed_RevA-1.EXTREP]
+   Generated File[Sinistro_TestBed_RevA-1.REP]
+
+Output: PCBFabricationDrawing
+Type  : Gerber
+From  : PCB Document [Sinistro_TestBed_RevA-1.PcbDoc]
+   Generated File[Sinistro_TestBed_RevA-1.GPT]
+   Generated File[Sinistro_TestBed_RevA-1.EXTREP]
+   Generated File[Sinistro_TestBed_RevA-1.REP]
+
+Output: NC Drill Output1
+Type  : NC Drill
+From  : PCB Document [Sinistro_TestBed_RevA-1.PcbDoc]
+   Generated File[Sinistro_TestBed_RevA-1-Plated.TXT]
+   Generated File[Sinistro_TestBed_RevA-1.DRL]
+   Generated File[Sinistro_TestBed_RevA-1.LDP]
+   Generated File[Sinistro_TestBed_RevA-1.DRR]
+
+Output: IPC-D-356A-NETLIST FILE
+Type  : Test Points
+From  : PCB Document [Sinistro_TestBed_RevA-1.PcbDoc]
+   Generated File[Testpoint Report for Sinistro_TestBed_RevA-1.ipc]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 11:51:40 AM On 7/3/2009

@@ -1,0 +1,18 @@
+Remove Pin=P5-5 From Net=A+_AXIS4
+Remove Pin=P5-7 From Net=B+_AXIS4
+Remove Pin=P5-8 From Net=B-_AXIS4
+Remove Pin=P7-1 From Net=QUADA4+
+Remove Pin=P7-2 From Net=QUADA4-
+Remove Pin=P7-3 From Net=QUADB4+
+Remove Pin=P7-4 From Net=QUADB4-
+Remove Pin=P7-5 From Net=INDEX4+
+Remove Pin=P7-6 From Net=INDEX4-
+Add Pin To Net: Pin=P5-5 Old Net=A+_AXIS4 New Net=B+_AXIS4
+Add Pin To Net: Pin=P5-7 Old Net=B+_AXIS4 New Net=B-_AXIS4
+Add Pin To Net: Pin=P5-8 Old Net=B-_AXIS4 New Net=A+_AXIS4
+Add Pin To Net: Pin=P7-1 Old Net=QUADA4+ New Net=INDEX4-
+Add Pin To Net: Pin=P7-2 Old Net=QUADA4- New Net=INDEX4+
+Add Pin To Net: Pin=P7-3 Old Net=QUADB4+ New Net=QUADB4-
+Add Pin To Net: Pin=P7-4 Old Net=QUADB4- New Net=QUADB4+
+Add Pin To Net: Pin=P7-5 Old Net=INDEX4+ New Net=QUADA4-
+Add Pin To Net: Pin=P7-6 Old Net=INDEX4- New Net=QUADA4+

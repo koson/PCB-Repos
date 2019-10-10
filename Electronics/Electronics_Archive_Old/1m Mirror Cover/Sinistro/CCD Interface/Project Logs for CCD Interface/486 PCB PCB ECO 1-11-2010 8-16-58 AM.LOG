@@ -1,0 +1,9 @@
+Added Component: Designator=C12(SMD_0805)
+Added Component: Designator=R13(AXIAL-0.4)
+Added Pin To Net: NetName=AGND Pin=C12-1
+Added Pin To Net: NetName=VRD Pin=C12-2
+Added Pin To Net: NetName=AGND Pin=R13-1
+Added Pin To Net: NetName=AGND Pin=R13-2
+Added Class: Name=Sheet1
+Added Member To Class: ClassName=486 board Member=Component C12 
+Added Room: Name=Sheet1

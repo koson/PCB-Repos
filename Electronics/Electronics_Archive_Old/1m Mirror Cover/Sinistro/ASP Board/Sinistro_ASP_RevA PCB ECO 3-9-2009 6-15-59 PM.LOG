@@ -1,0 +1,32 @@
+Added Component: Designator=U11A(S8_M)
+Added Component: Designator=U11B(S8_M)
+Added Component: Designator=U11C(S8_M)
+Added Component: Designator=U11D(S8_M)
+Added Pin To Net: NetName=NetC46A_2 Pin=U11A-1
+Added Pin To Net: NetName=NetC46A_2 Pin=U11A-2
+Added Pin To Net: NetName=NetR15A_1 Pin=U11A-3
+Added Pin To Net: NetName=NetR16A_1 Pin=U11A-6
+Added Pin To Net: NetName=NetC46A_2 Pin=U11A-7
+Added Pin To Net: NetName=NetQ10A_1 Pin=U11A-8
+Added Pin To Net: NetName=NetC46B_2 Pin=U11B-1
+Added Pin To Net: NetName=NetC46B_2 Pin=U11B-2
+Added Pin To Net: NetName=NetR15B_1 Pin=U11B-3
+Added Pin To Net: NetName=NetR16B_1 Pin=U11B-6
+Added Pin To Net: NetName=NetC46B_2 Pin=U11B-7
+Added Pin To Net: NetName=NetQ10B_1 Pin=U11B-8
+Added Pin To Net: NetName=NetC46C_2 Pin=U11C-1
+Added Pin To Net: NetName=NetC46C_2 Pin=U11C-2
+Added Pin To Net: NetName=NetR15C_1 Pin=U11C-3
+Added Pin To Net: NetName=NetR16C_1 Pin=U11C-6
+Added Pin To Net: NetName=NetC46C_2 Pin=U11C-7
+Added Pin To Net: NetName=NetQ10C_1 Pin=U11C-8
+Added Pin To Net: NetName=NetC46D_2 Pin=U11D-1
+Added Pin To Net: NetName=NetC46D_2 Pin=U11D-2
+Added Pin To Net: NetName=NetR15D_1 Pin=U11D-3
+Added Pin To Net: NetName=NetR16D_1 Pin=U11D-6
+Added Pin To Net: NetName=NetC46D_2 Pin=U11D-7
+Added Pin To Net: NetName=NetQ10D_1 Pin=U11D-8
+Added Member To Class: ClassName=CH1 Member=Component U11A (U11) SSM2210
+Added Member To Class: ClassName=CH2 Member=Component U11B (U11) SSM2210
+Added Member To Class: ClassName=CH3 Member=Component U11C (U11) SSM2210
+Added Member To Class: ClassName=CH4 Member=Component U11D (U11) SSM2210

@@ -1,0 +1,5 @@
+Change Value of Parameter COST in Part C2 Old=0.59 New=1.32
+Change Value of Parameter Manufacturer in Part C2 Old=MURATA New=TAIYO YUDEN
+Change Value of Parameter Manuf p/n in Part C2 Old=GRM21BR61C106KE15L New=UMK325C7106MM-T
+Change Value of Parameter Vendor Mult. in Part C2 Old=10 New=1
+Change Value of Parameter Vendor p/n in Part C2 Old=490-3886-1-ND New=587-1818-1-ND

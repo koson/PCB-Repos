@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DRV_SEL_N Pin=U9-1
+Removed Pin From Net: NetName=SIMO Pin=U9-96
+Added Pin To Net: NetName=SIMO Pin=U9-1
+Added Pin To Net: NetName=DRV_SEL_N Pin=U9-96

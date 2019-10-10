@@ -1,0 +1,24 @@
+Remove Pin=U14A-5 From Net=Q0
+Remove Pin=U14A-6 From Net=SEL1
+Remove Pin=U14A-7 From Net=Q1
+Remove Pin=U14A-8 From Net=SEL2
+Remove Pin=U14A-11 From Net=START_ACQ
+Remove Pin=U14A-12 From Net=DAT_STB
+Remove Pin=U14A-13 From Net=ASP_SEL_N
+Remove Pin=U14A-14 From Net=ADC_DAT7
+Remove Pin=U14A-15 From Net=MUX
+Remove Pin=U14A-16 From Net=CONVST_N
+Remove Pin=U14A-24 From Net=SEL0
+Remove Pin=U14A-37 From Net=END
+Add Pin To Net: Pin=U14A-5 Old Net=Q0 New Net=SEL0
+Add Pin To Net: Pin=U14A-6 Old Net=SEL1 New Net=Q0
+Add Pin To Net: Pin=U14A-7 Old Net=Q1 New Net=SEL1
+Add Pin To Net: Pin=U14A-8 Old Net=SEL2 New Net=Q1
+Add Pin To Net: Pin=U14A-11 Old Net=START_ACQ New Net=SEL2
+Add Pin To Net: Pin=U14A-12 Old Net=DAT_STB New Net=START_ACQ
+Add Pin To Net: Pin=U14A-13 Old Net=ASP_SEL_N New Net=DAT_STB
+Add Pin To Net: Pin=U14A-14 Old Net=ADC_DAT7 New Net=MUX
+Add Pin To Net: Pin=U14A-15 Old Net=MUX New Net=ADC_DAT7
+Add Pin To Net: Pin=U14A-16 Old Net=CONVST_N New Net=END
+Add Pin To Net: Pin=U14A-24 Old Net=SEL0 New Net=ASP_SEL_N
+Add Pin To Net: Pin=U14A-37 Old Net=END New Net=CONVST_N

@@ -1,0 +1,63 @@
+Field=Vendor p/n~String~Vendor p/n~100|Field=Manufacturer~String~Manufacturer~100|Field=Manuf p/n~String~Manuf p/n~164|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|Field=Vendor~String~Vendor~100|Field=Vendor Mult.~String~Vendor Mult.~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~0.4 Lambert.PrjPCB|ReportField=ProjectFullPath~\\Files\users\rlobdill\Altum Projects\0.4 Lambert\0.4 Lambert.PrjPCB|ReportField=Title~Bill of Materials For Project [0.4 Lambert.PrjPCB] (PCB Document : Point4_Lambert.PcbDoc)|ReportField=TotalQuantity~190|ReportField=ReportTime~1:19:01 PM|ReportField=ReportDate~10/21/2009|ReportField=ReportDateTime~10/21/2009 1:19:01 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/21/2009|ReportField=CurrentTime~1:07:43 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Top_Level_IO.SchDoc|ReportField=DocumentName~Top_Level_IO.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/20/2009|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.09|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Tabloid 11 x 17in|PrintScaleMode=1|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=Generated From FPGA Project~Point4_Lambert_PLD_Project.PrjFpg|ReportField=UNUSED_INPUT~NoERC|ReportField=UNUSED_IO~NoERC|ReportField=UNUSED_SPECIAL~RouteSeparate|ReportField=VREF~NoERC|ReportField=DataSourceFileName~0.4 Lambert.PrjPCB|ReportField=DataSourceFullPath~\\Files\users\rlobdill\Altum Projects\0.4 Lambert\0.4 Lambert.PrjPCB|ReportField=PCBDataSourceFileName~Point4_Lambert.PcbDoc|ReportField=PCBDataSourceFullPath~\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc
+490-4736-1-ND|MURATA|GRM21BR71H105KA12L|C1, C5, C8, C21|4|DigiKey|10
+490-3886-1-ND|MURATA|GRM21BR61C106KE15L|C2|1|DigiKey|10
+478-1395-1-ND|AVX|08055C104KAT2A|C3, C4, C6, C7, C9, C10, C16, C19, C20|9|DigiKey|10
+PCE3629CT-ND|PANASONIC|EEV-TG1C471Q|C11|1|DigiKey|5
+478-1395-1-ND|AVX|08055C104KAT2A|C12, C13, C14, C15, C18, C22|6|DigiKey|10
+587-1818-1-ND|TAIYO YUDEN|UMK325C7106MM-T|C17|1|DigiKey|1
+478-1395-1-ND|AVX|08055C104KAT2A|C23, C28, C30, C31, C35, C40, C41, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C56, C57, C58, C59, C60, C61, C62|25|DigiKey|10
+587-1818-1-ND|TAIYO YUDEN|UMK325C7106MM-T|C24|1|DigiKey|1
+490-4736-1-ND|MURATA|GRM21BR71H105KA12L|C25, C26, C32, C33, C34, C54, C55|7|DigiKey|10
+399-3824-1-ND|KEMET|T494A106M016AT|C27, C29, C36, C42|4|DIGIKEY|1
+PCE3836CT-ND|PANASONIC|EEE-FK1V101XP|C37, C38, C39|3|DigiKey|5
+F2715CT-ND|LITTLEFUSE|SP0503BAHTG|D1, D2|2|DigiKey|1
+SL43-E3/57TGICT-ND|Vishay/Dale|SL43-E3/57T|D3, D4, D5|3|DigiKey|1
+SMCJ30ALFCT-ND|LITTLEFUSE|SMCJ30A|D6, D7|2|DigiKey|1
+SMCJ7.0ALFCT-ND|LITTLEFUSE|SMCJ7.0A|D8|1|DigiKey|1
+SMCJ5.0ALFCT-ND|LITTLEFUSE|SMCJ5.0A|D9|1|DigiKey|1
+RUEF400-ND|TYCO|RUEF400|F1|1|DigiKey|1
+NANOSMDC020FCT-ND|TYCO|NANOSMDC020F-2|F2|1|DigiKey|1
+240-2389-1-ND|STEWARD|MI0805K400R-10|FER1, FER2|2|DigiKey|10
+445-2211-1-ND|TDK|ACM1513-551-2PL-TL|FER3|1|DigiKey|1
+609-1039-ND|FCI|61729-0010BLF|J1|1|DigiKey|1
+A35118-ND|TYCO|1734530-3|J2|1|DigiKey|1
+732-1646-ND|WURTH|7498011002|J3|1|DigiKey|1
+Z2664-ND|OMRON|G6SK-2 DC24|K1|1|DigiKey|1
+445-1532-1-ND|TDK|NLV32T-331J-PF|L1|1|DigiKey|1
+445-1533-1-ND|TDK|NLV32T-471J-PF|L2|1|DIGIKEY|1
+490-2510-1-ND|MURATA|LQH32MN271J23L|L3|1|DigiKey|1
+277-1231-ND|Phoenix|MCV 1,5/12-G-3,81|P1|1|DigiKey|1
+609-2593-ND|FCI|57102-G06-10LF|P2|1|DigiKey|1
+651-1534630|PHOENIX|1534630|P3, P4, P5|3|MOUSER|1
+609-2596-ND|FCI|57102-G06-07LF|P6|1|DigiKey|1
+ZXMN3B01FCT-ND|ZETEX|ZXMN3B01FTA|Q1, Q2, Q3, Q5, Q6, Q8, Q9, Q10|8|DIGIKEY|1
+NJT4031NT1GOSCT-ND|ON Semi|NJT4031NT1G|Q4|1|DigiKey|1
+541-10KCCT-ND|Vishay/Dale|CRCW080510KFKEA|R1, R2|2|DIGIKEY|10
+541-4.7KCCT-ND|Vishay/Dale|CRCW08054.7KFKEA|R3, R6|2|DIGIKEY|10
+541-00R0CCT-ND|Vishay/Dale|CRCW080500R0FKEA|R4, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26|12|DIGIKEY|10
+541-100KCCT-ND|Vishay/Dale|CRCW0805100KFKEA|R5|1|DIGIKEY|10
+541-10.0KCCT-ND|Vishay/Dale|CRCW080510.0KFKEA|R7, R15|2|DIGIKEY|10
+541-0R00CCT-ND|Vishay/Dale|CRCW08050R00FKEA|R8|1|DIGIKEY|10
+541-1R85CCT-ND|Vishay/Dale|CRCW08051R85FKEA|R9|1|DIGIKEY|10
+541-1R10CCT-ND|Vishay/Dale|CRCW08051R10FKEA|R10|1|DIGIKEY|10
+541-2kCCT-ND|DALE|CRCW08052kFKEA|R11|1|DigiKey|10
+541-100KCCT-ND|Vishay/Dale|CRCW0805100KFKEA|R12, R14|2|DigiKey|10
+541-10R0CCT-ND|Vishay/Dale|CRCW080510R0FKEA|R13|1|DIGIKEY|10
+541-4.99KCCT-ND|Vishay/Dale|CRCW08054.99KFKEA|R27, R28|2|DIGIKEY|10
+541-330KCCT-ND|Vishay/Dale|CRCW0805330KFKEA|R29, R30, R31|3|DIGIKEY|10
+SW1020CT-ND|OMRON|B3U-1000P|S1|1|DigiKey|1
+CKN6114-ND|C&K|SD03H0SB|S2|1|DigiKey|1
+5015KCT-ND|Keystone|5015|TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29, TP30, TP31, TP32, TP33, TP34, TP35, TP36, TP37, TP38, TP39, TP40, TP41, TP42, TP43|43|DigiKey|1
+122-1282-ND|XILINX|XCR3128XL-10VQ100C|U1|1|DigiKey|1
+336-1160-ND|SILICON LABS|CP2102-GM|U2|1|DigiKey|1
+BF-537E|BLUETECHNIX|BF-537E|U3|1|BLUTECHNIX|1
+TLE5206-2IN-ND|INFINEON|TLE5206-2|U4|1|DigiKey|1
+28M0315|MAXIM|MAX16820ATT+T|U5, U6, U8|3|Newark|1
+MAX1169CCUD+|MAXIM|MAX1169CCUD|U7|1|MAXIM DIRECT|1
+57M2014|LinearTech|LT1124CS8#PBF|U9|1|Newark|1
+ADP3338AKCZ-3.3RL7CT-ND|ANALOG DEVICES|ADP3338AKCZ-3.3RL7|U10|1|DigiKey|1
+PT78ST105S-ND|TEXAS INSTRUMENTS|PT78ST105S|U11|1|DigiKey|1
+REF02AU-ND|BurrBrown|REF02AU|U12|1|DigiKey|1
+MC55110CP2.4.G|PMD|MC55110CP2.4.G|U13|1|PMD|1
+CTX694CT-ND|CTS|636L3C020M00000|U14|1|DigiKey|1
+PS2811-4A-ND|NEC|PS2811-4-A|U15, U16|2|DigiKey|1

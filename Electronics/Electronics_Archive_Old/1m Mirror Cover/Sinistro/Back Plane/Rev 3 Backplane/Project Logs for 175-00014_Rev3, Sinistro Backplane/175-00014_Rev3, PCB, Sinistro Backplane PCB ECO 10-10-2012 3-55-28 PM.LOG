@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=780-00018_rev2_Pg1 New Net Name=780-00018_rev3_Pg1
+Change Room Name: Old Name=780-00018_rev2_Pg1 New Name=780-00018_rev3_Pg1
+Change Room Scope: Old Scope=InComponentClass('780-00018_rev2_Pg1') New Scope=InComponentClass('780-00018_rev3_Pg1')

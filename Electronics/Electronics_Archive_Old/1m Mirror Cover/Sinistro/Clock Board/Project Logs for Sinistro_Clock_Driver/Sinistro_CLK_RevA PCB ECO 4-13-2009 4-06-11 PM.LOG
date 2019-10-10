@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PH_CLK17 Pin=U9-64
+Removed Pin From Net: NetName=PH_CLK16 Pin=U9-76
+Removed Pin From Net: NetName=PH_CLK4 Pin=U9-77
+Added Pin To Net: NetName=PH_CLK17 Pin=U9-52
+Added Pin To Net: NetName=PH_CLK4 Pin=U9-76
+Added Pin To Net: NetName=PH_CLK16 Pin=U9-77

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CRYO_TEMP_OUT Pin=P1-1
+Removed Pin From Net: NetName=DAC_CRYO_HEATER Pin=P1-2
+Removed Pin From Net: NetName=CCD_TEMP_OUT Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=A Pin=P1-8
+Removed Member From Class: ClassName=780-00018_rev3_Pg1 Member=P1

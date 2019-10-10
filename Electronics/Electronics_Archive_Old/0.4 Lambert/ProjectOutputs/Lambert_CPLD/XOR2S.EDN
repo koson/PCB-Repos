@@ -1,0 +1,57 @@
+(edif (rename xor2s "XOR2S")
+  (edifVersion 2 0 0)
+  (edifLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timeStamp 2003 11 29 14 46 43)
+      (author "Synplicity, Inc.")
+      (program "Synplify" (version "7.3.3, Build 024R"))
+     )
+   )
+  (library UNILIB
+    (edifLevel 0)
+    (technology (numberDefinition ))
+    (cell XOR2 (cellType GENERIC)
+       (view PRIM (viewType NETLIST)
+         (interface
+           (port I0 (direction INPUT))
+           (port I1 (direction INPUT))
+           (port O (direction OUTPUT))
+         )
+       )
+    )
+  )
+  (library work
+    (edifLevel 0)
+    (technology (numberDefinition ))
+    (cell (rename xor2s "XOR2S") (cellType GENERIC)
+       (view behav (viewType NETLIST)
+         (interface
+           (port I0 (direction INPUT)
+ )
+           (port I1 (direction INPUT)
+ )
+           (port O (direction OUTPUT))
+         )
+         (contents
+          (instance O_inst (viewRef PRIM (cellRef XOR2 (libraryRef UNILIB)))          )
+          (net (rename i0 "I0") (joined
+           (portRef I0)
+           (portRef I0 (instanceRef O_inst))
+          ))
+          (net (rename i1 "I1") (joined
+           (portRef I1)
+           (portRef I1 (instanceRef O_inst))
+          ))
+          (net (rename o "O") (joined
+           (portRef O (instanceRef O_inst))
+           (portRef O)
+          ))
+         )
+       )
+    )
+  )
+  (design (rename xor2s "XOR2S") (cellRef xor2s (libraryRef work))
+	(property PART (string "xcr3032xl-5-vq44") (owner "Xilinx")))
+)

@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [175-00013 rev 1, 1m Mirror Cover Controller.PrjPCB]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 7:06:07 PM On 8/30/2010

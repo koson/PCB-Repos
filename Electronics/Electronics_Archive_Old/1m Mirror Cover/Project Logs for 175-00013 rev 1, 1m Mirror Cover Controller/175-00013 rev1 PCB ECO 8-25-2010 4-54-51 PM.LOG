@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=VBUS Pin=D1-2
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=C18
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=C19
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=C20
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=L3
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=R35
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=R36
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=R37
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=R38
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=R39
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=R40
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=TP29
+Removed Member From Class: ClassName=780-00017_rev1_Pg1 Member=U23

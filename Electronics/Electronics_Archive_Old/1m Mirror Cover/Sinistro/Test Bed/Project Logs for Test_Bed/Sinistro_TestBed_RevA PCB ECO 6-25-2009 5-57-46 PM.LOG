@@ -1,0 +1,3 @@
+Added Component: Designator=TP19(PAD_80D_052H)
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P1A_DR Pin=TP19-1
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP19 Test point

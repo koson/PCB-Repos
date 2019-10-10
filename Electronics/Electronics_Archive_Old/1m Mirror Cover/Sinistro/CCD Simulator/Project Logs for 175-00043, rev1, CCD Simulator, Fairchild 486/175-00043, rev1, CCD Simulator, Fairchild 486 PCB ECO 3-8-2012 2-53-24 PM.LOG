@@ -1,0 +1,250 @@
+Added Component: Designator=C1A(SMD_0805)
+Added Component: Designator=C1B(SMD_0805)
+Added Component: Designator=C1C(SMD_0805)
+Added Component: Designator=C1D(SMD_0805)
+Added Component: Designator=C2A(SMD_0805)
+Added Component: Designator=C2B(SMD_0805)
+Added Component: Designator=C2C(SMD_0805)
+Added Component: Designator=C2D(SMD_0805)
+Added Component: Designator=CCD1(Fairchild 486)
+Added Component: Designator=P1(HDR1X4 for IDC)
+Added Component: Designator=P2(MMCX2.54-V5)
+Added Component: Designator=Q1A(SOT23A)
+Added Component: Designator=Q1B(SOT23A)
+Added Component: Designator=Q1C(SOT23A)
+Added Component: Designator=Q1D(SOT23A)
+Added Component: Designator=R1A(SMD_0805)
+Added Component: Designator=R1B(SMD_0805)
+Added Component: Designator=R1C(SMD_0805)
+Added Component: Designator=R1D(SMD_0805)
+Added Component: Designator=R2(SMD_0805)
+Added Component: Designator=R3(SMD_0805)
+Added Component: Designator=SW1(DIP-16)
+Added Component: Designator=TP1A(SMD_TEST POINT)
+Added Component: Designator=TP1B(SMD_TEST POINT)
+Added Component: Designator=TP1C(SMD_TEST POINT)
+Added Component: Designator=TP1D(SMD_TEST POINT)
+Added Component: Designator=TP2A(SMD_TEST POINT)
+Added Component: Designator=TP2B(SMD_TEST POINT)
+Added Component: Designator=TP2C(SMD_TEST POINT)
+Added Component: Designator=TP2D(SMD_TEST POINT)
+Added Component: Designator=TP3A(SMD_TEST POINT)
+Added Component: Designator=TP3B(SMD_TEST POINT)
+Added Component: Designator=TP3C(SMD_TEST POINT)
+Added Component: Designator=TP3D(SMD_TEST POINT)
+Added Component: Designator=TP4(SMD_TEST POINT)
+Added Component: Designator=TP5(SMD_TEST POINT)
+Added Component: Designator=TP6(SMD_TEST POINT)
+Added Component: Designator=TP7(SMD_TEST POINT)
+Added Component: Designator=TP8(SMD_TEST POINT)
+Added Component: Designator=TP9(SMD_TEST POINT)
+Added Component: Designator=TP10(SMD_TEST POINT)
+Added Component: Designator=TP11(SMD_TEST POINT)
+Added Component: Designator=U1A(SOIC16)
+Added Component: Designator=U1B(SOIC16)
+Added Component: Designator=U1C(SOIC16)
+Added Component: Designator=U1D(SOIC16)
+Added Pin To Net: NetName=+5VANA Pin=P1-2
+Added Pin To Net: NetName=+5VANA Pin=R2-2
+Added Pin To Net: NetName=+5VANA Pin=U1A-12
+Added Pin To Net: NetName=+5VANA Pin=U1B-12
+Added Pin To Net: NetName=+5VANA Pin=U1C-12
+Added Pin To Net: NetName=+5VANA Pin=U1D-12
+Added Net: Name=+5VANA
+Added Pin To Net: NetName=+28V Pin=P1-1
+Added Pin To Net: NetName=+28V Pin=U1A-13
+Added Pin To Net: NetName=+28V Pin=U1B-13
+Added Pin To Net: NetName=+28V Pin=U1C-13
+Added Pin To Net: NetName=+28V Pin=U1D-13
+Added Net: Name=+28V
+Added Pin To Net: NetName=-5VANA Pin=P1-3
+Added Pin To Net: NetName=-5VANA Pin=U1A-4
+Added Pin To Net: NetName=-5VANA Pin=U1B-4
+Added Pin To Net: NetName=-5VANA Pin=U1C-4
+Added Pin To Net: NetName=-5VANA Pin=U1D-4
+Added Net: Name=-5VANA
+Added Pin To Net: NetName=AGND Pin=C2A-1
+Added Pin To Net: NetName=AGND Pin=C2B-1
+Added Pin To Net: NetName=AGND Pin=C2C-1
+Added Pin To Net: NetName=AGND Pin=C2D-1
+Added Pin To Net: NetName=AGND Pin=U1A-5
+Added Pin To Net: NetName=AGND Pin=U1A-7
+Added Pin To Net: NetName=AGND Pin=U1B-5
+Added Pin To Net: NetName=AGND Pin=U1B-7
+Added Pin To Net: NetName=AGND Pin=U1C-5
+Added Pin To Net: NetName=AGND Pin=U1C-7
+Added Pin To Net: NetName=AGND Pin=U1D-5
+Added Pin To Net: NetName=AGND Pin=U1D-7
+Added Net: Name=AGND
+Added Pin To Net: NetName=CCD_OUT1 Pin=CCD1-B17
+Added Pin To Net: NetName=CCD_OUT1 Pin=Q1A-2
+Added Pin To Net: NetName=CCD_OUT1 Pin=TP3A-1
+Added Net: Name=CCD_OUT1
+Added Pin To Net: NetName=CCD_OUT2 Pin=CCD1-B5
+Added Pin To Net: NetName=CCD_OUT2 Pin=Q1B-2
+Added Pin To Net: NetName=CCD_OUT2 Pin=TP3B-1
+Added Net: Name=CCD_OUT2
+Added Pin To Net: NetName=CCD_OUT3 Pin=CCD1-C5
+Added Pin To Net: NetName=CCD_OUT3 Pin=Q1C-2
+Added Pin To Net: NetName=CCD_OUT3 Pin=TP3C-1
+Added Net: Name=CCD_OUT3
+Added Pin To Net: NetName=CCD_OUT4 Pin=CCD1-C17
+Added Pin To Net: NetName=CCD_OUT4 Pin=Q1D-2
+Added Pin To Net: NetName=CCD_OUT4 Pin=TP3D-1
+Added Net: Name=CCD_OUT4
+Added Pin To Net: NetName=GND Pin=CCD1-B1
+Added Pin To Net: NetName=GND Pin=CCD1-B21
+Added Pin To Net: NetName=GND Pin=CCD1-C1
+Added Pin To Net: NetName=GND Pin=CCD1-C21
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW1-6
+Added Pin To Net: NetName=GND Pin=SW1-8
+Added Pin To Net: NetName=GND Pin=TP7-1
+Added Pin To Net: NetName=GND Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Added Net: Name=GND
+Added Pin To Net: NetName=INPUT_CH1 Pin=R1A-1
+Added Pin To Net: NetName=INPUT_CH1 Pin=SW1-15
+Added Pin To Net: NetName=INPUT_CH1 Pin=SW1-16
+Added Pin To Net: NetName=INPUT_CH1 Pin=TP1A-1
+Added Net: Name=INPUT_CH1
+Added Pin To Net: NetName=INPUT_CH2 Pin=R1B-1
+Added Pin To Net: NetName=INPUT_CH2 Pin=SW1-13
+Added Pin To Net: NetName=INPUT_CH2 Pin=SW1-14
+Added Pin To Net: NetName=INPUT_CH2 Pin=TP1B-1
+Added Net: Name=INPUT_CH2
+Added Pin To Net: NetName=INPUT_CH3 Pin=R1C-1
+Added Pin To Net: NetName=INPUT_CH3 Pin=SW1-11
+Added Pin To Net: NetName=INPUT_CH3 Pin=SW1-12
+Added Pin To Net: NetName=INPUT_CH3 Pin=TP1C-1
+Added Net: Name=INPUT_CH3
+Added Pin To Net: NetName=INPUT_CH4 Pin=R1D-1
+Added Pin To Net: NetName=INPUT_CH4 Pin=SW1-9
+Added Pin To Net: NetName=INPUT_CH4 Pin=SW1-10
+Added Pin To Net: NetName=INPUT_CH4 Pin=TP1D-1
+Added Net: Name=INPUT_CH4
+Added Pin To Net: NetName=NetC1A_1 Pin=C1A-1
+Added Pin To Net: NetName=NetC1A_1 Pin=U1A-6
+Added Pin To Net: NetName=NetC1A_1 Pin=U1A-10
+Added Net: Name=NetC1A_1
+Added Pin To Net: NetName=NetC1A_2 Pin=C1A-2
+Added Pin To Net: NetName=NetC1A_2 Pin=C2A-2
+Added Pin To Net: NetName=NetC1A_2 Pin=Q1A-3
+Added Pin To Net: NetName=NetC1A_2 Pin=TP2A-1
+Added Pin To Net: NetName=NetC1A_2 Pin=U1A-2
+Added Net: Name=NetC1A_2
+Added Pin To Net: NetName=NetC1B_1 Pin=C1B-1
+Added Pin To Net: NetName=NetC1B_1 Pin=U1B-6
+Added Pin To Net: NetName=NetC1B_1 Pin=U1B-10
+Added Net: Name=NetC1B_1
+Added Pin To Net: NetName=NetC1B_2 Pin=C1B-2
+Added Pin To Net: NetName=NetC1B_2 Pin=C2B-2
+Added Pin To Net: NetName=NetC1B_2 Pin=Q1B-3
+Added Pin To Net: NetName=NetC1B_2 Pin=TP2B-1
+Added Pin To Net: NetName=NetC1B_2 Pin=U1B-2
+Added Net: Name=NetC1B_2
+Added Pin To Net: NetName=NetC1C_1 Pin=C1C-1
+Added Pin To Net: NetName=NetC1C_1 Pin=U1C-6
+Added Pin To Net: NetName=NetC1C_1 Pin=U1C-10
+Added Net: Name=NetC1C_1
+Added Pin To Net: NetName=NetC1C_2 Pin=C1C-2
+Added Pin To Net: NetName=NetC1C_2 Pin=C2C-2
+Added Pin To Net: NetName=NetC1C_2 Pin=Q1C-3
+Added Pin To Net: NetName=NetC1C_2 Pin=TP2C-1
+Added Pin To Net: NetName=NetC1C_2 Pin=U1C-2
+Added Net: Name=NetC1C_2
+Added Pin To Net: NetName=NetC1D_1 Pin=C1D-1
+Added Pin To Net: NetName=NetC1D_1 Pin=U1D-6
+Added Pin To Net: NetName=NetC1D_1 Pin=U1D-10
+Added Net: Name=NetC1D_1
+Added Pin To Net: NetName=NetC1D_2 Pin=C1D-2
+Added Pin To Net: NetName=NetC1D_2 Pin=C2D-2
+Added Pin To Net: NetName=NetC1D_2 Pin=Q1D-3
+Added Pin To Net: NetName=NetC1D_2 Pin=TP2D-1
+Added Pin To Net: NetName=NetC1D_2 Pin=U1D-2
+Added Net: Name=NetC1D_2
+Added Pin To Net: NetName=NetR1A_2 Pin=R1A-2
+Added Pin To Net: NetName=NetR1A_2 Pin=U1A-11
+Added Net: Name=NetR1A_2
+Added Pin To Net: NetName=NetR1B_2 Pin=R1B-2
+Added Pin To Net: NetName=NetR1B_2 Pin=U1B-11
+Added Net: Name=NetR1B_2
+Added Pin To Net: NetName=NetR1C_2 Pin=R1C-2
+Added Pin To Net: NetName=NetR1C_2 Pin=U1C-11
+Added Net: Name=NetR1C_2
+Added Pin To Net: NetName=NetR1D_2 Pin=R1D-2
+Added Pin To Net: NetName=NetR1D_2 Pin=U1D-11
+Added Net: Name=NetR1D_2
+Added Pin To Net: NetName=RG Pin=CCD1-A3
+Added Pin To Net: NetName=RG Pin=CCD1-A19
+Added Pin To Net: NetName=RG Pin=CCD1-D3
+Added Pin To Net: NetName=RG Pin=CCD1-D19
+Added Pin To Net: NetName=RG Pin=R3-2
+Added Pin To Net: NetName=RG Pin=TP10-1
+Added Pin To Net: NetName=RG Pin=U1A-1
+Added Pin To Net: NetName=RG Pin=U1A-8
+Added Pin To Net: NetName=RG Pin=U1B-1
+Added Pin To Net: NetName=RG Pin=U1B-8
+Added Pin To Net: NetName=RG Pin=U1C-1
+Added Pin To Net: NetName=RG Pin=U1C-8
+Added Pin To Net: NetName=RG Pin=U1D-1
+Added Pin To Net: NetName=RG Pin=U1D-8
+Added Net: Name=RG
+Added Pin To Net: NetName=SG Pin=CCD1-B6
+Added Pin To Net: NetName=SG Pin=CCD1-B16
+Added Pin To Net: NetName=SG Pin=CCD1-C6
+Added Pin To Net: NetName=SG Pin=CCD1-C16
+Added Pin To Net: NetName=SG Pin=R2-1
+Added Pin To Net: NetName=SG Pin=TP6-1
+Added Pin To Net: NetName=SG Pin=U1A-9
+Added Pin To Net: NetName=SG Pin=U1B-9
+Added Pin To Net: NetName=SG Pin=U1C-9
+Added Pin To Net: NetName=SG Pin=U1D-9
+Added Net: Name=SG
+Added Pin To Net: NetName=VIDEO_IN Pin=P2-1
+Added Pin To Net: NetName=VIDEO_IN Pin=SW1-1
+Added Pin To Net: NetName=VIDEO_IN Pin=SW1-3
+Added Pin To Net: NetName=VIDEO_IN Pin=SW1-5
+Added Pin To Net: NetName=VIDEO_IN Pin=SW1-7
+Added Pin To Net: NetName=VIDEO_IN Pin=TP11-1
+Added Net: Name=VIDEO_IN
+Added Pin To Net: NetName=VOD Pin=CCD1-A4
+Added Pin To Net: NetName=VOD Pin=CCD1-A18
+Added Pin To Net: NetName=VOD Pin=CCD1-D4
+Added Pin To Net: NetName=VOD Pin=CCD1-D18
+Added Pin To Net: NetName=VOD Pin=Q1A-1
+Added Pin To Net: NetName=VOD Pin=Q1B-1
+Added Pin To Net: NetName=VOD Pin=Q1C-1
+Added Pin To Net: NetName=VOD Pin=Q1D-1
+Added Pin To Net: NetName=VOD Pin=TP5-1
+Added Net: Name=VOD
+Added Pin To Net: NetName=VRD Pin=CCD1-B4
+Added Pin To Net: NetName=VRD Pin=CCD1-B18
+Added Pin To Net: NetName=VRD Pin=CCD1-C4
+Added Pin To Net: NetName=VRD Pin=CCD1-C18
+Added Pin To Net: NetName=VRD Pin=TP4-1
+Added Pin To Net: NetName=VRD Pin=U1A-3
+Added Pin To Net: NetName=VRD Pin=U1B-3
+Added Pin To Net: NetName=VRD Pin=U1C-3
+Added Pin To Net: NetName=VRD Pin=U1D-3
+Added Net: Name=VRD
+Added Class: Name=780-00044 rev1, pg2, CCD Simulator, Fairchild 486
+Added Class: Name=CCD_CHAN1
+Added Class: Name=CCD_CHAN2
+Added Class: Name=CCD_CHAN3
+Added Class: Name=CCD_CHAN4
+Added Class: Name=CCD_OUT[1..4]
+Added Class: Name=INPUT_CH[1..4]
+Added Class: Name=780-00044 rev1, pg1, CCD Simulator, Fairchild 486
+Added Room: Name=780-00044 rev1, pg2, CCD Simulator, Fairchild 486
+Added Room: Name=CCD_CHAN1
+Added Room: Name=CCD_CHAN2
+Added Room: Name=CCD_CHAN3
+Added Room: Name=CCD_CHAN4

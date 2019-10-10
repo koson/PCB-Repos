@@ -1,0 +1,65 @@
+###############################################################################
+### Altium HDL Synthesizer 1.0.0.1
+### Copyright (C) 2005, Altium Limited. All Rights Reserved
+###############################################################################
+### Timestamp: 9/16/2009 10:56:36 AM
+###############################################################################
+### Options:
+###
+### Synthesizing PWM_generator for CoolRunner2
+### Entity                  : PWM_generator
+### Verilog95               : False
+### VHDL87                  : False
+### Insert Toplevel Buffers : True
+### RAM Inference           : Block
+
+###############################################################################
+### Compilation Report
+###############################################################################
+
+analyzing entity indexer
+analyzing architecture structure
+analyzing entity pwm_for_cpld
+analyzing architecture structure
+analyzing entity pwm_generator
+analyzing architecture structure
+###############################################################################
+### Elaboration Report
+###############################################################################
+
+executing Indexer(structure)
+executing PWM_for_CPLD(structure)
+executing PWM_generator(structure)
+
+###############################################################################
+### Synthesis Report
+###############################################################################
+
+##O|Top Level_1.VHD|83|Dissolving instance PWM(PWM_for_CPLD)
+##O|Top Level_1.VHD|94|Dissolving instance Indexer_1(Indexer)
+###############################################################################
+### Optimization Report
+
+optimizing "PWM_generator"
+ 
+###############################################################################
+### Design Statistics
+###############################################################################
+ 
+MacroCells:     
+    CDIV8DC50   : 1
+    CDIV256     : 1
+    FDC         : 1
+    CDIV10DC50  : 10
+    CB8CLEDB    : 2
+    INV         : 5
+                
+Area Estimates: 
+ 
+###############################################################################
+ 
+formating EDIF....                            
+
+###############################################################################
+Synthesis successful
+###############################################################################

@@ -1,0 +1,22 @@
+Change Component Parameter Comment in D4 Old= New=BAT54C
+Change Value of Parameter COST in Part D4 Old= New=0.13
+Change Value of Parameter Manufacturer in Part D4 Old= New=FAIRCHILD
+Change Value of Parameter Manuf p/n in Part D4 Old= New=BAT54C
+Change Value of Parameter Value in Part D4 Old=BAT54C-V New=BAT54C
+Change Value of Parameter Vendor in Part D4 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part D4 Old= New=BAT54CFSCT-ND
+Change Value of Parameter Manufacturer in Part L7 Old= New=Epcos
+Change Component Parameter Comment in U10 Old= New=MC74HC125A
+Change Value of Parameter COST in Part U10 Old= New=0.50
+Change Value of Parameter Manufacturer in Part U10 Old= New=ON Semi
+Change Value of Parameter Manuf p/n in Part U10 Old=SN74ALVC125DR New=MC74HC125ADG
+Change Value of Parameter Value in Part U10 Old=74ALVC125-DC New=MC74HC125A
+Change Value of Parameter Vendor in Part U10 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part U10 Old= New=MC74HC125ADGOS-ND
+Change Component Parameter Comment in U17 Old= New=MC74HC125A
+Change Value of Parameter COST in Part U17 Old= New=0.50
+Change Value of Parameter Manufacturer in Part U17 Old= New=ON Semi
+Change Value of Parameter Manuf p/n in Part U17 Old=SN74ALVC125DR New=MC74HC125ADG
+Change Value of Parameter Value in Part U17 Old=74ALVC125-DC New=MC74HC125A
+Change Value of Parameter Vendor in Part U17 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part U17 Old= New=MC74HC125ADGOS-ND

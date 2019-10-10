@@ -1,0 +1,265 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator LCOGT_LOGO_TOP      -29915mil     -18255mil      15580mil        480mil     -29915mil     -18255mil  T        360.00 Comment        
+Designator TARGET_MECHANICAL_5     -29915mil     -18255mil      16859mil       8510mil     -29915mil     -18255mil  T        360.00 Comment        
+Designator TARGET_MECHANICAL_5     -29915mil     -18255mil       -382mil       8269mil     -29915mil     -18255mil  T        360.00 Comment        
+Designator TARGET_MECHANICAL_5     -29915mil     -18255mil       -640mil        220mil     -29915mil     -18255mil  T        360.00 Comment        
+TP62       PAD_80D_052H         16320mil       4200mil      16320mil       4200mil      16320mil       4200mil  T         90.00 Test point     
+TP33       PAD_80D_052H         15179mil       3000mil      15179mil       3000mil      15179mil       3000mil  T         90.00 Test point     
+TP32       PAD_80D_052H         15600mil       3600mil      15600mil       3600mil      15600mil       3600mil  T         90.00 Test point     
+TP20       PAD_80D_052H         14840mil       3600mil      14840mil       3600mil      14840mil       3600mil  T         90.00 Test point     
+TP19       PAD_80D_052H         15349mil       3600mil      15349mil       3600mil      15349mil       3600mil  T         90.00 Test point     
+U15        182H_N                2435mil       7461mil       2435mil       7461mil   2340.512mil       7536mil  T          0.00 REF02AU        
+TP60       PAD_80D_052H          2020mil       7800mil       2020mil       7800mil       2020mil       7800mil  T          0.00 Test point     
+TP57       PAD_80D_052H          1700mil       7800mil       1700mil       7800mil       1700mil       7800mil  T          0.00 Test point     
+TP56       PAD_80D_052H          1400mil       7800mil       1400mil       7800mil       1400mil       7800mil  T          0.00 Test point     
+TP55       PAD_80D_052H          3420mil       7800mil       3420mil       7800mil       3420mil       7800mil  T          0.00 Test point     
+TP54       PAD_80D_052H          4860mil       7800mil       4860mil       7800mil       4860mil       7800mil  T          0.00 Test point     
+TP58       PAD_80D_052H         13800mil       7600mil      13800mil       7600mil      13800mil       7600mil  T          0.00 Test point     
+TP59       PAD_80D_052H         13200mil       7600mil      13200mil       7600mil      13200mil       7600mil  T          0.00 Test point     
+TP61       PAD_80D_052H         13000mil       7600mil      13000mil       7600mil      13000mil       7600mil  T          0.00 Test point     
+RT2        POT,_BOURNS_3266W       2475mil       7791mil       2375mil       7841mil       2375mil       7741mil  T        360.00 Pot Trim TH    
+RT1        POT,_BOURNS_3266W       4230mil       7800mil       4180mil       7700mil       4280mil       7700mil  T         90.00 Pot Trim TH    
+R7         SMD_0805             13960mil       7600mil      13960mil       7600mil      14005mil       7600mil  T        180.00 Res 0805       
+J11        HDR1X4_for_IDC       13350mil       7800mil      13500mil       7800mil      13500mil       7800mil  T        180.00 Header 4       
+C1A        SMD_0805              7260mil        336mil       7260mil        336mil       7305mil        336mil  T        180.00 Cap SMD        
+C1B        SMD_0805              8560mil        336mil       8560mil        336mil       8605mil        336mil  T        180.00 Cap SMD        
+C1C        SMD_0805              9860mil        336mil       9860mil        336mil       9905mil        336mil  T        180.00 Cap SMD        
+C2A        SMD_0805              7260mil        536mil       7260mil        536mil       7305mil        536mil  T        180.00 Cap SMD        
+C2B        SMD_0805              8560mil        536mil       8560mil        536mil       8605mil        536mil  T        180.00 Cap SMD        
+C2C        SMD_0805              9860mil        536mil       9860mil        536mil       9905mil        536mil  T        180.00 Cap SMD        
+C3A        SMD_0805              7260mil        736mil       7260mil        736mil       7305mil        736mil  T        180.00 Cap SMD        
+C3B        SMD_0805              8560mil        736mil       8560mil        736mil       8605mil        736mil  T        180.00 Cap SMD        
+C3C        SMD_0805              9860mil        736mil       9860mil        736mil       9905mil        736mil  T        180.00 Cap SMD        
+C4A        SMD_0805              7260mil        936mil       7260mil        936mil       7305mil        936mil  T        180.00 Cap SMD        
+C4B        SMD_0805              8560mil        936mil       8560mil        936mil       8605mil        936mil  T        180.00 Cap SMD        
+C4C        SMD_0805              9860mil        936mil       9860mil        936mil       9905mil        936mil  T        180.00 Cap SMD        
+C5A        SMD_0805              7260mil       1136mil       7260mil       1136mil       7305mil       1136mil  T        180.00 Cap SMD        
+C5B        SMD_0805              8560mil       1136mil       8560mil       1136mil       8605mil       1136mil  T        180.00 Cap SMD        
+C5C        SMD_0805              9860mil       1136mil       9860mil       1136mil       9905mil       1136mil  T        180.00 Cap SMD        
+C6A        SMD_0805              7260mil       1336mil       7260mil       1336mil       7305mil       1336mil  T        180.00 Cap SMD        
+C6B        SMD_0805              8560mil       1336mil       8560mil       1336mil       8605mil       1336mil  T        180.00 Cap SMD        
+C6C        SMD_0805              9860mil       1336mil       9860mil       1336mil       9905mil       1336mil  T        180.00 Cap SMD        
+C7A        SMD_0805              7260mil       1536mil       7260mil       1536mil       7305mil       1536mil  T        180.00 Cap SMD        
+C7B        SMD_0805              8560mil       1536mil       8560mil       1536mil       8605mil       1536mil  T        180.00 Cap SMD        
+C7C        SMD_0805              9860mil       1536mil       9860mil       1536mil       9905mil       1536mil  T        180.00 Cap SMD        
+C8A        SMD_0805              7260mil       1736mil       7260mil       1736mil       7305mil       1736mil  T        180.00 Cap SMD        
+C8B        SMD_0805              8560mil       1736mil       8560mil       1736mil       8605mil       1736mil  T        180.00 Cap SMD        
+C8C        SMD_0805              9860mil       1736mil       9860mil       1736mil       9905mil       1736mil  T        180.00 Cap SMD        
+C9A        SMD_0805              7260mil       1936mil       7260mil       1936mil       7305mil       1936mil  T        180.00 Cap SMD        
+C9B        SMD_0805              8560mil       1936mil       8560mil       1936mil       8605mil       1936mil  T        180.00 Cap SMD        
+C9C        SMD_0805              9860mil       1936mil       9860mil       1936mil       9905mil       1936mil  T        180.00 Cap SMD        
+C10A       SMD_0805              7260mil       2086mil       7260mil       2086mil       7305mil       2086mil  T        180.00 Cap SMD        
+C10B       SMD_0805              8560mil       2086mil       8560mil       2086mil       8605mil       2086mil  T        180.00 Cap SMD        
+C10C       SMD_0805              9860mil       2086mil       9860mil       2086mil       9905mil       2086mil  T        180.00 Cap SMD        
+C11A       SMD_0805              6660mil       2136mil       6660mil       2136mil       6705mil       2136mil  T        180.00 Cap SMD        
+C11B       SMD_0805              7960mil       2136mil       7960mil       2136mil       8005mil       2136mil  T        180.00 Cap SMD        
+C11C       SMD_0805              9260mil       2136mil       9260mil       2136mil       9305mil       2136mil  T        180.00 Cap SMD        
+C12A       SMD_0805              6660mil       1936mil       6660mil       1936mil       6705mil       1936mil  T        180.00 Cap SMD        
+C12B       SMD_0805              7960mil       1936mil       7960mil       1936mil       8005mil       1936mil  T        180.00 Cap SMD        
+C12C       SMD_0805              9260mil       1936mil       9260mil       1936mil       9305mil       1936mil  T        180.00 Cap SMD        
+C13A       SMD_0805              6660mil       1736mil       6660mil       1736mil       6705mil       1736mil  T        180.00 Cap SMD        
+C13B       SMD_0805              7960mil       1736mil       7960mil       1736mil       8005mil       1736mil  T        180.00 Cap SMD        
+C13C       SMD_0805              9260mil       1736mil       9260mil       1736mil       9305mil       1736mil  T        180.00 Cap SMD        
+C14A       SMD_0805              6660mil       1536mil       6660mil       1536mil       6705mil       1536mil  T        180.00 Cap SMD        
+C14B       SMD_0805              7960mil       1536mil       7960mil       1536mil       8005mil       1536mil  T        180.00 Cap SMD        
+C14C       SMD_0805              9260mil       1536mil       9260mil       1536mil       9305mil       1536mil  T        180.00 Cap SMD        
+C15A       SMD_0805              6660mil       1336mil       6660mil       1336mil       6705mil       1336mil  T        180.00 Cap SMD        
+C15B       SMD_0805              7960mil       1336mil       7960mil       1336mil       8005mil       1336mil  T        180.00 Cap SMD        
+C15C       SMD_0805              9260mil       1336mil       9260mil       1336mil       9305mil       1336mil  T        180.00 Cap SMD        
+C16A       SMD_0805              6660mil       1136mil       6660mil       1136mil       6705mil       1136mil  T        180.00 Cap SMD        
+C16B       SMD_0805              7960mil       1136mil       7960mil       1136mil       8005mil       1136mil  T        180.00 Cap SMD        
+C16C       SMD_0805              9260mil       1136mil       9260mil       1136mil       9305mil       1136mil  T        180.00 Cap SMD        
+C17A       SMD_0805              6660mil        936mil       6660mil        936mil       6705mil        936mil  T        180.00 Cap SMD        
+C17B       SMD_0805              7960mil        936mil       7960mil        936mil       8005mil        936mil  T        180.00 Cap SMD        
+C17C       SMD_0805              9260mil        936mil       9260mil        936mil       9305mil        936mil  T        180.00 Cap SMD        
+C18A       SMD_0805              6660mil        736mil       6660mil        736mil       6705mil        736mil  T        180.00 Cap SMD        
+C18B       SMD_0805              7960mil        736mil       7960mil        736mil       8005mil        736mil  T        180.00 Cap SMD        
+C18C       SMD_0805              9260mil        736mil       9260mil        736mil       9305mil        736mil  T        180.00 Cap SMD        
+C19A       SMD_0805              6660mil        536mil       6660mil        536mil       6705mil        536mil  T        180.00 Cap SMD        
+C19B       SMD_0805              7960mil        536mil       7960mil        536mil       8005mil        536mil  T        180.00 Cap SMD        
+C19C       SMD_0805              9260mil        536mil       9260mil        536mil       9305mil        536mil  T        180.00 Cap SMD        
+C58        RAD-0.1               2695mil       7461mil       2695mil       7461mil       2695mil       7411mil  T         90.00 Cap TH         
+C69        RAD-0.1               3115mil       7841mil       3115mil       7841mil       3065mil       7841mil  T        360.00 Cap TH         
+C70        RAD-0.1               3115mil       7281mil       3115mil       7281mil       3165mil       7281mil  T        180.00 Cap TH         
+C71        RAD-0.1               4220mil       7420mil       4220mil       7420mil       4220mil       7370mil  T         90.00 Cap TH         
+C81        SMD_CAP_6032           740mil       7440mil        740mil       7440mil        740mil       7325mil  T         90.00 35V            
+C82        SMD_CAP_3216           580mil       7520mil        580mil       7520mil        580mil       7575mil  T         90.00 15V            
+C83        SMD_CAP_3216           460mil       7520mil        460mil       7520mil        460mil       7465mil  T        270.00 15V            
+C84        SMD_CAP_3216           300mil       7520mil        300mil       7520mil        300mil       7575mil  T         90.00 15V            
+C85        SMD_CAP_3216           180mil       7520mil        180mil       7520mil        180mil       7465mil  T        270.00 15V            
+C86        SMD_CAP_3216           920mil       7520mil        920mil       7520mil        920mil       7575mil  T         90.00 15V            
+D1         DO-35                 5477mil       7674mil       5477mil       7674mil       5477mil   7813.764mil  T        270.00 Diode 1N914    
+D2         DO-35                 5617mil       7674mil       5617mil       7674mil       5617mil   7534.236mil  T         90.00 Diode 1N914    
+D3         SMD_0805_LED          5880mil       7860mil       5880mil       7860mil       5880mil       7905mil  T        270.00 LED SMD        
+D4         SMD_0805_LED          6020mil       7860mil       6020mil       7860mil       6020mil       7905mil  T        270.00 LED SMD        
+D5         SMD_0805_LED          6180mil       7860mil       6180mil       7860mil       6180mil       7905mil  T        270.00 LED SMD        
+D6         SMD_0805_LED          6320mil       7860mil       6320mil       7860mil       6320mil       7905mil  T        270.00 LED SMD        
+D7         SMD_0805_LED          6460mil       7860mil       6460mil       7860mil       6460mil       7905mil  T        270.00 LED SMD        
+D8         SMD_0805_LED          6620mil       7860mil       6620mil       7860mil       6620mil       7905mil  T        270.00 LED SMD        
+J1         HDR_1x12_PHX          6700mil       6480mil       6700mil       6480mil       6700mil       7305mil  T         90.00 Header 12 for screw term
+J2         HDR1X3                3560mil       7700mil       3560mil       7800mil       3560mil       7800mil  T        270.00 Header 3       
+J3         HDR_1x12_PHX     12077.961mil   3529.016mil  12077.961mil   3529.016mil  12077.961mil   2704.016mil  T        270.00 Header 12 for screw term
+J4         HDR_1x12_PHX     12077.961mil   5629.016mil  12077.961mil   5629.016mil  12077.961mil   4804.016mil  T        270.00 Header 12 for screw term
+J5         HDR_1x12_PHX     13577.961mil   4329.016mil  13577.961mil   4329.016mil  13577.961mil   3504.016mil  T        270.00 Header 12 for screw term
+J6         HDR_1x12_PHX     13577.961mil   6429.016mil  13577.961mil   6429.016mil  13577.961mil   5604.016mil  T        270.00 Header 12 for screw term
+J7         HDR1X6_for_IDC         450mil       7800mil        700mil       7800mil        700mil       7800mil  T        180.00 Header 6       
+J8         HDR1X4_for_IDC        1050mil       7800mil       1200mil       7800mil       1200mil       7800mil  T        180.00 Header 4       
+J9         HDR1X2                 170mil       5940mil        120mil       5940mil        120mil       5940mil  T        360.00 Header 2       
+P1A        QFS_SMD_PWR_PINS    827.961mil   4884.016mil    827.961mil   4884.016mil    700.402mil    3731.26mil  T         90.00 QFSS-PC4       
+P1B        QFS_SMD_PWR_PINS   2127.961mil   4884.016mil   2127.961mil   4884.016mil   2000.401mil    3731.26mil  T         90.00 QFSS-PC4       
+P1C        QFS_SMD_PWR_PINS   3427.961mil   4884.016mil   3427.961mil   4884.016mil   3300.401mil    3731.26mil  T         90.00 QFSS-PC4       
+P2         QFS_SMD_PWR_PINS   6027.961mil   4884.016mil   6027.961mil   4884.016mil   5900.401mil    3731.26mil  T         90.00 QFSS-PC4       
+P3A        QFS_SMD_PWR_PINS   7327.961mil   4884.016mil   7327.961mil   4884.016mil    7455.52mil   6036.772mil  T        270.00 QFSS-PC4       
+P3B        QFS_SMD_PWR_PINS   8627.961mil   4884.016mil   8627.961mil   4884.016mil    8755.52mil   6036.772mil  T        270.00 QFSS-PC4       
+P3C        QFS_SMD_PWR_PINS   9927.961mil   4884.016mil   9927.961mil   4884.016mil   10055.52mil   6036.772mil  T        270.00 QFSS-PC4       
+P4         QFS_SMD_PWR_PINS  12827.961mil   4884.016mil  12827.961mil   4884.016mil  12700.401mil    3731.26mil  T         90.00 QFSS-PC4       
+Q1         SOT23                 4680mil       7780mil       4680mil       7780mil       4680mil    7826.26mil  T          0.00 2N3906         
+Q2         SOT23                 4680mil       7560mil       4680mil       7560mil       4680mil    7606.26mil  T        360.00 2N3906         
+R1         SMD_0805              2835mil       7641mil       2835mil       7641mil       2835mil       7596mil  T         90.00 Res SMD        
+R2         SMD_0805              2835mil       7461mil       2835mil       7461mil       2835mil       7416mil  T         90.00 Res SMD        
+R3         SMD_0805              4540mil       7640mil       4540mil       7640mil       4540mil       7595mil  T         90.00 Res SMD        
+R4         SMD_0805              4540mil       7820mil       4540mil       7820mil       4540mil       7865mil  T        270.00 Res SMD        
+R5         SMD_0805              4540mil       7440mil       4540mil       7440mil       4540mil       7395mil  T         90.00 Res SMD        
+R6         SMD_0805              4420mil       7820mil       4420mil       7820mil       4420mil       7865mil  T        270.00 Res SMD        
+TP1A       PAD_80D_052H       677.961mil   1449.016mil    677.961mil   1449.016mil    677.961mil   1449.016mil  T        270.00 Test point     
+TP1B       PAD_80D_052H      1977.961mil   1449.016mil   1977.961mil   1449.016mil   1977.961mil   1449.016mil  T        270.00 Test point     
+TP1C       PAD_80D_052H      3277.961mil   1449.016mil   3277.961mil   1449.016mil   3277.961mil   1449.016mil  T        270.00 Test point     
+TP2A       PAD_80D_052H       477.961mil   1649.016mil    477.961mil   1649.016mil    477.961mil   1649.016mil  T        270.00 Test point     
+TP2B       PAD_80D_052H      1777.961mil   1649.016mil   1777.961mil   1649.016mil   1777.961mil   1649.016mil  T        270.00 Test point     
+TP2C       PAD_80D_052H      3077.961mil   1649.016mil   3077.961mil   1649.016mil   3077.961mil   1649.016mil  T        270.00 Test point     
+TP3A       PAD_80D_052H       677.961mil   1849.016mil    677.961mil   1849.016mil    677.961mil   1849.016mil  T        270.00 Test point     
+TP3B       PAD_80D_052H      1977.961mil   1849.016mil   1977.961mil   1849.016mil   1977.961mil   1849.016mil  T        270.00 Test point     
+TP3C       PAD_80D_052H      3277.961mil   1849.016mil   3277.961mil   1849.016mil   3277.961mil   1849.016mil  T        270.00 Test point     
+TP4A       PAD_80D_052H       477.961mil   2049.016mil    477.961mil   2049.016mil    477.961mil   2049.016mil  T        270.00 Test point     
+TP4B       PAD_80D_052H      1777.961mil   2049.016mil   1777.961mil   2049.016mil   1777.961mil   2049.016mil  T        270.00 Test point     
+TP4C       PAD_80D_052H      3077.961mil   2049.016mil   3077.961mil   2049.016mil   3077.961mil   2049.016mil  T        270.00 Test point     
+TP5A       PAD_80D_052H          6650mil       2800mil       6650mil       2800mil       6650mil       2800mil  T         90.00 Test point     
+TP5B       PAD_80D_052H          7950mil       2800mil       7950mil       2800mil       7950mil       2800mil  T         90.00 Test point     
+TP5C       PAD_80D_052H          9250mil       2800mil       9250mil       2800mil       9250mil       2800mil  T         90.00 Test point     
+TP6A       PAD_80D_052H          6650mil       2500mil       6650mil       2500mil       6650mil       2500mil  T         90.00 Test point     
+TP6B       PAD_80D_052H          7950mil       2500mil       7950mil       2500mil       7950mil       2500mil  T         90.00 Test point     
+TP6C       PAD_80D_052H          9250mil       2500mil       9250mil       2500mil       9250mil       2500mil  T         90.00 Test point     
+TP7A       PAD_80D_052H          6800mil       2650mil       6800mil       2650mil       6800mil       2650mil  T         90.00 Test point     
+TP7B       PAD_80D_052H          8100mil       2650mil       8100mil       2650mil       8100mil       2650mil  T         90.00 Test point     
+TP7C       PAD_80D_052H          9400mil       2650mil       9400mil       2650mil       9400mil       2650mil  T         90.00 Test point     
+TP8A       PAD_80D_052H          6800mil       2350mil       6800mil       2350mil       6800mil       2350mil  T         90.00 Test point     
+TP8B       PAD_80D_052H          8100mil       2350mil       8100mil       2350mil       8100mil       2350mil  T         90.00 Test point     
+TP8C       PAD_80D_052H          9400mil       2350mil       9400mil       2350mil       9400mil       2350mil  T         90.00 Test point     
+TP9A       PAD_80D_052H          7442mil        343mil       7442mil        343mil       7442mil        343mil  T        360.00 Test point     
+TP9B       PAD_80D_052H          8742mil        343mil       8742mil        343mil       8742mil        343mil  T        360.00 Test point     
+TP9C       PAD_80D_052H         10042mil        343mil      10042mil        343mil      10042mil        343mil  T        360.00 Test point     
+TP10A      PAD_80D_052H          7442mil        543mil       7442mil        543mil       7442mil        543mil  T        360.00 Test point     
+TP10B      PAD_80D_052H          8742mil        543mil       8742mil        543mil       8742mil        543mil  T        360.00 Test point     
+TP10C      PAD_80D_052H         10042mil        543mil      10042mil        543mil      10042mil        543mil  T        360.00 Test point     
+TP11A      PAD_80D_052H          7442mil        743mil       7442mil        743mil       7442mil        743mil  T        360.00 Test point     
+TP11B      PAD_80D_052H          8742mil        743mil       8742mil        743mil       8742mil        743mil  T        360.00 Test point     
+TP11C      PAD_80D_052H         10042mil        743mil      10042mil        743mil      10042mil        743mil  T        360.00 Test point     
+TP12A      PAD_80D_052H          7442mil        943mil       7442mil        943mil       7442mil        943mil  T        360.00 Test point     
+TP12B      PAD_80D_052H          8742mil        943mil       8742mil        943mil       8742mil        943mil  T        360.00 Test point     
+TP12C      PAD_80D_052H         10042mil        943mil      10042mil        943mil      10042mil        943mil  T        360.00 Test point     
+TP13A      PAD_80D_052H          7442mil       1143mil       7442mil       1143mil       7442mil       1143mil  T        360.00 Test point     
+TP13B      PAD_80D_052H          8742mil       1143mil       8742mil       1143mil       8742mil       1143mil  T        360.00 Test point     
+TP13C      PAD_80D_052H         10042mil       1143mil      10042mil       1143mil      10042mil       1143mil  T        360.00 Test point     
+TP14A      PAD_80D_052H          7442mil       1343mil       7442mil       1343mil       7442mil       1343mil  T        360.00 Test point     
+TP14B      PAD_80D_052H          8742mil       1343mil       8742mil       1343mil       8742mil       1343mil  T        360.00 Test point     
+TP14C      PAD_80D_052H         10042mil       1343mil      10042mil       1343mil      10042mil       1343mil  T        360.00 Test point     
+TP15A      PAD_80D_052H          7442mil       1543mil       7442mil       1543mil       7442mil       1543mil  T        360.00 Test point     
+TP15B      PAD_80D_052H          8742mil       1543mil       8742mil       1543mil       8742mil       1543mil  T        360.00 Test point     
+TP15C      PAD_80D_052H         10042mil       1543mil      10042mil       1543mil      10042mil       1543mil  T        360.00 Test point     
+TP16A      PAD_80D_052H          7442mil       1743mil       7442mil       1743mil       7442mil       1743mil  T        360.00 Test point     
+TP16B      PAD_80D_052H          8742mil       1743mil       8742mil       1743mil       8742mil       1743mil  T        360.00 Test point     
+TP16C      PAD_80D_052H         10042mil       1743mil      10042mil       1743mil      10042mil       1743mil  T        360.00 Test point     
+TP17A      PAD_80D_052H          7442mil       1943mil       7442mil       1943mil       7442mil       1943mil  T        360.00 Test point     
+TP17B      PAD_80D_052H          8742mil       1943mil       8742mil       1943mil       8742mil       1943mil  T        360.00 Test point     
+TP17C      PAD_80D_052H         10042mil       1943mil      10042mil       1943mil      10042mil       1943mil  T        360.00 Test point     
+TP18A      PAD_80D_052H          7442mil       2143mil       7442mil       2143mil       7442mil       2143mil  T        360.00 Test point     
+TP18B      PAD_80D_052H          8742mil       2143mil       8742mil       2143mil       8742mil       2143mil  T        360.00 Test point     
+TP18C      PAD_80D_052H         10042mil       2143mil      10042mil       2143mil      10042mil       2143mil  T        360.00 Test point     
+TP23A      PAD_80D_052H          6860mil       2136mil       6860mil       2136mil       6860mil       2136mil  T        360.00 Test point     
+TP23B      PAD_80D_052H          8160mil       2136mil       8160mil       2136mil       8160mil       2136mil  T        360.00 Test point     
+TP23C      PAD_80D_052H          9460mil       2136mil       9460mil       2136mil       9460mil       2136mil  T        360.00 Test point     
+TP24A      PAD_80D_052H          6860mil       1936mil       6860mil       1936mil       6860mil       1936mil  T        360.00 Test point     
+TP24B      PAD_80D_052H          8160mil       1936mil       8160mil       1936mil       8160mil       1936mil  T        360.00 Test point     
+TP24C      PAD_80D_052H          9460mil       1936mil       9460mil       1936mil       9460mil       1936mil  T        360.00 Test point     
+TP25A      PAD_80D_052H          6860mil       1736mil       6860mil       1736mil       6860mil       1736mil  T        360.00 Test point     
+TP25B      PAD_80D_052H          8160mil       1736mil       8160mil       1736mil       8160mil       1736mil  T        360.00 Test point     
+TP25C      PAD_80D_052H          9460mil       1736mil       9460mil       1736mil       9460mil       1736mil  T        360.00 Test point     
+TP26A      PAD_80D_052H          6860mil       1536mil       6860mil       1536mil       6860mil       1536mil  T        360.00 Test point     
+TP26B      PAD_80D_052H          8160mil       1536mil       8160mil       1536mil       8160mil       1536mil  T        360.00 Test point     
+TP26C      PAD_80D_052H          9460mil       1536mil       9460mil       1536mil       9460mil       1536mil  T        360.00 Test point     
+TP27A      PAD_80D_052H          6860mil       1336mil       6860mil       1336mil       6860mil       1336mil  T        360.00 Test point     
+TP27B      PAD_80D_052H          8160mil       1336mil       8160mil       1336mil       8160mil       1336mil  T        360.00 Test point     
+TP27C      PAD_80D_052H          9460mil       1336mil       9460mil       1336mil       9460mil       1336mil  T        360.00 Test point     
+TP28A      PAD_80D_052H          6860mil       1136mil       6860mil       1136mil       6860mil       1136mil  T        360.00 Test point     
+TP28B      PAD_80D_052H          8160mil       1136mil       8160mil       1136mil       8160mil       1136mil  T        360.00 Test point     
+TP28C      PAD_80D_052H          9460mil       1136mil       9460mil       1136mil       9460mil       1136mil  T        360.00 Test point     
+TP29A      PAD_80D_052H          6860mil        936mil       6860mil        936mil       6860mil        936mil  T        360.00 Test point     
+TP29B      PAD_80D_052H          8160mil        936mil       8160mil        936mil       8160mil        936mil  T        360.00 Test point     
+TP29C      PAD_80D_052H          9460mil        936mil       9460mil        936mil       9460mil        936mil  T        360.00 Test point     
+TP30A      PAD_80D_052H          6860mil        736mil       6860mil        736mil       6860mil        736mil  T        360.00 Test point     
+TP30B      PAD_80D_052H          8160mil        736mil       8160mil        736mil       8160mil        736mil  T        360.00 Test point     
+TP30C      PAD_80D_052H          9460mil        736mil       9460mil        736mil       9460mil        736mil  T        360.00 Test point     
+TP31A      PAD_80D_052H          6860mil        536mil       6860mil        536mil       6860mil        536mil  T        360.00 Test point     
+TP31B      PAD_80D_052H          8160mil        536mil       8160mil        536mil       8160mil        536mil  T        360.00 Test point     
+TP31C      PAD_80D_052H          9460mil        536mil       9460mil        536mil       9460mil        536mil  T        360.00 Test point     
+TP109      PAD_80D_052H           200mil       6420mil        200mil       6420mil        200mil       6420mil  T         90.00 Test point     
+TP110      PAD_80D_052H           200mil       6600mil        200mil       6600mil        200mil       6600mil  T         90.00 Test point     
+TP111      PAD_80D_052H           200mil       6800mil        200mil       6800mil        200mil       6800mil  T         90.00 Test point     
+TP112      PAD_80D_052H           200mil       7000mil        200mil       7000mil        200mil       7000mil  T         90.00 Test point     
+TP113      PAD_80D_052H           200mil       7200mil        200mil       7200mil        200mil       7200mil  T         90.00 Test point     
+TP114      PAD_80D_052H          7820mil       7700mil       7820mil       7700mil       7820mil       7700mil  T         90.00 Test point     
+TP115      PAD_80D_052H           220mil       5420mil        220mil       5420mil        220mil       5420mil  T         90.00 Test point     
+TP116      PAD_80D_052H          1600mil        600mil       1600mil        600mil       1600mil        600mil  T         90.00 Test point     
+TP117      PAD_80D_052H          5660mil        360mil       5660mil        360mil       5660mil        360mil  T         90.00 Test point     
+TP118      PAD_80D_052H           200mil       6200mil        200mil       6200mil        200mil       6200mil  T         90.00 Test point     
+TP119      PAD_80D_052H           200mil       4800mil        200mil       4800mil        200mil       4800mil  T         90.00 Test point     
+U1         N14A                  1800mil       7260mil       1800mil       7260mil       1650mil       7560mil  T        270.00 74AC00PC       
+U2         N8                    3115mil       7561mil       3115mil       7561mil       2965mil       7711mil  T        270.00 LT1124ACN8     
+U3         N14A                  1200mil       7260mil       1200mil       7260mil       1050mil       7560mil  T        270.00 DM74ALS74AN    
+Q3A        TO-92A_OFFSET      376.205mil   3461.772mil    356.205mil   3461.772mil    356.205mil   3511.772mil  T        180.00 J111           
+Q3B        TO-92A_OFFSET     1676.205mil   3461.772mil   1656.205mil   3461.772mil   1656.205mil   3511.772mil  T        180.00 J111           
+Q3C        TO-92A_OFFSET     2976.205mil   3461.772mil   2956.205mil   3461.772mil   2956.205mil   3511.772mil  T        180.00 J111           
+Q4A        TO-92A_OFFSET      376.205mil   3761.772mil    356.205mil   3761.772mil    356.205mil   3811.772mil  T        180.00 J111           
+Q4B        TO-92A_OFFSET     1676.205mil   3761.772mil   1656.205mil   3761.772mil   1656.205mil   3811.772mil  T        180.00 J111           
+Q4C        TO-92A_OFFSET     2976.205mil   3761.772mil   2956.205mil   3761.772mil   2956.205mil   3811.772mil  T        180.00 J111           
+Q5A        TO-92A_OFFSET      376.205mil   4061.772mil    356.205mil   4061.772mil    356.205mil   4111.772mil  T        180.00 J111           
+Q5B        TO-92A_OFFSET     1676.205mil   4061.772mil   1656.205mil   4061.772mil   1656.205mil   4111.772mil  T        180.00 J111           
+Q5C        TO-92A_OFFSET     2976.205mil   4061.772mil   2956.205mil   4061.772mil   2956.205mil   4111.772mil  T        180.00 J111           
+Q6A        TO-92A_OFFSET      376.205mil   4361.772mil    356.205mil   4361.772mil    356.205mil   4411.772mil  T        180.00 J111           
+Q6B        TO-92A_OFFSET     1676.205mil   4361.772mil   1656.205mil   4361.772mil   1656.205mil   4411.772mil  T        180.00 J111           
+Q6C        TO-92A_OFFSET     2976.205mil   4361.772mil   2956.205mil   4361.772mil   2956.205mil   4411.772mil  T        180.00 J111           
+P5         MMCX2.54-V5           5317mil       7814mil       5317mil       7814mil       5317mil       7814mil  T          0.00 COAX-M         
+P15        MMCX2.54-V5           3900mil       7760mil       3900mil       7760mil       3900mil       7760mil  T          0.00 COAX-M         
+U4         182H_M                3940mil       7420mil       3940mil       7420mil   3843.543mil       7495mil  T          0.00 DG642          
+J10        DSUB37_RT_FEM    16775.906mil   6320.796mil      16720mil       7300mil      16720mil       7300mil  T        270.00 D Connector 37 
+P6         QFS_SMD_PWR_PINS  11227.961mil   4884.016mil  11227.961mil   4884.016mil   11355.52mil   6036.772mil  T        270.00 QFSS-PC4       
+P7         QFS_SMD_PWR_PINS   4727.961mil   4884.016mil   4727.961mil   4884.016mil   4600.401mil    3731.26mil  T         90.00 QFSS-PC4       
+TP21       PAD_80D_052H         15009mil       4200mil      15009mil       4200mil      15009mil       4200mil  T        180.00 Test point     
+TP22       PAD_80D_052H         14580mil       3600mil      14580mil       3600mil      14580mil       3600mil  T        180.00 Test point     
+TP34       PAD_80D_052H         15520mil       4200mil      15520mil       4200mil      15520mil       4200mil  T        180.00 Test point     
+TP35       PAD_80D_052H         14924mil       3000mil      14924mil       3000mil      14924mil       3000mil  T        180.00 Test point     
+TP36       PAD_80D_052H         15260mil       4200mil      15260mil       4200mil      15260mil       4200mil  T        180.00 Test point     
+TP37       PAD_80D_052H         16114mil       3600mil      16114mil       3600mil      16114mil       3600mil  T         90.00 Test point     
+TP38       PAD_80D_052H         15774mil       4200mil      15774mil       4200mil      15774mil       4200mil  T        180.00 Test point     
+TP39       PAD_80D_052H         14754mil       4200mil      14754mil       4200mil      14754mil       4200mil  T        180.00 Test point     
+TP40       PAD_80D_052H         15420mil       3000mil      15420mil       3000mil      15420mil       3000mil  T        180.00 Test point     
+TP41       PAD_80D_052H         16029mil       4200mil      16029mil       4200mil      16029mil       4200mil  T        180.00 Test point     
+TP42       PAD_80D_052H         15940mil       3000mil      15940mil       3000mil      15940mil       3000mil  T        180.00 Test point     
+TP43       PAD_80D_052H         15094mil       3600mil      15094mil       3600mil      15094mil       3600mil  T        180.00 Test point     
+TP44       PAD_80D_052H         14500mil       4200mil      14500mil       4200mil      14500mil       4200mil  T        180.00 Test point     
+TP45       PAD_80D_052H         14680mil       3000mil      14680mil       3000mil      14680mil       3000mil  T        180.00 Test point     
+TP46       PAD_80D_052H         14414mil       3000mil      14414mil       3000mil      14414mil       3000mil  T        180.00 Test point     
+TP47       PAD_80D_052H         15860mil       3600mil      15860mil       3600mil      15860mil       3600mil  T         90.00 Test point     
+TP48       PAD_80D_052H         16199mil       3000mil      16199mil       3000mil      16199mil       3000mil  T         90.00 Test point     
+TP49       PAD_80D_052H         15689mil       3000mil      15689mil       3000mil      15689mil       3000mil  T         90.00 Test point     
+TP50       PAD_80D_052H          5400mil       2200mil       5400mil       2200mil       5400mil       2200mil  T         90.00 Test point     
+TP51       PAD_80D_052H          5400mil       1900mil       5400mil       1900mil       5400mil       1900mil  T         90.00 Test point     
+TP52       PAD_80D_052H          5400mil       1600mil       5400mil       1600mil       5400mil       1600mil  T         90.00 Test point     
+TP53       PAD_80D_052H          5400mil       1300mil       5400mil       1300mil       5400mil       1300mil  T         90.00 Test point     
+R8         SMD_0805              4240mil       2100mil       4240mil       2100mil       4195mil       2100mil  T          0.00 Res 0805       
+R9         SMD_0805              4240mil       1880mil       4240mil       1880mil       4195mil       1880mil  T        360.00 Res 0805       
+R10        SMD_0805              4240mil       1680mil       4240mil       1680mil       4195mil       1680mil  T        360.00 Res 0805       
+R11        SMD_0805              4240mil       1480mil       4240mil       1480mil       4195mil       1480mil  T          0.00 Res 0805       
+SW1        DIP-16                4580mil       1840mil       4580mil       1840mil       4430mil       2190mil  T        270.00 SW-DPST        
+

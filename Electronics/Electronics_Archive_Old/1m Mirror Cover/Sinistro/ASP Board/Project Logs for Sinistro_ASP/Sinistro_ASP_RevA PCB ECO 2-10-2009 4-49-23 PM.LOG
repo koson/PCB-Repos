@@ -1,0 +1,40 @@
+Added Component: Designator=U2A(182H_M)
+Added Component: Designator=U2B(182H_M)
+Added Component: Designator=U2C(182H_M)
+Added Component: Designator=U2D(182H_M)
+Added Pin To Net: NetName=NetR6A_1 Pin=U2A-1
+Added Pin To Net: NetName=A Pin=U2A-2
+Added Pin To Net: NetName=-5ANA Pin=U2A-3
+Added Pin To Net: NetName=A Pin=U2A-4
+Added Pin To Net: NetName=NetR6A_1 Pin=U2A-5
+Added Pin To Net: NetName=NetC6A_1 Pin=U2A-6
+Added Pin To Net: NetName=+5ANA Pin=U2A-7
+Added Pin To Net: NetName=DC_HOLD Pin=U2A-8
+Added Pin To Net: NetName=NetR6B_1 Pin=U2B-1
+Added Pin To Net: NetName=A Pin=U2B-2
+Added Pin To Net: NetName=-5ANA Pin=U2B-3
+Added Pin To Net: NetName=A Pin=U2B-4
+Added Pin To Net: NetName=NetR6B_1 Pin=U2B-5
+Added Pin To Net: NetName=NetC6B_1 Pin=U2B-6
+Added Pin To Net: NetName=+5ANA Pin=U2B-7
+Added Pin To Net: NetName=DC_HOLD Pin=U2B-8
+Added Pin To Net: NetName=NetR6C_1 Pin=U2C-1
+Added Pin To Net: NetName=A Pin=U2C-2
+Added Pin To Net: NetName=-5ANA Pin=U2C-3
+Added Pin To Net: NetName=A Pin=U2C-4
+Added Pin To Net: NetName=NetR6C_1 Pin=U2C-5
+Added Pin To Net: NetName=NetC6C_1 Pin=U2C-6
+Added Pin To Net: NetName=+5ANA Pin=U2C-7
+Added Pin To Net: NetName=DC_HOLD Pin=U2C-8
+Added Pin To Net: NetName=NetR6D_1 Pin=U2D-1
+Added Pin To Net: NetName=A Pin=U2D-2
+Added Pin To Net: NetName=-5ANA Pin=U2D-3
+Added Pin To Net: NetName=A Pin=U2D-4
+Added Pin To Net: NetName=NetR6D_1 Pin=U2D-5
+Added Pin To Net: NetName=NetC6D_1 Pin=U2D-6
+Added Pin To Net: NetName=+5ANA Pin=U2D-7
+Added Pin To Net: NetName=DC_HOLD Pin=U2D-8
+Added Member To Class: ClassName=CH1 Member=Component U2A (U2) DG642
+Added Member To Class: ClassName=CH2 Member=Component U2B (U2) DG642
+Added Member To Class: ClassName=CH3 Member=Component U2C (U2) DG642
+Added Member To Class: ClassName=CH4 Member=Component U2D (U2) DG642

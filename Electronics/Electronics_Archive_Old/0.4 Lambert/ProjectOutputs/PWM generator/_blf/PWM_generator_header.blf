@@ -1,0 +1,48 @@
+.model PWM_generator
+.attrib fpga_clock 1 True
+.attrib fpga_pinnum 1 P55
+.inputs CLK
+.attrib fpga_pinnum 1 P27
+.outputs HA1
+.attrib fpga_pinnum 1 P28
+.outputs HA2
+.attrib fpga_pinnum 1 P29
+.outputs HA3
+.attrib fpga_pinnum 1 P30
+.outputs HA4
+.attrib fpga_pinnum 1 P175
+.outputs LEDS<7>
+.attrib fpga_pinnum 1 P178
+.outputs LEDS<6>
+.attrib fpga_pinnum 1 P179
+.outputs LEDS<5>
+.attrib fpga_pinnum 1 P180
+.outputs LEDS<4>
+.attrib fpga_pinnum 1 P182
+.outputs LEDS<3>
+.attrib fpga_pinnum 1 P183
+.outputs LEDS<2>
+.attrib fpga_pinnum 1 P184
+.outputs LEDS<1>
+.attrib fpga_pinnum 1 P185
+.outputs LEDS<0>
+.attrib fpga_pinnum 1 P127
+.inputs PB0
+.attrib fpga_pinnum 1 P126
+.inputs PB1
+.attrib fpga_pinnum 1 P40
+.inputs SW<7>
+.attrib fpga_pinnum 1 P41
+.inputs SW<6>
+.attrib fpga_pinnum 1 P43
+.inputs SW<5>
+.attrib fpga_pinnum 1 P45
+.inputs SW<4>
+.attrib fpga_pinnum 1 P47
+.inputs SW<3>
+.attrib fpga_pinnum 1 P48
+.inputs SW<2>
+.attrib fpga_pinnum 1 P49
+.inputs SW<1>
+.attrib fpga_pinnum 1 P50
+.inputs SW<0>

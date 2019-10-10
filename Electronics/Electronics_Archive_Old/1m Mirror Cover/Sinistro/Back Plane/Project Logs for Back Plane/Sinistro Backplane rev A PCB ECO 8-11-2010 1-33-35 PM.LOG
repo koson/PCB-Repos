@@ -1,0 +1,18 @@
+Added Component: Designator=TP26(SMD_TEST POINT)
+Added Component: Designator=TP27(SMD_TEST POINT)
+Added Component: Designator=TP28(SMD_TEST POINT)
+Added Component: Designator=TP29(SMD_TEST POINT)
+Added Component: Designator=TP30(SMD_TEST POINT)
+Added Component: Designator=TP31(SMD_TEST POINT)
+Added Pin To Net: NetName=A Pin=TP26-1
+Added Pin To Net: NetName=A Pin=TP27-1
+Added Pin To Net: NetName=A Pin=TP28-1
+Added Pin To Net: NetName=A Pin=TP29-1
+Added Pin To Net: NetName=A Pin=TP30-1
+Added Pin To Net: NetName=A Pin=TP31-1
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP26 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP27 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP28 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP29 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP30 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP31 Test Point SMD

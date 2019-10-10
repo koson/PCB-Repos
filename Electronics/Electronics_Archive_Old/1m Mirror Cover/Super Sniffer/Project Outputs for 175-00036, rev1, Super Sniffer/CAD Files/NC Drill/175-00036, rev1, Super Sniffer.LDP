@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Files\users\rlobdill\Altum Projects\Super Sniffer\175-00036, rev1, Super Sniffer.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=175-00036, rev1, super sniffer-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=175-00036, rev1, super sniffer-nonplated.txt|LayerPairs=gtl,gbl

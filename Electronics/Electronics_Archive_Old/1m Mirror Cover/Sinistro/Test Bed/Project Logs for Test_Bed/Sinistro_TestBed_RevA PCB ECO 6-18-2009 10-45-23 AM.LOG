@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=+5ANA Pin=C69-2
+Removed Pin From Net: NetName=-5ANA Pin=C70-2
+Removed Pin From Net: NetName=A1OUT Pin=J10-1
+Removed Pin From Net: NetName=A4OUT Pin=J10-2
+Removed Pin From Net: NetName=A3OUT Pin=J10-3
+Removed Pin From Net: NetName=A2OUT Pin=J10-4
+Removed Pin From Net: NetName=S2Q1 Pin=J10-5
+Removed Pin From Net: NetName=S1Q1 Pin=J10-6
+Removed Pin From Net: NetName=S1Q2 Pin=J10-8
+Removed Pin From Net: NetName=S2Q2 Pin=J10-9
+Removed Pin From Net: NetName=S1Q4 Pin=J10-11
+Removed Pin From Net: NetName=S2Q4 Pin=J10-12
+Removed Pin From Net: NetName=S2Q3 Pin=J10-13
+Removed Pin From Net: NetName=S1Q3 Pin=J10-14
+Removed Pin From Net: NetName=VOG Pin=J10-15
+Removed Pin From Net: NetName=GND Pin=J10-17
+Removed Pin From Net: NetName=TGB Pin=J10-20
+Removed Pin From Net: NetName=CLK_BRD_I/O.SG Pin=J10-21
+Removed Pin From Net: NetName=P2B Pin=J10-22
+Removed Pin From Net: NetName=TGA Pin=J10-23
+Removed Pin From Net: NetName=P1B Pin=J10-24
+Removed Pin From Net: NetName=P2A Pin=J10-25
+Removed Pin From Net: NetName=P3B Pin=J10-26
+Removed Pin From Net: NetName=P1A Pin=J10-27
+Removed Pin From Net: NetName=CLK_BRD_I/O.RG Pin=J10-28
+Removed Pin From Net: NetName=VRD Pin=J10-29
+Removed Pin From Net: NetName=VOD Pin=J10-30
+Removed Pin From Net: NetName=SPARE_1_SEL_N Pin=P2-119
+Removed Pin From Net: NetName=NetC71_1 Pin=RP1-CCW
+Removed Pin From Net: NetName=NetR6_1 Pin=RP1-CW
+Removed Pin From Net: NetName=NetR6_1 Pin=RP1-W
+Removed Pin From Net: NetName=-5ANA Pin=U2-4
+Removed Pin From Net: NetName=+5ANA Pin=U2-8
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=P6
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=P7
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=RP1
+Change Component Comment : Designator=P6 Old Comment=QMSS-EM-PC4 New Comment=QFSS-PC4
+Change Component Comment : Designator=P4 Old Comment=QMSS-EM-PC4 New Comment=QFSS-PC4
+Change Component Comment : Designator=P3C Old Comment=QMSS-EM-PC4 New Comment=QFSS-PC4
+Change Component Comment : Designator=P3B Old Comment=QMSS-EM-PC4 New Comment=QFSS-PC4
+Change Component Comment : Designator=P3A Old Comment=QMSS-EM-PC4 New Comment=QFSS-PC4
+Change Component Comment : Designator=P2 Old Comment=QMSS-EM-PC4 New Comment=QFSS-PC4
+Added Component: Designator=J?(HDR1X4 for IDC)
+Added Component: Designator=R?(SMD_0805)
+Added Component: Designator=RT1(POT, BOURNS 3266W)
+Added Component: Designator=RT?(POT, BOURNS 3266W)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=TP?(PAD_80D_052H)
+Added Component: Designator=U15(182H_N)
+Added Pin To Net: NetName=+12V Pin=C69-2
+Added Pin To Net: NetName=-12V Pin=C70-2
+Added Pin To Net: NetName=A Pin=J10-17
+Added Pin To Net: NetName=+12V Pin=R?-1
+Added Pin To Net: NetName=ASP_BRD_I/O.DC_HOLD Pin=TP?-1
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=TP?-1
+Added Pin To Net: NetName=CLK_BRD_I/O.RG Pin=TP?-1
+Added Pin To Net: NetName=CLK_BRD_I/O.SG Pin=TP?-1
+Added Pin To Net: NetName=NetJ2_2 Pin=TP?-1
+Added Pin To Net: NetName=-12V Pin=U2-4
+Added Pin To Net: NetName=+12V Pin=U2-8
+Added Pin To Net: NetName=+12V Pin=U15-2
+Added Pin To Net: NetName=A Pin=U15-4
+Change Net Name : Old Net Name=SPARE_2_SEL_N New Net Name=SWRD_6_SEL_N
+Change Net Name : Old Net Name=SPARE_3_SEL_N New Net Name=SWRD_7_SEL_N
+Added Pin To Net: NetName=A_INTERFACE_RESET_N Pin=P1A-47
+Added Pin To Net: NetName=A_INTERFACE_RESET_N Pin=P1B-47
+Added Pin To Net: NetName=A_INTERFACE_RESET_N Pin=P1C-47
+Added Pin To Net: NetName=A_INTERFACE_RESET_N Pin=P7-47
+Added Net: Name=A_INTERFACE_RESET_N
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P1A-45
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P1B-45
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P1C-45
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P2-133
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P3A-33
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P3B-33
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P3C-33
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P6-33
+Added Pin To Net: NetName=ASP_BRD_I/O.S_WIRED_1 Pin=P7-45
+Added Net: Name=ASP_BRD_I/O.S_WIRED_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-6
+Added Pin To Net: NetName=NetR1_2 Pin=U2-7
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetRT?_CW Pin=U15-6
+Added Net: Name=NetRT?_CW
+Added Pin To Net: NetName=NetRT?_W Pin=U2-5
+Added Net: Name=NetRT?_W
+Added Pin To Net: NetName=S_WIRED_2 Pin=P2-134
+Added Net: Name=S_WIRED_2
+Added Pin To Net: NetName=SWRD_1_SEL_N Pin=P2-127
+Added Net: Name=SWRD_1_SEL_N
+Added Pin To Net: NetName=SWRD_2_SEL_N Pin=P2-128
+Added Net: Name=SWRD_2_SEL_N
+Added Pin To Net: NetName=SWRD_3_SEL_N Pin=P2-130
+Added Net: Name=SWRD_3_SEL_N
+Added Pin To Net: NetName=SWRD_4_SEL_N Pin=P2-132
+Added Net: Name=SWRD_4_SEL_N
+Added Pin To Net: NetName=SWRD_5_SEL_N Pin=P2-119
+Added Net: Name=SWRD_5_SEL_N
+Added Pin To Net: NetName=TEC(+) Pin=J10-18
+Added Pin To Net: NetName=TEC(+) Pin=J10-36
+Added Pin To Net: NetName=TEC(+) Pin=J?-3
+Added Pin To Net: NetName=TEC(+) Pin=TP?-1
+Added Net: Name=TEC(+)
+Added Pin To Net: NetName=TEC(-) Pin=J10-19
+Added Pin To Net: NetName=TEC(-) Pin=J10-37
+Added Pin To Net: NetName=TEC(-) Pin=J?-4
+Added Pin To Net: NetName=TEC(-) Pin=TP?-1
+Added Net: Name=TEC(-)
+Added Pin To Net: NetName=TEMP Pin=J10-35
+Added Pin To Net: NetName=TEMP Pin=J?-1
+Added Pin To Net: NetName=TEMP Pin=R?-2
+Added Pin To Net: NetName=TEMP Pin=TP?-1
+Added Net: Name=TEMP
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component J? Header 4
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component R? Res 0805
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component RT1 Pot Trim TH
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component RT? Pot Trim TH
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP? Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component U15 REF02AU

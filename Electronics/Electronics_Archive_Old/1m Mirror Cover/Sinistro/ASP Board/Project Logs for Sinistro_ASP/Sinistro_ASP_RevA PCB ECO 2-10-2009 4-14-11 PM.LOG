@@ -1,0 +1,92 @@
+Added Component: Designator=C2(SMD_0805)
+Added Component: Designator=C27(SMD_0805)
+Added Component: Designator=C32(SMD_CAP_3216)
+Added Component: Designator=C33(SMD_0805)
+Added Component: Designator=C34(SMD_0805)
+Added Component: Designator=C37(SMD_0805)
+Added Component: Designator=C38(SMD_0805)
+Added Component: Designator=C39(SMD_0805)
+Added Component: Designator=C40(SMD_0805)
+Added Component: Designator=C41(SMD_0805)
+Added Component: Designator=C42(SMD_0805)
+Added Component: Designator=C43(SMD_0805)
+Added Component: Designator=C44(SMD_CAP_3216)
+Added Component: Designator=C45(SMD_CAP_3216)
+Added Component: Designator=C47(SMD_0805)
+Added Component: Designator=C50(SMD_0805)
+Added Component: Designator=C51(SMD_0805)
+Added Component: Designator=C52(SMD_0805)
+Added Component: Designator=P3(HDR2X5)
+Added Component: Designator=U10(SMD_SOT23_5)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=VCC Pin=C27-2
+Added Pin To Net: NetName=VCC Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=VCC Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=VCC Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=VCC Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=VCC Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=VCC Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=VCC Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=VCC Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=VCC Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=VCC Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=VCC Pin=C52-2
+Added Pin To Net: NetName=TCK Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=TDO Pin=P3-3
+Added Pin To Net: NetName=VCC Pin=P3-4
+Added Pin To Net: NetName=TMS Pin=P3-5
+Added Pin To Net: NetName=TDI Pin=P3-9
+Added Pin To Net: NetName=GND Pin=P3-10
+Added Pin To Net: NetName=VCC Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=+CLK_100 Pin=U10-3
+Added Pin To Net: NetName=-CLK_100 Pin=U10-4
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=C41-2
+Added Pin To Net: NetName=NetC40_2 Pin=C42-2
+Added Pin To Net: NetName=NetC40_2 Pin=C43-2
+Added Pin To Net: NetName=NetC40_2 Pin=C45-1
+Added Pin To Net: NetName=NetC40_2 Pin=U14-19
+Added Pin To Net: NetName=NetC40_2 Pin=U14-56
+Added Pin To Net: NetName=NetC40_2 Pin=U14-90
+Added Pin To Net: NetName=NetC40_2 Pin=U14-126
+Added Net: Name=NetC40_2
+Added Member To Class: ClassName=CPLD  Member=Component C2 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C27 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C32 15V
+Added Member To Class: ClassName=CPLD  Member=Component C33 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C34 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C37 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C38 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C39 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C40 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C41 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C42 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C43 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C44 15V
+Added Member To Class: ClassName=CPLD  Member=Component C45 15V
+Added Member To Class: ClassName=CPLD  Member=Component C47 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C50 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C51 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component C52 Cap SMD
+Added Member To Class: ClassName=CPLD  Member=Component P3 Header 5X2
+Added Member To Class: ClassName=CPLD  Member=Component U10 FIN1002M5

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RTD_CB(+) Pin=J2-aa
+Removed Pin From Net: NetName=COLDBLK(+) Pin=J2-bb
+Removed Pin From Net: NetName=COLDBLK(-) Pin=J2-cc
+Removed Pin From Net: NetName=RTD_CB(-) Pin=J2-Z
+Added Pin To Net: NetName=RTD_CB(-) Pin=J2-bb
+Added Pin To Net: NetName=RTD_CB(+) Pin=J2-H

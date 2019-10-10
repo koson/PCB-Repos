@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=A Pin=U11-2
+Removed Pin From Net: NetName=DAC_VRD Pin=U11-3
+Removed Pin From Net: NetName=A Pin=U18-2
+Added Component: Designator=C45(SMD_0805)
+Added Component: Designator=R48(SMD_0805)
+Added Pin To Net: NetName=A Pin=C45-1
+Added Pin To Net: NetName=DAC_VRD Pin=R48-1
+Added Pin To Net: NetName=-5ANA Pin=U11-2
+Added Pin To Net: NetName=-5ANA Pin=U18-2
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=R48-2
+Added Pin To Net: NetName=NetC45_2 Pin=U11-3
+Added Net: Name=NetC45_2
+Added Member To Class: ClassName=Bias Voltages Member=Component C45 Cap SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component R48 Res 0805

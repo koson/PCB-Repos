@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ADC_DAT0 Pin=J5-24
+Removed Pin From Net: NetName=ADC_DAT1 Pin=J5-26
+Removed Pin From Net: NetName=ADC_DAT2 Pin=J5-28
+Removed Pin From Net: NetName=ADC_DAT3 Pin=J5-30
+Removed Pin From Net: NetName=ADC_DAT4 Pin=J5-34
+Removed Pin From Net: NetName=ADC_DAT5 Pin=J5-36
+Removed Pin From Net: NetName=ADC_DAT6 Pin=J5-38
+Removed Pin From Net: NetName=ADC_DAT7 Pin=J5-40
+Added Pin To Net: NetName=ADC_DAT7 Pin=J5-24
+Added Pin To Net: NetName=ADC_DAT6 Pin=J5-26
+Added Pin To Net: NetName=ADC_DAT5 Pin=J5-28
+Added Pin To Net: NetName=ADC_DAT4 Pin=J5-30
+Added Pin To Net: NetName=ADC_DAT3 Pin=J5-34
+Added Pin To Net: NetName=ADC_DAT2 Pin=J5-36
+Added Pin To Net: NetName=ADC_DAT1 Pin=J5-38
+Added Pin To Net: NetName=ADC_DAT0 Pin=J5-40

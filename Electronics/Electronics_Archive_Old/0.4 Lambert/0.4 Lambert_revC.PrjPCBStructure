@@ -1,0 +1,18 @@
+Record=SheetSymbol|SourceDocument=Top_Level_IO_revC.SchDoc|Designator=BlackFin --> CPLD/Stepper Motor Drive|SchDesignator=BlackFin --> CPLD/Stepper Motor Drive|FileName=Blackfin_revC.SchDoc|SymbolType=Normal|RawFileName=Blackfin_revC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Level_IO_revC.SchDoc|Designator=LED Drive|SchDesignator=LED Drive|FileName=LED_Drive_RevC.SchDoc|SymbolType=Normal|RawFileName=LED_Drive_RevC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Level_IO_revC.SchDoc|Designator=Power Supplies|SchDesignator=Power Supplies|FileName=Power Input_revC.SchDoc|SymbolType=Normal|RawFileName=Power Input_revC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SubProject|ProjectPath=Point4_Lambert_PLD_Project.PrjFpg
+Record=SheetSymbol|SourceDocument=Blackfin_revC.SchDoc|Designator=Schematic for PLD program|SchDesignator=Schematic for PLD program|FileName=FPGA_U1_Auto_revC.SchDoc|SymbolType=Normal|RawFileName=FPGA_U1_Auto_revC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Blackfin_revC.SchDoc|Designator=Stepper Motor Driver IC|SchDesignator=Stepper Motor Driver IC|FileName=Stepper_Motor_Drive_revC.SchDoc|SymbolType=Normal|RawFileName=Stepper_Motor_Drive_revC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Top_Level_IO_revC.SchDoc
+Record=FPGA_COMPONENT|BaseComponentDesignator=U1|DocumentName=FPGA_U1_Auto_revC.SchDoc|LibraryReference=XCR3128XL-10VQ100C|SubProjectPath=Point4_Lambert_PLD_Project.PrjFpg|Configuration=Lambert_CPLD|Description=CoolRunner XPLA3, 3.3V, 128 Macrocell CPLD, 100-Pin VQFP, Commercial Grade|NexusDeviceId=XCR3128XL-10VQ100C|SubPartUniqueId1=GAMUMAPQ|SubPartDocPath1=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId2=BTXGNEIL|SubPartDocPath2=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId3=ESGBOQVJ|SubPartDocPath3=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId4=UHQWSHPN|SubPartDocPath4=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId5=TLKRXALF|SubPartDocPath5=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId6=CJKBNWOR|SubPartDocPath6=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId7=GCTEOKAL|SubPartDocPath7=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId8=HSLXKDRL|SubPartDocPath8=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId9=XOXMHJAC|SubPartDocPath9=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId10=WFXVATBB|SubPartDocPath10=FPGA_U1_Auto_revC.SchDoc|SubPartUniqueId11=JYNIJFYL|SubPartDocPath11=FPGA_U1_Auto_revC.SchDoc

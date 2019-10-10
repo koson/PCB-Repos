@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=A Pin=C5-1
+Removed Pin From Net: NetName=A Pin=C9-1
+Removed Pin From Net: NetName=A Pin=C15-1
+Removed Pin From Net: NetName=A Pin=C22-1
+Removed Pin From Net: NetName=A Pin=U4-4
+Removed Pin From Net: NetName=A Pin=U4-7
+Removed Pin From Net: NetName=A Pin=U8-4
+Removed Pin From Net: NetName=A Pin=U8-7
+Added Pin To Net: NetName=+12V Pin=C5-1
+Added Pin To Net: NetName=-12V Pin=C9-1
+Added Pin To Net: NetName=+12V Pin=C15-1
+Added Pin To Net: NetName=-12V Pin=C22-1
+Added Pin To Net: NetName=-12V Pin=U4-4
+Added Pin To Net: NetName=+12V Pin=U4-7
+Added Pin To Net: NetName=-12V Pin=U8-4
+Added Pin To Net: NetName=+12V Pin=U8-7

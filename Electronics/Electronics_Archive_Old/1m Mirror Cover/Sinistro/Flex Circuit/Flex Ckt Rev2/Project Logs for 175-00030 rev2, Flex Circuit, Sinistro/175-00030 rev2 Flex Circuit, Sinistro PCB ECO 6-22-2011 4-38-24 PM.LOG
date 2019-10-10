@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RTD_CB(+) Pin=RTD5-1
+Removed Pin From Net: NetName=RTD_CB(-) Pin=RTD5-2
+Added Pin To Net: NetName=RTD_CB(-) Pin=RTD5-1
+Added Pin To Net: NetName=RTD_CB(+) Pin=RTD5-2

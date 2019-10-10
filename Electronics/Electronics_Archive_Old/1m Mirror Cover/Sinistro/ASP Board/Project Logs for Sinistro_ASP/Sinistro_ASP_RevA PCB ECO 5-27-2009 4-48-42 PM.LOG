@@ -1,0 +1,10 @@
+Added Component: Designator=Q1(SMD_SOT23_3)
+Added Component: Designator=U15(SMD_SOT23_3)
+Added Pin To Net: NetName=ASP_SEL_N Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=S_WIRED_1 Pin=J5-45
+Added Pin To Net: NetName=S_WIRED_1 Pin=U15-1
+Added Net: Name=S_WIRED_1
+Added Member To Class: ClassName=CPLD Member=Component Q1 FDV304P
+Added Member To Class: ClassName=CPLD Member=Component U15 DS2411

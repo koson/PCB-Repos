@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=780-00034 rev2 Flex Circuit, Sinistro New Net Name=780-00034 rev3 Flex Circuit, Sinistro
+Change Room Name: Old Name=780-00034 rev2 Flex Circuit, Sinistro New Name=780-00034 rev3 Flex Circuit, Sinistro
+Change Room Scope: Old Scope=InComponentClass('780-00034 rev2 Flex Circuit, Sinistro') New Scope=InComponentClass('780-00034 rev3 Flex Circuit, Sinistro')

@@ -1,0 +1,196 @@
+Removed Pin From Net: NetName=PWM_IR_LOAD Pin=P?-1
+Removed Pin From Net: NetName=PWM_UV_LOAD Pin=P?-3
+Removed Pin From Net: NetName=UV_STRIP Pin=P?-6
+Removed Pin From Net: NetName=PWM_IR_EN Pin=P?-7
+Removed Pin From Net: NetName=IR/~UV_STATUS Pin=P?-8
+Removed Pin From Net: NetName=PWM_UV_EN Pin=P?-9
+Removed Pin From Net: NetName=PWM_WHT_EN Pin=P?-11
+Removed Pin From Net: NetName=H_BRIDGE_ERR Pin=P?-13
+Removed Pin From Net: NetName=IR/~UV_STATUS Pin=TP?-1
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=LED Drive Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Power Supplies Member=TP?
+Removed Member From Class: ClassName=Stepper Motor Driver IC Member=TP?
+Removed Member From Class: ClassName=Stepper Motor Driver IC Member=TP?
+Removed Member From Class: ClassName=Stepper Motor Driver IC Member=TP?
+Removed Member From Class: ClassName=Stepper Motor Driver IC Member=TP?
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Change Component Designator: OldDesignator=TP? NewDesignator=TP5
+Change Component Designator: OldDesignator=TP? NewDesignator=TP6
+Change Component Designator: OldDesignator=TP? NewDesignator=TP7
+Change Component Designator: OldDesignator=TP? NewDesignator=TP8
+Change Component Designator: OldDesignator=TP? NewDesignator=TP9
+Change Component Designator: OldDesignator=TP? NewDesignator=TP10
+Change Component Designator: OldDesignator=TP? NewDesignator=TP11
+Change Component Designator: OldDesignator=TP? NewDesignator=TP12
+Change Component Designator: OldDesignator=TP? NewDesignator=TP13
+Change Component Designator: OldDesignator=TP? NewDesignator=TP14
+Change Component Designator: OldDesignator=TP? NewDesignator=TP15
+Change Component Designator: OldDesignator=TP? NewDesignator=TP16
+Change Component Designator: OldDesignator=TP? NewDesignator=TP17
+Change Component Designator: OldDesignator=TP? NewDesignator=TP18
+Change Component Designator: OldDesignator=TP? NewDesignator=TP19
+Change Component Designator: OldDesignator=TP? NewDesignator=TP20
+Change Component Designator: OldDesignator=TP? NewDesignator=TP21
+Change Component Designator: OldDesignator=TP? NewDesignator=TP22
+Change Component Designator: OldDesignator=TP? NewDesignator=TP23
+Change Component Designator: OldDesignator=TP? NewDesignator=TP24
+Change Component Designator: OldDesignator=TP? NewDesignator=TP25
+Change Component Designator: OldDesignator=TP? NewDesignator=TP26
+Change Component Designator: OldDesignator=TP? NewDesignator=TP27
+Change Component Designator: OldDesignator=TP? NewDesignator=TP28
+Change Component Designator: OldDesignator=TP? NewDesignator=TP29
+Change Component Designator: OldDesignator=TP? NewDesignator=TP30
+Change Component Designator: OldDesignator=TP? NewDesignator=TP31
+Change Component Designator: OldDesignator=TP? NewDesignator=TP32
+Change Component Designator: OldDesignator=TP? NewDesignator=TP33
+Change Component Designator: OldDesignator=TP? NewDesignator=TP34
+Change Component Designator: OldDesignator=TP? NewDesignator=TP35
+Change Component Designator: OldDesignator=TP? NewDesignator=TP36
+Change Component Designator: OldDesignator=TP? NewDesignator=TP37
+Change Component Designator: OldDesignator=TP? NewDesignator=TP38
+Change Component Designator: OldDesignator=TP? NewDesignator=TP39
+Change Component Designator: OldDesignator=TP? NewDesignator=TP40
+Change Component Designator: OldDesignator=TP? NewDesignator=TP41
+Change Component Designator: OldDesignator=TP? NewDesignator=TP42
+Change Component Designator: OldDesignator=TP? NewDesignator=TP43
+Added Pin To Net: NetName=PWM_IR_LOAD Pin=P2-1
+Added Pin To Net: NetName=PWM_UV_LOAD Pin=P2-3
+Added Pin To Net: NetName=PWM_WHT_LOAD Pin=P2-5
+Added Pin To Net: NetName=UV_STRIP Pin=P2-6
+Added Pin To Net: NetName=PWM_IR_EN Pin=P2-7
+Added Pin To Net: NetName=IR/~UV_STATUS Pin=P2-8
+Added Pin To Net: NetName=PWM_UV_EN Pin=P2-9
+Added Pin To Net: NetName=PWM_WHT_EN Pin=P2-11
+Added Pin To Net: NetName=H_BRIDGE_ERR Pin=P2-13
+Added Pin To Net: NetName=DC_DIRECTION Pin=P2-15
+Added Pin To Net: NetName=DC_START Pin=P2-17
+Added Pin To Net: NetName=OK_TO_MOVE Pin=P2-19
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=TMS Pin=P6-6
+Added Pin To Net: NetName=GND Pin=P6-7
+Added Pin To Net: NetName=TCK Pin=P6-8
+Added Pin To Net: NetName=GND Pin=P6-9
+Added Pin To Net: NetName=GND Pin=P6-11
+Added Pin To Net: NetName=GND Pin=P6-13
+Added Pin To Net: NetName=IR/~UV_STATUS Pin=TP1-1
+Added Pin To Net: NetName=UV/IR_HIGH_SIDE Pin=TP2-1
+Added Pin To Net: NetName=IR_STRIP Pin=TP4-1
+Added Pin To Net: NetName=IR_HIGH_SIDE Pin=TP5-1
+Added Pin To Net: NetName=UV_LOW_SIDE Pin=TP6-1
+Added Pin To Net: NetName=UV_HIGH_SIDE Pin=TP7-1
+Added Pin To Net: NetName=IR_LOW_SIDE Pin=TP8-1
+Added Pin To Net: NetName=PWM_IR_OUT Pin=TP9-1
+Added Pin To Net: NetName=PWM_UV_OUT Pin=TP10-1
+Added Pin To Net: NetName=WHITE_HIGH_SIDE Pin=TP11-1
+Added Pin To Net: NetName=WHITE_LOW_SIDE Pin=TP12-1
+Added Pin To Net: NetName=SCL Pin=TP13-1
+Added Pin To Net: NetName=SDA Pin=TP14-1
+Added Pin To Net: NetName=PWM_WHT_OUT Pin=TP15-1
+Added Pin To Net: NetName=NetTP?_1 Pin=TP16-1
+Added Pin To Net: NetName=TEMP_OUT Pin=TP17-1
+Added Pin To Net: NetName=VCC Pin=TP18-1
+Added Pin To Net: NetName=24V_INPUT Pin=TP19-1
+Added Pin To Net: NetName=NetD6_1 Pin=TP20-1
+Added Pin To Net: NetName=24V Pin=TP21-1
+Added Pin To Net: NetName=5V Pin=TP22-1
+Added Pin To Net: NetName=+5ANA Pin=TP23-1
+Added Pin To Net: NetName=NetC35_2 Pin=TP24-1
+Added Pin To Net: NetName=GND Pin=TP25-1
+Added Pin To Net: NetName=GND Pin=TP26-1
+Added Pin To Net: NetName=GND Pin=TP27-1
+Added Pin To Net: NetName=GND Pin=TP28-1
+Added Pin To Net: NetName=GND Pin=TP29-1
+Added Pin To Net: NetName=GND Pin=TP30-1
+Added Pin To Net: NetName=GND Pin=TP31-1
+Added Pin To Net: NetName=STEP Pin=TP32-1
+Added Pin To Net: NetName=DIRECTION Pin=TP33-1
+Added Pin To Net: NetName=~HOME Pin=TP34-1
+Added Pin To Net: NetName=ENABLE Pin=TP35-1
+Added Pin To Net: NetName=LIGHTBAR+ Pin=TP36-1
+Added Pin To Net: NetName=LIGHTBAR- Pin=TP37-1
+Added Pin To Net: NetName=~RA_AXIS_OK Pin=TP38-1
+Added Pin To Net: NetName=DEC_AXIS_OK Pin=TP39-1
+Added Pin To Net: NetName=IN1 Pin=TP40-1
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=TP41-1
+Added Pin To Net: NetName=IN2 Pin=TP42-1
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=TP43-1
+Change Net Name : Old Net Name=NetP?_5 New Net Name=NetP6_5
+Change Net Name : Old Net Name=NetTP?_1 New Net Name=NetTP16_1
+Added Member To Class: ClassName=BlackFin --> CPLD/Stepper Motor Drive Member=Component P6 Header 7X2
+Added Member To Class: ClassName=LED Drive Member=Component TP1 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP2 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP3 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP4 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP5 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP6 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP7 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP8 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP9 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP10 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP11 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP12 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP13 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP14 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP15 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP16 Test Point SMD
+Added Member To Class: ClassName=LED Drive Member=Component TP17 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP18 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP19 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP20 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP21 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP22 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP23 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP24 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP25 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP26 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP27 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP28 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP29 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP30 Test Point SMD
+Added Member To Class: ClassName=Power Supplies Member=Component TP31 Test Point SMD
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component TP32 Test Point SMD
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component TP33 Test Point SMD
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component TP34 Test Point SMD
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component TP35 Test Point SMD
+Added Member To Class: ClassName=Top_Level_IO Member=Component TP36 Test Point SMD
+Added Member To Class: ClassName=Top_Level_IO Member=Component TP37 Test Point SMD
+Added Member To Class: ClassName=Top_Level_IO Member=Component TP38 Test Point SMD
+Added Member To Class: ClassName=Top_Level_IO Member=Component TP40 Test Point SMD
+Added Member To Class: ClassName=Top_Level_IO Member=Component TP41 Test Point SMD
+Added Member To Class: ClassName=Top_Level_IO Member=Component TP42 Test Point SMD
+Added Member To Class: ClassName=Top_Level_IO Member=Component TP43 Test Point SMD

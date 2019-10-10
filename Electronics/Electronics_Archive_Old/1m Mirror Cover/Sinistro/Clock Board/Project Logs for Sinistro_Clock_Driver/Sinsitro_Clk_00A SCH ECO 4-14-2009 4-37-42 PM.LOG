@@ -1,0 +1,6 @@
+Change Pin Designator/Name:  Old Designator=U16-24 Old Name=OUT6 New Designator =OUT7 New Name=25
+Change Pin Designator/Name:  Old Designator=U16-25 Old Name=OUT7 New Designator =OUT6 New Name=24
+Change Pin Designator/Name:  Old Designator=U16-33 Old Name=AIN0 New Designator =REF2/AIN14 New Name=48
+Change Pin Designator/Name:  Old Designator=U16-38 Old Name=AIN4 New Designator =AIN12 New Name=46
+Change Pin Designator/Name:  Old Designator=U16-46 Old Name=AIN12 New Designator =AIN0 New Name=33
+Change Pin Designator/Name:  Old Designator=U16-48 Old Name=REF2/AIN14 New Designator =AIN4 New Name=38

@@ -1,0 +1,12 @@
+Added Component: Designator=C1(SMD_0805)
+Added Component: Designator=C2(SMD_0805)
+Added Component: Designator=C3(SMD_0805)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VOD Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VRD Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VDD Pin=C3-2
+Added Member To Class: ClassName=CCD Socket Member=Component C1 Cap SMD
+Added Member To Class: ClassName=CCD Socket Member=Component C2 Cap SMD
+Added Member To Class: ClassName=CCD Socket Member=Component C3 Cap SMD

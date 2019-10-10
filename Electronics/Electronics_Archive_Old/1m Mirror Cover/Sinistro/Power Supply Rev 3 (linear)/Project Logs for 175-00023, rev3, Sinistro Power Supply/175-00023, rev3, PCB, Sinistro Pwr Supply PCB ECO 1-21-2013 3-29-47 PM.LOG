@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=~CS_SLOT Pin=P1-4
+Removed Pin From Net: NetName=NetFER3_2 Pin=P1-5
+Added Pin To Net: NetName=~CS_SLOT Pin=P1-9
+Added Pin To Net: NetName=NetFER3_2 Pin=P1-10
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=U1-5
+Added Net: Name=NetP1_5

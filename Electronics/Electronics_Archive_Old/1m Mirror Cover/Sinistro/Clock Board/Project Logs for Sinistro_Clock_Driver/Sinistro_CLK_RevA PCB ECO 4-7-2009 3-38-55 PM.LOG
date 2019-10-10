@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+12V Pin=C9A-1
+Removed Pin From Net: NetName=+12V Pin=C9B-1
+Removed Pin From Net: NetName=+12V Pin=C9C-1
+Removed Pin From Net: NetName=+12V Pin=C9D-1
+Removed Pin From Net: NetName=+12V Pin=C9E-1
+Removed Pin From Net: NetName=+12V Pin=C9F-1
+Removed Pin From Net: NetName=+12V Pin=R12A-2
+Removed Pin From Net: NetName=+12V Pin=R12B-2
+Removed Pin From Net: NetName=+12V Pin=R12C-2
+Removed Pin From Net: NetName=+12V Pin=R12D-2
+Removed Pin From Net: NetName=+12V Pin=R12E-2
+Removed Pin From Net: NetName=+12V Pin=R12F-2
+Removed Pin From Net: NetName=+12V Pin=U8A-6
+Removed Pin From Net: NetName=+12V Pin=U8B-6
+Removed Pin From Net: NetName=+12V Pin=U8C-6
+Removed Pin From Net: NetName=+12V Pin=U8D-6
+Removed Pin From Net: NetName=+12V Pin=U8E-6
+Removed Pin From Net: NetName=+12V Pin=U8F-6
+Added Pin To Net: NetName=VREFHI1 Pin=C9A-1
+Added Pin To Net: NetName=VREFHI2 Pin=C9B-1
+Added Pin To Net: NetName=VREFHI3 Pin=C9C-1
+Added Pin To Net: NetName=VREFHI4 Pin=C9D-1
+Added Pin To Net: NetName=VREFHI5 Pin=C9E-1
+Added Pin To Net: NetName=VREFHI6 Pin=C9F-1
+Added Pin To Net: NetName=VREFHI1 Pin=R12A-2
+Added Pin To Net: NetName=VREFHI2 Pin=R12B-2
+Added Pin To Net: NetName=VREFHI3 Pin=R12C-2
+Added Pin To Net: NetName=VREFHI4 Pin=R12D-2
+Added Pin To Net: NetName=VREFHI5 Pin=R12E-2
+Added Pin To Net: NetName=VREFHI6 Pin=R12F-2
+Added Pin To Net: NetName=VREFHI1 Pin=U8A-6
+Added Pin To Net: NetName=VREFHI2 Pin=U8B-6
+Added Pin To Net: NetName=VREFHI3 Pin=U8C-6
+Added Pin To Net: NetName=VREFHI4 Pin=U8D-6
+Added Pin To Net: NetName=VREFHI5 Pin=U8E-6
+Added Pin To Net: NetName=VREFHI6 Pin=U8F-6
+Change Net Name : Old Net Name=NetQ1A_4 New Net Name=Q1_CA
+Change Net Name : Old Net Name=NetQ1B_4 New Net Name=Q1_CB
+Change Net Name : Old Net Name=NetQ1C_4 New Net Name=Q1_CC
+Change Net Name : Old Net Name=NetQ1D_4 New Net Name=Q1_CD
+Change Net Name : Old Net Name=NetQ1E_4 New Net Name=Q1_CE
+Change Net Name : Old Net Name=NetQ1F_4 New Net Name=Q1_CF

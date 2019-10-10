@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5VANA Pin=C58-1
+Removed Pin From Net: NetName=+5VANA Pin=J5-PC03
+Added Pin To Net: NetName=VCC Pin=C29A-2
+Added Pin To Net: NetName=VCC Pin=C29B-2
+Added Pin To Net: NetName=VCC Pin=C29C-2
+Added Pin To Net: NetName=VCC Pin=C29D-2
+Added Pin To Net: NetName=VCC Pin=C30A-1
+Added Pin To Net: NetName=VCC Pin=C30B-1
+Added Pin To Net: NetName=VCC Pin=C30C-1
+Added Pin To Net: NetName=VCC Pin=C30D-1
+Added Pin To Net: NetName=-5ANA Pin=C53-2
+Added Pin To Net: NetName=+5ANA Pin=C58-1
+Added Pin To Net: NetName=+5ANA Pin=J5-PC03
+Added Pin To Net: NetName=-5ANA Pin=J5-PC04

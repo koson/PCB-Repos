@@ -1,0 +1,169 @@
+Removed Parameter Code_IPC:SOIC127P600-8 from Part U4
+Removed Parameter Code_IPC:SOIC127P600-8 from Part U8
+Removed Parameter Code_JEDEC:MS-012-AA from Part U4
+Removed Parameter Code_JEDEC:MS-012-AA from Part U8
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U4
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U8
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U4
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U8
+Removed Parameter ComponentLink2Description:Datasheet from Part U4
+Removed Parameter ComponentLink2Description:Datasheet from Part U8
+Removed Parameter ComponentLink2URL:http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1009,C1026,P1213,D2204 from Part U4
+Removed Parameter ComponentLink2URL:http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1009,C1026,P1213,D2204 from Part U8
+Removed Parameter DatasheetVersion:Feb-1997 from Part U4
+Removed Parameter DatasheetVersion:Feb-1997 from Part U8
+Removed Parameter LatestRevisionDate:13-Apr-2006 from Part U4
+Removed Parameter LatestRevisionDate:13-Apr-2006 from Part U8
+Removed Parameter LatestRevisionNote:IPC-7351 Footprint Added. from Part U4
+Removed Parameter LatestRevisionNote:IPC-7351 Footprint Added. from Part U8
+Removed Parameter Note:118 from Part U4
+Removed Parameter Note:118 from Part U8
+Removed Parameter PackageDescription:8-Pin Small Outline Integrated Circuit 1.27 mm Pitch from Part U4
+Removed Parameter PackageDescription:8-Pin Small Outline Integrated Circuit 1.27 mm Pitch from Part U8
+Removed Parameter PackageReference:S8 from Part U4
+Removed Parameter PackageReference:S8 from Part U8
+Removed Parameter Published:8-Jun-2000 from Part U4
+Removed Parameter Published:8-Jun-2000 from Part U8
+Removed Parameter Publisher:Altium Limited from Part U4
+Removed Parameter Publisher:Altium Limited from Part U8
+Added Parameter Arena Prefix= to Part C4
+Added Parameter Arena Prefix= to Part C10
+Added Parameter Arena Prefix= to Part C14
+Added Parameter Arena Prefix= to Part C18
+Added Parameter Arena Prefix= to Part C19
+Added Parameter Arena Prefix= to Part C20
+Added Parameter Arena Prefix= to Part C21
+Added Parameter Arena Prefix= to Part C23
+Added Parameter Arena Prefix= to Part C24
+Added Parameter Arena Prefix= to Part C25
+Added Parameter Arena Prefix= to Part C26
+Added Parameter Arena Prefix= to Part D1
+Added Parameter Arena Prefix= to Part D2
+Added Parameter Arena Prefix= to Part D3
+Added Parameter Arena Prefix= to Part D4
+Added Parameter Arena Prefix= to Part D5
+Added Parameter Arena Prefix= to Part D6
+Added Parameter Arena Prefix= to Part D7
+Added Parameter Arena Prefix= to Part D8
+Added Parameter Arena Prefix= to Part P4
+Added Parameter Arena Prefix= to Part P4
+Added Parameter Arena Prefix= to Part P4
+Added Parameter Arena Prefix= to Part P4
+Added Parameter Arena Prefix= to Part P4
+Added Parameter Arena Prefix= to Part P5
+Added Parameter Arena Prefix= to Part P5
+Added Parameter Arena Prefix= to Part P5
+Added Parameter Arena Prefix= to Part P5
+Added Parameter Arena Prefix= to Part P5
+Added Parameter Arena Prefix= to Part P6
+Added Parameter Arena Prefix= to Part P6
+Added Parameter Arena Prefix= to Part P6
+Added Parameter Arena Prefix= to Part P6
+Added Parameter Arena Prefix= to Part P6
+Added Parameter Arena Prefix= to Part P7
+Added Parameter Arena Prefix= to Part P7
+Added Parameter Arena Prefix= to Part P7
+Added Parameter Arena Prefix= to Part P7
+Added Parameter Arena Prefix= to Part P7
+Added Parameter Arena Prefix= to Part Q2
+Added Parameter Arena Prefix= to Part Q4
+Added Parameter Arena Prefix= to Part R2
+Added Parameter Arena Prefix= to Part R10
+Added Parameter Arena Prefix= to Part TP1
+Added Parameter Arena Prefix= to Part TP2
+Added Parameter Arena Prefix= to Part U1
+Added Parameter Arena Prefix= to Part U2
+Added Parameter Arena Prefix= to Part U4
+Added Parameter Arena Prefix= to Part U5
+Added Parameter Arena Prefix= to Part U6
+Added Parameter Arena Prefix= to Part U7
+Added Parameter Arena Prefix= to Part U8
+Added Parameter Arena Prefix= to Part U9
+Added Parameter Arena Type= to Part C18
+Added Parameter Arena Type= to Part C19
+Added Parameter Arena Type= to Part C20
+Added Parameter Arena Type= to Part C21
+Added Parameter Arena Type= to Part C24
+Added Parameter Arena Type= to Part C25
+Added Parameter Arena Type= to Part C26
+Added Parameter Arena Type= to Part D3
+Added Parameter Arena Type= to Part D4
+Added Parameter Arena Type= to Part D5
+Added Parameter Arena Type= to Part D6
+Added Parameter Arena Type= to Part D7
+Added Parameter Arena Type= to Part D8
+Added Parameter Arena Type= to Part P4
+Added Parameter Arena Type= to Part P4
+Added Parameter Arena Type= to Part P4
+Added Parameter Arena Type= to Part P4
+Added Parameter Arena Type= to Part P4
+Added Parameter Arena Type= to Part P5
+Added Parameter Arena Type= to Part P5
+Added Parameter Arena Type= to Part P5
+Added Parameter Arena Type= to Part P5
+Added Parameter Arena Type= to Part P5
+Added Parameter Arena Type= to Part P6
+Added Parameter Arena Type= to Part P6
+Added Parameter Arena Type= to Part P6
+Added Parameter Arena Type= to Part P6
+Added Parameter Arena Type= to Part P6
+Added Parameter Arena Type= to Part P7
+Added Parameter Arena Type= to Part P7
+Added Parameter Arena Type= to Part P7
+Added Parameter Arena Type= to Part P7
+Added Parameter Arena Type= to Part P7
+Added Parameter Arena Type= to Part U1
+Added Parameter Arena Type= to Part U2
+Added Parameter Arena Type= to Part U4
+Added Parameter Arena Type= to Part U6
+Added Parameter Arena Type= to Part U7
+Added Parameter Arena Type= to Part U8
+Added Parameter COST= to Part U4
+Added Parameter COST= to Part U8
+Added Parameter LCO p/n= to Part C18
+Added Parameter LCO p/n= to Part C19
+Added Parameter LCO p/n= to Part C20
+Added Parameter LCO p/n= to Part C21
+Added Parameter LCO p/n= to Part C24
+Added Parameter LCO p/n= to Part C25
+Added Parameter LCO p/n= to Part C26
+Added Parameter LCO p/n= to Part D3
+Added Parameter LCO p/n= to Part D4
+Added Parameter LCO p/n= to Part D5
+Added Parameter LCO p/n= to Part D6
+Added Parameter LCO p/n= to Part D7
+Added Parameter LCO p/n= to Part D8
+Added Parameter LCO p/n= to Part P4
+Added Parameter LCO p/n= to Part P4
+Added Parameter LCO p/n= to Part P4
+Added Parameter LCO p/n= to Part P4
+Added Parameter LCO p/n= to Part P4
+Added Parameter LCO p/n= to Part P5
+Added Parameter LCO p/n= to Part P5
+Added Parameter LCO p/n= to Part P5
+Added Parameter LCO p/n= to Part P5
+Added Parameter LCO p/n= to Part P5
+Added Parameter LCO p/n= to Part P6
+Added Parameter LCO p/n= to Part P6
+Added Parameter LCO p/n= to Part P6
+Added Parameter LCO p/n= to Part P6
+Added Parameter LCO p/n= to Part P6
+Added Parameter LCO p/n= to Part P7
+Added Parameter LCO p/n= to Part P7
+Added Parameter LCO p/n= to Part P7
+Added Parameter LCO p/n= to Part P7
+Added Parameter LCO p/n= to Part P7
+Added Parameter LCO p/n= to Part U4
+Added Parameter LCO p/n= to Part U8
+Added Parameter Manufacturer= to Part U4
+Added Parameter Manufacturer= to Part U8
+Added Parameter Manuf p/n= to Part U4
+Added Parameter Manuf p/n= to Part U8
+Added Parameter VALUE= to Part U4
+Added Parameter VALUE= to Part U8
+Added Parameter Vendor= to Part U4
+Added Parameter Vendor= to Part U8
+Added Parameter Vendor Mult.= to Part U4
+Added Parameter Vendor Mult.= to Part U8
+Added Parameter Vendor p/n= to Part U4
+Added Parameter Vendor p/n= to Part U8

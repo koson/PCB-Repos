@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=TP6 Old DesignItemId=Test Point SMD New DesignItemId=Test point
+Change Component Footprint: Designator=TP6 Old Footprint=SMD_TEST POINT New Footprint=PAD_80D_052H
+Change Component Comment : Designator=TP6 Old Comment=Test Point SMD New Comment=Test point

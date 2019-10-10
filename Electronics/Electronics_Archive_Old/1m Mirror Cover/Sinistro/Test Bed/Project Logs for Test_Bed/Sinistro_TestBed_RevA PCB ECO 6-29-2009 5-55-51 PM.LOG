@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPARE _INPUT_1 Pin=J1-5
+Removed Member From Class: ClassName=ASP BRD #2 Member=TP20
+Removed Member From Class: ClassName=CLK BRD #1 Member=TP32
+Removed Member From Class: ClassName=CLK BRD #2 Member=TP33

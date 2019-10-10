@@ -1,0 +1,145 @@
+Added Component: Designator=C33(SMD_0805)
+Added Component: Designator=C34(SMD_0805)
+Added Component: Designator=C35(SMD_0805)
+Added Component: Designator=C36(SMD_0805)
+Added Component: Designator=U13(QFN48_M)
+Added Component: Designator=U16(QFN48_M)
+Added Pin To Net: NetName=A Pin=C33-1
+Added Pin To Net: NetName=+5ANA Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=VCC Pin=C34-2
+Added Pin To Net: NetName=A Pin=C35-1
+Added Pin To Net: NetName=+5ANA Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=VCC Pin=C36-2
+Added Pin To Net: NetName=MON_LO4 Pin=U13-1
+Added Pin To Net: NetName=NetU13_2 Pin=U13-2
+Added Pin To Net: NetName=NetU13_2 Pin=U13-4
+Added Pin To Net: NetName=VCC Pin=U13-7
+Added Pin To Net: NetName=GND Pin=U13-8
+Added Pin To Net: NetName=SCLK Pin=U13-10
+Added Pin To Net: NetName=SIMO Pin=U13-11
+Added Pin To Net: NetName=DAC_HI1 Pin=U13-12
+Added Pin To Net: NetName=DAC_LO1 Pin=U13-13
+Added Pin To Net: NetName=DAC_HI2 Pin=U13-14
+Added Pin To Net: NetName=DAC_LO2 Pin=U13-15
+Added Pin To Net: NetName=+5ANA Pin=U13-18
+Added Pin To Net: NetName=A Pin=U13-19
+Added Pin To Net: NetName=DAC_HI3 Pin=U13-22
+Added Pin To Net: NetName=DAC_LO3 Pin=U13-23
+Added Pin To Net: NetName=DAC_HI4 Pin=U13-24
+Added Pin To Net: NetName=DAC_LO4 Pin=U13-25
+Added Pin To Net: NetName=LOAD_MAX2_N Pin=U13-26
+Added Pin To Net: NetName=SEL_MAX1_N Pin=U13-27
+Added Pin To Net: NetName=GND Pin=U13-28
+Added Pin To Net: NetName=MON_HI1 Pin=U13-33
+Added Pin To Net: NetName=A Pin=U13-34
+Added Pin To Net: NetName=A Pin=U13-36
+Added Pin To Net: NetName=MON_LO1 Pin=U13-37
+Added Pin To Net: NetName=MON_HI2 Pin=U13-38
+Added Pin To Net: NetName=A Pin=U13-39
+Added Pin To Net: NetName=A Pin=U13-40
+Added Pin To Net: NetName=MON_LO2 Pin=U13-41
+Added Pin To Net: NetName=MON_HI3 Pin=U13-42
+Added Pin To Net: NetName=A Pin=U13-43
+Added Pin To Net: NetName=A Pin=U13-44
+Added Pin To Net: NetName=MON_LO3 Pin=U13-45
+Added Pin To Net: NetName=MON_HI4 Pin=U13-46
+Added Pin To Net: NetName=A Pin=U13-47
+Added Pin To Net: NetName=A Pin=U13-48
+Added Pin To Net: NetName=A Pin=U16-1
+Added Pin To Net: NetName=NetU16_2 Pin=U16-2
+Added Pin To Net: NetName=BIAS_V_ON Pin=U16-3
+Added Pin To Net: NetName=NetU16_2 Pin=U16-4
+Added Pin To Net: NetName=VCC Pin=U16-7
+Added Pin To Net: NetName=GND Pin=U16-8
+Added Pin To Net: NetName=SCLK Pin=U16-10
+Added Pin To Net: NetName=SIMO Pin=U16-11
+Added Pin To Net: NetName=DAC_HI5 Pin=U16-12
+Added Pin To Net: NetName=DAC_LO5 Pin=U16-13
+Added Pin To Net: NetName=DAC_HI6 Pin=U16-14
+Added Pin To Net: NetName=DAC_LO6 Pin=U16-15
+Added Pin To Net: NetName=+5ANA Pin=U16-18
+Added Pin To Net: NetName=A Pin=U16-19
+Added Pin To Net: NetName=DAC_VOD Pin=U16-22
+Added Pin To Net: NetName=DAC_VRD Pin=U16-23
+Added Pin To Net: NetName=DAC_VOG Pin=U16-24
+Added Pin To Net: NetName=DAC_VDD Pin=U16-25
+Added Pin To Net: NetName=LOAD_MAX2_N Pin=U16-26
+Added Pin To Net: NetName=SEL_MAX2_N Pin=U16-27
+Added Pin To Net: NetName=GND Pin=U16-28
+Added Pin To Net: NetName=MON_HI5 Pin=U16-33
+Added Pin To Net: NetName=A Pin=U16-34
+Added Pin To Net: NetName=A Pin=U16-36
+Added Pin To Net: NetName=MON_LO5 Pin=U16-37
+Added Pin To Net: NetName=MON_HI6 Pin=U16-38
+Added Pin To Net: NetName=A Pin=U16-39
+Added Pin To Net: NetName=A Pin=U16-40
+Added Pin To Net: NetName=MON_LO6 Pin=U16-41
+Added Pin To Net: NetName=MON_VOD Pin=U16-42
+Added Pin To Net: NetName=A Pin=U16-43
+Added Pin To Net: NetName=MON_VRD Pin=U16-44
+Added Pin To Net: NetName=A Pin=U16-45
+Added Pin To Net: NetName=MON_VOG Pin=U16-46
+Added Pin To Net: NetName=A Pin=U16-47
+Added Pin To Net: NetName=MON_VDD Pin=U16-48
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U13-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Pin To Net: NetName=E Pin=U16-0
+Added Net: Name=E
+Added Member To Class: ClassName=Analog Member=Component C33 Cap SMD
+Added Member To Class: ClassName=Analog Member=Component C34 Cap SMD
+Added Member To Class: ClassName=Analog Member=Component C35 Cap SMD
+Added Member To Class: ClassName=Analog Member=Component C36 Cap SMD
+Added Member To Class: ClassName=Analog Member=Component U13 MAX1258
+Added Member To Class: ClassName=Analog Member=Component U16 MAX1258
+Added Room: Name=Analog

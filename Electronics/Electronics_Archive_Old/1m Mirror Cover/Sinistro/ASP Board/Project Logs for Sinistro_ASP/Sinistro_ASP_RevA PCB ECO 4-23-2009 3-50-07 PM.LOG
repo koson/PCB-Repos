@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=NetC1A_1 Pin=R1A-1
+Removed Pin From Net: NetName=NetC1B_1 Pin=R1B-1
+Removed Pin From Net: NetName=NetC1C_1 Pin=R1C-1
+Removed Pin From Net: NetName=NetC1D_1 Pin=R1D-1
+Removed Pin From Net: NetName=NetC1A_1 Pin=R2A-1
+Removed Pin From Net: NetName=NetR1A_3 Pin=R2A-3
+Removed Pin From Net: NetName=NetC1B_1 Pin=R2B-1
+Removed Pin From Net: NetName=NetR1B_3 Pin=R2B-3
+Removed Pin From Net: NetName=NetC1C_1 Pin=R2C-1
+Removed Pin From Net: NetName=NetR1C_3 Pin=R2C-3
+Removed Pin From Net: NetName=NetC1D_1 Pin=R2D-1
+Removed Pin From Net: NetName=NetR1D_3 Pin=R2D-3
+Removed Pin From Net: NetName=NetR1A_3 Pin=R5A-3
+Removed Pin From Net: NetName=NetR1B_3 Pin=R5B-3
+Removed Pin From Net: NetName=NetR1C_3 Pin=R5C-3
+Removed Pin From Net: NetName=NetR1D_3 Pin=R5D-3
+Removed Pin From Net: NetName=NetR1A_3 Pin=R8A-4
+Removed Pin From Net: NetName=NetR1B_3 Pin=R8B-4
+Removed Pin From Net: NetName=NetR1C_3 Pin=R8C-4
+Removed Pin From Net: NetName=NetR1D_3 Pin=R8D-4
+Removed Pin From Net: NetName=NetR1A_3 Pin=TP3A-1
+Removed Pin From Net: NetName=NetR1B_3 Pin=TP3B-1
+Removed Pin From Net: NetName=NetR1C_3 Pin=TP3C-1
+Removed Pin From Net: NetName=NetR1D_3 Pin=TP3D-1
+Removed Pin From Net: NetName=NetR1A_3 Pin=U5A-6
+Removed Pin From Net: NetName=NetR1B_3 Pin=U5B-6
+Removed Pin From Net: NetName=NetR1C_3 Pin=U5C-6
+Removed Pin From Net: NetName=NetR1D_3 Pin=U5D-6
+Removed Member From Class: ClassName=CH1 Member=R2A
+Removed Member From Class: ClassName=CH1 Member=R2A
+Removed Member From Class: ClassName=CH1 Member=R2A
+Removed Member From Class: ClassName=CH1 Member=R2A
+Removed Member From Class: ClassName=CH1 Member=R2A
+Removed Member From Class: ClassName=CH1 Member=R2A
+Removed Member From Class: ClassName=CH2 Member=R2B
+Removed Member From Class: ClassName=CH2 Member=R2B
+Removed Member From Class: ClassName=CH2 Member=R2B
+Removed Member From Class: ClassName=CH2 Member=R2B
+Removed Member From Class: ClassName=CH2 Member=R2B
+Removed Member From Class: ClassName=CH2 Member=R2B
+Removed Member From Class: ClassName=CH3 Member=R2C
+Removed Member From Class: ClassName=CH3 Member=R2C
+Removed Member From Class: ClassName=CH3 Member=R2C
+Removed Member From Class: ClassName=CH3 Member=R2C
+Removed Member From Class: ClassName=CH3 Member=R2C
+Removed Member From Class: ClassName=CH3 Member=R2C
+Removed Member From Class: ClassName=CH4 Member=R2D
+Removed Member From Class: ClassName=CH4 Member=R2D
+Removed Member From Class: ClassName=CH4 Member=R2D
+Removed Member From Class: ClassName=CH4 Member=R2D
+Removed Member From Class: ClassName=CH4 Member=R2D
+Removed Member From Class: ClassName=CH4 Member=R2D
+Change Component Footprint: Designator=R1A Old Footprint=Vishay 3 pin New Footprint=182H_M
+Change Component Footprint: Designator=R1B Old Footprint=Vishay 3 pin New Footprint=182H_M
+Change Component Footprint: Designator=R1C Old Footprint=Vishay 3 pin New Footprint=182H_M
+Change Component Footprint: Designator=R1D Old Footprint=Vishay 3 pin New Footprint=182H_M
+Change Component Comment : Designator=R1D Old Comment=Vishay New Comment=Res Ntwk Vishay SMN
+Change Component Comment : Designator=R1C Old Comment=Vishay New Comment=Res Ntwk Vishay SMN
+Change Component Comment : Designator=R1B Old Comment=Vishay New Comment=Res Ntwk Vishay SMN
+Change Component Comment : Designator=R1A Old Comment=Vishay New Comment=Res Ntwk Vishay SMN
+Added Pin To Net: NetName=NetR1A_3 Pin=R1A-4
+Added Pin To Net: NetName=NetC1A_1 Pin=R1A-6
+Added Pin To Net: NetName=NetC1A_1 Pin=R1A-8
+Added Pin To Net: NetName=NetR1B_3 Pin=R1B-4
+Added Pin To Net: NetName=NetC1B_1 Pin=R1B-6
+Added Pin To Net: NetName=NetC1B_1 Pin=R1B-8
+Added Pin To Net: NetName=NetR1C_3 Pin=R1C-4
+Added Pin To Net: NetName=NetC1C_1 Pin=R1C-6
+Added Pin To Net: NetName=NetC1C_1 Pin=R1C-8
+Added Pin To Net: NetName=NetR1D_3 Pin=R1D-4
+Added Pin To Net: NetName=NetC1D_1 Pin=R1D-6
+Added Pin To Net: NetName=NetC1D_1 Pin=R1D-8
+Added Pin To Net: NetName=NetR1A_3 Pin=U3A-6
+Added Pin To Net: NetName=NetR1B_3 Pin=U3B-6
+Added Pin To Net: NetName=NetR1C_3 Pin=U3C-6
+Added Pin To Net: NetName=NetR1D_3 Pin=U3D-6
+Added Pin To Net: NetName=NetR1A_1 Pin=R1A-1
+Added Pin To Net: NetName=NetR1A_1 Pin=R1A-2
+Added Pin To Net: NetName=NetR1A_1 Pin=U3A-10
+Added Net: Name=NetR1A_1
+Added Pin To Net: NetName=NetR1A_5 Pin=R1A-5
+Added Pin To Net: NetName=NetR1A_5 Pin=R1A-7
+Added Pin To Net: NetName=NetR1A_5 Pin=R5A-3
+Added Pin To Net: NetName=NetR1A_5 Pin=R8A-4
+Added Pin To Net: NetName=NetR1A_5 Pin=TP3A-1
+Added Pin To Net: NetName=NetR1A_5 Pin=U5A-6
+Added Net: Name=NetR1A_5
+Added Pin To Net: NetName=NetR1B_1 Pin=R1B-1
+Added Pin To Net: NetName=NetR1B_1 Pin=R1B-2
+Added Pin To Net: NetName=NetR1B_1 Pin=U3B-10
+Added Net: Name=NetR1B_1
+Added Pin To Net: NetName=NetR1B_5 Pin=R1B-5
+Added Pin To Net: NetName=NetR1B_5 Pin=R1B-7
+Added Pin To Net: NetName=NetR1B_5 Pin=R5B-3
+Added Pin To Net: NetName=NetR1B_5 Pin=R8B-4
+Added Pin To Net: NetName=NetR1B_5 Pin=TP3B-1
+Added Pin To Net: NetName=NetR1B_5 Pin=U5B-6
+Added Net: Name=NetR1B_5
+Added Pin To Net: NetName=NetR1C_1 Pin=R1C-1
+Added Pin To Net: NetName=NetR1C_1 Pin=R1C-2
+Added Pin To Net: NetName=NetR1C_1 Pin=U3C-10
+Added Net: Name=NetR1C_1
+Added Pin To Net: NetName=NetR1C_5 Pin=R1C-5
+Added Pin To Net: NetName=NetR1C_5 Pin=R1C-7
+Added Pin To Net: NetName=NetR1C_5 Pin=R5C-3
+Added Pin To Net: NetName=NetR1C_5 Pin=R8C-4
+Added Pin To Net: NetName=NetR1C_5 Pin=TP3C-1
+Added Pin To Net: NetName=NetR1C_5 Pin=U5C-6
+Added Net: Name=NetR1C_5
+Added Pin To Net: NetName=NetR1D_1 Pin=R1D-1
+Added Pin To Net: NetName=NetR1D_1 Pin=R1D-2
+Added Pin To Net: NetName=NetR1D_1 Pin=U3D-10
+Added Net: Name=NetR1D_1
+Added Pin To Net: NetName=NetR1D_5 Pin=R1D-5
+Added Pin To Net: NetName=NetR1D_5 Pin=R1D-7
+Added Pin To Net: NetName=NetR1D_5 Pin=R5D-3
+Added Pin To Net: NetName=NetR1D_5 Pin=R8D-4
+Added Pin To Net: NetName=NetR1D_5 Pin=TP3D-1
+Added Pin To Net: NetName=NetR1D_5 Pin=U5D-6
+Added Net: Name=NetR1D_5

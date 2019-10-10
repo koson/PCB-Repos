@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Files\users\rlobdill\Altum Projects\0.4 Lambert\175-00006_rev_3.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=175-00006_rev_3-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=175-00006_rev_3-nonplated.txt|LayerPairs=gtl,gbl

@@ -1,0 +1,98 @@
+Change Component Footprint: Designator=U26 Old Footprint=5-Lead Plastic DD-PAK New Footprint=DDPAK5
+Change Component Footprint: Designator=U27 Old Footprint=5-Lead Plastic DD-PAK New Footprint=DDPAK5
+Change Component Footprint: Designator=U8 Old Footprint=5-Lead  TSOT23 New Footprint=RJ-5
+Change Component Footprint: Designator=D2 Old Footprint=1206 New Footprint=LED J-LEAD
+Change Component Footprint: Designator=D5 Old Footprint=1206 New Footprint=LED J-LEAD
+Change Component Footprint: Designator=J6 Old Footprint=AMP5103310-02 New Footprint=HDR2X7
+Change Component Footprint: Designator=U30 Old Footprint=D008 New Footprint=SO-8
+Change Component Footprint: Designator=U33 Old Footprint=D008 New Footprint=SO-8
+Change Component Footprint: Designator=U12 Old Footprint=DIP-8 New Footprint=SO-8
+Change Component Footprint: Designator=U28 Old Footprint=DIP-8 New Footprint=SO-8
+Change Component Footprint: Designator=RN1 Old Footprint=EXB-38V New Footprint=EXB-38VN
+Change Component Footprint: Designator=RN2 Old Footprint=EXB-38V New Footprint=EXB-38VN
+Change Component Footprint: Designator=RN3 Old Footprint=EXB-38V New Footprint=EXB-38Vn
+Change Component Footprint: Designator=RN4 Old Footprint=EXB-38V New Footprint=EXB-38Vn
+Change Component Footprint: Designator=RN5 Old Footprint=EXB-38V New Footprint=EXB-38Vn
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=U9 Old Footprint=FBGA256-2 New Footprint=FBGA256-2C
+Change Component Footprint: Designator=J8 Old Footprint=Header-3x1 New Footprint=Molex 70543-0002
+Change Component Footprint: Designator=TP1 Old Footprint=PAD_80D_052H New Footprint=CON1
+Change Component Footprint: Designator=TP2 Old Footprint=PAD_80D_052H New Footprint=CON1
+Change Component Footprint: Designator=TP3 Old Footprint=PAD_80D_052H New Footprint=CON1
+Change Component Footprint: Designator=U11 Old Footprint=PQFP-128 New Footprint=TQFP-128
+Change Component Footprint: Designator=J1 Old Footprint=QMS_EDGE_PWR_PINS New Footprint=QMS EDGE PWR PINS
+Change Component Footprint: Designator=J1 Old Footprint=QMS_EDGE_PWR_PINS New Footprint=QMS EDGE PWR PINS
+Change Component Footprint: Designator=J1 Old Footprint=QMS_EDGE_PWR_PINS New Footprint=QMS EDGE PWR PINS
+Change Component Footprint: Designator=J1 Old Footprint=QMS_EDGE_PWR_PINS New Footprint=QMS EDGE PWR PINS
+Change Component Footprint: Designator=J1 Old Footprint=QMS_EDGE_PWR_PINS New Footprint=QMS EDGE PWR PINS
+Change Component Footprint: Designator=J2 Old Footprint=QMS EDGE PWR PINS New Footprint=QMS SMD PWR PINS
+Change Component Footprint: Designator=J2 Old Footprint=QMS EDGE PWR PINS New Footprint=QMS SMD PWR PINS
+Change Component Footprint: Designator=J2 Old Footprint=QMS EDGE PWR PINS New Footprint=QMS SMD PWR PINS
+Change Component Footprint: Designator=J2 Old Footprint=QMS EDGE PWR PINS New Footprint=QMS SMD PWR PINS
+Change Component Footprint: Designator=J2 Old Footprint=QMS EDGE PWR PINS New Footprint=QMS SMD PWR PINS
+Change Component Footprint: Designator=U32 Old Footprint=Small Outline SO-8 New Footprint=SO-8
+Change Component Footprint: Designator=U1 Old Footprint=SOIC8_N New Footprint=SO-8
+Change Component Footprint: Designator=U22 Old Footprint=SOIC14 New Footprint=SO-14
+Change Component Footprint: Designator=U22 Old Footprint=SOIC14 New Footprint=SO-14
+Change Component Footprint: Designator=U22 Old Footprint=SOIC14 New Footprint=SO-14
+Change Component Footprint: Designator=U22 Old Footprint=SOIC14 New Footprint=SO-14
+Change Component Footprint: Designator=U44 Old Footprint=SOIC 14 New Footprint=SO-14
+Change Component Footprint: Designator=U44 Old Footprint=SOIC 14 New Footprint=SO-14
+Change Component Footprint: Designator=U44 Old Footprint=SOIC 14 New Footprint=SO-14
+Change Component Footprint: Designator=U25 Old Footprint=SOIC-14 New Footprint=SO-14
+Change Component Footprint: Designator=U25 Old Footprint=SOIC-14 New Footprint=SO-14
+Change Component Footprint: Designator=U25 Old Footprint=SOIC-14 New Footprint=SO-14
+Change Component Footprint: Designator=U25 Old Footprint=SOIC-14 New Footprint=SO-14
+Change Component Footprint: Designator=U25 Old Footprint=SOIC-14 New Footprint=SO-14
+Change Component Footprint: Designator=U25 Old Footprint=SOIC-14 New Footprint=SO-14
+Change Component Footprint: Designator=D1 Old Footprint=SOT23 New Footprint=SOT23A
+Change Component Footprint: Designator=U20 Old Footprint=SOT 3 23 New Footprint=SOT-23
+Change Component Footprint: Designator=U6 Old Footprint=SOT-23-5 New Footprint=RJ-5
+Change Component Footprint: Designator=U21 Old Footprint=SOT-23-5 New Footprint=RJ-5
+Change Component Footprint: Designator=U3 Old Footprint=SOT-23 5 New Footprint=RJ-5
+Change Component Footprint: Designator=U15 Old Footprint=TQFP64 New Footprint=TQFP 64
+Change Component Footprint: Designator=U16 Old Footprint=TQFP64 New Footprint=TQFP 64
+Change Component Footprint: Designator=U18 Old Footprint=TQFP64 New Footprint=TQFP 64
+Change Component Footprint: Designator=U19 Old Footprint=TQFP64 New Footprint=TQFP 64
+Change Component Footprint: Designator=J4 Old Footprint=USB_B New Footprint=USB_B right angle
+Change Component Comment: Designator=U28 Old Comment=24AA128 New Comment=INA122
+Change Component Comment: Designator=U12 Old Comment=24AA128 New Comment=INA122
+Change Component Comment: Designator=U32 Old Comment=ACSL_6210 New Comment=INA122
+Change Component Comment: Designator=J5 Old Comment=AMP5103310-01 New Comment=HEADER5X2
+Change Component Comment: Designator=U1 Old Comment=EPCS4SI8 New Comment=INA122
+Change Component Comment: Designator=JP2 Old Comment=HEADER8X1 New Comment=Header 5
+Change Component Comment: Designator=U19 Old Comment=IDT72V2111L15PF New Comment=72V2105
+Change Component Comment: Designator=U16 Old Comment=IDT72V2111L15PF New Comment=72V2105
+Change Component Comment: Designator=U15 Old Comment=IDT72V2111L15PF New Comment=72V2105
+Change Component Comment: Designator=U27 Old Comment=LT1963AEQ#PBF New Comment=LT1963AEQ-2.5V
+Change Component Comment: Designator=U26 Old Comment=LT1963AEQ-2.5#PBF New Comment=LT1963AEQ#PBF
+Change Component Comment: Designator=U24 Old Comment=MC74HC125A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U17 Old Comment=MC74HC125A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U10 Old Comment=MC74HC125A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U33 Old Comment=SN65HVD08 New Comment=INA122
+Change Component Comment: Designator=U22 Old Comment=SN74LVC02A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U22 Old Comment=SN74LVC02A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U22 Old Comment=SN74LVC02A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U22 Old Comment=SN74LVC02A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U25 Old Comment=SN74LVC06A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U25 Old Comment=SN74LVC06A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U25 Old Comment=SN74LVC06A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U25 Old Comment=SN74LVC06A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U25 Old Comment=SN74LVC06A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U25 Old Comment=SN74LVC06A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U44 Old Comment=SN74LVC14A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U44 Old Comment=SN74LVC14A New Comment=74ALVC125-DC
+Change Component Comment: Designator=U44 Old Comment=SN74LVC14A New Comment=74ALVC125-DC
+Change Component Comment: Designator=TP2 Old Comment=Test point New Comment=CON1
+Change Component Comment: Designator=TP1 Old Comment=Test point New Comment=CON1

@@ -1,0 +1,6 @@
+Added Component: Designator=P5(HDR1X4 for IDC)
+Added Pin To Net: NetName=RS+ Pin=P5-1
+Added Pin To Net: NetName=RS- Pin=P5-4
+Added Pin To Net: NetName=RS+ Pin=U5-A57
+Added Pin To Net: NetName=RS- Pin=U5-A59
+Added Member To Class: ClassName=SuperFin Module Member=Component P5 Header 4

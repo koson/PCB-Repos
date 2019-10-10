@@ -1,0 +1,207 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator TARGET_MECHANICAL_5 -19494.103mil -11268.465mil       5482mil       4168mil -19494.103mil -11268.465mil  T          0.00 Comment        
+Designator TARGET_MECHANICAL_5 -19494.103mil -11268.465mil       -994mil       4176mil -19494.103mil -11268.465mil  T          0.00 Comment        
+Designator TARGET_MECHANICAL_5 -19494.103mil -11268.465mil       -837mil      -1341mil -19494.103mil -11268.465mil  T          0.00 Comment        
+U20        SMD_TSSOP16_RU16    735.158mil   3050.433mil        620mil       3140mil        620mil       3140mil  T          0.00 74HC123        
+U18        SOIC8NA_M             1951mil       1512mil       1951mil       1512mil   2051.394mil       1587mil  B        180.00 65HVD232       
+U17        SOIC8NA_M             2200mil       1829mil       2200mil       1829mil   2300.394mil       1904mil  B        180.00 65HVD232       
+TP45       SMD_TEST_POINT        2232mil       1455mil       2232mil       1455mil       2232mil       1455mil  T         90.00 Test Point SMD 
+TP44       SMD_TEST_POINT        2136mil       2179mil       2136mil       2179mil       2136mil       2179mil  T         90.00 Test Point SMD 
+SW1        CAS-120B              2382mil       1762mil       2382mil       1762mil   2313.102mil   1685.228mil  T        360.00 CJS-1200TB     
+R34        SMD_0805              1625mil       2704mil       1625mil       2704mil       1625mil       2749mil  B        270.00 Res 0805       
+R33        SMD_0805              1751mil       1517mil       1751mil       1517mil       1751mil       1562mil  B        270.00 Res 0805       
+R32        SMD_0805               650mil       3040mil        650mil       3040mil        650mil       3085mil  B        270.00 Res 0805       
+C64        SMD_0805              1741mil       2744mil       1741mil       2744mil       1786mil       2744mil  B        180.00 Cap SMD        
+C63        SMD_0805              1740mil       2675mil       1740mil       2675mil       1785mil       2675mil  B        180.00 Cap SMD        
+C56        SMD_0805              1337mil       1051mil       1337mil       1051mil       1337mil       1096mil  B        270.00 Cap SMD        
+C57        SMD_0805              1352mil       1361mil       1352mil       1361mil       1352mil       1316mil  B         90.00 Cap SMD        
+C58        SMD_0805              1482mil       1406mil       1482mil       1406mil       1437mil       1406mil  B        360.00 Cap SMD        
+C59        SMD_0805              1555mil       1259mil       1555mil       1259mil       1510mil       1259mil  B        360.00 Cap SMD        
+C60        SMD_0805              1608mil       1042mil       1608mil       1042mil       1608mil       1087mil  B        270.00 Cap SMD        
+C61        SMD_0805              1214mil       1147mil       1214mil       1147mil       1214mil       1192mil  B        270.00 Cap SMD        
+C62        SMD_0805              1224mil       1352mil       1224mil       1352mil       1224mil       1307mil  B         90.00 Cap SMD        
+U15        SO-16             3001.417mil       1993mil   3001.417mil       1993mil   3138.228mil       2168mil  B        270.00 PS2801-4       
+FER3       ACM1513-551-2PL       2636mil       3193mil       2636mil       3193mil       2764mil       2913mil  B         90.00 ACM1513-551-2PL-TL
+U11        PSIP_3_SMD          3658.5mil       3186mil       3671mil       3186mil       3096mil       3286mil  B         90.00 PT78ST105S     
+C34        SMD_0805          1671.433mil   3043.976mil   1671.433mil   3043.976mil   1716.433mil   3043.976mil  B        180.00 Cap SMD        
+C36        SMD_CAP_3216      1611.433mil   2923.976mil   1611.433mil   2923.976mil   1666.433mil   2923.976mil  B        360.00 16V            
+C41        SMD_0805              1664mil       1879mil       1664mil       1879mil       1664mil       1924mil  B        270.00 Cap SMD        
+C42        SMD_CAP_3216          1614mil       2359mil       1614mil       2359mil       1614mil       2414mil  B         90.00 16V            
+C43        SMD_0805              1484mil       1899mil       1484mil       1899mil       1484mil       1944mil  B        270.00 Cap SMD        
+C44        SMD_0805              1354mil       1839mil       1354mil       1839mil       1399mil       1839mil  B        180.00 Cap SMD        
+C45        SMD_0805              1274mil       1959mil       1274mil       1959mil       1274mil       2004mil  B        270.00 Cap SMD        
+C46        SMD_0805              1304mil       2239mil       1304mil       2239mil       1349mil       2239mil  B        180.00 Cap SMD        
+C47        SMD_0805              1364mil       2409mil       1364mil       2409mil       1364mil       2364mil  B         90.00 Cap SMD        
+C48        SMD_0805              1284mil       2419mil       1284mil       2419mil       1284mil       2464mil  B        270.00 Cap SMD        
+C49        SMD_0805              1704mil       2409mil       1704mil       2409mil       1704mil       2364mil  B         90.00 Cap SMD        
+C50        SMD_0805              1834mil       2199mil       1834mil       2199mil       1789mil       2199mil  B        360.00 Cap SMD        
+C51        SMD_0805              1834mil       1939mil       1834mil       1939mil       1789mil       1939mil  B        360.00 Cap SMD        
+C52        SMD_0805              1864mil       2389mil       1864mil       2389mil       1864mil       2344mil  B         90.00 Cap SMD        
+C53        SMD_0805              1834mil       2059mil       1834mil       2059mil       1789mil       2059mil  B        360.00 Cap SMD        
+P3         Phoenix_M12,_5-Pos    231.643mil       2110mil     -39.37mil       2110mil    345.177mil   2040.413mil  B         90.00 CONN, 4 PIN, Round
+P5         Phoenix_M12,_5-Pos    231.643mil    503.638mil     -39.37mil    503.638mil    345.177mil    434.051mil  B         90.00 CONN, 4 PIN, Round
+Q4         SOT223_w/PowerPAD   1891.433mil    3091.85mil   1891.433mil   3083.976mil   1981.984mil   2961.929mil  B        180.00 NJT4031N       
+C11        SMD_Pana_size_H13       3514mil       2283mil       3514mil       2483mil       3514mil       2523mil  B          0.00 35V            
+C14        smd_0805              1493mil       3683mil       1493mil       3683mil       1448mil       3683mil  B        360.00 1u             
+C15        smd_0805              2014mil       3694mil       2014mil       3694mil       1969mil       3694mil  B        360.00 1u             
+C16        SMD_0805              2436mil       2649mil       2436mil       2649mil       2436mil       2694mil  B        270.00 Cap            
+C17        smd_0805              2371mil       2647mil       2371mil       2647mil       2371mil       2692mil  B        270.00 Cap            
+C19        SMD_0805          2294.748mil   2593.818mil   2294.748mil   2593.818mil   2294.748mil   2548.818mil  B         90.00 Cap            
+C20        SMD_0805          2513.252mil   2593.818mil   2513.252mil   2593.818mil   2513.252mil   2548.818mil  B         90.00 Cap            
+C21        SMD_0805               684mil       2727mil        684mil       2727mil        684mil       2682mil  B         90.00 Cap            
+C22        smd_0805           980.758mil   3678.758mil    980.758mil   3678.758mil    935.758mil   3678.758mil  B        360.00 1u             
+C23        SMD_0805               683mil       2578mil        683mil       2578mil        683mil       2533mil  B         90.00 Cap SMD        
+C54        SMD_0805               880mil       3070mil        880mil       3070mil        880mil       3115mil  B        270.00 Cap SMD        
+C55        SMD_0805               570mil       3040mil        570mil       3040mil        570mil       2995mil  B         90.00 Cap SMD        
+D3         SMC                   1660mil       3537mil       1660mil       3537mil       1660mil   3400.189mil  B         90.00 SL43-E3/57T    
+D4         SMC                   2191mil       3559mil       2191mil       3559mil       2191mil   3422.189mil  B         90.00 SL43-E3/57T    
+D5         SMC                   1145mil       3560mil       1145mil       3560mil       1145mil   3423.189mil  B         90.00 SL43-E3/57T    
+L1         SMD_1210_INDUCT       1484mil       3435mil       1484mil       3435mil       1484mil       3500mil  B        270.00 Inductor       
+L2         SMD_1210_INDUCT       2014mil       3449mil       2014mil       3449mil       2014mil       3514mil  B        270.00 Inductor       
+L3         SMD_1210_INDUCT    966.758mil   3452.758mil    966.758mil   3452.758mil    966.758mil   3387.758mil  B         90.00 Inductor       
+Q5         SOT-23B               1065mil       3153mil       1065mil       3153mil   1102.402mil   3103.787mil  B        180.00 ZXMN3B14FTA    
+Q6         SOT-23B               1056mil   2667.008mil       1056mil   2667.008mil   1093.402mil   2617.795mil  B        180.00 ZXMN3B14FTA    
+R8         SMD_0805              1373mil       3551mil       1373mil       3551mil       1373mil       3596mil  B        270.00 Res 0805       
+R9         SMD_0805              1894mil       3576mil       1894mil       3576mil       1894mil       3621mil  B        270.00 Res 0805       
+R10        SMD_0805           852.758mil   3588.758mil    852.758mil   3588.758mil    852.758mil   3633.758mil  B        270.00 Res 0805       
+C1         SMD_0805              2612mil        992mil       2612mil        992mil       2612mil        947mil  B         90.00 Cap            
+C2         SMD_0805              2853mil        992mil       2853mil        992mil       2853mil        947mil  B         90.00 Cap            
+C3         SMD_0805              2545mil        993mil       2545mil        993mil       2545mil        948mil  B         90.00 Cap            
+C4         SMD_0805              2918mil        992mil       2918mil        992mil       2918mil        947mil  B         90.00 Cap            
+C6         SMD_0805              3756mil       1604mil       3756mil       1604mil       3756mil       1649mil  B        270.00 Cap            
+C7         SMD_0805              3964mil        730mil       3964mil        730mil       3964mil        775mil  B        270.00 Cap            
+C8         SMD_0805              4130mil       1648mil       4130mil       1648mil       4175mil       1648mil  B        180.00 Cap            
+C9         SMD_0805              4130mil       1709mil       4130mil       1709mil       4175mil       1709mil  B        180.00 Cap            
+C10        SMD_0805              3098mil        801mil       3098mil        801mil       3098mil        756mil  B         90.00 Cap            
+D2         SOT-143               2550mil       1577mil       2550mil       1577mil   2579.527mil   1533.693mil  B        180.00 SP0503BAHT     
+R1         SMD_0805              2913mil       1182mil       2913mil       1182mil       2913mil       1137mil  B         90.00 Res 0805       
+R2         SMD_0805              2305mil       1195mil       2305mil       1195mil       2305mil       1150mil  B         90.00 Res 0805       
+R5         SMD_0805              2907mil        759mil       2907mil        759mil       2907mil        714mil  B         90.00 Res 0805       
+C5         SMD_0805              3732mil       1604mil       3732mil       1604mil       3732mil       1649mil  T        270.00 Cap            
+C12        smd_0805              1258mil       3534mil       1258mil       3534mil       1258mil       3579mil  T        270.00 1u             
+C13        smd_0805              1805mil       3518mil       1805mil       3518mil       1805mil       3563mil  T        270.00 1u             
+C18        smd_0805               748mil       3532mil        748mil       3532mil        748mil       3577mil  T        270.00 1u             
+C24        3225[1210]            2496mil       3153mil       2496mil       3153mil   2551.118mil       3153mil  T        180.00 50V            
+C25        SMD_0805              2926mil       2993mil       2926mil       2993mil       2926mil       2948mil  T         90.00 Cap SMD        
+C26        SMD_0805              3746mil       3013mil       3746mil       3013mil       3791mil       3013mil  T        180.00 Cap SMD        
+C27        SMD_CAP_3216          3766mil       3173mil       3766mil       3173mil       3711mil       3173mil  T        180.00 16V            
+C28        SMD_0805              3746mil       3083mil       3746mil       3083mil       3791mil       3083mil  T        180.00 Cap SMD        
+C29        SMD_CAP_3216          3746mil       2903mil       3746mil       2903mil       3691mil       2903mil  T        180.00 16V            
+C30        SMD_0805              3746mil       2823mil       3746mil       2823mil       3791mil       2823mil  T        180.00 Cap SMD        
+C31        SMD_0805              2496mil       3253mil       2496mil       3253mil       2451mil       3253mil  T        360.00 Cap SMD        
+C32        SMD_0805              2496mil       3333mil       2496mil       3333mil       2451mil       3333mil  T        360.00 Cap SMD        
+C33        SMD_0805              2826mil       3393mil       2826mil       3393mil       2826mil       3438mil  T        270.00 Cap SMD        
+C35        SMD_0805          1701.433mil   3083.976mil   1701.433mil   3083.976mil   1701.433mil   3038.976mil  T         90.00 Cap SMD        
+C37        EEE-FK1V101XP         3116mil       3423mil       3116mil       3423mil       3116mil       3325mil  T          0.00 100u, EEE-FK1V101XP
+C38        EEE-FK1V101XP         3476mil       3423mil       3476mil       3423mil       3476mil       3325mil  T          0.00 100u, EEE-FK1V101XP
+C39        EEE-FK1V101XP         4076mil       3423mil       4076mil       3423mil       4076mil       3325mil  T        360.00 100u, EEE-FK1V101XP
+C40        SMD_0805              2164mil       1985mil       2164mil       1985mil       2164mil       2030mil  T        270.00 Cap SMD        
+D1         SOT-143               3919mil       1402mil       3919mil       1402mil   3948.527mil   1445.307mil  T        180.00 SP0503BAHT     
+D6         DIODE_SMC             2726mil       2993mil       2726mil       2993mil       2726mil       3143mil  T        270.00 SMCJ30A        
+D7         DIODE_SMC             3116mil       2983mil       3116mil       2983mil       3116mil       3133mil  T        270.00 SMCJ30A        
+D8         DIODE_SMC             3476mil       2983mil       3476mil       2983mil       3476mil       3133mil  T        270.00 SMCJ7.0A       
+D9         DIODE_SMC             4096mil       2983mil       4096mil       2983mil       4096mil       3133mil  T        270.00 SMCJ5.0A       
+F1         POLYSWITCH_RADIAL_0.2       3575mil       1825mil       3575mil       1825mil       3675mil       1825mil  T        180.00 RUEF400        
+F2         SMD_1206               613mil       3285mil        613mil       3285mil        613mil       3340mil  T        270.00 Res 0805       
+FER1       smd_0805              2906mil       3393mil       2906mil       3393mil       2906mil       3438mil  T        270.00 MI0805K400R-10 
+FER2       smd_0805              3296mil       3213mil       3296mil       3213mil       3296mil       3168mil  T         90.00 MI0805K400R-10 
+J1         61729-0010BLF     4310.827mil       1500mil    4257.48mil       1500mil   4208.267mil   1549.213mil  T         90.00 61729-0010BLF  
+J2         DB15_HD_PCB            370mil       3130mil        370mil       2640mil        470mil   2962.047mil  T        270.00 D Connector 15 
+J3         Wurth_7498011002    4160.61mil        650mil    4398.11mil        650mil    3923.11mil        825mil  T        270.00 Wurth Elektronik 7498011002
+K1         RELAY_OMRON_G6SK       1063mil       2980mil        913mil       3230mil        963mil       3230mil  T        270.00 Latching, 24V  
+P1         HDR_1x12_PHX_RT_ANGLE    4608.11mil       2800mil    4608.11mil       2800mil    4608.11mil       3625mil  T         90.00 Header 12 for screw term
+P2         HDR2X10               2058mil        882mil       2008mil       1332mil       2008mil       1332mil  T        270.00 Header 10X2    
+P4         Phoenix_M12,_5-Pos    231.643mil       1310mil     -39.37mil       1310mil    345.177mil   1379.587mil  T        270.00 CONN, 4 PIN, Round
+P6         HDR2X7                 784mil       1176mil        834mil        876mil        834mil        876mil  T         90.00 Header 7X2     
+Q1         SOT-23B               1669mil       3552mil       1669mil       3552mil   1619.787mil   3589.402mil  T        270.00 ZXMN3B14FTA    
+Q2         SOT-23B               2187mil       3567mil       2187mil       3567mil   2137.787mil   3604.402mil  T        270.00 ZXMN3B14FTA    
+Q3         SOT-23B           1138.758mil   3556.758mil   1138.758mil   3556.758mil   1089.546mil    3594.16mil  T        270.00 ZXMN3B14FTA    
+Q8         SOT-23B                940mil       2069mil        940mil       2069mil    989.212mil   2031.598mil  T         90.00 ZXMN3B14FTA    
+Q9         SOT-23B                942mil       2316mil        942mil       2316mil    991.212mil   2278.598mil  T         90.00 ZXMN3B14FTA    
+Q10        SOT-23B                932mil       1806mil        932mil       1806mil    981.212mil   1768.598mil  T         90.00 ZXMN3B14FTA    
+R4         SMD_0805          2953.417mil       2195mil   2953.417mil       2195mil   2953.417mil       2150mil  T         90.00 Res 0805       
+R6         SMD_0805               941mil       1026mil        941mil       1026mil        941mil       1071mil  T        270.00 Res 0805       
+R7         SMD_0805              4295mil       2267mil       4295mil       2267mil       4295mil       2222mil  T         90.00 Res 0805       
+R11        smd_0805               709mil       2727mil        709mil       2727mil        709mil       2772mil  T        270.00 Res3           
+R12        SMD_0805               711mil       2577mil        711mil       2577mil        711mil       2532mil  T         90.00 Res SMD        
+R13        SMD_0805          2081.433mil   3043.976mil   2081.433mil   3043.976mil   2081.433mil   3088.976mil  T        270.00 Res 0805       
+R14        SMD_0805          1631.433mil   3083.976mil   1631.433mil   3083.976mil   1631.433mil   3128.976mil  T        270.00 Res SMD        
+R15        SMD_0805              1845mil       2830mil       1845mil       2830mil       1800mil       2830mil  T        360.00 Res 0805       
+R16        SMD_0805          2953.417mil       1995mil   2953.417mil       1995mil   2953.417mil       1950mil  T         90.00 Res 0805       
+R17        SMD_0805          2863.417mil       1995mil   2863.417mil       1995mil   2863.417mil       2040mil  T        270.00 Res 0805       
+R18        SMD_0805              3076mil       2020mil       3076mil       2020mil       3076mil       2065mil  T        270.00 Res 0805       
+R19        SMD_0805              3160mil       1798mil       3160mil       1798mil       3160mil       1753mil  T         90.00 Res 0805       
+R20        SMD_0805          2963.417mil       1815mil   2963.417mil       1815mil   2963.417mil       1860mil  T        270.00 Res 0805       
+R21        SMD_0805              3160mil       2158mil       3160mil       2158mil       3160mil       2203mil  T        270.00 Res 0805       
+R22        SMD_0805          3043.417mil       1815mil   3043.417mil       1815mil   3043.417mil       1860mil  T        270.00 Res 0805       
+R23        SMD_0805              1270mil        510mil       1270mil        510mil       1270mil        555mil  T        270.00 Res 0805       
+R24        SMD_0805               540mil       1960mil        540mil       1960mil        540mil       2005mil  T        270.00 Res 0805       
+R25        SMD_0805              1240mil        190mil       1240mil        190mil       1195mil        190mil  T        360.00 Res 0805       
+R26        SMD_0805               540mil       1360mil        540mil       1360mil        540mil       1405mil  T        270.00 Res 0805       
+R27        SMD_0805               800mil       3070mil        800mil       3070mil        800mil       3025mil  B         90.00 Res 0805       
+R28        SMD_0805               640mil        470mil        640mil        470mil        640mil        425mil  T         90.00 Res 0805       
+R29        SMD_0805               942mil       1936mil        942mil       1936mil        897mil       1936mil  T        360.00 Res 0805       
+R30        SMD_0805               942mil       2196mil        942mil       2196mil        897mil       2196mil  T        360.00 Res 0805       
+R31        SMD_0805               902mil       1676mil        902mil       1676mil        857mil       1676mil  T        360.00 Res 0805       
+S1         B3U-1000P             3679mil       1125mil       3679mil       1125mil       3679mil       1054mil  T         90.00 B3U-1000P      
+S2         DIP6_SMD              1643mil        375mil       1643mil        375mil     1479.5mil        475mil  T          0.00 SD03H0SB       
+TP1        SMD_TEST_POINT        1417mil       2766mil       1417mil       2766mil       1417mil       2766mil  T         90.00 Test Point SMD 
+TP2        SMD_TEST_POINT         788mil       3260mil        788mil       3260mil        788mil       3260mil  T        180.00 Test Point SMD 
+TP3        SMD_TEST_POINT        1292mil       2768mil       1292mil       2768mil       1292mil       2768mil  T         90.00 Test Point SMD 
+TP4        SMD_TEST_POINT        1278mil       3254mil       1278mil       3254mil       1278mil       3254mil  T         90.00 Test Point SMD 
+TP5        SMD_TEST_POINT        1494mil       3687mil       1494mil       3687mil       1494mil       3687mil  T        180.00 Test Point SMD 
+TP6        SMD_TEST_POINT        1489mil       3409mil       1489mil       3409mil       1489mil       3409mil  T        180.00 Test Point SMD 
+TP7        SMD_TEST_POINT        2003mil       3695mil       2003mil       3695mil       2003mil       3695mil  T        180.00 Test Point SMD 
+TP8        SMD_TEST_POINT        2027mil       3439mil       2027mil       3439mil       2027mil       3439mil  T        180.00 Test Point SMD 
+TP9        SMD_TEST_POINT        1328mil       3535mil       1328mil       3535mil       1328mil       3535mil  T        270.00 Test Point SMD 
+TP10       SMD_TEST_POINT        1876mil       3517mil       1876mil       3517mil       1876mil       3517mil  T        270.00 Test Point SMD 
+TP11       SMD_TEST_POINT     980.758mil   3684.758mil    980.758mil   3684.758mil    980.758mil   3684.758mil  T        180.00 Test Point SMD 
+TP12       SMD_TEST_POINT     966.758mil   3435.758mil    966.758mil   3435.758mil    966.758mil   3435.758mil  T        360.00 Test Point SMD 
+TP13       SMD_TEST_POINT        2216mil       2692mil       2216mil       2692mil       2216mil       2692mil  T         90.00 Test Point SMD 
+TP14       SMD_TEST_POINT        2214mil       2546mil       2214mil       2546mil       2214mil       2546mil  T         90.00 Test Point SMD 
+TP15       SMD_TEST_POINT     821.758mil   3532.758mil    821.758mil   3532.758mil    821.758mil   3532.758mil  T        270.00 Test Point SMD 
+TP16       SMD_TEST_POINT        2684mil       2632mil       2684mil       2632mil       2684mil       2632mil  T         90.00 Test Point SMD 
+TP17       SMD_TEST_POINT         613mil       2727mil        613mil       2727mil        613mil       2727mil  T         90.00 Test Point SMD 
+TP18       SMD_TEST_POINT        4076mil       3663mil       4076mil       3663mil       4076mil       3663mil  T        180.00 Test Point SMD 
+TP19       SMD_TEST_POINT        3347mil       2092mil       3347mil       2092mil       3347mil       2092mil  T         90.00 Test Point SMD 
+TP20       SMD_TEST_POINT        2646mil       3633mil       2646mil       3633mil       2646mil       3633mil  T        270.00 Test Point SMD 
+TP21       SMD_TEST_POINT        2826mil       3633mil       2826mil       3633mil       2826mil       3633mil  T         90.00 Test Point SMD 
+TP22       SMD_TEST_POINT        3296mil       3653mil       3296mil       3653mil       3296mil       3653mil  T        270.00 Test Point SMD 
+TP23       SMD_TEST_POINT    1891.433mil   2913.976mil   1891.433mil   2913.976mil   1891.433mil   2913.976mil  T        360.00 Test Point SMD 
+TP24       SMD_TEST_POINT    1671.433mil   2963.976mil   1671.433mil   2963.976mil   1671.433mil   2963.976mil  T        180.00 Test Point SMD 
+TP25       SMD_TEST_POINT    2041.638mil      218.5mil   2041.638mil      218.5mil   2041.638mil      218.5mil  T        360.00 Test Point SMD 
+TP26       SMD_TEST_POINT         600mil   3583.638mil        600mil   3583.638mil        600mil   3583.638mil  T         90.00 Test Point SMD 
+TP27       SMD_TEST_POINT    4278.638mil     3658.5mil   4278.638mil     3658.5mil   4278.638mil     3658.5mil  T        360.00 Test Point SMD 
+TP28       SMD_TEST_POINT      2794.5mil   2551.638mil     2794.5mil   2551.638mil     2794.5mil   2551.638mil  T         90.00 Test Point SMD 
+TP29       SMD_TEST_POINT        3693mil        269mil       3693mil        269mil       3693mil        269mil  T         90.00 Test Point SMD 
+TP30       SMD_TEST_POINT       580.5mil   2332.638mil      580.5mil   2332.638mil      580.5mil   2332.638mil  T         90.00 Test Point SMD 
+TP31       SMD_TEST_POINT       540.5mil    850.638mil      540.5mil    850.638mil      540.5mil    850.638mil  T         90.00 Test Point SMD 
+TP32       SMD_TEST_POINT         802mil       2066mil        802mil       2066mil        802mil       2066mil  T         90.00 Test Point SMD 
+TP33       SMD_TEST_POINT         812mil       2306mil        812mil       2306mil        812mil       2306mil  T         90.00 Test Point SMD 
+TP34       SMD_TEST_POINT        1877mil       1491mil       1877mil       1491mil       1877mil       1491mil  T         90.00 Test Point SMD 
+TP35       SMD_TEST_POINT         802mil       1806mil        802mil       1806mil        802mil       1806mil  T         90.00 Test Point SMD 
+TP36       SMD_TEST_POINT        2770mil       2098mil       2770mil       2098mil       2770mil       2098mil  T         90.00 Test Point SMD 
+TP37       SMD_TEST_POINT        2770mil       1868mil       2770mil       1868mil       2770mil       1868mil  T         90.00 Test Point SMD 
+TP38       SMD_TEST_POINT        1200mil        510mil       1200mil        510mil       1200mil        510mil  T         90.00 Test Point SMD 
+TP39       SMD_TEST_POINT        1200mil        310mil       1200mil        310mil       1200mil        310mil  T         90.00 Test Point SMD 
+TP40       SMD_TEST_POINT        3521mil       2120mil       3521mil       2120mil       3521mil       2120mil  T         90.00 Test Point SMD 
+TP41       SMD_TEST_POINT        4275mil       2506mil       4275mil       2506mil       4275mil       2506mil  T        180.00 Test Point SMD 
+TP42       SMD_TEST_POINT        3510mil       2441mil       3510mil       2441mil       3510mil       2441mil  T         90.00 Test Point SMD 
+TP43       SMD_TEST_POINT        4321mil       2858mil       4321mil       2858mil       4321mil       2858mil  T        270.00 Test Point SMD 
+U2         QFN-28_(CP2102)       3913mil       1629mil       3913mil       1629mil   3814.575mil   1688.055mil  T          0.00 CP2102         
+U3         CM-BF5xx              2956mil        907mil       2956mil        907mil   2704.031mil    1249.52mil  T          0.00 CM-BF537E      
+U4         TO220-7             4100.5mil       2258mil       4024mil       2108mil       4024mil       2108mil  T         90.00 TLE5206-2      
+U5         TQFN-6                1488mil       3556mil       1488mil       3556mil   1425.008mil   3593.401mil  T          0.00 MAX16820       
+U6         TQFN-6                2016mil       3574mil       2016mil       3574mil   1953.008mil   3611.401mil  T          0.00 MAX16820       
+U7         TSSOP14               2404mil       2645mil       2404mil       2645mil   2294.748mil   2721.771mil  T        270.00 MAX1169        
+U8         TQFN-6             974.758mil   3572.758mil    974.758mil   3572.758mil    911.766mil    3610.16mil  T          0.00 MAX16820       
+U10        SOT223                3776mil       3453mil       3776mil       3453mil   3685.449mil   3330.953mil  T        360.00 ADP3338AKCZ-3.3RL7
+U13        TQFP144_M             1574mil       2149mil       1574mil       2149mil   1918.488mil   2566.323mil  T        270.00 MC55110-CP     
+U14        SMT_5X3.2mm           2283mil       1993mil       2238mil       1943mil       2328mil       1943mil  T         90.00 Oscillator     
+U16        SO-16                  910mil        390mil        910mil        390mil    773.189mil        565mil  T        270.00 PS2801-4       
+U12        182H_N            1441.433mil   3063.976mil   1441.433mil   3063.976mil   1346.945mil   3138.976mil  T        360.00 REF02AU        
+U9         S8_N              1891.433mil   3063.976mil   1891.433mil   3063.976mil   1796.945mil   3138.976mil  T        360.00 LT1124CS8      
+U1         VQ100_N               1409mil       1200mil       1409mil       1200mil   1111.756mil    1436.22mil  T          0.00 XCR3128XL-10VQ100C
+C65        SMD_0805              2597mil       2706mil       2597mil       2706mil       2597mil       2661mil  T         90.00 Cap            
+

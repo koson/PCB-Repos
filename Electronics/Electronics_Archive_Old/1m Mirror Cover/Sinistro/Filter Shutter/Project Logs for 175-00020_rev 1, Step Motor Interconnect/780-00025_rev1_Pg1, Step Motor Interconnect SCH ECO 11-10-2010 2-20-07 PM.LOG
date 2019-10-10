@@ -1,0 +1,12 @@
+Remove Pin=U1-2 From Net=QUADA4+
+Remove Pin=U1-3 From Net=QUADA4-
+Remove Pin=U1-5 From Net=QUADB4+
+Remove Pin=U1-6 From Net=QUADB4-
+Remove Pin=U1-8 From Net=INDEX4+
+Remove Pin=U1-9 From Net=INDEX4-
+Add Pin To Net: Pin=U1-16 Old Net=NetU1_16 New Net=QUADA4+
+Add Pin To Net: Pin=U1-17 Old Net=NetU1_17 New Net=QUADA4-
+Add Pin To Net: Pin=U1-19 Old Net=NetU1_19 New Net=QUADB4+
+Add Pin To Net: Pin=U1-20 Old Net=NetU1_20 New Net=QUADB4-
+Add Pin To Net: Pin=U1-22 Old Net=NetU1_22 New Net=INDEX4+
+Add Pin To Net: Pin=U1-23 Old Net=NetU1_23 New Net=INDEX4-

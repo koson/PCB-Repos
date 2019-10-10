@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RG Pin=J1-37
+Removed Pin From Net: NetName=S1Q2 Pin=J1-41
+Removed Pin From Net: NetName=S1Q1 Pin=J1-45
+Added Pin To Net: NetName=S1Q1 Pin=J1-30
+Added Pin To Net: NetName=AGND Pin=J1-32
+Added Pin To Net: NetName=S1Q2 Pin=J1-34
+Added Pin To Net: NetName=AGND Pin=J1-36
+Added Pin To Net: NetName=RG Pin=J1-38
+Added Pin To Net: NetName=AGND Pin=J1-40

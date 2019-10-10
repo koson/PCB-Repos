@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=U8 Old Footprint=THALER 8-PIN SOP New Footprint=NSO8_M
+Change Component Comment : Designator=J5 Old Comment=QMSS-078-01-X-D-EM2-PC4 New Comment=QMSS-EM-PC4
+Change Component Comment : Designator=U8 Old Comment=VRE3401 New Comment=4.096V +/-0.5ppm
+Added Component: Designator=C60(SMD_0805)
+Added Component: Designator=C61(SMD_0805)
+Added Pin To Net: NetName=4.096VREF Pin=C7-2
+Added Pin To Net: NetName=A Pin=C60-1
+Added Pin To Net: NetName=+12V Pin=C60-2
+Added Pin To Net: NetName=A Pin=C61-1
+Added Pin To Net: NetName=NetC61_2 Pin=C61-2
+Added Pin To Net: NetName=NetC61_2 Pin=U8-3
+Added Net: Name=NetC61_2
+Added Member To Class: ClassName=Analog Member=Component C60 Cap SMD
+Added Member To Class: ClassName=Analog Member=Component C61 Cap SMD

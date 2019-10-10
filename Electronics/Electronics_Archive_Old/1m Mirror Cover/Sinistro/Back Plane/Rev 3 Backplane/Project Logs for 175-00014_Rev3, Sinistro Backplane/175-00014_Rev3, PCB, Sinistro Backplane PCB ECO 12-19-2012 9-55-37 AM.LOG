@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC_IMON Pin=P7-140
+Removed Pin From Net: NetName=+5ANA_IMON Pin=P7-142
+Removed Pin From Net: NetName=-5ANA_IMON Pin=P7-144
+Removed Pin From Net: NetName=+12V_MON Pin=P7-148
+Removed Pin From Net: NetName=-12V_IMON Pin=P7-150
+Removed Pin From Net: NetName=+24V_IMON Pin=P7-152
+Removed Pin From Net: NetName=+28V_IMON Pin=P7-154
+Added Pin To Net: NetName=-12V_IMON Pin=P7-140
+Added Pin To Net: NetName=-5ANA_IMON Pin=P7-142
+Added Pin To Net: NetName=+12V_MON Pin=P7-144
+Added Pin To Net: NetName=+5ANA_IMON Pin=P7-148
+Added Pin To Net: NetName=+28V_IMON Pin=P7-150
+Added Pin To Net: NetName=VCC_IMON Pin=P7-152
+Added Pin To Net: NetName=+24V_IMON Pin=P7-154

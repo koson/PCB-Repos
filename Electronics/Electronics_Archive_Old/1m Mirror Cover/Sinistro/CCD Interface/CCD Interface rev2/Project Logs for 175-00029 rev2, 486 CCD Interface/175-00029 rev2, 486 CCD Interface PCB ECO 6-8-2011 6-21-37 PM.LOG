@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=A2OUT Pin=CCD1-B5
+Removed Pin From Net: NetName=A1OUT Pin=CCD1-B17
+Removed Pin From Net: NetName=A3OUT Pin=CCD1-C5
+Removed Pin From Net: NetName=A4OUT Pin=CCD1-C17
+Removed Pin From Net: NetName=VRD Pin=P1-49
+Added Component: Designator=Q1(TO-71)
+Added Component: Designator=Q2(TO-71)
+Added Component: Designator=R9(SMD_0805)
+Added Component: Designator=R10(SMD_0805)
+Added Component: Designator=R11(SMD_0805)
+Added Component: Designator=R12(SMD_0805)
+Added Component: Designator=R13(SMD_0805)
+Added Pin To Net: NetName=A1OUT Pin=Q1-1
+Added Pin To Net: NetName=VOD Pin=Q1-2
+Added Pin To Net: NetName=A4OUT Pin=Q1-5
+Added Pin To Net: NetName=VOD Pin=Q1-6
+Added Pin To Net: NetName=A2OUT Pin=Q2-1
+Added Pin To Net: NetName=VOD Pin=Q2-2
+Added Pin To Net: NetName=A3OUT Pin=Q2-5
+Added Pin To Net: NetName=VOD Pin=Q2-6
+Added Pin To Net: NetName=AGND Pin=R9-1
+Added Pin To Net: NetName=AGND Pin=R10-1
+Added Pin To Net: NetName=VRD Pin=R11-1
+Added Pin To Net: NetName=AGND Pin=R12-1
+Added Pin To Net: NetName=AGND Pin=R13-1
+Added Pin To Net: NetName=NetCCD1_B5 Pin=CCD1-B5
+Added Pin To Net: NetName=NetCCD1_B5 Pin=Q2-3
+Added Pin To Net: NetName=NetCCD1_B5 Pin=R13-2
+Added Net: Name=NetCCD1_B5
+Added Pin To Net: NetName=NetCCD1_B17 Pin=CCD1-B17
+Added Pin To Net: NetName=NetCCD1_B17 Pin=Q1-3
+Added Pin To Net: NetName=NetCCD1_B17 Pin=R10-2
+Added Net: Name=NetCCD1_B17
+Added Pin To Net: NetName=NetCCD1_C5 Pin=CCD1-C5
+Added Pin To Net: NetName=NetCCD1_C5 Pin=Q2-7
+Added Pin To Net: NetName=NetCCD1_C5 Pin=R12-2
+Added Net: Name=NetCCD1_C5
+Added Pin To Net: NetName=NetCCD1_C17 Pin=CCD1-C17
+Added Pin To Net: NetName=NetCCD1_C17 Pin=Q1-7
+Added Pin To Net: NetName=NetCCD1_C17 Pin=R9-2
+Added Net: Name=NetCCD1_C17
+Added Pin To Net: NetName=NetP1_49 Pin=P1-49
+Added Pin To Net: NetName=NetP1_49 Pin=R11-2
+Added Net: Name=NetP1_49
+Change Class Name : Old Net Name=486 board New Net Name=780-00033 rev 2, 486 CCD Interface
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component Q1 IFN860
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component Q2 IFN860
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component R9 Res 0805
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component R10 Res 0805
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component R11 Res 0805
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component R12 Res 0805
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component R13 Res 0805
+Added Room: Name=780-00033 rev 2, 486 CCD Interface

@@ -1,0 +1,68 @@
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C33
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C34
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C35
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C36
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part P3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C33
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C34
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C35
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C36
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part P3
+Removed Parameter PackageReference:RAD-0.3 from Part C33
+Removed Parameter PackageReference:RAD-0.3 from Part C34
+Removed Parameter PackageReference:RAD-0.3 from Part C35
+Removed Parameter PackageReference:RAD-0.3 from Part C36
+Removed Parameter Published:8-Jun-2000 from Part C33
+Removed Parameter Published:8-Jun-2000 from Part C34
+Removed Parameter Published:8-Jun-2000 from Part C35
+Removed Parameter Published:8-Jun-2000 from Part C36
+Removed Parameter Publisher:Altium Limited from Part C33
+Removed Parameter Publisher:Altium Limited from Part C34
+Removed Parameter Publisher:Altium Limited from Part C35
+Removed Parameter Publisher:Altium Limited from Part C36
+Removed Parameter Publisher:Altium Limited from Part P3
+Added Parameter COST= to Part C33
+Added Parameter COST= to Part C34
+Added Parameter COST= to Part C35
+Added Parameter COST= to Part C36
+Added Parameter COST= to Part P3
+Added Parameter COST= to Part U13
+Added Parameter COST= to Part U16
+Added Parameter Manufacturer= to Part C33
+Added Parameter Manufacturer= to Part C34
+Added Parameter Manufacturer= to Part C35
+Added Parameter Manufacturer= to Part C36
+Added Parameter Manufacturer= to Part P3
+Added Parameter Manufacturer= to Part U13
+Added Parameter Manufacturer= to Part U16
+Added Parameter Manuf p/n= to Part C33
+Added Parameter Manuf p/n= to Part C34
+Added Parameter Manuf p/n= to Part C35
+Added Parameter Manuf p/n= to Part C36
+Added Parameter Manuf p/n= to Part P3
+Added Parameter Manuf p/n= to Part U13
+Added Parameter Manuf p/n= to Part U16
+Added Parameter Value=MAX1258 to Part U13
+Added Parameter Value=MAX1258 to Part U16
+Added Parameter Value= to Part P3
+Added Parameter Vendor= to Part C33
+Added Parameter Vendor= to Part C34
+Added Parameter Vendor= to Part C35
+Added Parameter Vendor= to Part C36
+Added Parameter Vendor= to Part P3
+Added Parameter Vendor= to Part U13
+Added Parameter Vendor= to Part U16
+Added Parameter Vendor p/n= to Part C33
+Added Parameter Vendor p/n= to Part C34
+Added Parameter Vendor p/n= to Part C35
+Added Parameter Vendor p/n= to Part C36
+Added Parameter Vendor p/n= to Part P3
+Added Parameter Vendor p/n= to Part U13
+Added Parameter Vendor p/n= to Part U16
+Added Parameter Voltage= to Part C33
+Added Parameter Voltage= to Part C34
+Added Parameter Voltage= to Part C35
+Added Parameter Voltage= to Part C36
+Added Parameter Voltage= to Part P3
+Added Parameter Voltage= to Part U13
+Added Parameter Voltage= to Part U16

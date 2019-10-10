@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=A Pin=C1D-NEG
+Removed Pin From Net: NetName=NetC1D_pos Pin=C1D-POS
+Removed Member From Class: ClassName=Reset Gate Member=C1B
+Removed Member From Class: ClassName=SerialPhase7 Member=C1M
+Removed Member From Class: ClassName=Reset Gate Member=C2B
+Removed Member From Class: ClassName=SerialPhase7 Member=C2M
+Removed Member From Class: ClassName=Reset Gate Member=C3B
+Removed Member From Class: ClassName=SerialPhase7 Member=C3M
+Removed Member From Class: ClassName=Reset Gate Member=C4B
+Removed Member From Class: ClassName=SerialPhase7 Member=C4M
+Removed Member From Class: ClassName=Reset Gate Member=L1B
+Removed Member From Class: ClassName=SerialPhase7 Member=L1M
+Removed Member From Class: ClassName=Reset Gate Member=L2B
+Removed Member From Class: ClassName=SerialPhase7 Member=L2M
+Removed Member From Class: ClassName=Reset Gate Member=R1B
+Removed Member From Class: ClassName=SerialPhase7 Member=R1M
+Removed Member From Class: ClassName=Reset Gate Member=R2B
+Removed Member From Class: ClassName=SerialPhase7 Member=R2M
+Removed Member From Class: ClassName=Reset Gate Member=TP3B
+Removed Member From Class: ClassName=SerialPhase7 Member=TP3M
+Removed Member From Class: ClassName=Reset Gate Member=U1B
+Removed Member From Class: ClassName=SerialPhase7 Member=U1M
+Removed Member From Class: ClassName=Reset Gate Member=U2B
+Removed Member From Class: ClassName=SerialPhase7 Member=U2M
+Removed Member From Class: ClassName=Reset Gate Member=U3B
+Removed Member From Class: ClassName=SerialPhase7 Member=U3M
+Change Component Comment : Designator=C1D Old Comment=35V New Comment=0.1uF
+Change Component Designator: OldDesignator=C1D NewDesignator=C12
+Added Component: Designator=C1D(SMD_CAP_7343)
+Added Pin To Net: NetName=A Pin=C1D-NEG
+Added Pin To Net: NetName=NetC1D_pos Pin=C1D-POS
+Added Member To Class: ClassName=CPLD board Member=Component C12 0.1uF

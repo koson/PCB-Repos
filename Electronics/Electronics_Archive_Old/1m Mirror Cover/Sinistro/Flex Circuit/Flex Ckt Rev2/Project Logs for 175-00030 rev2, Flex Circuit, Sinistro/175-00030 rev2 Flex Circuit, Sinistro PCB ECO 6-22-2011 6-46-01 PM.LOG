@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=P3B New Net Name=P3A
+Added Pin To Net: NetName=P2A Pin=J2-hh
+Added Net: Name=P2A
+Added Pin To Net: NetName=TGA Pin=J2-pp
+Added Net: Name=TGA

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=POSV_ON Pin=Q7-1
+Removed Pin From Net: NetName=GND Pin=Q7-3
+Removed Pin From Net: NetName=SPLY_DLY Pin=Q8-2
+Removed Pin From Net: NetName=GND Pin=Q8-3
+Change Component DesignItemId : Designator=Q7 Old DesignItemId=MOSFET-N New DesignItemId=MOSFET-N SOT23
+Change Component DesignItemId : Designator=Q8 Old DesignItemId=MOSFET-N New DesignItemId=MOSFET-N SOT23
+Change Component Comment : Designator=Q7 Old Comment=ZXMN3B14FTA New Comment=MOSFET-N SOT23
+Change Component Comment : Designator=Q8 Old Comment=ZXMN3B14FTA New Comment=MOSFET-N SOT23
+Change Component Description : Designator=Q7 Old Description=N-Channel MOSFET New Description=N Chan MOSFET LOGIC LEVEL
+Change Component Description : Designator=Q8 Old Description=N-Channel MOSFET New Description=N Chan MOSFET LOGIC LEVEL
+Change Component Library : Designator=Q7 Old Library=Miscellaneous Devices.IntLib New Library=Richs Schematic Components.SchLib
+Change Component Library : Designator=Q8 Old Library=Miscellaneous Devices.IntLib New Library=Richs Schematic Components.SchLib
+Added Component: Designator=Q1(SMD_SOT23_3)
+Added Pin To Net: NetName=~CS_SLOT Pin=Q1-1
+Added Pin To Net: NetName=+3.3V_BKPL Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=POSV_ON Pin=Q7-3
+Added Pin To Net: NetName=SPLY_DLY Pin=Q8-1
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q8-3
+Added Pin To Net: NetName=NetQ7_1 Pin=R11-1
+Added Net: Name=NetQ7_1
+Added Member To Class: ClassName=780-00028_rev3_Pg1, Sinistro Power Supply Member=Component Q1 FDV304P

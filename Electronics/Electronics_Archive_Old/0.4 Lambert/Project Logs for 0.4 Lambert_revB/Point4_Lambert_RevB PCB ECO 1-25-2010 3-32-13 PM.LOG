@@ -1,0 +1,7 @@
+Change Component Description : Designator=P3 Old Description=Phoenix M12, 4 Pos, PCB New Description=Phoenix M12, 5 Pos, PCB
+Change Component Description : Designator=P4 Old Description=Phoenix M12, 4 Pos, PCB New Description=Phoenix M12, 5 Pos, PCB
+Change Component Description : Designator=P5 Old Description=Phoenix M12, 4 Pos, PCB New Description=Phoenix M12, 5 Pos, PCB
+Change Component Library : Designator=U7 Old Library=DJAHNG_Library_1.SchLib New Library=Richs Schematic Components.SchLib
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P5-5

@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=NetC54_1 Pin=Q5-1
+Removed Pin From Net: NetName=IR_STRIP Pin=Q5-3
+Removed Pin From Net: NetName=NetC55_1 Pin=Q6-1
+Removed Pin From Net: NetName=UV_STRIP Pin=Q6-3
+Removed Pin From Net: NetName=5V Pin=R7-2
+Removed Pin From Net: NetName=IR_STRIP Pin=U1-42
+Removed Pin From Net: NetName=~HOME Pin=U1-100
+Removed Pin From Net: NetName=DIRECTION Pin=U13-54
+Removed Pin From Net: NetName=STEP Pin=U13-56
+Removed Pin From Net: NetName=NetR18_1 Pin=U15-1
+Removed Pin From Net: NetName=GND Pin=U15-2
+Removed Pin From Net: NetName=STOWED_NC Pin=U15-3
+Removed Pin From Net: NetName=STOWED_1 Pin=U15-14
+Removed Pin From Net: NetName=LIGHTBAR+ Pin=U15-16
+Change Component Footprint: Designator=Q5 Old Footprint=SOT23 New Footprint=SOT-23B
+Change Component Footprint: Designator=Q6 Old Footprint=SOT23 New Footprint=SOT-23B
+Change Component Comment : Designator=Q6 Old Comment=2N7002 New Comment=ZXMN3B14FTA
+Change Component Comment : Designator=Q5 Old Comment=2N7002 New Comment=ZXMN3B14FTA
+Added Component: Designator=F2(SMD_1206)
+Added Component: Designator=Q8(SOT-23B)
+Added Component: Designator=Q9(SOT-23B)
+Added Component: Designator=Q10(SOT-23B)
+Added Component: Designator=R29(2012[0805])
+Added Component: Designator=R30(2012[0805])
+Added Component: Designator=R31(2012[0805])
+Added Pin To Net: NetName=5V Pin=F2-1
+Added Pin To Net: NetName=IR_STRIP Pin=Q5-1
+Added Pin To Net: NetName=NetC54_1 Pin=Q5-3
+Added Pin To Net: NetName=UV_STRIP Pin=Q6-1
+Added Pin To Net: NetName=NetC55_1 Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=STEP Pin=Q8-3
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=DIRECTION Pin=Q9-3
+Added Pin To Net: NetName=GND Pin=Q10-1
+Added Pin To Net: NetName=GND Pin=Q10-2
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=~HOME Pin=U1-42
+Added Pin To Net: NetName=IR_STRIP Pin=U1-100
+Added Pin To Net: NetName=STOWED_NC Pin=U15-1
+Added Pin To Net: NetName=NetR18_1 Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U15-4
+Added Pin To Net: NetName=LIGHTBAR+ Pin=U15-14
+Added Pin To Net: NetName=STOWED_1 Pin=U15-16
+Added Pin To Net: NetName=ENABLE Pin=J2-14
+Added Pin To Net: NetName=ENABLE Pin=Q10-3
+Added Net: Name=ENABLE
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=J2-4
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Pin To Net: NetName=NetJ2_7 Pin=R22-2
+Added Net: Name=NetJ2_7
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R29-2
+Added Pin To Net: NetName=NetQ8_1 Pin=U13-56
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R30-2
+Added Pin To Net: NetName=NetQ9_1 Pin=U13-54
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetU15_2 Pin=U15-2
+Added Pin To Net: NetName=NetU15_2 Pin=U16-1
+Added Net: Name=NetU15_2
+Added Member To Class: ClassName=Top_Level_IO Member=Component F2 Res 0805
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component Q8 ZXMN3B14FTA
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component Q9 ZXMN3B14FTA
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component Q10 ZXMN3B14FTA
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component R29 330k
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component R30 330k
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component R31 330k

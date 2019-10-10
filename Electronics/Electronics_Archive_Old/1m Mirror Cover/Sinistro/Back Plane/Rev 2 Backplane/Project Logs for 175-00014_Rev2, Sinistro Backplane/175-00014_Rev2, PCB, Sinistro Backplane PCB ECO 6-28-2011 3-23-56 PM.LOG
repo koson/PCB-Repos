@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=S2Q3_DRV Pin=P2-aa
+Removed Pin From Net: NetName=HEATER(+) Pin=P2-A
+Removed Pin From Net: NetName=S3_DRV Pin=P2-bb
+Removed Pin From Net: NetName=P2B_DRV Pin=P2-B
+Removed Pin From Net: NetName=S1Q2_DRV Pin=P2-cc
+Removed Pin From Net: NetName=A3OUT Pin=P2-C
+Removed Pin From Net: NetName=RTDF(-) Pin=P2-dd
+Removed Pin From Net: NetName=COLDBLK(+) Pin=P2-D
+Removed Pin From Net: NetName=S2Q1_DRV Pin=P2-ee
+Removed Pin From Net: NetName=COLDBLK(-) Pin=P2-E
+Removed Pin From Net: NetName=TGA_DRV Pin=P2-ff
+Removed Pin From Net: NetName=A2OUT Pin=P2-F
+Removed Pin From Net: NetName=RTD_CB(-) Pin=P2-G
+Removed Pin From Net: NetName=P2A_DRV Pin=P2-gg
+Removed Pin From Net: NetName=P1B_DRV Pin=P2-hh
+Removed Pin From Net: NetName=P3B_DRV Pin=P2-ii
+Removed Pin From Net: NetName=S1Q3_DRV Pin=P2-J
+Removed Pin From Net: NetName=VOD Pin=P2-jj
+Removed Pin From Net: NetName=RG_DRV Pin=P2-K
+Removed Pin From Net: NetName=TGB_DRV Pin=P2-kk
+Removed Pin From Net: NetName=SG_DRV Pin=P2-L
+Removed Pin From Net: NetName=S1Q1_DRV Pin=P2-M
+Removed Pin From Net: NetName=P3A_DRV Pin=P2-mm
+Removed Pin From Net: NetName=RTDS(+) Pin=P2-N
+Removed Pin From Net: NetName=P1A_DRV Pin=P2-nn
+Removed Pin From Net: NetName=RTDS(-) Pin=P2-P
+Removed Pin From Net: NetName=A Pin=P2-pp
+Removed Pin From Net: NetName=A Pin=P2-qq
+Removed Pin From Net: NetName=S1Q4_DRV Pin=P2-R
+Removed Pin From Net: NetName=A Pin=P2-rr
+Removed Pin From Net: NetName=S2Q4_DRV Pin=P2-S
+Removed Pin From Net: NetName=A Pin=P2-ss
+Removed Pin From Net: NetName=A1OUT Pin=P2-T
+Removed Pin From Net: NetName=A Pin=P2-tt
+Removed Pin From Net: NetName=RTDF(+) Pin=P2-U
+Removed Pin From Net: NetName=A4OUT Pin=P2-V
+Removed Pin From Net: NetName=HEATER(-) Pin=P2-W
+Removed Pin From Net: NetName=VOG Pin=P2-X
+Removed Pin From Net: NetName=VRD Pin=P2-Y
+Removed Pin From Net: NetName=S2Q2_DRV Pin=P2-Z
+Change Component Comment : Designator=P4 Old Comment= New Comment=QFSS-PC4
+Change Component Comment : Designator=P5 Old Comment= New Comment=QFSS-PC4
+Change Component Comment : Designator=P6 Old Comment= New Comment=QFSS-PC4
+Change Component Comment : Designator=P7 Old Comment= New Comment=QFSS-PC4
+Change Component Comment : Designator=R3 Old Comment=50 ppm New Comment=+/- 1ppm
+Change Component Comment : Designator=R12 Old Comment=50 ppm New Comment=+/- 1ppm
+Added Pin To Net: NetName=COLDBLK(-) Pin=P2-aa
+Added Pin To Net: NetName=VOG Pin=P2-A
+Added Pin To Net: NetName=RTD_CB(-) Pin=P2-bb
+Added Pin To Net: NetName=A1OUT Pin=P2-B
+Added Pin To Net: NetName=HEATER(+) Pin=P2-C
+Added Pin To Net: NetName=RTDS(+) Pin=P2-D
+Added Pin To Net: NetName=RTDS(-) Pin=P2-E
+Added Pin To Net: NetName=RTDF(+) Pin=P2-F
+Added Pin To Net: NetName=RTDF(-) Pin=P2-G
+Added Pin To Net: NetName=A3OUT Pin=P2-jj
+Added Pin To Net: NetName=A4OUT Pin=P2-kk
+Added Pin To Net: NetName=RG Pin=P2-M
+Added Pin To Net: NetName=S3 Pin=P2-N
+Added Pin To Net: NetName=SG Pin=P2-P
+Added Pin To Net: NetName=VRD Pin=P2-V
+Added Pin To Net: NetName=A2OUT Pin=P2-W
+Added Pin To Net: NetName=VOD Pin=P2-X
+Added Pin To Net: NetName=HEATER(-) Pin=P2-Y
+Added Pin To Net: NetName=COLDBLK(+) Pin=P2-Z
+Added Pin To Net: NetName=AGND Pin=P2-cc
+Added Pin To Net: NetName=AGND Pin=P2-J
+Added Pin To Net: NetName=AGND Pin=P2-mm
+Added Pin To Net: NetName=AGND Pin=P2-nn
+Added Pin To Net: NetName=AGND Pin=P2-tt
+Added Net: Name=AGND
+Added Pin To Net: NetName=P1A Pin=P2-U
+Added Net: Name=P1A
+Added Pin To Net: NetName=P1B Pin=P2-T
+Added Net: Name=P1B
+Added Pin To Net: NetName=P2A Pin=P2-ii
+Added Net: Name=P2A
+Added Pin To Net: NetName=P2B Pin=P2-hh
+Added Net: Name=P2B
+Added Pin To Net: NetName=P3A Pin=P2-ss
+Added Net: Name=P3A
+Added Pin To Net: NetName=P3B Pin=P2-rr
+Added Net: Name=P3B
+Added Pin To Net: NetName=S1Q1 Pin=P2-K
+Added Net: Name=S1Q1
+Added Pin To Net: NetName=S1Q2 Pin=P2-L
+Added Net: Name=S1Q2
+Added Pin To Net: NetName=S1Q3 Pin=P2-R
+Added Net: Name=S1Q3
+Added Pin To Net: NetName=S1Q4 Pin=P2-S
+Added Net: Name=S1Q4
+Added Pin To Net: NetName=S2Q1 Pin=P2-dd
+Added Net: Name=S2Q1
+Added Pin To Net: NetName=S2Q2 Pin=P2-ee
+Added Net: Name=S2Q2
+Added Pin To Net: NetName=S2Q3 Pin=P2-ff
+Added Net: Name=S2Q3
+Added Pin To Net: NetName=S2Q4 Pin=P2-gg
+Added Net: Name=S2Q4
+Added Pin To Net: NetName=TGA Pin=P2-pp
+Added Net: Name=TGA
+Added Pin To Net: NetName=TGB Pin=P2-qq
+Added Net: Name=TGB
+Change Class Name : Old Net Name=Sinistro Backplane Page1 New Net Name=780-00018_rev2_Pg1
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component P2 MS3116-20-41
+Added Room: Name=780-00018_rev2_Pg1

@@ -1,0 +1,28 @@
+Remove Pin=J2-1 From Net=PH_CLK
+Remove Pin=J2-2 From Net=PH_CLK
+Remove Pin=J2-3 From Net=PH_CLK
+Remove Pin=J2-4 From Net=PH_CLK
+Remove Pin=J2-5 From Net=PH_CLK
+Remove Pin=J2-6 From Net=PH_CLK
+Remove Pin=J2-7 From Net=PH_CLK
+Remove Pin=J2-8 From Net=PH_CLK
+Remove Pin=J2-9 From Net=PH_CLK
+Remove Pin=J2-10 From Net=PH_CLK
+Remove Pin=J2-12 From Net=PH_CLK
+Remove Pin=J2-13 From Net=PH_CLK
+Remove Pin=J2-14 From Net=PH_CLK
+Remove Pin=J2-15 From Net=PH_CLK
+Add Pin To Net: Pin=J2-1 Old Net=PH_CLK New Net=PH_CLK12
+Add Pin To Net: Pin=J2-2 Old Net=PH_CLK New Net=PH_CLK1
+Add Pin To Net: Pin=J2-3 Old Net=PH_CLK New Net=PH_CLK5
+Add Pin To Net: Pin=J2-4 Old Net=PH_CLK New Net=PH_CLK2
+Add Pin To Net: Pin=J2-5 Old Net=PH_CLK New Net=PH_CLK13
+Add Pin To Net: Pin=J2-6 Old Net=PH_CLK New Net=PH_CLK3
+Add Pin To Net: Pin=J2-7 Old Net=PH_CLK New Net=PH_CLK15
+Add Pin To Net: Pin=J2-8 Old Net=PH_CLK New Net=PH_CLK4
+Add Pin To Net: Pin=J2-9 Old Net=PH_CLK New Net=PH_CLK10
+Add Pin To Net: Pin=J2-10 Old Net=PH_CLK New Net=PH_CLK14
+Add Pin To Net: Pin=J2-12 Old Net=PH_CLK New Net=PH_CLK7
+Add Pin To Net: Pin=J2-13 Old Net=PH_CLK New Net=PH_CLK6
+Add Pin To Net: Pin=J2-14 Old Net=PH_CLK New Net=PH_CLK8
+Add Pin To Net: Pin=J2-15 Old Net=PH_CLK New Net=PH_CLK9

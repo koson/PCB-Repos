@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=COLDBLK(-) Pin=J2-aa
+Added Pin To Net: NetName=COLDBLK(+) Pin=J2-Z
+Added Pin To Net: NetName=HEATER(-) Pin=J2-Y
+Added Net: Name=HEATER(-)

@@ -1,0 +1,8 @@
+Added Component: Designator=P2(HDR1X6 for IDC)
+Added Pin To Net: NetName=STEP Pin=P2-1
+Added Pin To Net: NetName=DIRECTION Pin=P2-2
+Added Pin To Net: NetName=ENABLE Pin=P2-3
+Added Pin To Net: NetName=OPTO_REF Pin=P2-4
+Added Pin To Net: NetName=24V Pin=P2-5
+Added Pin To Net: NetName=24VRTN Pin=P2-6
+Added Member To Class: ClassName=Lambert_interconnect Member=Component P2 Header 6

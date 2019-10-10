@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=~DRDY1 Pin=U6A-17
+Added Pin To Net: NetName=DOUT1 Pin=U6A-18
+Added Pin To Net: NetName=~DRDY2 Pin=U6B-17
+Added Pin To Net: NetName=DOUT2 Pin=U6B-18
+Added Pin To Net: NetName=~DRDY3 Pin=U9A-17
+Added Pin To Net: NetName=DOUT3 Pin=U9A-18
+Added Pin To Net: NetName=~DRDY4 Pin=U9B-17
+Added Pin To Net: NetName=DOUT4 Pin=U9B-18

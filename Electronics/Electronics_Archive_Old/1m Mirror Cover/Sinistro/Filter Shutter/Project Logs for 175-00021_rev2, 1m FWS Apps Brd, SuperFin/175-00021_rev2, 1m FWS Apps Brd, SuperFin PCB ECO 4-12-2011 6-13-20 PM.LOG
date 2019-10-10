@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=I2C_SDA Pin=P8-17
+Removed Pin From Net: NetName=I2C_SCL Pin=P8-18
+Removed Pin From Net: NetName=QUADA4+ Pin=P8-20
+Removed Pin From Net: NetName=QUADA4- Pin=P8-21
+Removed Pin From Net: NetName=QUADB4+ Pin=P8-22
+Removed Pin From Net: NetName=QUADB4- Pin=P8-23
+Removed Pin From Net: NetName=INDEX4+ Pin=P8-24
+Removed Pin From Net: NetName=INDEX4- Pin=P8-25
+Removed Pin From Net: NetName=+5V Pin=P9-17
+Removed Pin From Net: NetName=+5V Pin=P9-18
+Removed Pin From Net: NetName=+5V Pin=P9-19
+Removed Pin From Net: NetName=+3.3V Pin=P9-20
+Removed Pin From Net: NetName=+3.3V Pin=P9-21
+Removed Pin From Net: NetName=+3.3V Pin=P9-22
+Removed Pin From Net: NetName=GND Pin=P9-23
+Removed Pin From Net: NetName=GND Pin=P9-24
+Removed Pin From Net: NetName=GND Pin=P9-25
+Added Pin To Net: NetName=+5V Pin=P8-17
+Added Pin To Net: NetName=+5V Pin=P8-18
+Added Pin To Net: NetName=+5V Pin=P8-19
+Added Pin To Net: NetName=+3.3V Pin=P8-20
+Added Pin To Net: NetName=+3.3V Pin=P8-21
+Added Pin To Net: NetName=+3.3V Pin=P8-22
+Added Pin To Net: NetName=GND Pin=P8-23
+Added Pin To Net: NetName=GND Pin=P8-24
+Added Pin To Net: NetName=GND Pin=P8-25
+Added Pin To Net: NetName=QUADA4+ Pin=P9-20
+Added Pin To Net: NetName=QUADA4- Pin=P9-21
+Added Pin To Net: NetName=QUADB4+ Pin=P9-22
+Added Pin To Net: NetName=QUADB4- Pin=P9-23
+Added Pin To Net: NetName=INDEX4+ Pin=P9-24
+Added Pin To Net: NetName=INDEX4- Pin=P9-25
+Added Pin To Net: NetName=SCL Pin=P9-19
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P9-18
+Added Net: Name=SDA
+Change Class Name : Old Net Name=780-00026_rev1,Pg1, 1m FWS Apps Board, SuperFin New Net Name=780-00026_rev2,Pg1, 1m FWS Apps Board, SuperFin
+Added Room: Name=780-00026_rev2,Pg1, 1m FWS Apps Board, SuperFin

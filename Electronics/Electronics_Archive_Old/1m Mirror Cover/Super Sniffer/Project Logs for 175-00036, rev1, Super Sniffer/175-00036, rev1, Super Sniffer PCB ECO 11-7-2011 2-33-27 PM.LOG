@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-1
+Removed Pin From Net: NetName=NetD2_2 Pin=D2-2
+Removed Pin From Net: NetName=NetD11_1 Pin=D11-1
+Removed Pin From Net: NetName=NetD11_2 Pin=D11-2
+Removed Pin From Net: NetName=NetD13_1 Pin=D13-1
+Removed Pin From Net: NetName=NetD13_2 Pin=D13-2
+Removed Pin From Net: NetName=NetD11_2 Pin=D14-1
+Removed Pin From Net: NetName=NetD11_1 Pin=D14-2
+Removed Pin From Net: NetName=NetD16_1 Pin=D16-1
+Removed Pin From Net: NetName=NetD16_2 Pin=D16-2
+Removed Pin From Net: NetName=NetD22_1 Pin=D22-1
+Removed Pin From Net: NetName=NetD22_2 Pin=D22-2
+Removed Pin From Net: NetName=NetD25_1 Pin=D25-1
+Removed Pin From Net: NetName=NetD25_2 Pin=D25-2
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D11 NewDesignator=D13
+Change Component Designator: OldDesignator=D13 NewDesignator=D11
+Change Component Designator: OldDesignator=D14 NewDesignator=D16
+Change Component Designator: OldDesignator=D16 NewDesignator=D14
+Change Component Designator: OldDesignator=D22 NewDesignator=D25
+Change Component Designator: OldDesignator=D25 NewDesignator=D22
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD11_2 Pin=D14-1
+Added Pin To Net: NetName=NetD11_1 Pin=D14-2
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D2 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D13 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D16 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D25 LED SMD 0402

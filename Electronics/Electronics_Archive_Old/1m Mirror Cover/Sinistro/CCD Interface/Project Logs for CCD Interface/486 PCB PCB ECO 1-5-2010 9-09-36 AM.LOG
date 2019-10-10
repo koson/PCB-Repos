@@ -1,0 +1,49 @@
+Added Component: Designator=C1(SMD_0805)
+Added Component: Designator=C2(SMD_0805)
+Added Component: Designator=C3(SMD_0805)
+Added Component: Designator=C4(SMD_0805)
+Added Component: Designator=C5(SMD_0805)
+Added Component: Designator=C6(SMD_0805)
+Added Component: Designator=C7(SMD_0805)
+Added Component: Designator=C8(SMD_0805)
+Added Component: Designator=C9(SMD_0805)
+Added Component: Designator=C10(SMD_0805)
+Added Component: Designator=C11(SMD_0805)
+Added Component: Designator=C12(SMD_0805)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VOD Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VOD Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VOD Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VOD Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VOG Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VOG Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VOG Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VOG Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VRD Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VRD Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VRD Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VRD Pin=C12-2
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Added Member To Class: ClassName=486 board Member=Component C1 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C2 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C3 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C4 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C5 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C6 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C7 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C8 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C9 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C10 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C11 Cap SMD
+Added Member To Class: ClassName=486 board Member=Component C12 Cap SMD

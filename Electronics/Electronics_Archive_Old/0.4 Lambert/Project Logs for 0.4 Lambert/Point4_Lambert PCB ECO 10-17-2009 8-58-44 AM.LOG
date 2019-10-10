@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC25_1 Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=5V Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=5V Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=VCC Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Change Component Footprint: Designator=C25 Old Footprint=1608[0603] New Footprint=SMD_0805
+Change Component Footprint: Designator=C26 Old Footprint=1608[0603] New Footprint=SMD_0805
+Change Component Footprint: Designator=C28 Old Footprint=1608[0603] New Footprint=SMD_0805
+Change Component Footprint: Designator=C30 Old Footprint=1608[0603] New Footprint=SMD_0805
+Change Component Footprint: Designator=C27 Old Footprint=1608[0603] New Footprint=SMD_CAP_3216
+Change Component Footprint: Designator=C29 Old Footprint=1608[0603] New Footprint=SMD_CAP_3216
+Change Component Comment : Designator=C29 Old Comment=Cap New Comment=15V
+Change Component Comment : Designator=C27 Old Comment=Cap New Comment=15V
+Change Component Comment : Designator=C30 Old Comment=Cap New Comment=Cap SMD
+Change Component Comment : Designator=C28 Old Comment=Cap New Comment=Cap SMD
+Change Component Comment : Designator=C26 Old Comment=Cap New Comment=Cap SMD
+Change Component Comment : Designator=C25 Old Comment=Cap New Comment=Cap SMD
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=5V Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=5V Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=VCC Pin=C30-2
+Change Net Name : Old Net Name=NetC25_1 New Net Name=NetC25_2

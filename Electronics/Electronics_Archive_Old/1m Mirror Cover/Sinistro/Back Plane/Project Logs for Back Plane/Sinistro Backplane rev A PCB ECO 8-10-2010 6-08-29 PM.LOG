@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=RTDF(+) Pin=Q1-3
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=+12V Pin=Q1-4
+Removed Pin From Net: NetName=RTD_CB(+) Pin=Q3-3
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Removed Pin From Net: NetName=+12V Pin=Q3-4
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=KSH31 New DesignItemId=2N3904
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=KSH31 New DesignItemId=2N3904
+Change Component Footprint: Designator=Q1 Old Footprint=TO-252(D-PAK)  PowerPAD New Footprint=SOT23
+Change Component Footprint: Designator=Q3 Old Footprint=TO-252(D-PAK)  PowerPAD New Footprint=SOT23
+Change Component Comment : Designator=Q1 Old Comment=KSH31 New Comment=2N3904
+Change Component Comment : Designator=Q3 Old Comment=KSH31 New Comment=2N3904
+Added Pin To Net: NetName=+12V Pin=Q1-1
+Added Pin To Net: NetName=RTDF(+) Pin=Q1-2
+Added Pin To Net: NetName=+12V Pin=Q3-1
+Added Pin To Net: NetName=RTD_CB(+) Pin=Q3-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=U1-6
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=U6-6
+Added Net: Name=NetQ3_3

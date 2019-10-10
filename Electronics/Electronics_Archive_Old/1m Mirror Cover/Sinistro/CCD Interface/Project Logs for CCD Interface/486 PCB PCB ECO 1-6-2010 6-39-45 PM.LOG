@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=AGND Pin=C8-1
+Removed Pin From Net: NetName=VOG Pin=C8-2
+Removed Member From Class: ClassName=486 board Member=C8

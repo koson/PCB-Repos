@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CW_NC Pin=P1-4
+Removed Pin From Net: NetName=CW_NO Pin=P1-5
+Removed Pin From Net: NetName=CCW_WIPER Pin=P1-6
+Removed Pin From Net: NetName=DC_MOTOR_POS Pin=P1-7
+Removed Pin From Net: NetName=DC_MOTOR_NEG Pin=P1-8
+Added Component: Designator=P3(HDR1X4 for IDC)
+Added Component: Designator=P4(HDR1X4 for IDC)
+Added Pin To Net: NetName=EARTH Pin=P1-4
+Added Pin To Net: NetName=CW_NC Pin=P1-5
+Added Pin To Net: NetName=CW_NO Pin=P1-6
+Added Pin To Net: NetName=CCW_WIPER Pin=P1-7
+Added Pin To Net: NetName=EARTH Pin=P1-8
+Added Pin To Net: NetName=DC_MOTOR_POS Pin=P1-9
+Added Pin To Net: NetName=DC_MOTOR_NEG Pin=P1-10
+Added Pin To Net: NetName=+24V Pin=P3-1
+Added Pin To Net: NetName=PROX_SENS_1 Pin=P3-2
+Added Pin To Net: NetName=ADD0 Pin=P3-3
+Added Pin To Net: NetName=+24V Pin=P4-1
+Added Pin To Net: NetName=PROX_SENS_2 Pin=P4-2
+Added Pin To Net: NetName=ADD0 Pin=P4-3
+Change Class Name : Old Net Name=U_FPGA_U1_Auto New Net Name=Schematic for PLD program
+Added Member To Class: ClassName=BlackFin board Member=Component P3 Header 4
+Added Member To Class: ClassName=BlackFin board Member=Component P4 Header 4
+Added Room: Name=Schematic for PLD program

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VRD Pin=P1-47
+Added Component: Designator=R11(SMD_0805)
+Added Pin To Net: NetName=VRD Pin=R11-2
+Added Pin To Net: NetName=NetP1_47 Pin=P1-47
+Added Pin To Net: NetName=NetP1_47 Pin=R11-1
+Added Net: Name=NetP1_47
+Added Member To Class: ClassName=780-00033 rev 2, 486 CCD Interface Member=Component R11 Res 0805

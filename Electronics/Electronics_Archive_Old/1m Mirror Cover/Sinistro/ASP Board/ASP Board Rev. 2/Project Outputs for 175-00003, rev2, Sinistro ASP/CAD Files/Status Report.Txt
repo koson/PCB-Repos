@@ -1,0 +1,12 @@
+Output: DrillDrawing
+Type  : Gerber
+From  : PCB Document [175-00003, rev 2, Sinistro ASP.PcbDoc]
+   Generated File[175-00003, rev 2, Sinistro ASP.GD1]
+   Generated File[175-00003, rev 2, Sinistro ASP.EXTREP]
+   Generated File[175-00003, rev 2, Sinistro ASP.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:51:24 AM On 12/24/2012

@@ -1,0 +1,45 @@
+Change Value of Parameter Value in Part C29 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C77 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C78 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C101 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C102 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C104 Old=47uF 6V New=47uF
+Change Value of Parameter Value in Part C107 Old=47uF 6V New=47uF
+Change Value of Parameter Value in Part C109 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C111 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C126 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C127 Old=10uF 6V New=10uF
+Change Value of Parameter Value in Part C136 Old=10uF 6V New=10uF
+Change Value of Parameter COST in Part R21 Old= New=0.081
+Change Value of Parameter Manufacturer in Part R21 Old= New=Vishay
+Change Value of Parameter Manuf p/n in Part R21 Old= New=CRCW060310K0FKEA
+Change Value of Parameter Vendor in Part R21 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part R21 Old= New=541-10.0KHCT-ND
+Change Value of Parameter Manuf p/n in Part R44 Old=CRCW08051K00FNEA New=CRCW08051K00FKEA
+Change Value of Parameter Manuf p/n in Part R46 Old=CRCW08051K00FNEA New=CRCW08051K00FKEA
+Change Value of Parameter Manuf p/n in Part R48 Old=CRCW08051K00FNEA New=CRCW08051K00FKEA
+Change Value of Parameter Manuf p/n in Part R49 Old=CRCW08051K00FNEA New=CRCW08051K00FKEA
+Change Value of Parameter COST in Part R50 Old= New=0.089
+Change Value of Parameter Manufacturer in Part R50 Old= New=Vishay
+Change Value of Parameter Manuf p/n in Part R50 Old= New=CRCW08053K00FKEA
+Change Value of Parameter Vendor in Part R50 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part R50 Old= New=541-3.00KCCT-ND
+Change Value of Parameter COST in Part R51 Old= New=0.089
+Change Value of Parameter Manufacturer in Part R51 Old= New=Vishay
+Change Value of Parameter Manuf p/n in Part R51 Old= New=CRCW08053K00FKEA
+Change Value of Parameter Vendor in Part R51 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part R51 Old= New=541-3.00KCCT-ND
+Change Value of Parameter COST in Part R53 Old= New=0.089
+Change Value of Parameter Manufacturer in Part R53 Old= New=Vishay
+Change Value of Parameter Manuf p/n in Part R53 Old= New=CRCW08053K00FKEA
+Change Value of Parameter Vendor in Part R53 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part R53 Old= New=541-3.00KCCT-ND
+Change Value of Parameter COST in Part R54 Old= New=0.089
+Change Value of Parameter Manufacturer in Part R54 Old= New=Vishay
+Change Value of Parameter Manuf p/n in Part R54 Old= New=CRCW08053K00FKEA
+Change Value of Parameter Vendor in Part R54 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part R54 Old= New=541-3.00KCCT-ND
+Change Value of Parameter COST in Part RN1 Old= New=0.031
+Change Value of Parameter Manuf p/n in Part RN1 Old= New=EXB-38V103JV
+Change Value of Parameter Vendor in Part RN1 Old= New=DigiKey
+Change Value of Parameter Vendor p/n in Part RN1 Old= New=Y9103CT-ND

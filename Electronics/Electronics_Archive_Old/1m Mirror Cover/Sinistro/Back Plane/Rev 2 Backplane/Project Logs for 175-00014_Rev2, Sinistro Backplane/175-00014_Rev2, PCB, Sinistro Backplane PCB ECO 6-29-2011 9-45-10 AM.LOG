@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=U3 Old DesignItemId=MAX6325 New DesignItemId=MAX6350
+Change Component Comment : Designator=U3 Old Comment=2.500V +/-1.5ppm New Comment=5.000V +/-1.5ppm
+Change Component Description : Designator=U3 Old Description=VREF 2.500V 1.5ppm New Description=VREF 5.000V 1.5ppm

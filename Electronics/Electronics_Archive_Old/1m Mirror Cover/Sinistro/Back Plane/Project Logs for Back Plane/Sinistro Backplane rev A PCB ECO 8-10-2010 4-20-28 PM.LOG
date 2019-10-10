@@ -1,0 +1,69 @@
+Added Component: Designator=TP3(SMD_TEST POINT)
+Added Component: Designator=TP4(SMD_TEST POINT)
+Added Component: Designator=TP5(SMD_TEST POINT)
+Added Component: Designator=TP6(SMD_TEST POINT)
+Added Component: Designator=TP7(SMD_TEST POINT)
+Added Component: Designator=TP8(SMD_TEST POINT)
+Added Component: Designator=TP9(SMD_TEST POINT)
+Added Component: Designator=TP10(SMD_TEST POINT)
+Added Component: Designator=TP11(SMD_TEST POINT)
+Added Component: Designator=TP12(SMD_TEST POINT)
+Added Component: Designator=TP13(SMD_TEST POINT)
+Added Component: Designator=TP14(SMD_TEST POINT)
+Added Component: Designator=TP15(SMD_TEST POINT)
+Added Component: Designator=TP16(SMD_TEST POINT)
+Added Component: Designator=TP17(SMD_TEST POINT)
+Added Component: Designator=TP18(SMD_TEST POINT)
+Added Component: Designator=TP19(SMD_TEST POINT)
+Added Component: Designator=TP20(SMD_TEST POINT)
+Added Component: Designator=TP21(SMD_TEST POINT)
+Added Component: Designator=TP22(SMD_TEST POINT)
+Added Component: Designator=TP23(SMD_TEST POINT)
+Added Component: Designator=TP24(SMD_TEST POINT)
+Added Component: Designator=TP25(SMD_TEST POINT)
+Added Pin To Net: NetName=RTDF(-) Pin=TP3-1
+Added Pin To Net: NetName=RTDS(-) Pin=TP4-1
+Added Pin To Net: NetName=HEATER(+) Pin=TP5-1
+Added Pin To Net: NetName=HEATER(-) Pin=TP6-1
+Added Pin To Net: NetName=NetR6_1 Pin=TP7-1
+Added Pin To Net: NetName=RTDF(+) Pin=TP8-1
+Added Pin To Net: NetName=RTDS(+) Pin=TP9-1
+Added Pin To Net: NetName=CCD_TEMP_OUT Pin=TP10-1
+Added Pin To Net: NetName=NetR8_1 Pin=TP11-1
+Added Pin To Net: NetName=RTD_CB(-) Pin=TP12-1
+Added Pin To Net: NetName=COLDBLK(+) Pin=TP13-1
+Added Pin To Net: NetName=COLDBLK(-) Pin=TP14-1
+Added Pin To Net: NetName=+5ANA Pin=TP15-1
+Added Pin To Net: NetName=VCC Pin=TP16-1
+Added Pin To Net: NetName=+24V Pin=TP17-1
+Added Pin To Net: NetName=+28V Pin=TP18-1
+Added Pin To Net: NetName=NetR15_1 Pin=TP19-1
+Added Pin To Net: NetName=RTD_CB(+) Pin=TP20-1
+Added Pin To Net: NetName=CRYO_TEMP_OUT Pin=TP21-1
+Added Pin To Net: NetName=-12V Pin=TP22-1
+Added Pin To Net: NetName=+12V Pin=TP23-1
+Added Pin To Net: NetName=-5ANA Pin=TP24-1
+Added Pin To Net: NetName=FAN_TACH Pin=TP25-1
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP3 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP4 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP5 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP6 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP7 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP8 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP9 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP10 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP11 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP12 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP13 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP14 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP15 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP16 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP17 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP18 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP19 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP20 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP21 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP22 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP23 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP24 Test Point SMD
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component TP25 Test Point SMD

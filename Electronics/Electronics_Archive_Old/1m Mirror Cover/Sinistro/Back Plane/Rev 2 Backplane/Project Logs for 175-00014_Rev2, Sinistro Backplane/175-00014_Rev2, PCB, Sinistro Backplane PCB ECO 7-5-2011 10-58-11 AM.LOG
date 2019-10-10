@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=FAN_TACH Pin=P11-3
+Added Component: Designator=C29(2012[0805])
+Added Component: Designator=R21(SMD_0805)
+Added Component: Designator=R22(SMD_0805)
+Added Component: Designator=R23(SMD_0805)
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=+24V Pin=R21-2
+Added Pin To Net: NetName=FAN_TACH Pin=R23-1
+Added Pin To Net: NetName=FAN_PWM Pin=P7-76
+Added Pin To Net: NetName=FAN_PWM Pin=R21-1
+Added Pin To Net: NetName=FAN_PWM Pin=R22-1
+Added Net: Name=FAN_PWM
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=P11-2
+Added Pin To Net: NetName=NetC29_1 Pin=R22-2
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetP11_3 Pin=P11-3
+Added Pin To Net: NetName=NetP11_3 Pin=R23-2
+Added Net: Name=NetP11_3
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component C29 1u
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R21 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R22 Res 0805
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component R23 Res 0805

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=-5ANA Pin=P7-PC04
+Removed Pin From Net: NetName=+28V Pin=P7-PC05
+Added Pin To Net: NetName=+24V Pin=P7-PC05
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=+12V_ION Pin=P7-PC04
+Added Pin To Net: NetName=+12V_ION Pin=P8-1
+Added Net: Name=+12V_ION

@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=Q7-2
+Removed Pin From Net: NetName=SPLY_DLY Pin=Q9-1
+Removed Pin From Net: NetName=VCC Pin=Q9-2
+Removed Member From Class: ClassName=780-00028_rev3_Pg2, Sinistro Power Supply Member=TP11
+Change Component DesignItemId : Designator=Q9 Old DesignItemId=FDV304P New DesignItemId=MOSFET-N SOT23
+Change Component DesignItemId : Designator=Q7 Old DesignItemId=MOSFET-N SOT23 New DesignItemId=FDV304P
+Change Component Comment : Designator=Q9 Old Comment=FDV304P New Comment=MOSFET-N SOT23
+Change Component Comment : Designator=Q7 Old Comment=MOSFET-N SOT23 New Comment=FDV304P
+Change Component Description : Designator=Q7 Old Description=N Chan MOSFET LOGIC LEVEL New Description=P-MOSFET LOGIC LEVEL
+Change Component Description : Designator=Q9 Old Description=P-MOSFET LOGIC LEVEL New Description=N Chan MOSFET LOGIC LEVEL
+Added Component: Designator=Q10(SMD_SOT23_3)
+Added Component: Designator=Q11(SMD_SOT23_3)
+Added Component: Designator=Q12(SMD_SOT23_3)
+Added Pin To Net: NetName=SPLY_DLY Pin=Q7-1
+Added Pin To Net: NetName=VCC Pin=Q7-2
+Added Pin To Net: NetName=A Pin=Q9-2
+Added Pin To Net: NetName=A Pin=Q10-2
+Added Pin To Net: NetName=SPLY_DLY Pin=Q11-1
+Added Pin To Net: NetName=VCC Pin=Q11-2
+Added Pin To Net: NetName=A Pin=Q12-2
+Added Pin To Net: NetName=+5V_ON Pin=Q2-1
+Added Pin To Net: NetName=+5V_ON Pin=Q9-3
+Added Pin To Net: NetName=+5V_ON Pin=R1-1
+Added Net: Name=+5V_ON
+Added Pin To Net: NetName=+12V_ON Pin=Q3-1
+Added Pin To Net: NetName=+12V_ON Pin=Q12-3
+Added Pin To Net: NetName=+12V_ON Pin=R2-1
+Added Net: Name=+12V_ON
+Added Pin To Net: NetName=+28V_ON Pin=Q10-3
+Added Pin To Net: NetName=+28V_ON Pin=R10-1
+Added Net: Name=+28V_ON
+Added Pin To Net: NetName=-5V_ON Pin=Q5-1
+Added Pin To Net: NetName=-5V_ON Pin=Q7-3
+Added Pin To Net: NetName=-5V_ON Pin=R5-2
+Added Net: Name=-5V_ON
+Added Pin To Net: NetName=-12V_ON Pin=Q4-1
+Added Pin To Net: NetName=-12V_ON Pin=Q11-3
+Added Pin To Net: NetName=-12V_ON Pin=R3-2
+Added Net: Name=-12V_ON
+Added Pin To Net: NetName=~SPLY_DLY Pin=Q8-3
+Added Pin To Net: NetName=~SPLY_DLY Pin=Q9-1
+Added Pin To Net: NetName=~SPLY_DLY Pin=Q10-1
+Added Pin To Net: NetName=~SPLY_DLY Pin=Q12-1
+Added Pin To Net: NetName=~SPLY_DLY Pin=R11-1
+Added Pin To Net: NetName=~SPLY_DLY Pin=TP8-1
+Added Net: Name=~SPLY_DLY
+Added Member To Class: ClassName=780-00028_rev3_Pg2, Sinistro Power Supply Member=Component Q10 MOSFET-N SOT23
+Added Member To Class: ClassName=780-00028_rev3_Pg2, Sinistro Power Supply Member=Component Q11 FDV304P
+Added Member To Class: ClassName=780-00028_rev3_Pg2, Sinistro Power Supply Member=Component Q12 MOSFET-N SOT23

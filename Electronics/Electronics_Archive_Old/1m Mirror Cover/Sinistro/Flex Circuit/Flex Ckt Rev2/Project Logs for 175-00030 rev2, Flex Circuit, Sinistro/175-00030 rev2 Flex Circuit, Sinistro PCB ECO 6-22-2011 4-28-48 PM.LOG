@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RTDF(+) Pin=J1-16
+Removed Pin From Net: NetName=HEATER(-) Pin=J1-18
+Removed Pin From Net: NetName=HEATER(-) Pin=J1-20
+Removed Pin From Net: NetName=HEATER(-) Pin=J1-22
+Removed Pin From Net: NetName=HEATER(-) Pin=J1-24
+Removed Pin From Net: NetName=RTDS(+) Pin=J1-26
+Removed Pin From Net: NetName=HEATER(+) Pin=J1-28
+Removed Pin From Net: NetName=HEATER(+) Pin=J1-30
+Removed Pin From Net: NetName=HEATER(+) Pin=J1-32
+Removed Pin From Net: NetName=HEATER(+) Pin=J1-34
+Removed Pin From Net: NetName=RTDS(-) Pin=J1-37
+Removed Pin From Net: NetName=RTDF(-) Pin=J1-41
+Added Pin To Net: NetName=RTDS(+) Pin=J1-61
+Added Pin To Net: NetName=RTDS(-) Pin=J1-63
+Added Pin To Net: NetName=RTDF(+) Pin=J1-65
+Added Pin To Net: NetName=RTDF(-) Pin=J1-67

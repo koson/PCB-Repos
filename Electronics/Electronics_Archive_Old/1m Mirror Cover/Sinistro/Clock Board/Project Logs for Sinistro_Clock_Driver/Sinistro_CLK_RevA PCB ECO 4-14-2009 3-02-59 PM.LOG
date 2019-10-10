@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LOAD_MAX2_N Pin=U13-26
+Added Pin To Net: NetName=LOAD_MAX1_N Pin=U13-26

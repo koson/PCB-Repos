@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=D149-1
+Removed Pin From Net: NetName=GND Pin=D150-1
+Removed Pin From Net: NetName=GND Pin=D151-1
+Removed Pin From Net: NetName=GND Pin=D152-1
+Removed Pin From Net: NetName=GND Pin=D153-1
+Removed Pin From Net: NetName=GND Pin=D154-1
+Removed Pin From Net: NetName=GND Pin=D155-1
+Removed Pin From Net: NetName=GND Pin=D156-1
+Added Pin To Net: NetName=NetD149_2 Pin=J3-31
+Added Pin To Net: NetName=NetD150_2 Pin=J3-33
+Added Pin To Net: NetName=NetD151_2 Pin=J3-35
+Added Pin To Net: NetName=NetD152_2 Pin=J3-37
+Added Pin To Net: NetName=NetD153_2 Pin=J3-39
+Added Pin To Net: NetName=NetD154_2 Pin=J3-41
+Added Pin To Net: NetName=NetD155_2 Pin=J3-43
+Added Pin To Net: NetName=NetD156_2 Pin=J3-45
+Added Pin To Net: NetName=NetD149_1 Pin=D149-1
+Added Pin To Net: NetName=NetD149_1 Pin=J1-30
+Added Pin To Net: NetName=NetD149_1 Pin=U1-B31
+Added Net: Name=NetD149_1
+Added Pin To Net: NetName=NetD150_1 Pin=D150-1
+Added Pin To Net: NetName=NetD150_1 Pin=J1-28
+Added Pin To Net: NetName=NetD150_1 Pin=U1-B33
+Added Net: Name=NetD150_1
+Added Pin To Net: NetName=NetD151_1 Pin=D151-1
+Added Pin To Net: NetName=NetD151_1 Pin=J1-26
+Added Pin To Net: NetName=NetD151_1 Pin=U1-B35
+Added Net: Name=NetD151_1
+Added Pin To Net: NetName=NetD152_1 Pin=D152-1
+Added Pin To Net: NetName=NetD152_1 Pin=J1-24
+Added Pin To Net: NetName=NetD152_1 Pin=U1-B37
+Added Net: Name=NetD152_1
+Added Pin To Net: NetName=NetD153_1 Pin=D153-1
+Added Pin To Net: NetName=NetD153_1 Pin=J1-22
+Added Pin To Net: NetName=NetD153_1 Pin=U1-B39
+Added Net: Name=NetD153_1
+Added Pin To Net: NetName=NetD154_1 Pin=D154-1
+Added Pin To Net: NetName=NetD154_1 Pin=J1-20
+Added Pin To Net: NetName=NetD154_1 Pin=U1-B41
+Added Net: Name=NetD154_1
+Added Pin To Net: NetName=NetD155_1 Pin=D155-1
+Added Pin To Net: NetName=NetD155_1 Pin=J1-18
+Added Pin To Net: NetName=NetD155_1 Pin=U1-B43
+Added Net: Name=NetD155_1
+Added Pin To Net: NetName=NetD156_1 Pin=D156-1
+Added Pin To Net: NetName=NetD156_1 Pin=J1-16
+Added Pin To Net: NetName=NetD156_1 Pin=U1-B45
+Added Net: Name=NetD156_1

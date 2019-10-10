@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=F1 Old DesignItemId=Fuse Thermal New DesignItemId=Fuse Resettable
+Change Component Comment : Designator=F1 Old Comment=RUEF400 New Comment=Res 0805
+Change Component Description : Designator=F1 Old Description=PolySwitch RUE Series New Description=Polyswitch

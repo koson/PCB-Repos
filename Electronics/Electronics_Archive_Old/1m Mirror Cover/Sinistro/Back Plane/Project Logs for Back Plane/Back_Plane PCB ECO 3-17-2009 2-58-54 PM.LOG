@@ -1,0 +1,127 @@
+Added Component: Designator=J1(MS-3116 Size 20-41)
+Added Component: Designator=P1(QFS SMD PWR PINS)
+Added Component: Designator=P3(QFS SMD PWR PINS)
+Added Component: Designator=P4(BNC_RA CON)
+Added Component: Designator=P5(QFS SMD PWR PINS)
+Added Component: Designator=P?(HDR1X6 for IDC)
+Added Component: Designator=P?(HDR1X6 for IDC)
+Added Component: Designator=P?(HDR1X6 for IDC)
+Added Component: Designator=P?(HDR1X6 for IDC)
+Added Pin To Net: NetName=+5ANA Pin=P1-PC03
+Added Net: Name=+5ANA
+Added Pin To Net: NetName=+12V Pin=P1-PC01
+Added Net: Name=+12V
+Added Pin To Net: NetName=+28V Pin=P1-PC05
+Added Net: Name=+28V
+Added Pin To Net: NetName=+CLK_100 Pin=P3-3
+Added Net: Name=+CLK_100
+Added Pin To Net: NetName=-5ANA Pin=P1-PC04
+Added Net: Name=-5ANA
+Added Pin To Net: NetName=-12V Pin=P1-PC02
+Added Net: Name=-12V
+Added Pin To Net: NetName=-CLK_100 Pin=P3-5
+Added Net: Name=-CLK_100
+Added Pin To Net: NetName=A1_OUT Pin=P1-3
+Added Net: Name=A1_OUT
+Added Pin To Net: NetName=A2_OUT Pin=P1-7
+Added Net: Name=A2_OUT
+Added Pin To Net: NetName=A3_OUT Pin=P1-13
+Added Net: Name=A3_OUT
+Added Pin To Net: NetName=A4_OUT Pin=P1-17
+Added Net: Name=A4_OUT
+Added Pin To Net: NetName=ADC_DAT0 Pin=P1-24
+Added Net: Name=ADC_DAT0
+Added Pin To Net: NetName=ADC_DAT1 Pin=P1-26
+Added Net: Name=ADC_DAT1
+Added Pin To Net: NetName=ADC_DAT2 Pin=P1-28
+Added Net: Name=ADC_DAT2
+Added Pin To Net: NetName=ADC_DAT3 Pin=P1-30
+Added Net: Name=ADC_DAT3
+Added Pin To Net: NetName=ADC_DAT4 Pin=P1-34
+Added Net: Name=ADC_DAT4
+Added Pin To Net: NetName=ADC_DAT5 Pin=P1-36
+Added Net: Name=ADC_DAT5
+Added Pin To Net: NetName=ADC_DAT6 Pin=P1-38
+Added Net: Name=ADC_DAT6
+Added Pin To Net: NetName=ADC_DAT7 Pin=P1-40
+Added Net: Name=ADC_DAT7
+Added Pin To Net: NetName=ASP_SEL_N Pin=P1-43
+Added Net: Name=ASP_SEL_N
+Added Pin To Net: NetName=A Pin=P1-PC07
+Added Net: Name=A
+Added Pin To Net: NetName=B3_SCL Pin=P5-34
+Added Net: Name=B3_SCL
+Added Pin To Net: NetName=B3_SDA Pin=P5-40
+Added Net: Name=B3_SDA
+Added Pin To Net: NetName=CONVST_N Pin=P3-29
+Added Net: Name=CONVST_N
+Added Pin To Net: NetName=DC_HOLD Pin=P3-47
+Added Net: Name=DC_HOLD
+Added Pin To Net: NetName=GAIN_4X Pin=P3-50
+Added Net: Name=GAIN_4X
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P1-21
+Added Pin To Net: NetName=GND Pin=P1-22
+Added Pin To Net: NetName=GND Pin=P1-31
+Added Pin To Net: NetName=GND Pin=P1-32
+Added Pin To Net: NetName=GND Pin=P1-41
+Added Pin To Net: NetName=GND Pin=P1-42
+Added Pin To Net: NetName=GND Pin=P1-51
+Added Pin To Net: NetName=GND Pin=P1-52
+Added Pin To Net: NetName=GND Pin=P1-PC08
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-11
+Added Pin To Net: NetName=GND Pin=P3-12
+Added Pin To Net: NetName=GND Pin=P3-21
+Added Pin To Net: NetName=GND Pin=P3-22
+Added Pin To Net: NetName=GND Pin=P3-31
+Added Pin To Net: NetName=GND Pin=P3-32
+Added Pin To Net: NetName=GND Pin=P3-37
+Added Pin To Net: NetName=GND Pin=P3-41
+Added Pin To Net: NetName=GND Pin=P3-42
+Added Pin To Net: NetName=GND Pin=P3-46
+Added Pin To Net: NetName=GND Pin=P3-51
+Added Pin To Net: NetName=GND Pin=P3-52
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-6
+Added Pin To Net: NetName=GND Pin=P5-11
+Added Pin To Net: NetName=GND Pin=P5-12
+Added Pin To Net: NetName=GND Pin=P5-16
+Added Pin To Net: NetName=GND Pin=P5-21
+Added Pin To Net: NetName=GND Pin=P5-22
+Added Pin To Net: NetName=GND Pin=P5-31
+Added Pin To Net: NetName=GND Pin=P5-32
+Added Pin To Net: NetName=GND Pin=P5-41
+Added Pin To Net: NetName=GND Pin=P5-42
+Added Pin To Net: NetName=GND Pin=P5-51
+Added Pin To Net: NetName=GND Pin=P5-52
+Added Net: Name=GND
+Added Pin To Net: NetName=I_ADDR0_A Pin=P5-3
+Added Net: Name=I_ADDR0_A
+Added Pin To Net: NetName=I_ADDR0_B Pin=P5-5
+Added Net: Name=I_ADDR0_B
+Added Pin To Net: NetName=I_ADDR1 Pin=P5-7
+Added Net: Name=I_ADDR1
+Added Pin To Net: NetName=I_ADDR2 Pin=P5-9
+Added Net: Name=I_ADDR2
+Added Pin To Net: NetName=RESET_BLANK Pin=P3-48
+Added Net: Name=RESET_BLANK
+Added Pin To Net: NetName=SCLK Pin=P5-4
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SIMO Pin=P5-8
+Added Net: Name=SIMO
+Added Pin To Net: NetName=SOMI Pin=P5-10
+Added Net: Name=SOMI
+Added Pin To Net: NetName=VCC Pin=P1-PC06
+Added Net: Name=VCC
+Added Class: Name=BackPlane_10A
+Added Room: Name=BackPlane_10A

@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=+28V Pin=Q3-1
+Removed Pin From Net: NetName=+28V Pin=Q4-1
+Removed Pin From Net: NetName=+28V Pin=Q5-1
+Removed Pin From Net: NetName=+28V Pin=Q6-1
+Removed Pin From Net: NetName=+28V Pin=Q7-1
+Removed Pin From Net: NetName=+28V Pin=Q8-1
+Removed Pin From Net: NetName=+28V Pin=Q9-1
+Removed Pin From Net: NetName=+28V Pin=Q10-1
+Removed Pin From Net: NetName=+28V Pin=Q11-1
+Removed Pin From Net: NetName=+28V Pin=Q12-1
+Removed Pin From Net: NetName=+28V Pin=Q13-1
+Removed Pin From Net: NetName=+28V Pin=Q14-1
+Removed Pin From Net: NetName=+28V Pin=Q15-1
+Removed Pin From Net: NetName=+28V Pin=Q16-1
+Removed Pin From Net: NetName=+28V Pin=Q17-1
+Removed Pin From Net: NetName=+28V Pin=Q18-1
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q3
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q4
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q5
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q6
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q7
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q8
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q9
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q10
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q11
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q12
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q13
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q14
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q15
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q16
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q17
+Removed Member From Class: ClassName=Sinistro_TestBed_10A Member=Q18
+Added Component: Designator=Q3A(TO-92A OFFSET)
+Added Component: Designator=Q3B(TO-92A OFFSET)
+Added Component: Designator=Q3C(TO-92A OFFSET)
+Added Component: Designator=Q3D(TO-92A OFFSET)
+Added Component: Designator=Q4A(TO-92A OFFSET)
+Added Component: Designator=Q4B(TO-92A OFFSET)
+Added Component: Designator=Q4C(TO-92A OFFSET)
+Added Component: Designator=Q4D(TO-92A OFFSET)
+Added Component: Designator=Q5A(TO-92A OFFSET)
+Added Component: Designator=Q5B(TO-92A OFFSET)
+Added Component: Designator=Q5C(TO-92A OFFSET)
+Added Component: Designator=Q5D(TO-92A OFFSET)
+Added Component: Designator=Q6A(TO-92A OFFSET)
+Added Component: Designator=Q6B(TO-92A OFFSET)
+Added Component: Designator=Q6C(TO-92A OFFSET)
+Added Component: Designator=Q6D(TO-92A OFFSET)
+Added Pin To Net: NetName=+28V Pin=Q3A-1
+Added Pin To Net: NetName=CH4A Pin=Q3A-2
+Added Pin To Net: NetName=+28V Pin=Q3B-1
+Added Pin To Net: NetName=CH4B Pin=Q3B-2
+Added Pin To Net: NetName=+28V Pin=Q3C-1
+Added Pin To Net: NetName=CH4C Pin=Q3C-2
+Added Pin To Net: NetName=+28V Pin=Q3D-1
+Added Pin To Net: NetName=CH4D Pin=Q3D-2
+Added Pin To Net: NetName=+28V Pin=Q4A-1
+Added Pin To Net: NetName=CH3A Pin=Q4A-2
+Added Pin To Net: NetName=+28V Pin=Q4B-1
+Added Pin To Net: NetName=CH3B Pin=Q4B-2
+Added Pin To Net: NetName=+28V Pin=Q4C-1
+Added Pin To Net: NetName=CH3C Pin=Q4C-2
+Added Pin To Net: NetName=+28V Pin=Q4D-1
+Added Pin To Net: NetName=CH3D Pin=Q4D-2
+Added Pin To Net: NetName=+28V Pin=Q5A-1
+Added Pin To Net: NetName=CH2A Pin=Q5A-2
+Added Pin To Net: NetName=+28V Pin=Q5B-1
+Added Pin To Net: NetName=CH2B Pin=Q5B-2
+Added Pin To Net: NetName=+28V Pin=Q5C-1
+Added Pin To Net: NetName=CH2C Pin=Q5C-2
+Added Pin To Net: NetName=+28V Pin=Q5D-1
+Added Pin To Net: NetName=CH2D Pin=Q5D-2
+Added Pin To Net: NetName=+28V Pin=Q6A-1
+Added Pin To Net: NetName=CH1A Pin=Q6A-2
+Added Pin To Net: NetName=+28V Pin=Q6B-1
+Added Pin To Net: NetName=CH1B Pin=Q6B-2
+Added Pin To Net: NetName=+28V Pin=Q6C-1
+Added Pin To Net: NetName=CH1C Pin=Q6C-2
+Added Pin To Net: NetName=+28V Pin=Q6D-1
+Added Pin To Net: NetName=CH1D Pin=Q6D-2
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=C71-2
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q2-1
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q3A-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q3B-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q3C-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q3D-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q4A-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q4B-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q4C-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q4D-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q5A-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q5B-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q5C-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q5D-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q6A-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q6B-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q6C-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=Q6D-3
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=R6-2
+Added Net: Name=ASP_BRD_I/O.VIDEO
+Added Member To Class: ClassName=ASP BRD #1 Member=Component Q3A (Q3) J111
+Added Member To Class: ClassName=ASP BRD #2 Member=Component Q3B (Q3) J111
+Added Member To Class: ClassName=ASP BRD #3 Member=Component Q3C (Q3) J111
+Added Member To Class: ClassName=ASP BRD #4 Member=Component Q3D (Q3) J111
+Added Member To Class: ClassName=ASP BRD #1 Member=Component Q4A (Q4) J111
+Added Member To Class: ClassName=ASP BRD #2 Member=Component Q4B (Q4) J111
+Added Member To Class: ClassName=ASP BRD #3 Member=Component Q4C (Q4) J111
+Added Member To Class: ClassName=ASP BRD #4 Member=Component Q4D (Q4) J111
+Added Member To Class: ClassName=ASP BRD #1 Member=Component Q5A (Q5) J111
+Added Member To Class: ClassName=ASP BRD #2 Member=Component Q5B (Q5) J111
+Added Member To Class: ClassName=ASP BRD #3 Member=Component Q5C (Q5) J111
+Added Member To Class: ClassName=ASP BRD #4 Member=Component Q5D (Q5) J111
+Added Member To Class: ClassName=ASP BRD #1 Member=Component Q6A (Q6) J111
+Added Member To Class: ClassName=ASP BRD #2 Member=Component Q6B (Q6) J111
+Added Member To Class: ClassName=ASP BRD #3 Member=Component Q6C (Q6) J111
+Added Member To Class: ClassName=ASP BRD #4 Member=Component Q6D (Q6) J111

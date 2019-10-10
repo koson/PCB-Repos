@@ -1,0 +1,19 @@
+Remove Pin=U9B-55 From Net=PH_CLK
+Remove Pin=U9B-57 From Net=PH_CLK
+Remove Pin=U9B-58 From Net=PH_CLK
+Remove Pin=U9B-64 From Net=PH_CLK
+Remove Pin=U9B-66 From Net=PH_CLK
+Remove Pin=U9B-76 From Net=PH_CLK
+Remove Pin=U9B-77 From Net=PH_CLK
+Remove Pin=U9B-78 From Net=PH_CLK
+Remove Pin=U9B-81 From Net=PH_CLK
+Remove Pin=U9B-82 From Net=PH_CLK
+Add Pin To Net: Pin=U9B-55 Old Net=PH_CLK New Net=PH_CLK2
+Add Pin To Net: Pin=U9B-57 Old Net=PH_CLK New Net=PH_CLK3
+Add Pin To Net: Pin=U9B-58 Old Net=PH_CLK New Net=PH_CLK5
+Add Pin To Net: Pin=U9B-66 Old Net=PH_CLK New Net=PH_CLK10
+Add Pin To Net: Pin=U9B-76 Old Net=PH_CLK New Net=PH_CLK4
+Add Pin To Net: Pin=U9B-77 Old Net=PH_CLK New Net=PH_CLK16
+Add Pin To Net: Pin=U9B-78 Old Net=PH_CLK New Net=PH_CLK18
+Add Pin To Net: Pin=U9B-81 Old Net=PH_CLK New Net=PH_CLK19
+Add Pin To Net: Pin=U9B-82 Old Net=PH_CLK New Net=PH_CLK21

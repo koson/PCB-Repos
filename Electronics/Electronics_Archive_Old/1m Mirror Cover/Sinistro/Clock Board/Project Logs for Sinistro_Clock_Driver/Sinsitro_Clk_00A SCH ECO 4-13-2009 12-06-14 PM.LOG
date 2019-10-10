@@ -1,0 +1,32 @@
+Remove Pin=U9B-1 From Net=SIMO
+Remove Pin=U9A-2 From Net=SEL_MAX1_N
+Remove Pin=U9A-3 From Net=SEL_MAX2_N
+Remove Pin=U9A-4 From Net=LOAD_MAX1_N
+Remove Pin=U9A-5 From Net=LOAD_MAX2_N
+Remove Pin=U9A-6 From Net=SEL_N(6)
+Remove Pin=U9B-72 From Net=PH_CLK
+Remove Pin=U9B-76 From Net=PH_CLK
+Remove Pin=U9B-88 From Net=P1
+Remove Pin=U9B-89 From Net=S3
+Remove Pin=U9B-92 From Net=RG
+Remove Pin=U9B-95 From Net=SG
+Remove Pin=U9B-96 From Net=DRV_SEL_N
+Remove Pin=U9B-97 From Net=I_ADDR2
+Remove Pin=U9B-98 From Net=I_ADDR1
+Remove Pin=U9B-99 From Net=I_ADDR0
+Add Pin To Net: Pin=U9B-1 Old Net=SIMO New Net=DRV_SEL_N
+Add Pin To Net: Pin=U9A-2 Old Net=SEL_MAX1_N New Net=I_ADDR2
+Add Pin To Net: Pin=U9A-3 Old Net=SEL_MAX2_N New Net=I_ADDR1
+Add Pin To Net: Pin=U9A-4 Old Net=LOAD_MAX1_N New Net=I_ADDR0
+Add Pin To Net: Pin=U9A-5 Old Net=LOAD_MAX2_N New Net=P1
+Add Pin To Net: Pin=U9A-6 Old Net=SEL_N(6) New Net=RG
+Add Pin To Net: Pin=U9A-7 Old Net=NetU9_7 New Net=SG
+Add Pin To Net: Pin=U9A-8 Old Net=NetU9_8 New Net=S3
+Add Pin To Net: Pin=U9A-15 Old Net=NetU9_15 New Net=SIMO
+Add Pin To Net: Pin=U9B-72 Old Net=PH_CLK New Net=PH_CLK6
+Add Pin To Net: Pin=U9B-76 Old Net=PH_CLK New Net=PH_CLK10
+Add Pin To Net: Pin=U9B-88 Old Net=P1 New Net=LOAD_MAX2_N
+Add Pin To Net: Pin=U9B-92 Old Net=RG New Net=SEL_N(6)
+Add Pin To Net: Pin=U9B-97 Old Net=I_ADDR2 New Net=SEL_MAX1_N
+Add Pin To Net: Pin=U9B-98 Old Net=I_ADDR1 New Net=SEL_MAX2_N
+Add Pin To Net: Pin=U9B-99 Old Net=I_ADDR0 New Net=LOAD_MAX1_N

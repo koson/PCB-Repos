@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00023, rev1, PCB, Sinistro Pwr Supply.PcbDoc   3/16/2011  4:04:15 PM
+---------------------------------------------------------------------------
+
+Layer Pair : TopLayer (*.GTL) to BottomLayer (*GBL)
+ASCII Plated RoundHoles File : 175-00023, rev1, PCB, Sinistro Pwr Supply-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00023, rev1, PCB, Sinistro Pwr Supply-NonPlated.TXT
+EIA File   : 175-00023, rev1, PCB, Sinistro Pwr Supply.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          44               29.75 Inch (755.64 mm)
+T2        15mil (0.381mm)          Round          31               7.28 Inch (184.84 mm)
+T3        28mil (0.7112mm)         Round          71               34.13 Inch (866.84 mm)
+T4        35mil (0.889mm)          Round          10               4.88 Inch (123.99 mm)
+T5        38mil (0.9652mm)         Round          20               6.40 Inch (162.58 mm)
+T6        39mil (0.9906mm)         Round          3                0.20 Inch (5.08 mm)
+T7        40mil (1.016mm)          Round          12               1.10 Inch (27.94 mm)
+T8        52mil (1.3208mm)         Round          32               3.85 Inch (97.79 mm)
+T9        59mil (1.4986mm)         Round          2                0.20 Inch (5.08 mm)
+T10       73mil (1.8542mm)         Round          5                3.76 Inch (95.50 mm)
+T11       78mil (1.9812mm)         Round          18               7.87 Inch (199.80 mm)
+T12       166mil (4.2164mm)        Round          3                5.00 Inch (127.00 mm)
+T13       40mil (1.016mm)          Round          4         NPTH   3.10 Inch (78.62 mm)
+T14       110mil (2.794mm)         Round          4         NPTH   25.93 Inch (658.66 mm)
+T15       150mil (3.81mm)          Round          2         NPTH   1.75 Inch (44.45 mm)
+---------------------------------------------------------------------------
+Totals                                            261              135.19 Inch (3433.81 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

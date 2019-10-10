@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=NetC2A_2 Pin=U2A-5
+Removed Pin From Net: NetName=VREFLO4 Pin=U2A-8
+Removed Pin From Net: NetName=NetC2B_2 Pin=U2B-5
+Removed Pin From Net: NetName=VREFLO4 Pin=U2B-8
+Removed Pin From Net: NetName=NetC2C_2 Pin=U2C-5
+Removed Pin From Net: NetName=VREFLO4 Pin=U2C-8
+Removed Pin From Net: NetName=NetC2D_2 Pin=U2D-5
+Removed Pin From Net: NetName=VREFLO4 Pin=U2D-8
+Removed Pin From Net: NetName=NetC2E_2 Pin=U2E-5
+Removed Pin From Net: NetName=VREFLO2 Pin=U2E-8
+Removed Pin From Net: NetName=NetC2F_2 Pin=U2F-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2F-8
+Removed Pin From Net: NetName=NetC2G_2 Pin=U2G-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2G-8
+Removed Pin From Net: NetName=NetC2H_2 Pin=U2H-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2H-8
+Removed Pin From Net: NetName=NetC2I_2 Pin=U2I-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2I-8
+Removed Pin From Net: NetName=NetC2J_2 Pin=U2J-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2J-8
+Removed Pin From Net: NetName=NetC2K_2 Pin=U2K-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2K-8
+Removed Pin From Net: NetName=NetC2L_2 Pin=U2L-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2L-8
+Removed Pin From Net: NetName=NetC2M_2 Pin=U2M-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2M-8
+Removed Pin From Net: NetName=NetC2N_2 Pin=U2N-5
+Removed Pin From Net: NetName=VREFLO1 Pin=U2N-8
+Removed Pin From Net: NetName=NetC2O_2 Pin=U2O-5
+Removed Pin From Net: NetName=VREFLO3 Pin=U2O-8
+Removed Pin From Net: NetName=SOMI Pin=U9-47
+Added Component: Designator=Q6(SMD_SOT23_3)
+Added Component: Designator=U19(SMD_SOT23_3)
+Added Pin To Net: NetName=DRV_SEL_N Pin=Q6-1
+Added Pin To Net: NetName=VCC Pin=Q6-2
+Added Pin To Net: NetName=VREFLO4 Pin=U2A-5
+Added Pin To Net: NetName=NetC2A_2 Pin=U2A-8
+Added Pin To Net: NetName=VREFLO4 Pin=U2B-5
+Added Pin To Net: NetName=NetC2B_2 Pin=U2B-8
+Added Pin To Net: NetName=VREFLO4 Pin=U2C-5
+Added Pin To Net: NetName=NetC2C_2 Pin=U2C-8
+Added Pin To Net: NetName=VREFLO4 Pin=U2D-5
+Added Pin To Net: NetName=NetC2D_2 Pin=U2D-8
+Added Pin To Net: NetName=VREFLO2 Pin=U2E-5
+Added Pin To Net: NetName=NetC2E_2 Pin=U2E-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2F-5
+Added Pin To Net: NetName=NetC2F_2 Pin=U2F-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2G-5
+Added Pin To Net: NetName=NetC2G_2 Pin=U2G-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2H-5
+Added Pin To Net: NetName=NetC2H_2 Pin=U2H-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2I-5
+Added Pin To Net: NetName=NetC2I_2 Pin=U2I-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2J-5
+Added Pin To Net: NetName=NetC2J_2 Pin=U2J-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2K-5
+Added Pin To Net: NetName=NetC2K_2 Pin=U2K-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2L-5
+Added Pin To Net: NetName=NetC2L_2 Pin=U2L-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2M-5
+Added Pin To Net: NetName=NetC2M_2 Pin=U2M-8
+Added Pin To Net: NetName=VREFLO1 Pin=U2N-5
+Added Pin To Net: NetName=NetC2N_2 Pin=U2N-8
+Added Pin To Net: NetName=VREFLO3 Pin=U2O-5
+Added Pin To Net: NetName=NetC2O_2 Pin=U2O-8
+Added Pin To Net: NetName=SOMI Pin=U13-9
+Added Pin To Net: NetName=SOMI Pin=U16-9
+Added Pin To Net: NetName=GND Pin=U19-3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=U19-2
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=S_WIRED_1 Pin=J1-33
+Added Pin To Net: NetName=S_WIRED_1 Pin=U19-1
+Added Net: Name=S_WIRED_1
+Added Class: Name=Sinistro_Clk_31B
+Added Class: Name=Sinistro_Clk_32B
+Added Class: Name=Sinistro_Clk_33B
+Added Member To Class: ClassName=Bias Voltages Member=Component C41 Cap SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component C42 Cap SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component C43 Cap SMD
+Added Member To Class: ClassName=CPLD board Member=Component Q6 FDV304P
+Added Member To Class: ClassName=Bias Voltages Member=Component R45 Res SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component R46 Res SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component R47 Res SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP9 Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP10 Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component U14 LT1124CS8
+Added Member To Class: ClassName=Bias Voltages Member=Component U15 REF02AU
+Added Member To Class: ClassName=CPLD board Member=Component U19 DS2411
+Added Room: Name=CPLD board

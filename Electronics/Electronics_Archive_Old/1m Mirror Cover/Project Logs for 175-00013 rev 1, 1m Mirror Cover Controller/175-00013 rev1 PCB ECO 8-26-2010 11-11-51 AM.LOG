@@ -1,0 +1,12 @@
+Added Component: Designator=TP23(SMD_TEST POINT)
+Added Component: Designator=TP24(SMD_TEST POINT)
+Added Component: Designator=TP25(SMD_TEST POINT)
+Added Component: Designator=TP26(SMD_TEST POINT)
+Added Pin To Net: NetName=GND Pin=TP23-1
+Added Pin To Net: NetName=GND Pin=TP24-1
+Added Pin To Net: NetName=GND Pin=TP25-1
+Added Pin To Net: NetName=GND Pin=TP26-1
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP23 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP24 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP25 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP26 Test Point SMD

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=RTD_CB(+) Pin=J2-aa
+Added Pin To Net: NetName=COLDBLK(+) Pin=J2-bb
+Added Pin To Net: NetName=COLDBLK(-) Pin=J2-cc
+Added Pin To Net: NetName=HEATER(+) Pin=J2-C
+Added Pin To Net: NetName=RTDS(+) Pin=J2-D
+Added Pin To Net: NetName=RTDS(-) Pin=J2-E
+Added Pin To Net: NetName=RTDF(+) Pin=J2-F
+Added Pin To Net: NetName=RTDF(-) Pin=J2-G
+Added Pin To Net: NetName=HEATER(-) Pin=J2-H
+Added Pin To Net: NetName=RTD_CB(-) Pin=J2-Z

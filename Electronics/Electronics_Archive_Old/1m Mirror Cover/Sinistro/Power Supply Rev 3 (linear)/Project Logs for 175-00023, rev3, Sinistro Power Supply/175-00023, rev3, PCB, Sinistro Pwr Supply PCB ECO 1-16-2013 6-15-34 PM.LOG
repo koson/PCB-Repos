@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NEGV_ON Pin=Q9-1
+Removed Pin From Net: NetName=SPLY_DLY Pin=Q9-2
+Removed Pin From Net: NetName=VCC Pin=Q9-3
+Change Component DesignItemId : Designator=Q9 Old DesignItemId=MOSFET-P New DesignItemId=FDV304P
+Change Component Comment : Designator=Q9 Old Comment=MOSFET-P New Comment=FDV304P
+Change Component Description : Designator=Q9 Old Description=P-Channel MOSFET New Description=P-MOSFET LOGIC LEVEL
+Change Component Library : Designator=Q9 Old Library=Miscellaneous Devices.IntLib New Library=Richs Schematic Components.SchLib
+Added Pin To Net: NetName=SPLY_DLY Pin=Q9-1
+Added Pin To Net: NetName=VCC Pin=Q9-2
+Added Pin To Net: NetName=NEGV_ON Pin=Q9-3

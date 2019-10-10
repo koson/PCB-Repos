@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=INDEX- Pin=U1-26
+Removed Pin From Net: NetName=INDEX+ Pin=U1-27
+Added Pin To Net: NetName=INDEX+ Pin=U1-37
+Added Pin To Net: NetName=INDEX- Pin=U1-38

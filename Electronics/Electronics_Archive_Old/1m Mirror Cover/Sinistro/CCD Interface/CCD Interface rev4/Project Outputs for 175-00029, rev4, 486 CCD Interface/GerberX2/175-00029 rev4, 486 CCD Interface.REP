@@ -1,0 +1,302 @@
+*************************************************************
+FileName = 175-00029 rev4, 486 CCD Interface.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer (*.GTL)
+      File : 175-00029 rev4, 486 CCD Interface_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer (*.GTL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 1 (*.GP1)
+      File : 175-00029 rev4, 486 CCD Interface_Copper_Plane_1.gbr
+
+    Adding Layer      : Internal Plane 1 (*.GP1)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1  (*.G1)
+      File : 175-00029 rev4, 486 CCD Interface_Copper_Signal_1.gbr
+
+    Adding Layer      : Mid-Layer 1  (*.G1)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer (*.GBL)
+      File : 175-00029 rev4, 486 CCD Interface_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer (*.GBL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D43
+    D44
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 175-00029 rev4, 486 CCD Interface_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer (*.GBL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : 175-00029 rev4, 486 CCD Interface_Mechanical_2.gbr
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D15
+    D31
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 175-00029 rev4, 486 CCD Interface_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : 175-00029 rev4, 486 CCD Interface_Mechanical_3.gbr
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D59
+    D63
+    D69
+    D70
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : 175-00029 rev4, 486 CCD Interface_Profile.gbr
+
+
+Used DCodes :
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : 175-00029 rev4, 486 CCD Interface_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : 175-00029 rev4, 486 CCD Interface_PTH_Drill.gbr
+
+
+Used DCodes :
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 175-00029 rev4, 486 CCD Interface_Drawing_1.gbr
+
+    Adding Drill Pair : Bottom Layer (*.GBL)-Top Layer (*.GTL)
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D55
+    D56
+    D58
+    D59
+    D60
+    D61
+    D63
+    D65
+    D68
+    D102
+    D103
+    D105
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 175-00029 rev4, 486 CCD Interface_Drillmap_1.gbr
+
+    Adding Drill Pair : Bottom Layer (*.GBL)-Top Layer (*.GTL)
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D105
+*************************************************************
+

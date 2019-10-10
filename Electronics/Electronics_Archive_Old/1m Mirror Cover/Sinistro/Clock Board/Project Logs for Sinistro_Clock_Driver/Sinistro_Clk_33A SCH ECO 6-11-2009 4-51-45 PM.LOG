@@ -1,0 +1,189 @@
+Removed Parameter Code_IEC:1005 from Part L3
+Removed Parameter Code_IEC:1005 from Part L4
+Removed Parameter Code_JEITA:0402 from Part L3
+Removed Parameter Code_JEITA:0402 from Part L4
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part D1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part D2
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U4
+Removed Parameter ComponentLink1URL:http://www.infineon.com/ from Part D1
+Removed Parameter ComponentLink1URL:http://www.infineon.com/ from Part D2
+Removed Parameter ComponentLink1URL:http://www.national.com/ from Part U4
+Removed Parameter ComponentLink2Description:Datasheet from Part D1
+Removed Parameter ComponentLink2Description:Datasheet from Part D2
+Removed Parameter ComponentLink2Description:Datasheet from Part U4
+Removed Parameter ComponentLink2URL:http://www.infineon.com/upload/Document/cmc_upload/documents/012/5331/bas16series.pdf from Part D1
+Removed Parameter ComponentLink2URL:http://www.infineon.com/upload/Document/cmc_upload/documents/012/5331/bas16series.pdf from Part D2
+Removed Parameter ComponentLink2URL:http://www.national.com/ds.cgi/LM/LM78L05.pdf from Part U4
+Removed Parameter ComponentLink3Description:URL Link1 from Part U4
+Removed Parameter ComponentLink3URL:http://www.national.com/pf/LM/LM78L05.html from Part U4
+Removed Parameter DatasheetDocument:Oct-1999 from Part D1
+Removed Parameter DatasheetDocument:Oct-1999 from Part D2
+Removed Parameter DatasheetVersion:Sep-1999 from Part U4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C6
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C37
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part L3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part L4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R5
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C37
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part L3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part L4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R6
+Removed Parameter Note:Pin 2 is not connected and not drawn. from Part D1
+Removed Parameter Note:Pin 2 is not connected and not drawn. from Part D2
+Removed Parameter PackageDescription:TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Leads 0.53 x 0.39 mm (max) from Part U4
+Removed Parameter PackageDocument:Sep-2001 from Part D1
+Removed Parameter PackageDocument:Sep-2001 from Part D2
+Removed Parameter PackageReference:0402-A from Part L3
+Removed Parameter PackageReference:0402-A from Part L4
+Removed Parameter PackageReference:AXIAL-0.3 from Part R3
+Removed Parameter PackageReference:AXIAL-0.3 from Part R4
+Removed Parameter PackageReference:AXIAL-0.3 from Part R5
+Removed Parameter PackageReference:AXIAL-0.3 from Part R6
+Removed Parameter PackageReference:CAPR5-4X5 from Part C5
+Removed Parameter PackageReference:CAPR5-4X5 from Part C8
+Removed Parameter PackageReference:RAD-0.3 from Part C6
+Removed Parameter PackageReference:RAD-0.3 from Part C37
+Removed Parameter PackageReference:SOT-23 from Part D1
+Removed Parameter PackageReference:SOT-23 from Part D2
+Removed Parameter PackageReference:Z03A from Part U4
+Removed Parameter PackageVersion:2000 from Part U4
+Removed Parameter Published:8-Jun-2000 from Part C6
+Removed Parameter Published:8-Jun-2000 from Part C37
+Removed Parameter Published:8-Jun-2000 from Part L3
+Removed Parameter Published:8-Jun-2000 from Part L4
+Removed Parameter Published:8-Jun-2000 from Part R3
+Removed Parameter Published:8-Jun-2000 from Part R4
+Removed Parameter Published:8-Jun-2000 from Part R5
+Removed Parameter Published:8-Jun-2000 from Part R6
+Removed Parameter Published:15-Apr-2002 from Part U4
+Removed Parameter Published:21-Mar-2003 from Part D1
+Removed Parameter Published:21-Mar-2003 from Part D2
+Removed Parameter Published:23-Sep-2002 from Part C5
+Removed Parameter Published:23-Sep-2002 from Part C8
+Removed Parameter Publisher:Altium Limited from Part C5
+Removed Parameter Publisher:Altium Limited from Part C6
+Removed Parameter Publisher:Altium Limited from Part C8
+Removed Parameter Publisher:Altium Limited from Part C37
+Removed Parameter Publisher:Altium Limited from Part D1
+Removed Parameter Publisher:Altium Limited from Part D2
+Removed Parameter Publisher:Altium Limited from Part L3
+Removed Parameter Publisher:Altium Limited from Part L4
+Removed Parameter Publisher:Altium Limited from Part R3
+Removed Parameter Publisher:Altium Limited from Part R4
+Removed Parameter Publisher:Altium Limited from Part R5
+Removed Parameter Publisher:Altium Limited from Part R6
+Removed Parameter Publisher:Altium Limited from Part U4
+Added Parameter COST= to Part C5
+Added Parameter COST= to Part C6
+Added Parameter COST= to Part C8
+Added Parameter COST= to Part C37
+Added Parameter COST= to Part D1
+Added Parameter COST= to Part D2
+Added Parameter COST= to Part L3
+Added Parameter COST= to Part L4
+Added Parameter COST= to Part R3
+Added Parameter COST= to Part R4
+Added Parameter COST= to Part R5
+Added Parameter COST= to Part R6
+Added Parameter COST= to Part TP4
+Added Parameter COST= to Part U4
+Added Parameter COST= to Part U5
+Added Parameter COST= to Part U6
+Added Parameter COST= to Part U7
+Added Parameter Manufacturer= to Part C5
+Added Parameter Manufacturer= to Part C6
+Added Parameter Manufacturer= to Part C8
+Added Parameter Manufacturer= to Part C37
+Added Parameter Manufacturer= to Part D1
+Added Parameter Manufacturer= to Part D2
+Added Parameter Manufacturer= to Part L3
+Added Parameter Manufacturer= to Part L4
+Added Parameter Manufacturer= to Part R3
+Added Parameter Manufacturer= to Part R4
+Added Parameter Manufacturer= to Part R5
+Added Parameter Manufacturer= to Part R6
+Added Parameter Manufacturer= to Part TP4
+Added Parameter Manufacturer= to Part U4
+Added Parameter Manufacturer= to Part U5
+Added Parameter Manufacturer= to Part U6
+Added Parameter Manufacturer= to Part U7
+Added Parameter Manuf p/n= to Part C5
+Added Parameter Manuf p/n= to Part C6
+Added Parameter Manuf p/n= to Part C8
+Added Parameter Manuf p/n= to Part C37
+Added Parameter Manuf p/n= to Part D1
+Added Parameter Manuf p/n= to Part D2
+Added Parameter Manuf p/n= to Part L3
+Added Parameter Manuf p/n= to Part L4
+Added Parameter Manuf p/n= to Part R3
+Added Parameter Manuf p/n= to Part R4
+Added Parameter Manuf p/n= to Part R5
+Added Parameter Manuf p/n= to Part R6
+Added Parameter Manuf p/n= to Part TP4
+Added Parameter Manuf p/n= to Part U4
+Added Parameter Manuf p/n= to Part U5
+Added Parameter Manuf p/n= to Part U6
+Added Parameter Manuf p/n= to Part U7
+Added Parameter Value=IXDN404 to Part U6
+Added Parameter Value=LM3480IM3-5.0 to Part U4
+Added Parameter Value=Test Point SMD to Part TP4
+Added Parameter Value= to Part D1
+Added Parameter Value= to Part D2
+Added Parameter Value= to Part U5
+Added Parameter Value= to Part U7
+Added Parameter Vendor= to Part C5
+Added Parameter Vendor= to Part C6
+Added Parameter Vendor= to Part C8
+Added Parameter Vendor= to Part C37
+Added Parameter Vendor= to Part D1
+Added Parameter Vendor= to Part D2
+Added Parameter Vendor= to Part L3
+Added Parameter Vendor= to Part L4
+Added Parameter Vendor= to Part R3
+Added Parameter Vendor= to Part R4
+Added Parameter Vendor= to Part R5
+Added Parameter Vendor= to Part R6
+Added Parameter Vendor= to Part TP4
+Added Parameter Vendor= to Part U4
+Added Parameter Vendor= to Part U5
+Added Parameter Vendor= to Part U6
+Added Parameter Vendor= to Part U7
+Added Parameter Vendor p/n= to Part C5
+Added Parameter Vendor p/n= to Part C6
+Added Parameter Vendor p/n= to Part C8
+Added Parameter Vendor p/n= to Part C37
+Added Parameter Vendor p/n= to Part D1
+Added Parameter Vendor p/n= to Part D2
+Added Parameter Vendor p/n= to Part L3
+Added Parameter Vendor p/n= to Part L4
+Added Parameter Vendor p/n= to Part R3
+Added Parameter Vendor p/n= to Part R4
+Added Parameter Vendor p/n= to Part R5
+Added Parameter Vendor p/n= to Part R6
+Added Parameter Vendor p/n= to Part TP4
+Added Parameter Vendor p/n= to Part U4
+Added Parameter Vendor p/n= to Part U5
+Added Parameter Vendor p/n= to Part U6
+Added Parameter Vendor p/n= to Part U7
+Added Parameter Voltage= to Part C6
+Added Parameter Voltage= to Part C37
+Added Parameter Voltage= to Part D1
+Added Parameter Voltage= to Part D2
+Added Parameter Voltage= to Part L3
+Added Parameter Voltage= to Part L4
+Added Parameter Voltage= to Part R3
+Added Parameter Voltage= to Part R4
+Added Parameter Voltage= to Part R5
+Added Parameter Voltage= to Part R6
+Added Parameter Voltage= to Part TP4
+Added Parameter Voltage= to Part U4
+Added Parameter Voltage= to Part U5
+Added Parameter Voltage= to Part U6
+Added Parameter Voltage= to Part U7

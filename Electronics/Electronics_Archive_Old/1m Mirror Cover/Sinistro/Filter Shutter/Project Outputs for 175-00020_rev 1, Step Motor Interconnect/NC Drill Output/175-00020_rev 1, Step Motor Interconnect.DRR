@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00020_rev 1, Step Motor Interconnect.PcbDoc   11/29/2010  3:28:17 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer GTL to Bottom Layer GBL
+ASCII Plated RoundHoles File : 175-00020_rev 1, Step Motor Interconnect-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00020_rev 1, Step Motor Interconnect-NonPlated.TXT
+EIA File   : 175-00020_rev 1, Step Motor Interconnect.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          32               8.55 Inch (217.07 mm)
+T2        28mil (0.7112mm)         Round          40               10.15 Inch (257.81 mm)
+T3        35mil (0.889mm)          Round          26               18.43 Inch (468.22 mm)
+T4        134mil (3.4036mm)        Round          7                26.92 Inch (683.68 mm)
+T5        47mil (1.1938mm)         Round          8         NPTH   5.49 Inch (139.46 mm)
+---------------------------------------------------------------------------
+Totals                                            113              69.54 Inch (1766.24 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

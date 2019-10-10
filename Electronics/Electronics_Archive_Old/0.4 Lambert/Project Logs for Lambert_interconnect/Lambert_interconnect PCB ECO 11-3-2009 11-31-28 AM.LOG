@@ -1,0 +1,53 @@
+Added Component: Designator=J1(DB15 HD PCB)
+Added Component: Designator=P1(HDR1X4 for IDC)
+Added Component: Designator=P2(HDR1X6 for IDC)
+Added Component: Designator=P3(HDR1X8 for IDC)
+Added Pin To Net: NetName=24VRTN Pin=J1-8
+Added Pin To Net: NetName=24VRTN Pin=P2-6
+Added Net: Name=24VRTN
+Added Pin To Net: NetName=24V Pin=J1-15
+Added Pin To Net: NetName=24V Pin=P1-1
+Added Pin To Net: NetName=24V Pin=P2-5
+Added Net: Name=24V
+Added Pin To Net: NetName=DIRECTION Pin=J1-6
+Added Pin To Net: NetName=DIRECTION Pin=P2-2
+Added Net: Name=DIRECTION
+Added Pin To Net: NetName=ENABLE Pin=J1-14
+Added Pin To Net: NetName=ENABLE Pin=P2-3
+Added Net: Name=ENABLE
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-17
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P3-7
+Added Net: Name=GND
+Added Pin To Net: NetName=IR_LOW_SIDE Pin=J1-9
+Added Pin To Net: NetName=IR_LOW_SIDE Pin=P3-2
+Added Net: Name=IR_LOW_SIDE
+Added Pin To Net: NetName=OPTO_REF Pin=J1-4
+Added Pin To Net: NetName=OPTO_REF Pin=P2-4
+Added Net: Name=OPTO_REF
+Added Pin To Net: NetName=STEP Pin=J1-13
+Added Pin To Net: NetName=STEP Pin=P2-1
+Added Net: Name=STEP
+Added Pin To Net: NetName=TEMP_OUT Pin=J1-11
+Added Pin To Net: NetName=TEMP_OUT Pin=P3-6
+Added Net: Name=TEMP_OUT
+Added Pin To Net: NetName=UV/IR_HIGH_SIDE Pin=J1-1
+Added Pin To Net: NetName=UV/IR_HIGH_SIDE Pin=P3-1
+Added Net: Name=UV/IR_HIGH_SIDE
+Added Pin To Net: NetName=UV_LOW_SIDE Pin=J1-2
+Added Pin To Net: NetName=UV_LOW_SIDE Pin=P3-3
+Added Net: Name=UV_LOW_SIDE
+Added Pin To Net: NetName=WHITE_HIGH_SIDE Pin=J1-10
+Added Pin To Net: NetName=WHITE_HIGH_SIDE Pin=P3-4
+Added Net: Name=WHITE_HIGH_SIDE
+Added Pin To Net: NetName=WHITE_LOW_SIDE Pin=J1-3
+Added Pin To Net: NetName=WHITE_LOW_SIDE Pin=P3-5
+Added Net: Name=WHITE_LOW_SIDE
+Added Pin To Net: NetName=~NEG_LIMIT Pin=P1-3
+Added Net: Name=~NEG_LIMIT
+Added Pin To Net: NetName=~POS_LIMIT Pin=P1-2
+Added Net: Name=~POS_LIMIT
+Added Class: Name=Lambert_interconnect
+Added Room: Name=Lambert_interconnect

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=A_SOMI Pin=P5-4
+Removed Pin From Net: NetName=A_SCLK Pin=P5-7
+Removed Pin From Net: NetName=A_SIMO Pin=P5-9
+Added Pin To Net: NetName=B_SCLK Pin=P4-118
+Added Pin To Net: NetName=B_SCLK Pin=P5-7
+Added Net: Name=B_SCLK
+Added Pin To Net: NetName=B_SIMO Pin=P4-122
+Added Pin To Net: NetName=B_SIMO Pin=P5-9
+Added Net: Name=B_SIMO
+Added Pin To Net: NetName=B_SOMI Pin=P4-124
+Added Pin To Net: NetName=B_SOMI Pin=P5-4
+Added Net: Name=B_SOMI

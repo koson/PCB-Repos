@@ -1,0 +1,16 @@
+Change Value of Parameter COST in Part U1 Old= New=13.00
+Change Value of Parameter Manufacturer in Part U1 Old= New=Altera
+Change Value of Parameter Manuf p/n in Part U1 Old= New=EPCS4SI8
+Change Value of Parameter Value in Part U1 Old=INA122 New=EPCS4SI8
+Change Value of Parameter Vendor p/n in Part U1 Old= New=544-1243-5-ND
+Change Value of Parameter COST in Part U30 Old= New=4.61
+Change Value of Parameter Manufacturer in Part U30 Old= New=TI
+Change Value of Parameter Manuf p/n in Part U30 Old= New=SN65HVD08D
+Change Value of Parameter Vendor p/n in Part U30 Old= New=296-14010-5-ND
+Change Value of Parameter Value in Part U32 Old=INA122 New=ACSL_6210
+Change Component Parameter Comment in U33 Old= New=SN65HVD08
+Change Value of Parameter COST in Part U33 Old= New=4.61
+Change Value of Parameter Manufacturer in Part U33 Old= New=TI
+Change Value of Parameter Manuf p/n in Part U33 Old= New=SN65HVD08D
+Change Value of Parameter Value in Part U33 Old=INA122 New=SN65HVD08
+Change Value of Parameter Vendor p/n in Part U33 Old= New=296-14010-5-ND

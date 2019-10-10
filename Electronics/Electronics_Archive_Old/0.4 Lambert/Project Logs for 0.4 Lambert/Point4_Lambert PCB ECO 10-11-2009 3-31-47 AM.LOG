@@ -1,0 +1,4 @@
+Added Component: Designator=D7(DIODE_SMC)
+Added Pin To Net: NetName=24V Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Member To Class: ClassName=Power Supplies Member=Component D7 SMCJ30A

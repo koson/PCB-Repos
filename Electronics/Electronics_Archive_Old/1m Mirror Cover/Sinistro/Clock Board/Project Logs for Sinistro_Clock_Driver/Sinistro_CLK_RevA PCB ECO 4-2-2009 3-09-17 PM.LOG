@@ -1,0 +1,367 @@
+Removed Pin From Net: NetName=VREFLO2 Pin=C2B-1
+Removed Pin From Net: NetName=VREFLO1 Pin=C2C-1
+Removed Pin From Net: NetName=VREFLO1 Pin=C2D-1
+Removed Pin From Net: NetName=VREFLO2 Pin=C4B-1
+Removed Pin From Net: NetName=VREFHI2 Pin=C4B-2
+Removed Pin From Net: NetName=VREFLO1 Pin=C4C-1
+Removed Pin From Net: NetName=VREFHI1 Pin=C4C-2
+Removed Pin From Net: NetName=VREFLO1 Pin=C4D-1
+Removed Pin From Net: NetName=VREFHI1 Pin=C4D-2
+Removed Pin From Net: NetName=VREFHI2 Pin=L1B-1
+Removed Pin From Net: NetName=VREFHI1 Pin=L1C-1
+Removed Pin From Net: NetName=VREFHI1 Pin=L1D-1
+Removed Pin From Net: NetName=VREFLO2 Pin=L2B-1
+Removed Pin From Net: NetName=VREFLO1 Pin=L2C-1
+Removed Pin From Net: NetName=VREFLO1 Pin=L2D-1
+Removed Pin From Net: NetName=PH_CLK15 Pin=R1A-1
+Removed Pin From Net: NetName=PH_CLK10 Pin=R1B-1
+Removed Pin From Net: NetName=PH_CLK1 Pin=R1C-1
+Removed Pin From Net: NetName=PH_CLK2 Pin=R1D-1
+Removed Pin From Net: NetName=CDO15 Pin=R2A-2
+Removed Pin From Net: NetName=CDO10 Pin=R2B-2
+Removed Pin From Net: NetName=CDO1 Pin=R2C-2
+Removed Pin From Net: NetName=CDO2 Pin=R2D-2
+Removed Pin From Net: NetName=VREFHI2 Pin=U1B-2
+Removed Pin From Net: NetName=VREFLO2 Pin=U1B-3
+Removed Pin From Net: NetName=VREFHI1 Pin=U1C-2
+Removed Pin From Net: NetName=VREFLO1 Pin=U1C-3
+Removed Pin From Net: NetName=VREFHI1 Pin=U1D-2
+Removed Pin From Net: NetName=VREFLO1 Pin=U1D-3
+Removed Pin From Net: NetName=VREFLO2 Pin=U2B-8
+Removed Pin From Net: NetName=VREFLO1 Pin=U2C-8
+Removed Pin From Net: NetName=VREFLO1 Pin=U2D-8
+Change Component Designator: OldDesignator=C1E NewDesignator=C1H
+Change Component Designator: OldDesignator=C1F NewDesignator=C1I
+Change Component Designator: OldDesignator=C1G NewDesignator=C1J
+Change Component Designator: OldDesignator=C1H NewDesignator=C1K
+Change Component Designator: OldDesignator=C1I NewDesignator=C1L
+Change Component Designator: OldDesignator=C1J NewDesignator=C1M
+Change Component Designator: OldDesignator=C1K NewDesignator=C1N
+Change Component Designator: OldDesignator=C1L NewDesignator=C1O
+Change Component Designator: OldDesignator=C2E NewDesignator=C2H
+Change Component Designator: OldDesignator=C2F NewDesignator=C2I
+Change Component Designator: OldDesignator=C2G NewDesignator=C2J
+Change Component Designator: OldDesignator=C2H NewDesignator=C2K
+Change Component Designator: OldDesignator=C2I NewDesignator=C2L
+Change Component Designator: OldDesignator=C2J NewDesignator=C2M
+Change Component Designator: OldDesignator=C2K NewDesignator=C2N
+Change Component Designator: OldDesignator=C2L NewDesignator=C2O
+Change Component Designator: OldDesignator=C3E NewDesignator=C3H
+Change Component Designator: OldDesignator=C3F NewDesignator=C3I
+Change Component Designator: OldDesignator=C3G NewDesignator=C3J
+Change Component Designator: OldDesignator=C3H NewDesignator=C3K
+Change Component Designator: OldDesignator=C3I NewDesignator=C3L
+Change Component Designator: OldDesignator=C3J NewDesignator=C3M
+Change Component Designator: OldDesignator=C3K NewDesignator=C3N
+Change Component Designator: OldDesignator=C3L NewDesignator=C3O
+Change Component Designator: OldDesignator=C4E NewDesignator=C4H
+Change Component Designator: OldDesignator=C4F NewDesignator=C4I
+Change Component Designator: OldDesignator=C4G NewDesignator=C4J
+Change Component Designator: OldDesignator=C4H NewDesignator=C4K
+Change Component Designator: OldDesignator=C4I NewDesignator=C4L
+Change Component Designator: OldDesignator=C4J NewDesignator=C4M
+Change Component Designator: OldDesignator=C4K NewDesignator=C4N
+Change Component Designator: OldDesignator=C4L NewDesignator=C4O
+Change Component Designator: OldDesignator=L1E NewDesignator=L1H
+Change Component Designator: OldDesignator=L1F NewDesignator=L1I
+Change Component Designator: OldDesignator=L1G NewDesignator=L1J
+Change Component Designator: OldDesignator=L1H NewDesignator=L1K
+Change Component Designator: OldDesignator=L1I NewDesignator=L1L
+Change Component Designator: OldDesignator=L1J NewDesignator=L1M
+Change Component Designator: OldDesignator=L1K NewDesignator=L1N
+Change Component Designator: OldDesignator=L1L NewDesignator=L1O
+Change Component Designator: OldDesignator=L2E NewDesignator=L2H
+Change Component Designator: OldDesignator=L2F NewDesignator=L2I
+Change Component Designator: OldDesignator=L2G NewDesignator=L2J
+Change Component Designator: OldDesignator=L2H NewDesignator=L2K
+Change Component Designator: OldDesignator=L2I NewDesignator=L2L
+Change Component Designator: OldDesignator=L2J NewDesignator=L2M
+Change Component Designator: OldDesignator=L2K NewDesignator=L2N
+Change Component Designator: OldDesignator=L2L NewDesignator=L2O
+Change Component Designator: OldDesignator=R1E NewDesignator=R1H
+Change Component Designator: OldDesignator=R1F NewDesignator=R1I
+Change Component Designator: OldDesignator=R1G NewDesignator=R1J
+Change Component Designator: OldDesignator=R1H NewDesignator=R1K
+Change Component Designator: OldDesignator=R1I NewDesignator=R1L
+Change Component Designator: OldDesignator=R1J NewDesignator=R1M
+Change Component Designator: OldDesignator=R1K NewDesignator=R1N
+Change Component Designator: OldDesignator=R1L NewDesignator=R1O
+Change Component Designator: OldDesignator=R2E NewDesignator=R2H
+Change Component Designator: OldDesignator=R2F NewDesignator=R2I
+Change Component Designator: OldDesignator=R2G NewDesignator=R2J
+Change Component Designator: OldDesignator=R2H NewDesignator=R2K
+Change Component Designator: OldDesignator=R2I NewDesignator=R2L
+Change Component Designator: OldDesignator=R2J NewDesignator=R2M
+Change Component Designator: OldDesignator=R2K NewDesignator=R2N
+Change Component Designator: OldDesignator=R2L NewDesignator=R2O
+Change Component Designator: OldDesignator=TP3E NewDesignator=TP3H
+Change Component Designator: OldDesignator=TP3F NewDesignator=TP3I
+Change Component Designator: OldDesignator=TP3G NewDesignator=TP3J
+Change Component Designator: OldDesignator=TP3H NewDesignator=TP3K
+Change Component Designator: OldDesignator=TP3I NewDesignator=TP3L
+Change Component Designator: OldDesignator=TP3J NewDesignator=TP3M
+Change Component Designator: OldDesignator=TP3K NewDesignator=TP3N
+Change Component Designator: OldDesignator=TP3L NewDesignator=TP3O
+Change Component Designator: OldDesignator=U1E NewDesignator=U1H
+Change Component Designator: OldDesignator=U1F NewDesignator=U1I
+Change Component Designator: OldDesignator=U1G NewDesignator=U1J
+Change Component Designator: OldDesignator=U1H NewDesignator=U1K
+Change Component Designator: OldDesignator=U1I NewDesignator=U1L
+Change Component Designator: OldDesignator=U1J NewDesignator=U1M
+Change Component Designator: OldDesignator=U1K NewDesignator=U1N
+Change Component Designator: OldDesignator=U1L NewDesignator=U1O
+Change Component Designator: OldDesignator=U2E NewDesignator=U2H
+Change Component Designator: OldDesignator=U2F NewDesignator=U2I
+Change Component Designator: OldDesignator=U2G NewDesignator=U2J
+Change Component Designator: OldDesignator=U2H NewDesignator=U2K
+Change Component Designator: OldDesignator=U2I NewDesignator=U2L
+Change Component Designator: OldDesignator=U2J NewDesignator=U2M
+Change Component Designator: OldDesignator=U2K NewDesignator=U2N
+Change Component Designator: OldDesignator=U2L NewDesignator=U2O
+Change Component Designator: OldDesignator=U3E NewDesignator=U3H
+Change Component Designator: OldDesignator=U3F NewDesignator=U3I
+Change Component Designator: OldDesignator=U3G NewDesignator=U3J
+Change Component Designator: OldDesignator=U3H NewDesignator=U3K
+Change Component Designator: OldDesignator=U3I NewDesignator=U3L
+Change Component Designator: OldDesignator=U3J NewDesignator=U3M
+Change Component Designator: OldDesignator=U3K NewDesignator=U3N
+Change Component Designator: OldDesignator=U3L NewDesignator=U3O
+Added Component: Designator=C1E(SMD_CAP_7343)
+Added Component: Designator=C1F(SMD_CAP_7343)
+Added Component: Designator=C1G(SMD_CAP_7343)
+Added Component: Designator=C2E(SMD_0805)
+Added Component: Designator=C2F(SMD_0805)
+Added Component: Designator=C2G(SMD_0805)
+Added Component: Designator=C3E(SMD_CAP_7343)
+Added Component: Designator=C3F(SMD_CAP_7343)
+Added Component: Designator=C3G(SMD_CAP_7343)
+Added Component: Designator=C4E(SMD_0805)
+Added Component: Designator=C4F(SMD_0805)
+Added Component: Designator=C4G(SMD_0805)
+Added Component: Designator=L1E(SMD_1210_INDUCT)
+Added Component: Designator=L1F(SMD_1210_INDUCT)
+Added Component: Designator=L1G(SMD_1210_INDUCT)
+Added Component: Designator=L2E(SMD_1210_INDUCT)
+Added Component: Designator=L2F(SMD_1210_INDUCT)
+Added Component: Designator=L2G(SMD_1210_INDUCT)
+Added Component: Designator=R1E(SMD_0805)
+Added Component: Designator=R1F(SMD_0805)
+Added Component: Designator=R1G(SMD_0805)
+Added Component: Designator=R2E(SMD_0805)
+Added Component: Designator=R2F(SMD_0805)
+Added Component: Designator=R2G(SMD_0805)
+Added Component: Designator=TP3E(SMD_TEST POINT)
+Added Component: Designator=TP3F(SMD_TEST POINT)
+Added Component: Designator=TP3G(SMD_TEST POINT)
+Added Component: Designator=U1E(SOT23A)
+Added Component: Designator=U1F(SOT23A)
+Added Component: Designator=U1G(SOT23A)
+Added Component: Designator=U2E(182H_M)
+Added Component: Designator=U2F(182H_M)
+Added Component: Designator=U2G(182H_M)
+Added Component: Designator=U3E(182H_M)
+Added Component: Designator=U3F(182H_M)
+Added Component: Designator=U3G(182H_M)
+Added Pin To Net: NetName=A Pin=C1E-NEG
+Added Pin To Net: NetName=A Pin=C1F-NEG
+Added Pin To Net: NetName=A Pin=C1G-NEG
+Added Pin To Net: NetName=VREFLO4 Pin=C2B-1
+Added Pin To Net: NetName=VREFLO4 Pin=C2C-1
+Added Pin To Net: NetName=VREFLO4 Pin=C2D-1
+Added Pin To Net: NetName=VREFLO2 Pin=C2E-1
+Added Pin To Net: NetName=VREFLO1 Pin=C2F-1
+Added Pin To Net: NetName=VREFLO1 Pin=C2G-1
+Added Pin To Net: NetName=A Pin=C3E-POS
+Added Pin To Net: NetName=A Pin=C3F-POS
+Added Pin To Net: NetName=A Pin=C3G-POS
+Added Pin To Net: NetName=VREFLO4 Pin=C4B-1
+Added Pin To Net: NetName=VREFHI4 Pin=C4B-2
+Added Pin To Net: NetName=VREFLO4 Pin=C4C-1
+Added Pin To Net: NetName=VREFHI4 Pin=C4C-2
+Added Pin To Net: NetName=VREFLO4 Pin=C4D-1
+Added Pin To Net: NetName=VREFHI4 Pin=C4D-2
+Added Pin To Net: NetName=VREFLO2 Pin=C4E-1
+Added Pin To Net: NetName=VREFHI2 Pin=C4E-2
+Added Pin To Net: NetName=VREFLO1 Pin=C4F-1
+Added Pin To Net: NetName=VREFHI1 Pin=C4F-2
+Added Pin To Net: NetName=VREFLO1 Pin=C4G-1
+Added Pin To Net: NetName=VREFHI1 Pin=C4G-2
+Added Pin To Net: NetName=VREFHI4 Pin=L1B-1
+Added Pin To Net: NetName=VREFHI4 Pin=L1C-1
+Added Pin To Net: NetName=VREFHI4 Pin=L1D-1
+Added Pin To Net: NetName=VREFHI2 Pin=L1E-1
+Added Pin To Net: NetName=VREFHI1 Pin=L1F-1
+Added Pin To Net: NetName=VREFHI1 Pin=L1G-1
+Added Pin To Net: NetName=VREFLO4 Pin=L2B-1
+Added Pin To Net: NetName=VREFLO4 Pin=L2C-1
+Added Pin To Net: NetName=VREFLO4 Pin=L2D-1
+Added Pin To Net: NetName=VREFLO2 Pin=L2E-1
+Added Pin To Net: NetName=VREFLO1 Pin=L2F-1
+Added Pin To Net: NetName=VREFLO1 Pin=L2G-1
+Added Pin To Net: NetName=PH_CLK12 Pin=R1A-1
+Added Pin To Net: NetName=PH_CLK13 Pin=R1B-1
+Added Pin To Net: NetName=PH_CLK14 Pin=R1C-1
+Added Pin To Net: NetName=PH_CLK15 Pin=R1D-1
+Added Pin To Net: NetName=PH_CLK10 Pin=R1E-1
+Added Pin To Net: NetName=PH_CLK1 Pin=R1F-1
+Added Pin To Net: NetName=PH_CLK2 Pin=R1G-1
+Added Pin To Net: NetName=CDO12 Pin=R2A-2
+Added Pin To Net: NetName=CDO13 Pin=R2B-2
+Added Pin To Net: NetName=CDO14 Pin=R2C-2
+Added Pin To Net: NetName=CDO15 Pin=R2D-2
+Added Pin To Net: NetName=CDO10 Pin=R2E-2
+Added Pin To Net: NetName=CDO1 Pin=R2F-2
+Added Pin To Net: NetName=CDO2 Pin=R2G-2
+Added Pin To Net: NetName=VREFHI4 Pin=U1B-2
+Added Pin To Net: NetName=VREFLO4 Pin=U1B-3
+Added Pin To Net: NetName=VREFHI4 Pin=U1C-2
+Added Pin To Net: NetName=VREFLO4 Pin=U1C-3
+Added Pin To Net: NetName=VREFHI4 Pin=U1D-2
+Added Pin To Net: NetName=VREFLO4 Pin=U1D-3
+Added Pin To Net: NetName=VREFHI2 Pin=U1E-2
+Added Pin To Net: NetName=VREFLO2 Pin=U1E-3
+Added Pin To Net: NetName=VREFHI1 Pin=U1F-2
+Added Pin To Net: NetName=VREFLO1 Pin=U1F-3
+Added Pin To Net: NetName=VREFHI1 Pin=U1G-2
+Added Pin To Net: NetName=VREFLO1 Pin=U1G-3
+Added Pin To Net: NetName=VREFLO4 Pin=U2B-8
+Added Pin To Net: NetName=VREFLO4 Pin=U2C-8
+Added Pin To Net: NetName=VREFLO4 Pin=U2D-8
+Added Pin To Net: NetName=A Pin=U2E-3
+Added Pin To Net: NetName=VREFLO2 Pin=U2E-8
+Added Pin To Net: NetName=A Pin=U2F-3
+Added Pin To Net: NetName=VREFLO1 Pin=U2F-8
+Added Pin To Net: NetName=A Pin=U2G-3
+Added Pin To Net: NetName=VREFLO1 Pin=U2G-8
+Change Net Name : Old Net Name=NetC1E_pos New Net Name=NetC1H_pos
+Change Net Name : Old Net Name=NetC1F_pos New Net Name=NetC1I_pos
+Change Net Name : Old Net Name=NetC1G_pos New Net Name=NetC1J_pos
+Change Net Name : Old Net Name=NetC1H_pos New Net Name=NetC1K_pos
+Change Net Name : Old Net Name=NetC1I_pos New Net Name=NetC1L_pos
+Change Net Name : Old Net Name=NetC1J_pos New Net Name=NetC1M_pos
+Change Net Name : Old Net Name=NetC1K_pos New Net Name=NetC1N_pos
+Change Net Name : Old Net Name=NetC1L_pos New Net Name=NetC1O_pos
+Change Net Name : Old Net Name=NetC2E_2 New Net Name=NetC2H_2
+Change Net Name : Old Net Name=NetC2F_2 New Net Name=NetC2I_2
+Change Net Name : Old Net Name=NetC2G_2 New Net Name=NetC2J_2
+Change Net Name : Old Net Name=NetC2H_2 New Net Name=NetC2K_2
+Change Net Name : Old Net Name=NetC2I_2 New Net Name=NetC2L_2
+Change Net Name : Old Net Name=NetC2J_2 New Net Name=NetC2M_2
+Change Net Name : Old Net Name=NetC2K_2 New Net Name=NetC2N_2
+Change Net Name : Old Net Name=NetC2L_2 New Net Name=NetC2O_2
+Change Net Name : Old Net Name=NetC3E_neg New Net Name=NetC3H_neg
+Change Net Name : Old Net Name=NetC3F_neg New Net Name=NetC3I_neg
+Change Net Name : Old Net Name=NetC3G_neg New Net Name=NetC3J_neg
+Change Net Name : Old Net Name=NetC3H_neg New Net Name=NetC3K_neg
+Change Net Name : Old Net Name=NetC3I_neg New Net Name=NetC3L_neg
+Change Net Name : Old Net Name=NetC3J_neg New Net Name=NetC3M_neg
+Change Net Name : Old Net Name=NetC3K_neg New Net Name=NetC3N_neg
+Change Net Name : Old Net Name=NetC3L_neg New Net Name=NetC3O_neg
+Change Net Name : Old Net Name=NetR1E_2 New Net Name=NetR1H_2
+Change Net Name : Old Net Name=NetR1F_2 New Net Name=NetR1I_2
+Change Net Name : Old Net Name=NetR1G_2 New Net Name=NetR1J_2
+Change Net Name : Old Net Name=NetR1H_2 New Net Name=NetR1K_2
+Change Net Name : Old Net Name=NetR1I_2 New Net Name=NetR1L_2
+Change Net Name : Old Net Name=NetR1J_2 New Net Name=NetR1M_2
+Change Net Name : Old Net Name=NetR1K_2 New Net Name=NetR1N_2
+Change Net Name : Old Net Name=NetR1L_2 New Net Name=NetR1O_2
+Change Net Name : Old Net Name=NetR2E_1 New Net Name=NetR2H_1
+Change Net Name : Old Net Name=NetR2F_1 New Net Name=NetR2I_1
+Change Net Name : Old Net Name=NetR2G_1 New Net Name=NetR2J_1
+Change Net Name : Old Net Name=NetR2H_1 New Net Name=NetR2K_1
+Change Net Name : Old Net Name=NetR2I_1 New Net Name=NetR2L_1
+Change Net Name : Old Net Name=NetR2J_1 New Net Name=NetR2M_1
+Change Net Name : Old Net Name=NetR2K_1 New Net Name=NetR2N_1
+Change Net Name : Old Net Name=NetR2L_1 New Net Name=NetR2O_1
+Change Net Name : Old Net Name=NetU2E_6 New Net Name=NetU2H_6
+Change Net Name : Old Net Name=NetU2F_6 New Net Name=NetU2I_6
+Change Net Name : Old Net Name=NetU2G_6 New Net Name=NetU2J_6
+Change Net Name : Old Net Name=NetU2H_6 New Net Name=NetU2K_6
+Change Net Name : Old Net Name=NetU2I_6 New Net Name=NetU2L_6
+Change Net Name : Old Net Name=NetU2J_6 New Net Name=NetU2M_6
+Change Net Name : Old Net Name=NetU2K_6 New Net Name=NetU2N_6
+Change Net Name : Old Net Name=NetU2L_6 New Net Name=NetU2O_6
+Added Pin To Net: NetName=NetC1E_pos Pin=C1E-POS
+Added Pin To Net: NetName=NetC1E_pos Pin=L1E-2
+Added Pin To Net: NetName=NetC1E_pos Pin=U3E-6
+Added Net: Name=NetC1E_pos
+Added Pin To Net: NetName=NetC1F_pos Pin=C1F-POS
+Added Pin To Net: NetName=NetC1F_pos Pin=L1F-2
+Added Pin To Net: NetName=NetC1F_pos Pin=U3F-6
+Added Net: Name=NetC1F_pos
+Added Pin To Net: NetName=NetC1G_pos Pin=C1G-POS
+Added Pin To Net: NetName=NetC1G_pos Pin=L1G-2
+Added Pin To Net: NetName=NetC1G_pos Pin=U3G-6
+Added Net: Name=NetC1G_pos
+Added Pin To Net: NetName=NetC2E_2 Pin=C2E-2
+Added Pin To Net: NetName=NetC2E_2 Pin=U1E-1
+Added Pin To Net: NetName=NetC2E_2 Pin=U2E-5
+Added Net: Name=NetC2E_2
+Added Pin To Net: NetName=NetC2F_2 Pin=C2F-2
+Added Pin To Net: NetName=NetC2F_2 Pin=U1F-1
+Added Pin To Net: NetName=NetC2F_2 Pin=U2F-5
+Added Net: Name=NetC2F_2
+Added Pin To Net: NetName=NetC2G_2 Pin=C2G-2
+Added Pin To Net: NetName=NetC2G_2 Pin=U1G-1
+Added Pin To Net: NetName=NetC2G_2 Pin=U2G-5
+Added Net: Name=NetC2G_2
+Added Pin To Net: NetName=NetC3E_neg Pin=C3E-NEG
+Added Pin To Net: NetName=NetC3E_neg Pin=L2E-2
+Added Pin To Net: NetName=NetC3E_neg Pin=U3E-3
+Added Net: Name=NetC3E_neg
+Added Pin To Net: NetName=NetC3F_neg Pin=C3F-NEG
+Added Pin To Net: NetName=NetC3F_neg Pin=L2F-2
+Added Pin To Net: NetName=NetC3F_neg Pin=U3F-3
+Added Net: Name=NetC3F_neg
+Added Pin To Net: NetName=NetC3G_neg Pin=C3G-NEG
+Added Pin To Net: NetName=NetC3G_neg Pin=L2G-2
+Added Pin To Net: NetName=NetC3G_neg Pin=U3G-3
+Added Net: Name=NetC3G_neg
+Added Pin To Net: NetName=NetR1E_2 Pin=R1E-2
+Added Pin To Net: NetName=NetR1E_2 Pin=U2E-2
+Added Net: Name=NetR1E_2
+Added Pin To Net: NetName=NetR1F_2 Pin=R1F-2
+Added Pin To Net: NetName=NetR1F_2 Pin=U2F-2
+Added Net: Name=NetR1F_2
+Added Pin To Net: NetName=NetR1G_2 Pin=R1G-2
+Added Pin To Net: NetName=NetR1G_2 Pin=U2G-2
+Added Net: Name=NetR1G_2
+Added Pin To Net: NetName=NetR2E_1 Pin=R2E-1
+Added Pin To Net: NetName=NetR2E_1 Pin=TP3E-1
+Added Pin To Net: NetName=NetR2E_1 Pin=U3E-5
+Added Pin To Net: NetName=NetR2E_1 Pin=U3E-7
+Added Net: Name=NetR2E_1
+Added Pin To Net: NetName=NetR2F_1 Pin=R2F-1
+Added Pin To Net: NetName=NetR2F_1 Pin=TP3F-1
+Added Pin To Net: NetName=NetR2F_1 Pin=U3F-5
+Added Pin To Net: NetName=NetR2F_1 Pin=U3F-7
+Added Net: Name=NetR2F_1
+Added Pin To Net: NetName=NetR2G_1 Pin=R2G-1
+Added Pin To Net: NetName=NetR2G_1 Pin=TP3G-1
+Added Pin To Net: NetName=NetR2G_1 Pin=U3G-5
+Added Pin To Net: NetName=NetR2G_1 Pin=U3G-7
+Added Net: Name=NetR2G_1
+Added Pin To Net: NetName=NetU2E_6 Pin=U2E-6
+Added Pin To Net: NetName=NetU2E_6 Pin=U3E-2
+Added Pin To Net: NetName=NetU2E_6 Pin=U3E-4
+Added Net: Name=NetU2E_6
+Added Pin To Net: NetName=NetU2F_6 Pin=U2F-6
+Added Pin To Net: NetName=NetU2F_6 Pin=U3F-2
+Added Pin To Net: NetName=NetU2F_6 Pin=U3F-4
+Added Net: Name=NetU2F_6
+Added Pin To Net: NetName=NetU2G_6 Pin=U2G-6
+Added Pin To Net: NetName=NetU2G_6 Pin=U3G-2
+Added Pin To Net: NetName=NetU2G_6 Pin=U3G-4
+Added Net: Name=NetU2G_6
+Change Class Name : Old Net Name=SerialPhase3 New Net Name=PPhase1/23
+Change Class Name : Old Net Name=SerialPhase4 New Net Name=PPhase1/24
+Added Class: Name=PPhase1/22
+Added Class: Name=SerialPhase12
+Added Class: Name=SerialPhase13
+Added Class: Name=SerialPhase14
+Added Room: Name=PPhase1/22
+Added Room: Name=PPhase1/23
+Added Room: Name=PPhase1/24
+Added Room: Name=SerialPhase12
+Added Room: Name=SerialPhase13
+Added Room: Name=SerialPhase14

@@ -1,0 +1,126 @@
+Added Component: Designator=TP1A(SMD_TEST POINT)
+Added Component: Designator=TP1B(SMD_TEST POINT)
+Added Component: Designator=TP1C(SMD_TEST POINT)
+Added Component: Designator=TP1D(SMD_TEST POINT)
+Added Component: Designator=TP1E(SMD_TEST POINT)
+Added Component: Designator=TP1F(SMD_TEST POINT)
+Added Component: Designator=TP2A(SMD_TEST POINT)
+Added Component: Designator=TP2B(SMD_TEST POINT)
+Added Component: Designator=TP2C(SMD_TEST POINT)
+Added Component: Designator=TP2D(SMD_TEST POINT)
+Added Component: Designator=TP2E(SMD_TEST POINT)
+Added Component: Designator=TP2F(SMD_TEST POINT)
+Added Component: Designator=TP3A(SMD_TEST POINT)
+Added Component: Designator=TP3B(SMD_TEST POINT)
+Added Component: Designator=TP3C(SMD_TEST POINT)
+Added Component: Designator=TP3D(SMD_TEST POINT)
+Added Component: Designator=TP3E(SMD_TEST POINT)
+Added Component: Designator=TP3F(SMD_TEST POINT)
+Added Component: Designator=TP3G(SMD_TEST POINT)
+Added Component: Designator=TP3H(SMD_TEST POINT)
+Added Component: Designator=TP3I(SMD_TEST POINT)
+Added Component: Designator=TP3J(SMD_TEST POINT)
+Added Component: Designator=TP3K(SMD_TEST POINT)
+Added Component: Designator=TP3L(SMD_TEST POINT)
+Added Component: Designator=TP4A(SMD_TEST POINT)
+Added Component: Designator=TP4B(SMD_TEST POINT)
+Added Component: Designator=TP4C(SMD_TEST POINT)
+Added Component: Designator=TP4D(SMD_TEST POINT)
+Added Component: Designator=TP5(SMD_TEST POINT)
+Added Component: Designator=TP6(SMD_TEST POINT)
+Added Component: Designator=TP7(SMD_TEST POINT)
+Added Component: Designator=TP8(SMD_TEST POINT)
+Added Component: Designator=TP9(SMD_TEST POINT)
+Added Component: Designator=TP10(SMD_TEST POINT)
+Added Pin To Net: NetName=VREFHI1 Pin=TP1A-1
+Added Pin To Net: NetName=VREFHI2 Pin=TP1B-1
+Added Pin To Net: NetName=VREFHI3 Pin=TP1C-1
+Added Pin To Net: NetName=VREFHI4 Pin=TP1D-1
+Added Pin To Net: NetName=VREFHI5 Pin=TP1E-1
+Added Pin To Net: NetName=VREFHI6 Pin=TP1F-1
+Added Pin To Net: NetName=VREFLO1 Pin=TP2A-1
+Added Pin To Net: NetName=VREFLO2 Pin=TP2B-1
+Added Pin To Net: NetName=VREFLO3 Pin=TP2C-1
+Added Pin To Net: NetName=VREFLO4 Pin=TP2D-1
+Added Pin To Net: NetName=VREFLO5 Pin=TP2E-1
+Added Pin To Net: NetName=VREFLO6 Pin=TP2F-1
+Added Pin To Net: NetName=NetR2A_1 Pin=TP3A-1
+Added Pin To Net: NetName=NetR2B_1 Pin=TP3B-1
+Added Pin To Net: NetName=NetR2C_1 Pin=TP3C-1
+Added Pin To Net: NetName=NetR2D_1 Pin=TP3D-1
+Added Pin To Net: NetName=NetR2E_1 Pin=TP3E-1
+Added Pin To Net: NetName=NetR2F_1 Pin=TP3F-1
+Added Pin To Net: NetName=NetR2G_1 Pin=TP3G-1
+Added Pin To Net: NetName=NetR2H_1 Pin=TP3H-1
+Added Pin To Net: NetName=NetR2I_1 Pin=TP3I-1
+Added Pin To Net: NetName=NetR2J_1 Pin=TP3J-1
+Added Pin To Net: NetName=NetR2K_1 Pin=TP3K-1
+Added Pin To Net: NetName=NetR2L_1 Pin=TP3L-1
+Added Pin To Net: NetName=NetD1A_3 Pin=TP4A-1
+Added Pin To Net: NetName=NetD1B_3 Pin=TP4B-1
+Added Pin To Net: NetName=NetD1C_3 Pin=TP4C-1
+Added Pin To Net: NetName=NetD1D_3 Pin=TP4D-1
+Added Pin To Net: NetName=NetC29_2 Pin=TP5-1
+Added Pin To Net: NetName=NetC28_2 Pin=TP6-1
+Added Pin To Net: NetName=NetC30_2 Pin=TP7-1
+Added Pin To Net: NetName=NetC39_2 Pin=TP8-1
+Added Pin To Net: NetName=+5VREF Pin=TP9-1
+Added Pin To Net: NetName=-5VREF Pin=TP10-1
+Added Member To Class: ClassName=RefAmps1 Member=Component TP1A (TP1) Test Point SMD
+Added Member To Class: ClassName=RefAmps2 Member=Component TP1B (TP1) Test Point SMD
+Added Member To Class: ClassName=RefAmps3 Member=Component TP1C (TP1) Test Point SMD
+Added Member To Class: ClassName=RefAmps4 Member=Component TP1D (TP1) Test Point SMD
+Added Member To Class: ClassName=RefAmps5 Member=Component TP1E (TP1) Test Point SMD
+Added Member To Class: ClassName=RefAmps6 Member=Component TP1F (TP1) Test Point SMD
+Added Member To Class: ClassName=RefAmps1 Member=Component TP2A (TP2) Test Point SMD
+Added Member To Class: ClassName=RefAmps2 Member=Component TP2B (TP2) Test Point SMD
+Added Member To Class: ClassName=RefAmps3 Member=Component TP2C (TP2) Test Point SMD
+Added Member To Class: ClassName=RefAmps4 Member=Component TP2D (TP2) Test Point SMD
+Added Member To Class: ClassName=RefAmps5 Member=Component TP2E (TP2) Test Point SMD
+Added Member To Class: ClassName=RefAmps6 Member=Component TP2F (TP2) Test Point SMD
+Added Member To Class: ClassName=PPhase1/21 Member=Component TP3A (TP3) Test Point SMD
+Added Member To Class: ClassName=Reset Gate Member=Component TP3B (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase3 Member=Component TP3C (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase4 Member=Component TP3D (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase5 Member=Component TP3E (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase6 Member=Component TP3F (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase7 Member=Component TP3G (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase8 Member=Component TP3H (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase9 Member=Component TP3I (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase10 Member=Component TP3J (TP3) Test Point SMD
+Added Member To Class: ClassName=SerialPhase11 Member=Component TP3K (TP3) Test Point SMD
+Added Member To Class: ClassName=Summing Gate Member=Component TP3L (TP3) Test Point SMD
+Added Member To Class: ClassName=P3A Member=Component TP4A (TP4) Test Point SMD
+Added Member To Class: ClassName=P3B Member=Component TP4B (TP4) Test Point SMD
+Added Member To Class: ClassName=TGA Member=Component TP4C (TP4) Test Point SMD
+Added Member To Class: ClassName=TGB Member=Component TP4D (TP4) Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP5 Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP6 Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP7 Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP8 Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP9 Test Point SMD
+Added Member To Class: ClassName=Bias Voltages Member=Component TP10 Test Point SMD
+Added Room: Name=Bias Voltages
+Added Room: Name=CPLD board
+Added Room: Name=P3A
+Added Room: Name=P3B
+Added Room: Name=PPhase1/21
+Added Room: Name=RefAmps1
+Added Room: Name=RefAmps2
+Added Room: Name=RefAmps3
+Added Room: Name=RefAmps4
+Added Room: Name=RefAmps5
+Added Room: Name=RefAmps6
+Added Room: Name=Reset Gate
+Added Room: Name=SerialPhase3
+Added Room: Name=SerialPhase4
+Added Room: Name=SerialPhase5
+Added Room: Name=SerialPhase6
+Added Room: Name=SerialPhase7
+Added Room: Name=SerialPhase8
+Added Room: Name=SerialPhase9
+Added Room: Name=SerialPhase10
+Added Room: Name=SerialPhase11
+Added Room: Name=Summing Gate
+Added Room: Name=TGA
+Added Room: Name=TGB

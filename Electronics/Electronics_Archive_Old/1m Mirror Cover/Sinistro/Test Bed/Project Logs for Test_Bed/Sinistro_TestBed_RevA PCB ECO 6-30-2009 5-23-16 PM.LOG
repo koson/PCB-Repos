@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=A4OUT Pin=P7-3
+Removed Pin From Net: NetName=A3OUT Pin=P7-7
+Removed Pin From Net: NetName=A2OUT Pin=P7-13
+Removed Pin From Net: NetName=A1OUT Pin=P7-17
+Added Component: Designator=R8(SMD_0805)
+Added Component: Designator=R9(SMD_0805)
+Added Component: Designator=R10(SMD_0805)
+Added Component: Designator=R11(SMD_0805)
+Added Component: Designator=SW1(DIP-16)
+Added Pin To Net: NetName=GND Pin=P4-54
+Added Pin To Net: NetName=GND Pin=P4-64
+Added Pin To Net: NetName=GND Pin=P4-74
+Added Pin To Net: NetName=GND Pin=P4-84
+Added Pin To Net: NetName=GND Pin=P4-94
+Added Pin To Net: NetName=GND Pin=P4-104
+Added Pin To Net: NetName=A Pin=R8-1
+Added Pin To Net: NetName=A Pin=R9-1
+Added Pin To Net: NetName=A Pin=R10-1
+Added Pin To Net: NetName=A Pin=R11-1
+Added Pin To Net: NetName=A4OUT Pin=SW1-9
+Added Pin To Net: NetName=A4OUT Pin=SW1-10
+Added Pin To Net: NetName=A3OUT Pin=SW1-11
+Added Pin To Net: NetName=A3OUT Pin=SW1-12
+Added Pin To Net: NetName=A2OUT Pin=SW1-13
+Added Pin To Net: NetName=A2OUT Pin=SW1-14
+Added Pin To Net: NetName=A1OUT Pin=SW1-15
+Added Pin To Net: NetName=A1OUT Pin=SW1-16
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_3 Pin=SW1-7
+Added Net: Name=NetP7_3
+Added Pin To Net: NetName=NetP7_7 Pin=P7-7
+Added Pin To Net: NetName=NetP7_7 Pin=SW1-5
+Added Net: Name=NetP7_7
+Added Pin To Net: NetName=NetP7_13 Pin=P7-13
+Added Pin To Net: NetName=NetP7_13 Pin=SW1-3
+Added Net: Name=NetP7_13
+Added Pin To Net: NetName=NetP7_17 Pin=P7-17
+Added Pin To Net: NetName=NetP7_17 Pin=SW1-1
+Added Net: Name=NetP7_17
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=SW1-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=SW1-4
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=SW1-6
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=SW1-8
+Added Net: Name=NetR11_2
+Added Class: Name=ASP BRD #4

@@ -1,0 +1,24 @@
+Output: ArtworkLayers
+Type  : Gerber
+From  : PCB Document [175-00013 rev1A.PcbDoc]
+   Generated File[175-00013 rev1A.GTL]
+   Generated File[175-00013 rev1A.GP1]
+   Generated File[175-00013 rev1A.GP2]
+   Generated File[175-00013 rev1A.GP3]
+   Generated File[175-00013 rev1A.GP4]
+   Generated File[175-00013 rev1A.GP5]
+   Generated File[175-00013 rev1A.GBL]
+   Generated File[175-00013 rev1A.GTO]
+   Generated File[175-00013 rev1A.GTP]
+   Generated File[175-00013 rev1A.GTS]
+   Generated File[175-00013 rev1A.GBS]
+   Generated File[175-00013 rev1A.GBP]
+   Generated File[175-00013 rev1A.GBO]
+   Generated File[175-00013 rev1A.EXTREP]
+   Generated File[175-00013 rev1A.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 12:15:43 PM On 8/31/2010

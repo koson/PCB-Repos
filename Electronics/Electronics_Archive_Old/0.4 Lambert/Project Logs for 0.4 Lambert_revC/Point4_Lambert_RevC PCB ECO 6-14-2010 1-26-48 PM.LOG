@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=L1 Old DesignItemId=Inductor New DesignItemId=Inductor TH
+Change Component DesignItemId : Designator=L2 Old DesignItemId=Inductor New DesignItemId=Inductor TH
+Change Component DesignItemId : Designator=L3 Old DesignItemId=Inductor New DesignItemId=Inductor TH
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=Inductor TH
+Change Component Comment : Designator=L2 Old Comment=Inductor New Comment=Inductor TH
+Change Component Comment : Designator=L3 Old Comment=Inductor New Comment=Inductor TH
+Change Component Library : Designator=L1 Old Library=Miscellaneous Devices.IntLib New Library=Richs Schematic Components.SchLib
+Change Component Library : Designator=L2 Old Library=Miscellaneous Devices.IntLib New Library=Richs Schematic Components.SchLib
+Change Component Library : Designator=L3 Old Library=Miscellaneous Devices.IntLib New Library=Richs Schematic Components.SchLib

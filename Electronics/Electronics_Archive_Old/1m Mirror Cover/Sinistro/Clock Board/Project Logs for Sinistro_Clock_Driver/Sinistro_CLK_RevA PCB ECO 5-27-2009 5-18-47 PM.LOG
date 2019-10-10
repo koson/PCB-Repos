@@ -1,0 +1,12 @@
+Added Component: Designator=Q6(SMD_SOT23_3)
+Added Component: Designator=U19(SMD_SOT23_3)
+Added Pin To Net: NetName=DRV_SEL_N Pin=Q6-1
+Added Pin To Net: NetName=VCC Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=U19-3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=U19-2
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=S_WIRED_1 Pin=J1-33
+Added Pin To Net: NetName=S_WIRED_1 Pin=U19-1
+Added Net: Name=S_WIRED_1
+Added Member To Class: ClassName=CPLD board Member=Component Q6 FDV304P

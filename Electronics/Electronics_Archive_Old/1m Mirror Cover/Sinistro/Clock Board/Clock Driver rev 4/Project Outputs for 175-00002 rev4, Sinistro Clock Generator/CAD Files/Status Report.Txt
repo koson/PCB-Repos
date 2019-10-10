@@ -1,0 +1,12 @@
+Output: DrillDrawing
+Type  : Gerber
+From  : PCB Document [175-00002 rev 4, PCB, Sinistro Clock Gen.PcbDoc]
+   Generated File[175-00002 rev 4, PCB, Sinistro Clock Gen.GD1]
+   Generated File[175-00002 rev 4, PCB, Sinistro Clock Gen.EXTREP]
+   Generated File[175-00002 rev 4, PCB, Sinistro Clock Gen.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:04:45 PM On 1/2/2013

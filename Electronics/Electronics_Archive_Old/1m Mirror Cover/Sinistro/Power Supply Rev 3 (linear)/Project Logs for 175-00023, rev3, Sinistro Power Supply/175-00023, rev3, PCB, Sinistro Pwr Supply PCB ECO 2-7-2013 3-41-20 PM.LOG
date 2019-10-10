@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=DD Pin=P4-1
+Removed Pin From Net: NetName=BB Pin=P4-2
+Removed Pin From Net: NetName=CC Pin=P4-3
+Removed Pin From Net: NetName=AA Pin=P4-4
+Removed Pin From Net: NetName=NEUT Pin=P4-5
+Removed Pin From Net: NetName=SW_NEUT Pin=P4-6
+Removed Pin From Net: NetName=LINE Pin=P4-7
+Removed Pin From Net: NetName=SW_LINE Pin=P4-8
+Change Component Description : Designator=T1 Old Description=TRIAD FS10-1200 New Description=TRIAD FS12-1000
+Added Pin To Net: NetName=SW_LINE Pin=P4-1
+Added Pin To Net: NetName=LINE Pin=P4-2
+Added Pin To Net: NetName=SW_NEUT Pin=P4-3
+Added Pin To Net: NetName=NEUT Pin=P4-4
+Added Pin To Net: NetName=AA Pin=P4-5
+Added Pin To Net: NetName=CC Pin=P4-6
+Added Pin To Net: NetName=BB Pin=P4-7
+Added Pin To Net: NetName=DD Pin=P4-8

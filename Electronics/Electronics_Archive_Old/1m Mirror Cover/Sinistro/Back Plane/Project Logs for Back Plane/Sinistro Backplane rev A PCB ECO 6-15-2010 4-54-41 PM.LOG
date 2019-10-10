@@ -1,0 +1,4 @@
+Added Component: Designator=P13(HDR1X4 for IDC)
+Added Pin To Net: NetName=GPS_1HZ Pin=P13-1
+Added Pin To Net: NetName=A Pin=P13-4
+Added Member To Class: ClassName=Sinistro Backplane Page1 Member=Component P13 Header 4

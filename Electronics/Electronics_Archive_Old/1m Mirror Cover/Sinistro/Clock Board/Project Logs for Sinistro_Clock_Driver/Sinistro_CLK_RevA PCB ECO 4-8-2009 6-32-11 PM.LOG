@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=C5A NewDesignator=C5B
+Change Component Designator: OldDesignator=C5B NewDesignator=C5A
+Change Component Designator: OldDesignator=C6A NewDesignator=C6B
+Change Component Designator: OldDesignator=C6B NewDesignator=C6A
+Change Component Designator: OldDesignator=C8A NewDesignator=C8B
+Change Component Designator: OldDesignator=C8B NewDesignator=C8A
+Change Component Designator: OldDesignator=C37A NewDesignator=C37B
+Change Component Designator: OldDesignator=C37B NewDesignator=C37A
+Change Component Designator: OldDesignator=D1A NewDesignator=D1B
+Change Component Designator: OldDesignator=D1B NewDesignator=D1A
+Change Component Designator: OldDesignator=D2A NewDesignator=D2B
+Change Component Designator: OldDesignator=D2B NewDesignator=D2A
+Change Component Designator: OldDesignator=L3A NewDesignator=L3B
+Change Component Designator: OldDesignator=L3B NewDesignator=L3A
+Change Component Designator: OldDesignator=L4A NewDesignator=L4B
+Change Component Designator: OldDesignator=L4B NewDesignator=L4A
+Change Component Designator: OldDesignator=R3A NewDesignator=R3B
+Change Component Designator: OldDesignator=R3B NewDesignator=R3A
+Change Component Designator: OldDesignator=R4A NewDesignator=R4B
+Change Component Designator: OldDesignator=R4B NewDesignator=R4A
+Change Component Designator: OldDesignator=R5A NewDesignator=R5B
+Change Component Designator: OldDesignator=R5B NewDesignator=R5A
+Change Component Designator: OldDesignator=R6A NewDesignator=R6B
+Change Component Designator: OldDesignator=R6B NewDesignator=R6A
+Change Component Designator: OldDesignator=TP4A NewDesignator=TP4B
+Change Component Designator: OldDesignator=TP4B NewDesignator=TP4A
+Change Component Designator: OldDesignator=U4A NewDesignator=U4B
+Change Component Designator: OldDesignator=U4B NewDesignator=U4A
+Change Component Designator: OldDesignator=U5A NewDesignator=U5B
+Change Component Designator: OldDesignator=U5B NewDesignator=U5A
+Change Component Designator: OldDesignator=U6A NewDesignator=U6B
+Change Component Designator: OldDesignator=U6B NewDesignator=U6A
+Change Component Designator: OldDesignator=U7A NewDesignator=U7B
+Change Component Designator: OldDesignator=U7B NewDesignator=U7A
+Change Net Name : Old Net Name=NetC5A_pos New Net Name=NetC5B_pos
+Change Net Name : Old Net Name=NetC5B_pos New Net Name=NetC5A_pos
+Change Net Name : Old Net Name=NetC8A_neg New Net Name=NetC8B_neg
+Change Net Name : Old Net Name=NetC8B_neg New Net Name=NetC8A_neg
+Change Net Name : Old Net Name=NetC37A_2 New Net Name=NetC37B_2
+Change Net Name : Old Net Name=NetC37B_2 New Net Name=NetC37A_2
+Change Net Name : Old Net Name=NetD1A_1 New Net Name=NetD1B_1
+Change Net Name : Old Net Name=NetD1A_3 New Net Name=NetD1B_3
+Change Net Name : Old Net Name=NetD1B_1 New Net Name=NetD1A_1
+Change Net Name : Old Net Name=NetD1B_3 New Net Name=NetD1A_3
+Change Net Name : Old Net Name=NetD2A_3 New Net Name=NetD2B_3
+Change Net Name : Old Net Name=NetD2B_3 New Net Name=NetD2A_3
+Change Net Name : Old Net Name=NetR3A_2 New Net Name=NetR3B_2
+Change Net Name : Old Net Name=NetR3B_2 New Net Name=NetR3A_2
+Change Net Name : Old Net Name=NetR6A_2 New Net Name=NetR6B_2
+Change Net Name : Old Net Name=NetR6B_2 New Net Name=NetR6A_2
+Change Net Name : Old Net Name=NetU5A_6 New Net Name=NetU5B_6
+Change Net Name : Old Net Name=NetU5B_6 New Net Name=NetU5A_6
+Change Net Name : Old Net Name=NetU6A_4 New Net Name=NetU6B_4
+Change Net Name : Old Net Name=NetU6B_4 New Net Name=NetU6A_4
+Change Class Name : Old Net Name=P3A New Net Name=P3C
+Added Room: Name=P3C

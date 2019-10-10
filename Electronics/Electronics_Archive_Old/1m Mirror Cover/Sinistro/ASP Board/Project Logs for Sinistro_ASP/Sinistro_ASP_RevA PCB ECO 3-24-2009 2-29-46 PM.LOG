@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+CLK_101 Pin=J5-152
+Added Net: Name=+CLK_101
+Added Pin To Net: NetName=-CLK_101 Pin=J5-154
+Added Net: Name=-CLK_101

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Files\users\rlobdill\Altum Projects\Sinistro\Temperature Telemetry\175-00053, rev2, Sinistro Temp Telemetry Board.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=175-00053, rev2, sinistro temp telemetry board-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=175-00053, rev2, sinistro temp telemetry board-nonplated.txt|LayerPairs=gtl,gbl

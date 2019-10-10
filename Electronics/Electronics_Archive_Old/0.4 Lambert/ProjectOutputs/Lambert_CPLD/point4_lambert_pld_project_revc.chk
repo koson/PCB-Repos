@@ -1,0 +1,131 @@
+
+----------------------------------------
+|  P a r t i t i o n    S u c c e e d  |
+----------------------------------------
+0 Group(s)
+
+ClkInput[1]: CLK_20MHZ(87, sclk) 
+GACLK: 110
+----------------- B l o c k 0 ------------------
+PLApt(15/48), Fanin(15/38), Clk(1/2), Bct(1/8), Pin(5/10), Mcell(16/16), FbNand(0/8)
+PLApts[15/37] 122 () () () () () () 110 121 () () () 119 () 118 () 117 () 116 () 115 () 113 () 112 () 111 () 
+              114 () 59 () 60 () () () 123
+Fanins[15] PinSignal_U2_CLKDV.n U2/i(0).n U2/i(1).n U2/i(2).n U2/i(3).n U2/i(4).n U2/i(5).n U2/i(6).n 
+           U3/i(0).n U3/i(1).n U3/i(2).n U3/i(3).n U3/i(4).n U3/i(5).n U3/i(6).n
+clk[1/2] GND CLK_20MHZ 
+BCTpts[1] ct0:-999 ct1:-999 ct2:-999 ct3:-999 ct4:-999 ct5:-999 ct6:-999 ct7:110 
+Signal[21] [DEPLOYED_1(70)] [PWM_IR_LOAD(69)] [PWM_UV_LOAD(65)] [STOWED_1(64)] [UV_STRIP(63)] [U2/i(0)(102)]  
+           [U3/i(0)(116)] [U2/i(1)(112)] [U2/i(2)(110)] [U2/i(3)(109)] [U2/i(4)(108)] [U2/i(5)(101)]  
+           [PinSignal_U2_CLKDV(115)] [U2/i(6)(114)] [U3/i(1)(113)] [U3/i(2)(111)] [U3/i(3)(107)]  
+           [U3/i(4)(106)] [U3/i(5)(105)] [U3/i(6)(104)] [U3/i(7)(103)] 
+Signal[21] [ 0: U2/i(5)(101)  ][ 1: U2/i(0)(102) (73)  ][ 2: U3/i(7)(103) (72)  ][ 3: U3/i(6)(104) (71)  ] 
+           [ 4: U3/i(5)(105) DEPLOYED_1(70)  ][ 5: U3/i(4)(106) PWM_IR_LOAD(69)  ][ 6: U3/i(3)(107) (68)  ] 
+           [ 7: U2/i(4)(108)  ][ 8: U2/i(3)(109)  ][ 9: U2/i(2)(110)  ][ 10: U3/i(2)(111) (67)  ][ 11:  
+           U2/i(1)(112)  ][ 12: U3/i(1)(113) PWM_UV_LOAD(65)  ][ 13: U2/i(6)(114) STOWED_1(64)  ][ 14:  
+           PinSignal_U2_CLKDV(115) UV_STRIP(63)  ][ 15: U3/i(0)(116)  ]
+FbNand[ 0] 
+----------------- B l o c k 1 ------------------
+PLApt(44/48), Fanin(30/38), Clk(0/2), Bct(7/8), Pin(5/10), Mcell(16/16), FbNand(0/8)
+PLApts[44/44] 125 5005 5006 62 -1 23 124 24 22 82 2 83 1 37 66 84 49 39 85 41 86 87 45 42 43 88 89 44 90 91 
+              46 92 65 93 40 47 38 94 95 25 96 97 48 98
+Fanins[30] OK_TO_MOVE.n PinSignal_U19_O.n PinSignal_U1_Q.n PinSignal_U3_CLKDV.n PinSignal_U6_Q_0.n 
+           PinSignal_U6_Q_1.n PinSignal_U6_Q_2.n PinSignal_U6_Q_3.n PinSignal_U6_Q_4.n PinSignal_U6_Q_5.n 
+           PinSignal_U6_Q_6.n PinSignal_U6_Q_7.n PinSignal_U7_Q_0.n PinSignal_U7_Q_1.n PinSignal_U8_Q.n 
+           U5/Q(0).n U5/Q(1).n U5/Q(2).n U5/Q(3).n U5/Q(4).n U5/Q(5).n U5/Q(6).n U5/Q(7).n U9/Q(0).n 
+           U9/Q(1).n DC_DIRECTION.p LIGHTBARMINUS.p X_DC_START.p X_PWM_IR_EN.p X_PWM_UV_EN.p
+clk[0/0] 
+BCTpts[7] ct0:125 ct1:5005 ct2:5006 ct3:62 ct4:-1 ct5:23 ct6:124 ct7:-999 
+Signal[16] [IN1(118),IN1(76)] [IN2(119),IN2(77)] [PWM_IR_OUT(129),PWM_IR_OUT(85)]  
+           [PWM_UV_OUT(120),PWM_UV_OUT(78)] [X_HOME(117),X_HOME(75)] [U5/Q(0)(132)] [U5/Q(1)(131)]  
+           [U5/Q(2)(130)] [U5/Q(3)(126)] [U5/Q(4)(125)] [U5/Q(5)(124)] [U5/Q(6)(128)] [U5/Q(7)(127)]  
+           [PinSignal_U1_Q(123)] [U9/Q(0)(122)] [U9/Q(1)(121)] 
+Signal[16] [ 0: X_HOME(117) X_HOME(75)  ][ 1: IN1(118) IN1(76)  ][ 2: IN2(119) IN2(77)  ][ 3:  
+           PWM_UV_OUT(120) PWM_UV_OUT(78)  ][ 4: U9/Q(1)(121) (79)  ][ 5: U9/Q(0)(122) (80)  ][ 6:  
+           PinSignal_U1_Q(123) (81)  ][ 7: U5/Q(5)(124)  ][ 8: U5/Q(4)(125)  ][ 9: U5/Q(3)(126)  ][ 10:  
+           U5/Q(7)(127) (83)  ][ 11: U5/Q(6)(128) (84)  ][ 12: PWM_IR_OUT(129) PWM_IR_OUT(85)  ][ 13:  
+           U5/Q(2)(130)  ][ 14: U5/Q(1)(131)  ][ 15: U5/Q(0)(132)  ]
+FbNand[ 0] 
+----------------- B l o c k 2 ------------------
+PLApt(29/48), Fanin(19/38), Clk(0/2), Bct(3/8), Pin(9/10), Mcell(16/16), FbNand(0/8)
+PLApts[29/29] 61 26 27 67 9 23 28 68 69 29 70 71 30 72 73 31 34 74 75 33 76 77 32 35 78 79 36 80 81
+Fanins[19] PinSignal_U10_Q_0.n PinSignal_U10_Q_1.n PinSignal_U10_Q_2.n PinSignal_U10_Q_3.n 
+           PinSignal_U10_Q_4.n PinSignal_U10_Q_5.n PinSignal_U10_Q_6.n PinSignal_U10_Q_7.n 
+           PinSignal_U3_CLKDV.n U12/Q(0).n U12/Q(1).n U12/Q(2).n U12/Q(3).n U12/Q(4).n U12/Q(5).n U12/Q(6).n 
+           U12/Q(7).n PWM_WHT_LOAD.p X_PWM_WHT_EN.p
+clk[0/0] 
+BCTpts[3] ct0:61 ct1:-999 ct2:-999 ct3:-999 ct4:9 ct5:23 ct6:-999 ct7:-999 
+Signal[25] [PWM_WHT_LOAD(61)] [X_PWM_IR_EN(56)] [PinSignal_U10_Q_0,PWM_D<0>(60)]  
+           [PinSignal_U10_Q_1,PWM_D<1>(57)] [PinSignal_U10_Q_2,PWM_D<2>(58)]  
+           [PinSignal_U10_Q_3,PWM_D<3>(55)] [PinSignal_U10_Q_4,PWM_D<4>(54)]  
+           [PinSignal_U10_Q_5,PWM_D<5>(53)] [PinSignal_U10_Q_7,PWM_D<7>(52)] [U12/Q(0)(134)] [U12/Q(1)(148)]  
+           [U12/Q(2)(142)] [U12/Q(3)(141)] [U12/Q(4)(140)] [U12/Q(5)(137)] [U12/Q(6)(133)] [U12/Q(7)(143)]  
+           [PinSignal_U11_Q(135)] 
+Signal[25] [ 0: U12/Q(6)(133)  ][ 1: U12/Q(0)(134) (62)  ][ 2: PinSignal_U11_Q(135) PWM_WHT_LOAD(61)  ][ 3:  
+           PinSignal_U10_Q_0(136) PWM_D<0>(60)  ][ 4: U12/Q(5)(137)  ][ 5: PinSignal_U10_Q_2(138)  
+           PWM_D<2>(58)  ][ 6: PinSignal_U10_Q_1(139) PWM_D<1>(57)  ][ 7: U12/Q(4)(140)  ][ 8: U12/Q(3)(141)  
+            ][ 9: U12/Q(2)(142)  ][ 10: U12/Q(7)(143) X_PWM_IR_EN(56)  ][ 11: PinSignal_U10_Q_3(144)  
+           PWM_D<3>(55)  ][ 12: PinSignal_U10_Q_4(145) PWM_D<4>(54)  ][ 13: PinSignal_U10_Q_5(146)  
+           PWM_D<5>(53)  ][ 14: PinSignal_U10_Q_7(147) PWM_D<7>(52)  ][ 15: U12/Q(1)(148)  ]
+FbNand[ 0] 
+----------------- B l o c k 3 ------------------
+PLApt(32/48), Fanin(35/38), Clk(0/2), Bct(4/8), Pin(6/10), Mcell(16/16), FbNand(0/8)
+PLApts[32/39] 63 50 99 52 9 17 23 100 101 53 14 102 13 103 12 55 11 104 3 105 10 57 106 107 56 58 54 108 8 
+              109 120 () () () () () () () 51
+Fanins[35] PinSignal_U3_CLKDV.n PinSignal_U7_Q_2.n PinSignal_U7_Q_3.n PinSignal_U7_Q_4.n PinSignal_U7_Q_5.n 
+           PinSignal_U7_Q_6.n PinSignal_U7_Q_7.n U3/i(0).n U3/i(1).n U3/i(2).n U3/i(3).n U3/i(4).n U3/i(5).n 
+           U3/i(6).n U3/i(7).n U9/Q(0).n U9/Q(1).n U9/Q(2).n U9/Q(3).n U9/Q(4).n U9/Q(5).n U9/Q(6).n 
+           U9/Q(7).n DEC_AXIS_OK.p PWM_D<0>.p PWM_D<1>.p PWM_D<2>.p PWM_D<3>.p PWM_D<4>.p PWM_D<5>.p 
+           PWM_IR_LOAD.p PWM_WHT_LOAD.p X_PWM_IR_EN.p X_PWM_UV_EN.p X_RA_AXIS_OK.p
+clk[0/0] 
+BCTpts[4] ct0:63 ct1:-999 ct2:-999 ct3:-999 ct4:9 ct5:17 ct6:23 ct7:-999 
+Signal[21] [OK_TO_MOVE(154),OK_TO_MOVE(45)] [DC_DIRECTION(47)] [X_DC_START(46)] [X_PWM_UV_EN(48)]  
+           [X_PWM_WHT_EN(50)] [PinSignal_U10_Q_6,PWM_D<6>(49)] [U9/Q(2)(164)] [U9/Q(3)(163)] [U9/Q(4)(158)]  
+           [U9/Q(5)(157)] [U9/Q(6)(156)] [U9/Q(7)(149)] [PinSignal_U8_Q(162)] [PinSignal_U3_CLKDV(160)]  
+           [PinSignal_U6_Q_0(159)] [PinSignal_U6_Q_1(155)] [PinSignal_U6_Q_2(153)] [PinSignal_U6_Q_3(152)]  
+           [PinSignal_U6_Q_4(151)] [PinSignal_U6_Q_5(150)] 
+Signal[21] [ 0: U9/Q(7)(149)  ][ 1: PinSignal_U6_Q_5(150) (40)  ][ 2: PinSignal_U6_Q_4(151) (41)  ][ 3:  
+           PinSignal_U6_Q_3(152) (42)  ][ 4: PinSignal_U6_Q_2(153) (44)  ][ 5: OK_TO_MOVE(154)  
+           OK_TO_MOVE(45)  ][ 6: PinSignal_U6_Q_1(155) X_DC_START(46)  ][ 7: U9/Q(6)(156)  ][ 8:  
+           U9/Q(5)(157)  ][ 9: U9/Q(4)(158)  ][ 10: PinSignal_U6_Q_0(159) DC_DIRECTION(47)  ][ 11:  
+           PinSignal_U3_CLKDV(160) X_PWM_UV_EN(48)  ][ 12: PinSignal_U10_Q_6(161) PWM_D<6>(49)  ][ 13:  
+           PinSignal_U8_Q(162) X_PWM_WHT_EN(50)  ][ 14: U9/Q(3)(163)  ][ 15: U9/Q(2)(164)  ]
+FbNand[ 0] 
+----------------- B l o c k 4 ------------------
+PLApt(18/48), Fanin(17/38), Clk(0/2), Bct(4/8), Pin(3/10), Mcell(13/16), FbNand(0/8)
+PLApts[18/39] 7 19 20 () -1 18 17 () () () () () 64 () () () () () 14 () 13 () 10 () 8 () 16 () 15 () 16 () 
+              21 () 12 () 11 () 15
+Fanins[17] IN1.n IN2.n PinSignal_U11_Q.n DEPLOYED_1.p PWM_D<0>.p PWM_D<1>.p PWM_D<2>.p PWM_D<3>.p PWM_D<4>.p 
+           PWM_D<5>.p PWM_D<6>.p PWM_D<7>.p PWM_IR_LOAD.p PWM_UV_LOAD.p STOWED_1.p UV_STRIP.p X_PWM_WHT_EN.p
+clk[0/0] 
+BCTpts[4] ct0:7 ct1:-999 ct2:-999 ct3:-999 ct4:-1 ct5:18 ct6:17 ct7:-999 
+Signal[14] [PWM_WHT_OUT(167),PWM_WHT_OUT(100)] [IR_STRIP(177),IR_STRIP(94)] [LIGHTBARMINUS(99)]  
+           [PinSignal_U6_Q_6(180)] [PinSignal_U6_Q_7(176)] [PinSignal_U7_Q_6(175)] [PinSignal_U7_Q_7(174)]  
+           [PinSignal_U7_Q_0(173)] [PinSignal_U7_Q_1(172)] [PinSignal_U7_Q_2(179)] [PinSignal_U7_Q_3(178)]  
+           [PinSignal_U7_Q_4(171)] [PinSignal_U7_Q_5(170)] [PinSignal_U19_O(169)] 
+Signal[14] [ 0: (2)  ][ 1: (1)  ][ 2: PWM_WHT_OUT(167) PWM_WHT_OUT(100)  ][ 3: LIGHTBARMINUS(99)  ][ 4:  
+           PinSignal_U19_O(169) (98)  ][ 5: PinSignal_U7_Q_5(170) (97)  ][ 6: PinSignal_U7_Q_4(171) (96)  ] 
+           [ 7: PinSignal_U7_Q_1(172)  ][ 8: PinSignal_U7_Q_0(173)  ][ 9: PinSignal_U7_Q_7(174)  ][ 10:  
+           PinSignal_U7_Q_6(175)  ][ 11: PinSignal_U6_Q_7(176)  ][ 12: IR_STRIP(177) IR_STRIP(94)  ][ 13:  
+           PinSignal_U7_Q_3(178) (93)  ][ 14: PinSignal_U7_Q_2(179) (92)  ][ 15: PinSignal_U6_Q_6(180)  ]
+FbNand[ 0] 
+----------------- B l o c k 5 ------------------
+----------------- B l o c k 6 ------------------
+PLApt(0/48), Fanin(0/38), Clk(0/2), Bct(0/8), Pin(1/10), Mcell(0/16), FbNand(0/8)
+PLApts[0/0]
+Fanins[ 0]
+clk[0/0] 
+BCTpts[0] ct0:-999 ct1:-999 ct2:-999 ct3:-999 ct4:-999 ct5:-999 ct6:-999 ct7:-999 
+Signal[ 1] [X_RA_AXIS_OK(31)] 
+Signal[ 1] [ 0:  ][ 1: (37)  ][ 2: (36)  ][ 3: (35)  ][ 4: (33)  ][ 5: (32)  ][ 6: X_RA_AXIS_OK(31)  ][ 7:  ] 
+           [ 8:  ][ 9:  ][ 10: (30)  ][ 11: (29)  ][ 12: (28)  ][ 13: (27)  ][ 14:  ][ 15:  ]
+FbNand[ 0] 
+----------------- B l o c k 7 ------------------
+PLApt(0/48), Fanin(0/38), Clk(0/2), Bct(0/8), Pin(1/10), Mcell(0/16), FbNand(0/8)
+PLApts[0/0]
+Fanins[ 0]
+clk[0/0] 
+BCTpts[0] ct0:-999 ct1:-999 ct2:-999 ct3:-999 ct4:-999 ct5:-999 ct6:-999 ct7:-999 
+Signal[ 1] [DEC_AXIS_OK(25)] 
+Signal[ 1] [ 0:  ][ 1: (15)  ][ 2: (16)  ][ 3: (17)  ][ 4:  ][ 5: (19)  ][ 6: (20)  ][ 7:  ][ 8:  ][ 9:  ] 
+           [ 10: (21)  ][ 11: (22)  ][ 12: (23)  ][ 13: (24)  ][ 14: DEC_AXIS_OK(25)  ][ 15:  ]
+FbNand[ 0] 

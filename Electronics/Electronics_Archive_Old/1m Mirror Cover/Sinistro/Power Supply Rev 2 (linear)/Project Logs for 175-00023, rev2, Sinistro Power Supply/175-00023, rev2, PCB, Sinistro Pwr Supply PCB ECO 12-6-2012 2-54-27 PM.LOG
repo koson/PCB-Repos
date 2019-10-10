@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=TP2-1
+Removed Pin From Net: NetName=NetC6_1 Pin=TP3-1
+Removed Pin From Net: NetName=NetC9_2 Pin=TP5-1
+Removed Pin From Net: NetName=NetC13_2 Pin=TP6-1
+Removed Pin From Net: NetName=NetC18_1 Pin=TP7-1
+Added Pin To Net: NetName=+3.3V Pin=C21-1
+Added Pin To Net: NetName=+3.3V Pin=C23-POS
+Added Pin To Net: NetName=+3.3V Pin=P3-5
+Added Pin To Net: NetName=+3.3V Pin=P3-15
+Added Pin To Net: NetName=+3.3V Pin=R13-2
+Added Pin To Net: NetName=+5V Pin=TP2-1
+Added Pin To Net: NetName=+12V Pin=TP3-1
+Added Pin To Net: NetName=-12V Pin=TP5-1
+Added Pin To Net: NetName=-5V Pin=TP6-1
+Added Pin To Net: NetName=+28V Pin=TP7-1
+Added Pin To Net: NetName=SPLY_DLY Pin=TP9-1
+Added Pin To Net: NetName=+3.3V Pin=TP10-1
+Added Pin To Net: NetName=+3.3V Pin=U10-2
+Change Net Name : Old Net Name=+3.3V New Net Name=VCC

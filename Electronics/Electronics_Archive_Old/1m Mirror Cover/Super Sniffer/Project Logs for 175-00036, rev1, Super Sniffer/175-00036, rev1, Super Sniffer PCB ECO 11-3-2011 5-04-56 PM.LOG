@@ -1,0 +1,283 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-1
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-2
+Removed Pin From Net: NetName=NetD1_1 Pin=D5-2
+Removed Pin From Net: NetName=NetD11_2 Pin=D11-2
+Removed Pin From Net: NetName=NetD11_1 Pin=D15-2
+Removed Pin From Net: NetName=NetD2_1 Pin=J1-2
+Removed Pin From Net: NetName=NetD22_1 Pin=J1-21
+Removed Pin From Net: NetName=NetD2_1 Pin=J3-1
+Removed Pin From Net: NetName=NetD1_1 Pin=J3-3
+Removed Pin From Net: NetName=NetD11_1 Pin=J3-13
+Removed Pin From Net: NetName=NetD22_2 Pin=J3-22
+Removed Pin From Net: NetName=NetD2_1 Pin=U1-B1
+Removed Pin From Net: NetName=NetD22_1 Pin=U1-B22
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Change Component Designator: OldDesignator=D9 NewDesignator=D10
+Change Component Designator: OldDesignator=D10 NewDesignator=D12
+Change Component Designator: OldDesignator=D13 NewDesignator=D15
+Change Component Designator: OldDesignator=D15 NewDesignator=D17
+Change Component Designator: OldDesignator=D16 NewDesignator=D18
+Change Component Designator: OldDesignator=D17 NewDesignator=D19
+Change Component Designator: OldDesignator=D18 NewDesignator=D20
+Change Component Designator: OldDesignator=D19 NewDesignator=D21
+Change Component Designator: OldDesignator=D20 NewDesignator=D23
+Change Component Designator: OldDesignator=D21 NewDesignator=D24
+Change Component Designator: OldDesignator=D23 NewDesignator=D26
+Change Component Designator: OldDesignator=D24 NewDesignator=D27
+Change Component Designator: OldDesignator=D25 NewDesignator=D28
+Change Component Designator: OldDesignator=D26 NewDesignator=D29
+Change Component Designator: OldDesignator=D27 NewDesignator=D30
+Change Component Designator: OldDesignator=D28 NewDesignator=D31
+Change Component Designator: OldDesignator=D29 NewDesignator=D32
+Change Component Designator: OldDesignator=D30 NewDesignator=D33
+Change Component Designator: OldDesignator=D31 NewDesignator=D34
+Change Component Designator: OldDesignator=D32 NewDesignator=D35
+Change Component Designator: OldDesignator=D33 NewDesignator=D36
+Change Component Designator: OldDesignator=D34 NewDesignator=D37
+Change Component Designator: OldDesignator=D35 NewDesignator=D38
+Change Component Designator: OldDesignator=D36 NewDesignator=D39
+Change Component Designator: OldDesignator=D37 NewDesignator=D40
+Change Component Designator: OldDesignator=D38 NewDesignator=D41
+Change Component Designator: OldDesignator=D39 NewDesignator=D42
+Change Component Designator: OldDesignator=D40 NewDesignator=D43
+Change Component Designator: OldDesignator=D41 NewDesignator=D44
+Change Component Designator: OldDesignator=D42 NewDesignator=D45
+Change Component Designator: OldDesignator=D43 NewDesignator=D46
+Change Component Designator: OldDesignator=D44 NewDesignator=D47
+Change Component Designator: OldDesignator=D45 NewDesignator=D48
+Change Component Designator: OldDesignator=D46 NewDesignator=D49
+Change Component Designator: OldDesignator=D47 NewDesignator=D50
+Change Component Designator: OldDesignator=D48 NewDesignator=D51
+Change Component Designator: OldDesignator=D49 NewDesignator=D52
+Change Component Designator: OldDesignator=D50 NewDesignator=D53
+Change Component Designator: OldDesignator=D51 NewDesignator=D54
+Change Component Designator: OldDesignator=D52 NewDesignator=D55
+Change Component Designator: OldDesignator=D53 NewDesignator=D56
+Change Component Designator: OldDesignator=D54 NewDesignator=D57
+Change Component Designator: OldDesignator=D55 NewDesignator=D58
+Change Component Designator: OldDesignator=D56 NewDesignator=D59
+Change Component Designator: OldDesignator=D57 NewDesignator=D60
+Change Component Designator: OldDesignator=D58 NewDesignator=D61
+Change Component Designator: OldDesignator=D59 NewDesignator=D62
+Change Component Designator: OldDesignator=D60 NewDesignator=D63
+Change Component Designator: OldDesignator=D61 NewDesignator=D64
+Change Component Designator: OldDesignator=D62 NewDesignator=D65
+Change Component Designator: OldDesignator=D63 NewDesignator=D66
+Change Component Designator: OldDesignator=D64 NewDesignator=D67
+Change Component Designator: OldDesignator=D65 NewDesignator=D68
+Change Component Designator: OldDesignator=D66 NewDesignator=D69
+Change Component Designator: OldDesignator=D67 NewDesignator=D70
+Change Component Designator: OldDesignator=D68 NewDesignator=D71
+Change Component Designator: OldDesignator=D69 NewDesignator=D72
+Change Component Designator: OldDesignator=D70 NewDesignator=D73
+Change Component Designator: OldDesignator=D71 NewDesignator=D74
+Change Component Designator: OldDesignator=D72 NewDesignator=D75
+Change Component Designator: OldDesignator=D73 NewDesignator=D76
+Change Component Designator: OldDesignator=D74 NewDesignator=D77
+Change Component Designator: OldDesignator=D75 NewDesignator=D78
+Change Component Designator: OldDesignator=D76 NewDesignator=D79
+Change Component Designator: OldDesignator=D77 NewDesignator=D80
+Change Component Designator: OldDesignator=D78 NewDesignator=D81
+Change Component Designator: OldDesignator=D79 NewDesignator=D82
+Change Component Designator: OldDesignator=D80 NewDesignator=D83
+Change Component Designator: OldDesignator=D81 NewDesignator=D84
+Change Component Designator: OldDesignator=D82 NewDesignator=D85
+Change Component Designator: OldDesignator=D83 NewDesignator=D86
+Change Component Designator: OldDesignator=D84 NewDesignator=D87
+Change Component Designator: OldDesignator=D85 NewDesignator=D88
+Change Component Designator: OldDesignator=D86 NewDesignator=D89
+Change Component Designator: OldDesignator=D87 NewDesignator=D90
+Change Component Designator: OldDesignator=D88 NewDesignator=D91
+Change Component Designator: OldDesignator=D89 NewDesignator=D92
+Change Component Designator: OldDesignator=D90 NewDesignator=D93
+Change Component Designator: OldDesignator=D91 NewDesignator=D94
+Change Component Designator: OldDesignator=D92 NewDesignator=D95
+Change Component Designator: OldDesignator=D93 NewDesignator=D96
+Change Component Designator: OldDesignator=D94 NewDesignator=D97
+Change Component Designator: OldDesignator=D95 NewDesignator=D98
+Change Component Designator: OldDesignator=D96 NewDesignator=D99
+Change Component Designator: OldDesignator=D97 NewDesignator=D100
+Change Component Designator: OldDesignator=D98 NewDesignator=D101
+Change Component Designator: OldDesignator=D99 NewDesignator=D102
+Change Component Designator: OldDesignator=D100 NewDesignator=D103
+Change Component Designator: OldDesignator=D101 NewDesignator=D104
+Added Component: Designator=D2(LED SMD 0402)
+Added Component: Designator=D13(LED SMD 0402)
+Added Component: Designator=D16(LED SMD 0402)
+Added Component: Designator=D25(LED SMD 0402)
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D3-2
+Added Pin To Net: NetName=NetD2_1 Pin=D6-2
+Added Pin To Net: NetName=NetD11_2 Pin=D13-2
+Added Pin To Net: NetName=NetD11_1 Pin=D14-2
+Added Pin To Net: NetName=NetD22_2 Pin=D24-1
+Added Pin To Net: NetName=NetD22_1 Pin=D24-2
+Added Pin To Net: NetName=NetD22_2 Pin=J1-22
+Added Pin To Net: NetName=NetD1_1 Pin=J3-1
+Added Pin To Net: NetName=NetD2_1 Pin=J3-3
+Added Pin To Net: NetName=NetD11_1 Pin=J3-11
+Added Pin To Net: NetName=NetD22_1 Pin=J3-21
+Added Pin To Net: NetName=NetD22_2 Pin=U1-B21
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD12_1
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD12_2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD13_2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD15_1
+Change Net Name : Old Net Name=NetD13_2 New Net Name=NetD15_2
+Change Net Name : Old Net Name=NetD16_1 New Net Name=NetD18_1
+Change Net Name : Old Net Name=NetD16_2 New Net Name=NetD18_2
+Change Net Name : Old Net Name=NetD19_1 New Net Name=NetD21_1
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD21_2
+Change Net Name : Old Net Name=NetD20_1 New Net Name=NetD23_1
+Change Net Name : Old Net Name=NetD20_2 New Net Name=NetD23_2
+Change Net Name : Old Net Name=NetD23_1 New Net Name=NetD26_1
+Change Net Name : Old Net Name=NetD23_2 New Net Name=NetD26_2
+Change Net Name : Old Net Name=NetD25_1 New Net Name=NetD28_1
+Change Net Name : Old Net Name=NetD25_2 New Net Name=NetD28_2
+Change Net Name : Old Net Name=NetD27_1 New Net Name=NetD30_1
+Change Net Name : Old Net Name=NetD27_2 New Net Name=NetD30_2
+Change Net Name : Old Net Name=NetD29_1 New Net Name=NetD32_1
+Change Net Name : Old Net Name=NetD29_2 New Net Name=NetD32_2
+Change Net Name : Old Net Name=NetD30_1 New Net Name=NetD33_1
+Change Net Name : Old Net Name=NetD30_2 New Net Name=NetD33_2
+Change Net Name : Old Net Name=NetD31_1 New Net Name=NetD34_1
+Change Net Name : Old Net Name=NetD31_2 New Net Name=NetD34_2
+Change Net Name : Old Net Name=NetD32_1 New Net Name=NetD35_1
+Change Net Name : Old Net Name=NetD32_2 New Net Name=NetD35_2
+Change Net Name : Old Net Name=NetD33_1 New Net Name=NetD36_1
+Change Net Name : Old Net Name=NetD33_2 New Net Name=NetD36_2
+Change Net Name : Old Net Name=NetD34_1 New Net Name=NetD37_1
+Change Net Name : Old Net Name=NetD34_2 New Net Name=NetD37_2
+Change Net Name : Old Net Name=NetD35_1 New Net Name=NetD38_1
+Change Net Name : Old Net Name=NetD35_2 New Net Name=NetD38_2
+Change Net Name : Old Net Name=NetD36_1 New Net Name=NetD39_1
+Change Net Name : Old Net Name=NetD36_2 New Net Name=NetD39_2
+Change Net Name : Old Net Name=NetD37_1 New Net Name=NetD40_1
+Change Net Name : Old Net Name=NetD37_2 New Net Name=NetD40_2
+Change Net Name : Old Net Name=NetD38_1 New Net Name=NetD41_1
+Change Net Name : Old Net Name=NetD38_2 New Net Name=NetD41_2
+Change Net Name : Old Net Name=NetD39_1 New Net Name=NetD42_1
+Change Net Name : Old Net Name=NetD39_2 New Net Name=NetD42_2
+Change Net Name : Old Net Name=NetD41_1 New Net Name=NetD44_1
+Change Net Name : Old Net Name=NetD41_2 New Net Name=NetD44_2
+Change Net Name : Old Net Name=NetD42_1 New Net Name=NetD45_1
+Change Net Name : Old Net Name=NetD42_2 New Net Name=NetD45_2
+Change Net Name : Old Net Name=NetD44_1 New Net Name=NetD47_1
+Change Net Name : Old Net Name=NetD44_2 New Net Name=NetD47_2
+Change Net Name : Old Net Name=NetD46_1 New Net Name=NetD49_1
+Change Net Name : Old Net Name=NetD46_2 New Net Name=NetD49_2
+Change Net Name : Old Net Name=NetD48_1 New Net Name=NetD51_1
+Change Net Name : Old Net Name=NetD48_2 New Net Name=NetD51_2
+Change Net Name : Old Net Name=NetD49_1 New Net Name=NetD52_1
+Change Net Name : Old Net Name=NetD49_2 New Net Name=NetD52_2
+Change Net Name : Old Net Name=NetD50_1 New Net Name=NetD53_1
+Change Net Name : Old Net Name=NetD50_2 New Net Name=NetD53_2
+Change Net Name : Old Net Name=NetD51_1 New Net Name=NetD54_1
+Change Net Name : Old Net Name=NetD51_2 New Net Name=NetD54_2
+Change Net Name : Old Net Name=NetD53_1 New Net Name=NetD56_1
+Change Net Name : Old Net Name=NetD53_2 New Net Name=NetD56_2
+Change Net Name : Old Net Name=NetD54_1 New Net Name=NetD57_1
+Change Net Name : Old Net Name=NetD54_2 New Net Name=NetD57_2
+Change Net Name : Old Net Name=NetD56_1 New Net Name=NetD59_1
+Change Net Name : Old Net Name=NetD56_2 New Net Name=NetD59_2
+Change Net Name : Old Net Name=NetD58_1 New Net Name=NetD61_1
+Change Net Name : Old Net Name=NetD58_2 New Net Name=NetD61_2
+Change Net Name : Old Net Name=NetD60_1 New Net Name=NetD63_1
+Change Net Name : Old Net Name=NetD60_2 New Net Name=NetD63_2
+Change Net Name : Old Net Name=NetD61_1 New Net Name=NetD64_1
+Change Net Name : Old Net Name=NetD61_2 New Net Name=NetD64_2
+Change Net Name : Old Net Name=NetD62_1 New Net Name=NetD65_1
+Change Net Name : Old Net Name=NetD62_2 New Net Name=NetD65_2
+Change Net Name : Old Net Name=NetD64_1 New Net Name=NetD67_1
+Change Net Name : Old Net Name=NetD64_2 New Net Name=NetD67_2
+Change Net Name : Old Net Name=NetD65_1 New Net Name=NetD68_1
+Change Net Name : Old Net Name=NetD65_2 New Net Name=NetD68_2
+Change Net Name : Old Net Name=NetD67_1 New Net Name=NetD70_1
+Change Net Name : Old Net Name=NetD67_2 New Net Name=NetD70_2
+Change Net Name : Old Net Name=NetD70_1 New Net Name=NetD73_1
+Change Net Name : Old Net Name=NetD70_2 New Net Name=NetD73_2
+Change Net Name : Old Net Name=NetD71_1 New Net Name=NetD74_1
+Change Net Name : Old Net Name=NetD71_2 New Net Name=NetD74_2
+Change Net Name : Old Net Name=NetD72_1 New Net Name=NetD75_1
+Change Net Name : Old Net Name=NetD72_2 New Net Name=NetD75_2
+Change Net Name : Old Net Name=NetD74_1 New Net Name=NetD77_1
+Change Net Name : Old Net Name=NetD74_2 New Net Name=NetD77_2
+Change Net Name : Old Net Name=NetD75_1 New Net Name=NetD78_1
+Change Net Name : Old Net Name=NetD75_2 New Net Name=NetD78_2
+Change Net Name : Old Net Name=NetD77_1 New Net Name=NetD80_1
+Change Net Name : Old Net Name=NetD77_2 New Net Name=NetD80_2
+Change Net Name : Old Net Name=NetD79_1 New Net Name=NetD82_1
+Change Net Name : Old Net Name=NetD79_2 New Net Name=NetD82_2
+Change Net Name : Old Net Name=NetD81_1 New Net Name=NetD84_1
+Change Net Name : Old Net Name=NetD81_2 New Net Name=NetD84_2
+Change Net Name : Old Net Name=NetD82_1 New Net Name=NetD85_1
+Change Net Name : Old Net Name=NetD82_2 New Net Name=NetD85_2
+Change Net Name : Old Net Name=NetD83_1 New Net Name=NetD86_1
+Change Net Name : Old Net Name=NetD83_2 New Net Name=NetD86_2
+Change Net Name : Old Net Name=NetD85_1 New Net Name=NetD88_1
+Change Net Name : Old Net Name=NetD85_2 New Net Name=NetD88_2
+Change Net Name : Old Net Name=NetD86_1 New Net Name=NetD89_1
+Change Net Name : Old Net Name=NetD86_2 New Net Name=NetD89_2
+Change Net Name : Old Net Name=NetD88_1 New Net Name=NetD91_1
+Change Net Name : Old Net Name=NetD88_2 New Net Name=NetD91_2
+Change Net Name : Old Net Name=NetD91_1 New Net Name=NetD94_1
+Change Net Name : Old Net Name=NetD91_2 New Net Name=NetD94_2
+Change Net Name : Old Net Name=NetD92_1 New Net Name=NetD95_1
+Change Net Name : Old Net Name=NetD92_2 New Net Name=NetD95_2
+Change Net Name : Old Net Name=NetD93_1 New Net Name=NetD96_1
+Change Net Name : Old Net Name=NetD93_2 New Net Name=NetD96_2
+Change Net Name : Old Net Name=NetD95_1 New Net Name=NetD98_1
+Change Net Name : Old Net Name=NetD95_2 New Net Name=NetD98_2
+Change Net Name : Old Net Name=NetD96_1 New Net Name=NetD99_1
+Change Net Name : Old Net Name=NetD96_2 New Net Name=NetD99_2
+Change Net Name : Old Net Name=NetD98_1 New Net Name=NetD101_1
+Change Net Name : Old Net Name=NetD98_2 New Net Name=NetD101_2
+Change Net Name : Old Net Name=NetD100_1 New Net Name=NetD103_1
+Change Net Name : Old Net Name=NetD100_2 New Net Name=NetD103_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-1
+Added Pin To Net: NetName=NetD1_2 Pin=J1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-B1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D14-1
+Added Pin To Net: NetName=NetD11_2 Pin=J1-12
+Added Pin To Net: NetName=NetD11_2 Pin=U1-B11
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=D17-2
+Added Pin To Net: NetName=NetD13_1 Pin=J3-13
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=J1-13
+Added Pin To Net: NetName=NetD16_1 Pin=U1-B14
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=J3-14
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD25_1 Pin=J1-21
+Added Pin To Net: NetName=NetD25_1 Pin=U1-B22
+Added Net: Name=NetD25_1
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD25_2 Pin=J3-22
+Added Net: Name=NetD25_2
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D102 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D103 LED SMD 0402
+Added Member To Class: ClassName=780-00040, Rev1, Pg1, Super Sniffer Member=Component D104 LED SMD 0402

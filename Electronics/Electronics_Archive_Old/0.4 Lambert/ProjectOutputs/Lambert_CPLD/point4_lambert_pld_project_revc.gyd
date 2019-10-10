@@ -1,0 +1,68 @@
+Pin Freeze File:  version L.33
+
+3128XL100 XCR3128XL-10-VQ100
+CLK_20MHZ S:PIN87
+DC_DIRECTION S:PIN47
+DEC_AXIS_OK S:PIN25
+DEPLOYED_1 S:PIN70
+LIGHTBARMINUS S:PIN99
+PWM_D<0> S:PIN60
+PWM_D<1> S:PIN57
+PWM_D<2> S:PIN58
+PWM_D<3> S:PIN55
+PWM_D<4> S:PIN54
+PWM_D<5> S:PIN53
+PWM_D<6> S:PIN49
+PWM_D<7> S:PIN52
+PWM_IR_LOAD S:PIN69
+PWM_UV_LOAD S:PIN65
+PWM_WHT_LOAD S:PIN61
+STOWED_1 S:PIN64
+UV_STRIP S:PIN63
+X_DC_START S:PIN46
+X_PWM_IR_EN S:PIN56
+X_PWM_UV_EN S:PIN48
+X_PWM_WHT_EN S:PIN50
+X_RA_AXIS_OK S:PIN31
+IN1 S:PIN76
+IN2 S:PIN77
+IR_STRIP S:PIN94
+OK_TO_MOVE S:PIN45
+PWM_IR_OUT S:PIN85
+PWM_UV_OUT S:PIN78
+PWM_WHT_OUT S:PIN100
+X_HOME S:PIN75
+
+
+;The remaining section of the .gyd file is for documentation purposes only.
+;It shows where your internal equations were placed in the last successful fit.
+
+PARTITION FB1_1 U2/i(5) U2/i(0) U3/i(7) U3/i(6)
+		 U3/i(5) U3/i(4) U3/i(3) U2/i(4)
+		 U2/i(3) U2/i(2) U3/i(2) U2/i(1)
+		 U3/i(1) U2/i(6) PinSignal_U2_CLKDV U3/i(0)
+		
+PARTITION FB2_1 X_HOME IN1 IN2 PWM_UV_OUT
+		 U9/Q(1) U9/Q(0) PinSignal_U1_Q U5/Q(5)
+		 U5/Q(4) U5/Q(3) U5/Q(7) U5/Q(6)
+		 PWM_IR_OUT U5/Q(2) U5/Q(1) U5/Q(0)
+		
+PARTITION FB3_1 U12/Q(6) U12/Q(0) PinSignal_U11_Q PinSignal_U10_Q_0
+		 U12/Q(5) PinSignal_U10_Q_2 PinSignal_U10_Q_1 U12/Q(4)
+		 U12/Q(3) U12/Q(2) U12/Q(7) PinSignal_U10_Q_3
+		 PinSignal_U10_Q_4 PinSignal_U10_Q_5 PinSignal_U10_Q_7 U12/Q(1)
+		
+PARTITION FB4_1 U9/Q(7) PinSignal_U6_Q_5 PinSignal_U6_Q_4 PinSignal_U6_Q_3
+		 PinSignal_U6_Q_2 OK_TO_MOVE PinSignal_U6_Q_1 U9/Q(6)
+		 U9/Q(5) U9/Q(4) PinSignal_U6_Q_0 PinSignal_U3_CLKDV
+		 PinSignal_U10_Q_6 PinSignal_U8_Q U9/Q(3) U9/Q(2)
+		
+PARTITION FB5_3 PWM_WHT_OUT
+PARTITION FB5_5 PinSignal_U19_O PinSignal_U7_Q_5 PinSignal_U7_Q_4 PinSignal_U7_Q_1
+		 PinSignal_U7_Q_0 PinSignal_U7_Q_7 PinSignal_U7_Q_6 PinSignal_U6_Q_7
+		 IR_STRIP PinSignal_U7_Q_3 PinSignal_U7_Q_2 PinSignal_U6_Q_6
+		
+
+
+
+

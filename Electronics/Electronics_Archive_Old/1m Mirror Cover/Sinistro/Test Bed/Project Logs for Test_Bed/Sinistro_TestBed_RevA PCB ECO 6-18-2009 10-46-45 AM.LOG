@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=TEMP Pin=TP?-1
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=RT? NewDesignator=RT2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP54
+Change Component Designator: OldDesignator=TP? NewDesignator=TP55
+Change Component Designator: OldDesignator=TP? NewDesignator=TP56
+Change Component Designator: OldDesignator=TP? NewDesignator=TP57
+Change Component Designator: OldDesignator=TP? NewDesignator=TP58
+Change Component Designator: OldDesignator=TP? NewDesignator=TP59
+Change Component Designator: OldDesignator=TP? NewDesignator=TP60
+Change Component Designator: OldDesignator=TP? NewDesignator=TP61
+Added Pin To Net: NetName=ASP_BRD_I/O.VIDEO Pin=TP54-1
+Added Pin To Net: NetName=NetJ2_2 Pin=TP55-1
+Added Pin To Net: NetName=ASP_BRD_I/O.DC_HOLD Pin=TP56-1
+Added Pin To Net: NetName=CLK_BRD_I/O.SG Pin=TP57-1
+Added Pin To Net: NetName=TEMP Pin=TP58-1
+Added Pin To Net: NetName=TEC(+) Pin=TP59-1
+Added Pin To Net: NetName=CLK_BRD_I/O.RG Pin=TP60-1
+Added Pin To Net: NetName=TEC(-) Pin=TP61-1
+Added Pin To Net: NetName=NetRT2_CW Pin=U15-6
+Added Net: Name=NetRT2_CW
+Added Pin To Net: NetName=NetRT2_W Pin=U2-5
+Added Net: Name=NetRT2_W
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP54 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP55 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP56 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP57 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP58 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP59 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP60 Test point

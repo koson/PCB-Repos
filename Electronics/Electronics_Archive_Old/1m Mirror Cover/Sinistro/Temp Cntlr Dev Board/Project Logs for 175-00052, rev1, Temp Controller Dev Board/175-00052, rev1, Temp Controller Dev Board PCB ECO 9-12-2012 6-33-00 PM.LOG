@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DOUT1 Pin=U5-4
+Removed Pin From Net: NetName=DOUT3 Pin=U5-5
+Removed Pin From Net: NetName=DOUT4 Pin=U5-12
+Removed Pin From Net: NetName=DOUT2 Pin=U5-13
+Added Pin To Net: NetName=DACOUT1 Pin=U5-4
+Added Pin To Net: NetName=DACOUT3 Pin=U5-5
+Added Pin To Net: NetName=DACOUT5 Pin=U5-6
+Added Pin To Net: NetName=DACOUT7 Pin=U5-7
+Added Pin To Net: NetName=DACOUT8 Pin=U5-10
+Added Pin To Net: NetName=DACOUT6 Pin=U5-11
+Added Pin To Net: NetName=DACOUT4 Pin=U5-12
+Added Pin To Net: NetName=DACOUT2 Pin=U5-13

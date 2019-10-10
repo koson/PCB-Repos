@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SCLK Pin=J5-108
+Removed Pin From Net: NetName=GND Pin=J5-110
+Removed Pin From Net: NetName=SIMO Pin=J5-112
+Removed Pin From Net: NetName=SOMI Pin=J5-114
+Added Pin To Net: NetName=SCLK Pin=J5-143
+Added Pin To Net: NetName=SIMO Pin=J5-147
+Added Pin To Net: NetName=SOMI Pin=J5-149
+Added Pin To Net: NetName=SCLK Pin=U14-18

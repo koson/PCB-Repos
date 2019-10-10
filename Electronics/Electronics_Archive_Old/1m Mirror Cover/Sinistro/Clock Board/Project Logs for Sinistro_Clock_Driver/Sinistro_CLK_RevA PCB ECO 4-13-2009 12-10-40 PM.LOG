@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+12V Pin=TP25-1
+Removed Pin From Net: NetName=+5ANA Pin=TP27-1
+Removed Pin From Net: NetName=+28V Pin=TP28-1
+Removed Pin From Net: NetName=VCC Pin=TP29-1
+Removed Pin From Net: NetName=-5ANA Pin=TP30-1
+Removed Pin From Net: NetName=-12V Pin=TP31-1
+Removed Member From Class: ClassName=CPLD board Member=TP25
+Removed Member From Class: ClassName=CPLD board Member=TP27
+Removed Member From Class: ClassName=CPLD board Member=TP28
+Removed Member From Class: ClassName=CPLD board Member=TP29
+Removed Member From Class: ClassName=CPLD board Member=TP30
+Removed Member From Class: ClassName=CPLD board Member=TP31
+Added Component: Designator=TP16(SMD_TEST POINT)
+Added Component: Designator=TP17(SMD_TEST POINT)
+Added Component: Designator=TP18(SMD_TEST POINT)
+Added Component: Designator=TP19(SMD_TEST POINT)
+Added Component: Designator=TP20(SMD_TEST POINT)
+Added Component: Designator=TP21(SMD_TEST POINT)
+Added Pin To Net: NetName=+12V Pin=TP16-1
+Added Pin To Net: NetName=+5ANA Pin=TP17-1
+Added Pin To Net: NetName=+28V Pin=TP18-1
+Added Pin To Net: NetName=VCC Pin=TP19-1
+Added Pin To Net: NetName=-5ANA Pin=TP20-1
+Added Pin To Net: NetName=-12V Pin=TP21-1
+Added Member To Class: ClassName=CPLD board Member=Component TP16 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP17 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP18 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP19 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP20 Test Point SMD
+Added Member To Class: ClassName=CPLD board Member=Component TP21 Test Point SMD

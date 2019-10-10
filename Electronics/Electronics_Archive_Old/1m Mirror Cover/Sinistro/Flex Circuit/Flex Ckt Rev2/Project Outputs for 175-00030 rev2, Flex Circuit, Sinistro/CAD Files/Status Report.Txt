@@ -1,0 +1,10 @@
+Output: IPC-D-356A-NETLIST FILE
+Type  : Test Points
+From  : PCB Document [175-00030 rev2 Flex Circuit, Sinistro.PcbDoc]
+   Generated File[Fabrication Testpoint Report for 175-00030 rev2 Flex Circuit, Sinistro.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:10:23 PM On 6/30/2011

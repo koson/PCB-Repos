@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetD1_3 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=T1-6
+Added Pin To Net: NetName=NetD1_4 Pin=T1-8
+Added Net: Name=NetD1_4
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component C3 10V
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component C6 25V
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component C9 25V
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component P1 PETC-02-12-02--01-S-RA-SD
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component P2 Header 2
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component P5 Header 2
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component Q4 STD30NF03L
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component T3 20VA
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component TP1 Test point
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component TP8 Test point
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component TP9 Test point
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component TP11 Test point
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component TP13 Test point
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component TP15 Test point
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component U4 Voltage Reg, Pos Fixed
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component U5 Voltage Reg, Pos Fixed
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component U6 Voltage Reg, Neg Fixed

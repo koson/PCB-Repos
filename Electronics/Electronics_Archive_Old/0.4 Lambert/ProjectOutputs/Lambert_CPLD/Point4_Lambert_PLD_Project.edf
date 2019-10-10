@@ -1,0 +1,605 @@
+(EDIF Point4_Lambert_PLD_Project
+ (EDIFVersion 2 0 0)
+ (EDIFLevel 0)
+ (keywordMap (keywordLevel 0))
+ (status(Written
+   (TimeStamp 2012 5 24 16 53 14)
+   (Program "Altium Synthesis" (version "1.0.0.0"))
+   (Comment "Copyright (c) 2002-2007 Altium Limited")))
+ (library Xilinx (EDIFLevel 0) (technology (numberdefinition))
+
+  (cell GND (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port G (direction OUTPUT)))))
+  (cell OBUF (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port O (direction OUTPUT))
+     (port I (direction INPUT)))))
+  (cell IBUF (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port O (direction OUTPUT))
+     (port I (direction INPUT)))))
+  (cell VCC (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port P (direction OUTPUT)))))
+  (cell AND2S (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I0 (direction INPUT))
+     (port I1 (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell FDC (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port C (direction INPUT))
+     (port CLR (direction INPUT))
+     (port D (direction INPUT))
+     (port Q (direction OUTPUT)))))
+  (cell CDIV256 (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port CLKDV (direction OUTPUT))
+     (port CLKIN (direction INPUT)))))
+  (cell XOR2S (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I0 (direction INPUT))
+     (port I1 (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell CB8CLEDB (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port C (direction INPUT))
+     (port CE (direction INPUT))
+     (port CEO (direction OUTPUT))
+     (port CLR (direction INPUT))
+     (port (array (rename D "D(7:0)") 8) (direction INPUT))
+     (port L (direction INPUT))
+     (port (array (rename Q "Q(7:0)") 8) (direction OUTPUT))
+     (port TC (direction OUTPUT))
+     (port UP (direction INPUT)))))
+  (cell OR2S (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I0 (direction INPUT))
+     (port I1 (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell FD8B (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port C (direction INPUT))
+     (port (array (rename D "D(7:0)") 8) (direction INPUT))
+     (port (array (rename Q "Q(7:0)") 8) (direction OUTPUT)))))
+  (cell INV (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell CDIV128DC50 (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port CLKDV (direction OUTPUT))
+     (port CLKIN (direction INPUT)))))
+  (cell LDC (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port CLR (direction INPUT))
+     (port D (direction INPUT))
+     (port G (direction INPUT))
+     (port Q (direction OUTPUT)))))
+  (cell FD2CS (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port C (direction INPUT))
+     (port CLR (direction INPUT))
+     (port D0 (direction INPUT))
+     (port D1 (direction INPUT))
+     (port Q0 (direction OUTPUT))
+     (port Q1 (direction OUTPUT)))))
+  (cell Point4_Lambert_PLD_Project (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface
+     (port CLK_20MHZ (direction INPUT))
+     (port DC_DIRECTION (direction INPUT))
+     (port DEC_AXIS_OK (direction INPUT))
+     (port DEPLOYED_1 (direction INPUT))
+     (port LIGHTBARMINUS (direction INPUT))
+     (port (array (rename PWM_D "PWM_D(7:0)") 8) (direction INPUT))
+     (port PWM_IR_LOAD (direction INPUT))
+     (port PWM_UV_LOAD (direction INPUT))
+     (port PWM_WHT_LOAD (direction INPUT))
+     (port STOWED_1 (direction INPUT))
+     (port TCK (direction INPUT))
+     (port TDI (direction INPUT))
+     (port TDO_PLD (direction INPUT))
+     (port TMS (direction INPUT))
+     (port UV_STRIP (direction INPUT))
+     (port X_DC_START (direction INPUT))
+     (port X_PWM_IR_EN (direction INPUT))
+     (port X_PWM_UV_EN (direction INPUT))
+     (port X_PWM_WHT_EN (direction INPUT))
+     (port X_RA_AXIS_OK (direction INPUT))
+     (port IN1 (direction OUTPUT))
+     (port IN2 (direction OUTPUT))
+     (port IR_STRIP (direction OUTPUT))
+     (port OK_TO_MOVE (direction OUTPUT))
+     (port PWM_IR_OUT (direction OUTPUT))
+     (port PWM_UV_OUT (direction OUTPUT))
+     (port PWM_WHT_OUT (direction OUTPUT))
+     (port X_HOME (direction OUTPUT)))
+    (contents
+     (instance CLK_20MHZ_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance DC_DIRECTION_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance DEC_AXIS_OK_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance DEPLOYED__ibuf_1 (viewref view_1 (cellRef IBUF)))
+     (instance LIGHTBARMINUS_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_7 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_6 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_5 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_4 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_3 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_2 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_1 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_D__ibuf_0 (viewref view_1 (cellRef IBUF)))
+     (instance PWM_IR_LOAD_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance PWM_UV_LOAD_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance PWM_WHT_LOAD_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance STOWED__ibuf_1 (viewref view_1 (cellRef IBUF)))
+     (instance UV_STRIP_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance X_DC_START_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance X_PWM_IR_EN_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance X_PWM_UV_EN_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance X_PWM_WHT_EN_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance X_RA_AXIS_OK_ibuf (viewref view_1 (cellRef IBUF)))
+     (instance n5x (viewref view_1 (cellRef VCC)))
+     (instance n5y (viewref view_1 (cellRef GND)))
+     (instance IN_obuf_1 (viewref view_1 (cellRef OBUF)))
+     (instance IN_obuf_2 (viewref view_1 (cellRef OBUF)))
+     (instance IR_STRIP_obuf (viewref view_1 (cellRef OBUF)))
+     (instance OK_TO_MOVE_obuf (viewref view_1 (cellRef OBUF)))
+     (instance PWM_IR_OUT_obuf (viewref view_1 (cellRef OBUF)))
+     (instance PWM_UV_OUT_obuf (viewref view_1 (cellRef OBUF)))
+     (instance PWM_WHT_OUT_obuf (viewref view_1 (cellRef OBUF)))
+     (instance X_HOME_obuf (viewref view_1 (cellRef OBUF)))
+     (instance U3 (viewref view_1 (cellRef CDIV256))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 471")))
+     (instance U11 (viewref view_1 (cellRef FDC))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 398")))
+     (instance U8 (viewref view_1 (cellRef FDC))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 427")))
+     (instance U1 (viewref view_1 (cellRef FDC))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 485")))
+     (instance U31 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 235")))
+     (instance U29 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 251")))
+     (instance u20 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 321")))
+     (instance U18 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 337")))
+     (instance U17 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 345")))
+     (instance U15 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 360")))
+     (instance U12 (viewref view_1 (cellRef CB8CLEDB))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 386")))
+     (instance U9 (viewref view_1 (cellRef CB8CLEDB))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 415")))
+     (instance U5 (viewref view_1 (cellRef CB8CLEDB))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 452")))
+     (instance U30 (viewref view_1 (cellRef XOR2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 243")))
+     (instance U10 (viewref view_1 (cellRef FD8B))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 407")))
+     (instance U7 (viewref view_1 (cellRef FD8B))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 436")))
+     (instance U6 (viewref view_1 (cellRef FD8B))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 444")))
+     (instance U19 (viewref view_1 (cellRef OR2S))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 329")))
+     (instance U2 (viewref view_1 (cellRef CDIV128DC50))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 478")))
+     (instance U35 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 207")))
+     (instance U34 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 214")))
+     (instance U33 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 221")))
+     (instance U32 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 228")))
+     (instance U28 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 259")))
+     (instance U26 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 275")))
+     (instance U24 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 291")))
+     (instance U22 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 307")))
+     (instance U21 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 314")))
+     (instance U16 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 353")))
+     (instance U13 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 379")))
+     (instance U4 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 464")))
+     (instance U14 (viewref view_1 (cellRef FD2CS))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 368")))
+     (instance U27 (viewref view_1 (cellRef LDC))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 266")))
+     (instance U25 (viewref view_1 (cellRef LDC))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 282")))
+     (instance U23 (viewref view_1 (cellRef LDC))
+      (property HDL_SOURCE (string "Point4_Lambert_PLD_Schematic.VHD : 298")))
+     (net CLK_20MHZ_ibuf (joined
+       (portRef O  (instanceRef CLK_20MHZ_ibuf))
+       (portRef CLKIN  (instanceRef U2))))
+     (net DC_DIRECTION_ibuf (joined
+       (portRef O  (instanceRef DC_DIRECTION_ibuf))
+       (portRef I  (instanceRef U13))
+       (portRef D1  (instanceRef U14))))
+     (net DEC_AXIS_OK_ibuf (joined
+       (portRef O  (instanceRef DEC_AXIS_OK_ibuf))
+       (portRef I1  (instanceRef U17))))
+     (net DEPLOYED__ibuf_1 (joined
+       (portRef O  (instanceRef DEPLOYED__ibuf_1))
+       (portRef I0  (instanceRef u20))))
+     (net LIGHTBARMINUS_ibuf (joined
+       (portRef O  (instanceRef LIGHTBARMINUS_ibuf))
+       (portRef I  (instanceRef U21))))
+     (net PWM_D__ibuf_7 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_7))
+       (portRef (member D 0)  (instanceRef U10))
+       (portRef (member D 0)  (instanceRef U7))
+       (portRef (member D 0)  (instanceRef U6))))
+     (net PWM_D__ibuf_6 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_6))
+       (portRef (member D 1)  (instanceRef U10))
+       (portRef (member D 1)  (instanceRef U7))
+       (portRef (member D 1)  (instanceRef U6))))
+     (net PWM_D__ibuf_5 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_5))
+       (portRef (member D 2)  (instanceRef U10))
+       (portRef (member D 2)  (instanceRef U7))
+       (portRef (member D 2)  (instanceRef U6))))
+     (net PWM_D__ibuf_4 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_4))
+       (portRef (member D 3)  (instanceRef U10))
+       (portRef (member D 3)  (instanceRef U7))
+       (portRef (member D 3)  (instanceRef U6))))
+     (net PWM_D__ibuf_3 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_3))
+       (portRef (member D 4)  (instanceRef U10))
+       (portRef (member D 4)  (instanceRef U7))
+       (portRef (member D 4)  (instanceRef U6))))
+     (net PWM_D__ibuf_2 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_2))
+       (portRef (member D 5)  (instanceRef U10))
+       (portRef (member D 5)  (instanceRef U7))
+       (portRef (member D 5)  (instanceRef U6))))
+     (net PWM_D__ibuf_1 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_1))
+       (portRef (member D 6)  (instanceRef U10))
+       (portRef (member D 6)  (instanceRef U7))
+       (portRef (member D 6)  (instanceRef U6))))
+     (net PWM_D__ibuf_0 (joined
+       (portRef O  (instanceRef PWM_D__ibuf_0))
+       (portRef (member D 7)  (instanceRef U10))
+       (portRef (member D 7)  (instanceRef U7))
+       (portRef (member D 7)  (instanceRef U6))))
+     (net PWM_IR_LOAD_ibuf (joined
+       (portRef O  (instanceRef PWM_IR_LOAD_ibuf))
+       (portRef C  (instanceRef U6))))
+     (net PWM_UV_LOAD_ibuf (joined
+       (portRef O  (instanceRef PWM_UV_LOAD_ibuf))
+       (portRef C  (instanceRef U7))))
+     (net PWM_WHT_LOAD_ibuf (joined
+       (portRef O  (instanceRef PWM_WHT_LOAD_ibuf))
+       (portRef C  (instanceRef U10))))
+     (net STOWED__ibuf_1 (joined
+       (portRef O  (instanceRef STOWED__ibuf_1))
+       (portRef I0  (instanceRef U18))))
+     (net UV_STRIP_ibuf (joined
+       (portRef O  (instanceRef UV_STRIP_ibuf))
+       (portRef I  (instanceRef U22))))
+     (net X_DC_START_ibuf (joined
+       (portRef O  (instanceRef X_DC_START_ibuf))
+       (portRef I  (instanceRef U35))))
+     (net X_PWM_IR_EN_ibuf (joined
+       (portRef O  (instanceRef X_PWM_IR_EN_ibuf))
+       (portRef I  (instanceRef U32))))
+     (net X_PWM_UV_EN_ibuf (joined
+       (portRef O  (instanceRef X_PWM_UV_EN_ibuf))
+       (portRef I  (instanceRef U33))))
+     (net X_PWM_WHT_EN_ibuf (joined
+       (portRef O  (instanceRef X_PWM_WHT_EN_ibuf))
+       (portRef I  (instanceRef U34))))
+     (net X_RA_AXIS_OK_ibuf (joined
+       (portRef O  (instanceRef X_RA_AXIS_OK_ibuf))
+       (portRef I  (instanceRef U16))))
+     (net PinSignal_U30_O (joined
+       (portRef O  (instanceRef U30))
+       (portRef I0  (instanceRef U31))
+       (portRef I1  (instanceRef U29))))
+     (net PinSignal_U33_O (joined
+       (portRef O  (instanceRef U33))
+       (portRef I1  (instanceRef U31))
+       (portRef I1  (instanceRef U30))))
+     (net PinSignal_U32_O (joined
+       (portRef O  (instanceRef U32))
+       (portRef I0  (instanceRef U29))
+       (portRef I0  (instanceRef U30))))
+     (net PinSignal_U34_O (joined
+       (portRef O  (instanceRef U34))
+       (portRef CE  (instanceRef U12))
+       (portRef I  (instanceRef U28))))
+     (net PinSignal_U28_O (joined
+       (portRef O  (instanceRef U28))
+       (portRef CLR  (instanceRef U27))))
+     (net PinSignal_U11_Q (joined
+       (portRef Q  (instanceRef U11))
+       (portRef D  (instanceRef U27))))
+     (net n5x (joined
+       (portRef P  (instanceRef n5x))
+       (portRef G  (instanceRef U27))
+       (portRef G  (instanceRef U25))
+       (portRef G  (instanceRef U23))
+       (portRef D  (instanceRef U11))
+       (portRef D  (instanceRef U8))
+       (portRef D  (instanceRef U1))))
+     (net PinSignal_U31_O (joined
+       (portRef O  (instanceRef U31))
+       (portRef CE  (instanceRef U9))
+       (portRef I  (instanceRef U26))))
+     (net PinSignal_U26_O (joined
+       (portRef O  (instanceRef U26))
+       (portRef CLR  (instanceRef U25))))
+     (net PinSignal_U8_Q (joined
+       (portRef Q  (instanceRef U8))
+       (portRef D  (instanceRef U25))))
+     (net PinSignal_U29_O (joined
+       (portRef O  (instanceRef U29))
+       (portRef CE  (instanceRef U5))
+       (portRef I  (instanceRef U24))))
+     (net PinSignal_U24_O (joined
+       (portRef O  (instanceRef U24))
+       (portRef CLR  (instanceRef U23))))
+     (net PinSignal_U1_Q (joined
+       (portRef Q  (instanceRef U1))
+       (portRef D  (instanceRef U23))))
+     (net IN_int_2 (joined
+       (portRef Q1  (instanceRef U14))
+       (portRef I1  (instanceRef u20))
+       (portRef I  (instanceRef IN_obuf_2))))
+     (net PinSignal_u20_O (joined
+       (portRef O  (instanceRef u20))
+       (portRef I0  (instanceRef U19))))
+     (net PinSignal_U18_O (joined
+       (portRef O  (instanceRef U18))
+       (portRef I1  (instanceRef U19))))
+     (net IN_int_1 (joined
+       (portRef Q0  (instanceRef U14))
+       (portRef I1  (instanceRef U18))
+       (portRef I  (instanceRef IN_obuf_1))))
+     (net PinSignal_U16_O (joined
+       (portRef O  (instanceRef U16))
+       (portRef I0  (instanceRef U17))))
+     (net PinSignal_U35_O (joined
+       (portRef O  (instanceRef U35))
+       (portRef I0  (instanceRef U15))))
+     (net OK_TO_MOVE_int (joined
+       (portRef O  (instanceRef U17))
+       (portRef I1  (instanceRef U15))
+       (portRef I  (instanceRef OK_TO_MOVE_obuf))))
+     (net PinSignal_U15_O (joined
+       (portRef O  (instanceRef U15))
+       (portRef C  (instanceRef U14))))
+     (net PinSignal_U19_O (joined
+       (portRef O  (instanceRef U19))
+       (portRef CLR  (instanceRef U14))))
+     (net PinSignal_U13_O (joined
+       (portRef O  (instanceRef U13))
+       (portRef D0  (instanceRef U14))))
+     (net PinSignal_U2_CLKDV (joined
+       (portRef CLKDV  (instanceRef U2))
+       (portRef CLKIN  (instanceRef U3))
+       (portRef C  (instanceRef U12))
+       (portRef C  (instanceRef U9))
+       (portRef C  (instanceRef U5))))
+     (net n5y (joined
+       (portRef G  (instanceRef n5y))
+       (portRef CLR  (instanceRef U12))
+       (portRef UP  (instanceRef U12))
+       (portRef CLR  (instanceRef U9))
+       (portRef UP  (instanceRef U9))
+       (portRef CLR  (instanceRef U5))
+       (portRef UP  (instanceRef U5))))
+     (net PinSignal_U10_Q_7 (joined
+       (portRef (member Q 0)  (instanceRef U10))
+       (portRef (member D 0)  (instanceRef U12))))
+     (net PinSignal_U10_Q_6 (joined
+       (portRef (member Q 1)  (instanceRef U10))
+       (portRef (member D 1)  (instanceRef U12))))
+     (net PinSignal_U10_Q_5 (joined
+       (portRef (member Q 2)  (instanceRef U10))
+       (portRef (member D 2)  (instanceRef U12))))
+     (net PinSignal_U10_Q_4 (joined
+       (portRef (member Q 3)  (instanceRef U10))
+       (portRef (member D 3)  (instanceRef U12))))
+     (net PinSignal_U10_Q_3 (joined
+       (portRef (member Q 4)  (instanceRef U10))
+       (portRef (member D 4)  (instanceRef U12))))
+     (net PinSignal_U10_Q_2 (joined
+       (portRef (member Q 5)  (instanceRef U10))
+       (portRef (member D 5)  (instanceRef U12))))
+     (net PinSignal_U10_Q_1 (joined
+       (portRef (member Q 6)  (instanceRef U10))
+       (portRef (member D 6)  (instanceRef U12))))
+     (net PinSignal_U10_Q_0 (joined
+       (portRef (member Q 7)  (instanceRef U10))
+       (portRef (member D 7)  (instanceRef U12))))
+     (net PinSignal_U3_CLKDV (joined
+       (portRef CLKDV  (instanceRef U3))
+       (portRef L  (instanceRef U12))
+       (portRef L  (instanceRef U9))
+       (portRef L  (instanceRef U5))
+       (portRef I  (instanceRef U4))))
+     (net PinSignal_U4_O (joined
+       (portRef O  (instanceRef U4))
+       (portRef C  (instanceRef U11))
+       (portRef C  (instanceRef U8))
+       (portRef C  (instanceRef U1))))
+     (net PinSignal_U12_TC (joined
+       (portRef TC  (instanceRef U12))
+       (portRef CLR  (instanceRef U11))))
+     (net PinSignal_U7_Q_7 (joined
+       (portRef (member Q 0)  (instanceRef U7))
+       (portRef (member D 0)  (instanceRef U9))))
+     (net PinSignal_U7_Q_6 (joined
+       (portRef (member Q 1)  (instanceRef U7))
+       (portRef (member D 1)  (instanceRef U9))))
+     (net PinSignal_U7_Q_5 (joined
+       (portRef (member Q 2)  (instanceRef U7))
+       (portRef (member D 2)  (instanceRef U9))))
+     (net PinSignal_U7_Q_4 (joined
+       (portRef (member Q 3)  (instanceRef U7))
+       (portRef (member D 3)  (instanceRef U9))))
+     (net PinSignal_U7_Q_3 (joined
+       (portRef (member Q 4)  (instanceRef U7))
+       (portRef (member D 4)  (instanceRef U9))))
+     (net PinSignal_U7_Q_2 (joined
+       (portRef (member Q 5)  (instanceRef U7))
+       (portRef (member D 5)  (instanceRef U9))))
+     (net PinSignal_U7_Q_1 (joined
+       (portRef (member Q 6)  (instanceRef U7))
+       (portRef (member D 6)  (instanceRef U9))))
+     (net PinSignal_U7_Q_0 (joined
+       (portRef (member Q 7)  (instanceRef U7))
+       (portRef (member D 7)  (instanceRef U9))))
+     (net PinSignal_U9_TC (joined
+       (portRef TC  (instanceRef U9))
+       (portRef CLR  (instanceRef U8))))
+     (net PinSignal_U6_Q_7 (joined
+       (portRef (member Q 0)  (instanceRef U6))
+       (portRef (member D 0)  (instanceRef U5))))
+     (net PinSignal_U6_Q_6 (joined
+       (portRef (member Q 1)  (instanceRef U6))
+       (portRef (member D 1)  (instanceRef U5))))
+     (net PinSignal_U6_Q_5 (joined
+       (portRef (member Q 2)  (instanceRef U6))
+       (portRef (member D 2)  (instanceRef U5))))
+     (net PinSignal_U6_Q_4 (joined
+       (portRef (member Q 3)  (instanceRef U6))
+       (portRef (member D 3)  (instanceRef U5))))
+     (net PinSignal_U6_Q_3 (joined
+       (portRef (member Q 4)  (instanceRef U6))
+       (portRef (member D 4)  (instanceRef U5))))
+     (net PinSignal_U6_Q_2 (joined
+       (portRef (member Q 5)  (instanceRef U6))
+       (portRef (member D 5)  (instanceRef U5))))
+     (net PinSignal_U6_Q_1 (joined
+       (portRef (member Q 6)  (instanceRef U6))
+       (portRef (member D 6)  (instanceRef U5))))
+     (net PinSignal_U6_Q_0 (joined
+       (portRef (member Q 7)  (instanceRef U6))
+       (portRef (member D 7)  (instanceRef U5))))
+     (net PinSignal_U5_TC (joined
+       (portRef TC  (instanceRef U5))
+       (portRef CLR  (instanceRef U1))))
+     (net IR_STRIP_int (joined
+       (portRef O  (instanceRef U22))
+       (portRef I  (instanceRef IR_STRIP_obuf))))
+     (net PWM_IR_OUT_int (joined
+       (portRef Q  (instanceRef U23))
+       (portRef I  (instanceRef PWM_IR_OUT_obuf))))
+     (net PWM_UV_OUT_int (joined
+       (portRef Q  (instanceRef U25))
+       (portRef I  (instanceRef PWM_UV_OUT_obuf))))
+     (net PWM_WHT_OUT_int (joined
+       (portRef Q  (instanceRef U27))
+       (portRef I  (instanceRef PWM_WHT_OUT_obuf))))
+     (net X_HOME_int (joined
+       (portRef O  (instanceRef U21))
+       (portRef I  (instanceRef X_HOME_obuf))))
+     (net IN1 (joined
+       (portRef O  (instanceRef IN_obuf_1))
+       (portRef IN1)))
+     (net IN2 (joined
+       (portRef O  (instanceRef IN_obuf_2))
+       (portRef IN2)))
+     (net IR_STRIP (joined
+       (portRef O  (instanceRef IR_STRIP_obuf))
+       (portRef IR_STRIP)))
+     (net OK_TO_MOVE (joined
+       (portRef O  (instanceRef OK_TO_MOVE_obuf))
+       (portRef OK_TO_MOVE)))
+     (net PWM_IR_OUT (joined
+       (portRef O  (instanceRef PWM_IR_OUT_obuf))
+       (portRef PWM_IR_OUT)))
+     (net PWM_UV_OUT (joined
+       (portRef O  (instanceRef PWM_UV_OUT_obuf))
+       (portRef PWM_UV_OUT)))
+     (net PWM_WHT_OUT (joined
+       (portRef O  (instanceRef PWM_WHT_OUT_obuf))
+       (portRef PWM_WHT_OUT)))
+     (net X_HOME (joined
+       (portRef O  (instanceRef X_HOME_obuf))
+       (portRef X_HOME)))
+     (net CLK_20MHZ (joined
+       (portRef CLK_20MHZ)
+       (portRef I  (instanceRef CLK_20MHZ_ibuf))))
+     (net DC_DIRECTION (joined
+       (portRef DC_DIRECTION)
+       (portRef I  (instanceRef DC_DIRECTION_ibuf))))
+     (net DEC_AXIS_OK (joined
+       (portRef DEC_AXIS_OK)
+       (portRef I  (instanceRef DEC_AXIS_OK_ibuf))))
+     (net DEPLOYED_1 (joined
+       (portRef DEPLOYED_1)
+       (portRef I  (instanceRef DEPLOYED__ibuf_1))))
+     (net LIGHTBARMINUS (joined
+       (portRef LIGHTBARMINUS)
+       (portRef I  (instanceRef LIGHTBARMINUS_ibuf))))
+     (net (rename PWM_D_7 "PWM_D<7>") (joined
+       (portRef (member PWM_D 0))
+       (portRef I  (instanceRef PWM_D__ibuf_7))))
+     (net (rename PWM_D_6 "PWM_D<6>") (joined
+       (portRef (member PWM_D 1))
+       (portRef I  (instanceRef PWM_D__ibuf_6))))
+     (net (rename PWM_D_5 "PWM_D<5>") (joined
+       (portRef (member PWM_D 2))
+       (portRef I  (instanceRef PWM_D__ibuf_5))))
+     (net (rename PWM_D_4 "PWM_D<4>") (joined
+       (portRef (member PWM_D 3))
+       (portRef I  (instanceRef PWM_D__ibuf_4))))
+     (net (rename PWM_D_3 "PWM_D<3>") (joined
+       (portRef (member PWM_D 4))
+       (portRef I  (instanceRef PWM_D__ibuf_3))))
+     (net (rename PWM_D_2 "PWM_D<2>") (joined
+       (portRef (member PWM_D 5))
+       (portRef I  (instanceRef PWM_D__ibuf_2))))
+     (net (rename PWM_D_1 "PWM_D<1>") (joined
+       (portRef (member PWM_D 6))
+       (portRef I  (instanceRef PWM_D__ibuf_1))))
+     (net (rename PWM_D_0 "PWM_D<0>") (joined
+       (portRef (member PWM_D 7))
+       (portRef I  (instanceRef PWM_D__ibuf_0))))
+     (net PWM_IR_LOAD (joined
+       (portRef PWM_IR_LOAD)
+       (portRef I  (instanceRef PWM_IR_LOAD_ibuf))))
+     (net PWM_UV_LOAD (joined
+       (portRef PWM_UV_LOAD)
+       (portRef I  (instanceRef PWM_UV_LOAD_ibuf))))
+     (net PWM_WHT_LOAD (joined
+       (portRef PWM_WHT_LOAD)
+       (portRef I  (instanceRef PWM_WHT_LOAD_ibuf))))
+     (net STOWED_1 (joined
+       (portRef STOWED_1)
+       (portRef I  (instanceRef STOWED__ibuf_1))))
+     (net UV_STRIP (joined
+       (portRef UV_STRIP)
+       (portRef I  (instanceRef UV_STRIP_ibuf))))
+     (net X_DC_START (joined
+       (portRef X_DC_START)
+       (portRef I  (instanceRef X_DC_START_ibuf))))
+     (net X_PWM_IR_EN (joined
+       (portRef X_PWM_IR_EN)
+       (portRef I  (instanceRef X_PWM_IR_EN_ibuf))))
+     (net X_PWM_UV_EN (joined
+       (portRef X_PWM_UV_EN)
+       (portRef I  (instanceRef X_PWM_UV_EN_ibuf))))
+     (net X_PWM_WHT_EN (joined
+       (portRef X_PWM_WHT_EN)
+       (portRef I  (instanceRef X_PWM_WHT_EN_ibuf))))
+     (net X_RA_AXIS_OK (joined
+       (portRef X_RA_AXIS_OK)
+       (portRef I  (instanceRef X_RA_AXIS_OK_ibuf))))))))
+ (design Point4_Lambert_PLD_Project (cellRef Point4_Lambert_PLD_Project (libraryRef Xilinx))))

@@ -1,0 +1,24 @@
+Change Value of Parameter Manuf p/n in Part RT1 Old=3266W-1-1K00LF New=3266W-1-102LF
+Change Value of Parameter Vendor p/n in Part RT1 Old=3266W-___LF-ND New=3266W--102LF-ND
+Change Value of Parameter Manuf p/n in Part RT2 Old=3266W-1-10K0LF New=3266W-1-103LF
+Change Value of Parameter Vendor p/n in Part RT2 Old=3266W-___LF-ND New=3266W-103LF-ND
+Added Parameter COST=0.09 to Part R1
+Added Parameter COST=0.09 to Part R2
+Added Parameter COST=0.09 to Part R3
+Added Parameter COST=0.09 to Part R4
+Added Parameter COST=0.09 to Part R5
+Added Parameter COST=0.09 to Part R6
+Added Parameter COST=0.33 to Part Q1
+Added Parameter COST=0.33 to Part Q2
+Added Parameter Manufacturer=FAIRCHILD to Part Q1
+Added Parameter Manufacturer=FAIRCHILD to Part Q2
+Added Parameter Manuf p/n=J111 to Part Q1
+Added Parameter Manuf p/n=J111 to Part Q2
+Added Parameter Value=J111 to Part Q1
+Added Parameter Value=J111 to Part Q2
+Added Parameter Vendor=DigiKey to Part Q1
+Added Parameter Vendor=DigiKey to Part Q2
+Added Parameter Vendor Mult.=1 to Part Q1
+Added Parameter Vendor Mult.=1 to Part Q2
+Added Parameter Vendor p/n=J111FS-ND to Part Q1
+Added Parameter Vendor p/n=J111FS-ND to Part Q2

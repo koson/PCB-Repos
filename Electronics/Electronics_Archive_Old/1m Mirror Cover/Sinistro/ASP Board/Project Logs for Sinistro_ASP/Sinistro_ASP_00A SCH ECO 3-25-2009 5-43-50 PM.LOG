@@ -1,0 +1,22 @@
+Remove Pin=U14A-15 From Net=ADC_DAT7
+Remove Pin=U14A-23 From Net=ADC_DAT0
+Remove Pin=U14A-27 From Net=ADC_DAT2
+Remove Pin=U14A-28 From Net=ADC_DAT1
+Remove Pin=U14A-29 From Net=ADC_DAT3
+Remove Pin=U14A-30 From Net=ADC_DAT4
+Remove Pin=U14A-31 From Net=ADC_DAT5
+Remove Pin=U14A-32 From Net=ADC_DAT6
+Remove Pin=U14A-37 From Net=CONVST_N
+Remove Pin=U14A-38 From Net=CLK_ENBL
+Remove Pin=U14A-39 From Net=DFF_ENBL
+Add Pin To Net: Pin=U14A-23 Old Net=ADC_DAT0 New Net=CONVST_N
+Add Pin To Net: Pin=U14A-27 Old Net=ADC_DAT2 New Net=DFF_ENBL
+Add Pin To Net: Pin=U14A-28 Old Net=ADC_DAT1 New Net=CLK_ENBL
+Add Pin To Net: Pin=U14A-37 Old Net=CONVST_N New Net=ADC_DAT0
+Add Pin To Net: Pin=U14A-38 Old Net=CLK_ENBL New Net=ADC_DAT1
+Add Pin To Net: Pin=U14A-39 Old Net=DFF_ENBL New Net=ADC_DAT2
+Add Pin To Net: Pin=U14A-40 Old Net=NetU14_40 New Net=ADC_DAT3
+Add Pin To Net: Pin=U14A-41 Old Net=NetU14_41 New Net=ADC_DAT4
+Add Pin To Net: Pin=U14A-42 Old Net=NetU14_42 New Net=ADC_DAT5
+Add Pin To Net: Pin=U14A-43 Old Net=NetU14_43 New Net=ADC_DAT6
+Add Pin To Net: Pin=U14A-44 Old Net=NetU14_44 New Net=ADC_DAT7

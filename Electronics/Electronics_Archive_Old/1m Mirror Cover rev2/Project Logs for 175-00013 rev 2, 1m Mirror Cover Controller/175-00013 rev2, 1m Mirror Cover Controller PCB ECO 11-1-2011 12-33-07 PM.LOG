@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=AX1_MOTOR_POS Pin=P1-1
+Removed Pin From Net: NetName=AX2_MOTOR_POS Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-11
+Removed Pin From Net: NetName=NetF1_1 Pin=P1-12
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 12 SCREW New DesignItemId=Header 4 SCREW RT
+Change Component Footprint: Designator=P1 Old Footprint=HDR 1x12 PHX New Footprint=HDR 1x4 PHX RT ANGLE
+Change Component Comment : Designator=P1 Old Comment=Header 12 for screw term New Comment=Header 4 for screw term
+Added Component: Designator=F2(PolySwitch RXEF050)
+Added Component: Designator=F3(PolySwitch RXEF050)
+Added Component: Designator=P3(HDR 1x2 PHX RT ANGLE)
+Added Pin To Net: NetName=AX1_MOTOR_POS Pin=F2-2
+Added Pin To Net: NetName=AX2_MOTOR_POS Pin=F3-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=NetF1_1 Pin=P3-2
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=P1-1
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=P1-3
+Added Net: Name=NetF3_1
+Change Class Name : Old Net Name=780-00017_rev1_Pg1 New Net Name=780-00017_rev2_Pg1
+Added Member To Class: ClassName=780-00017_rev2_Pg1 Member=Component F2 Radial
+Added Member To Class: ClassName=780-00017_rev2_Pg1 Member=Component F3 Radial
+Added Member To Class: ClassName=780-00017_rev2_Pg1 Member=Component P3 Header 2 for screw term
+Added Room: Name=780-00017_rev2_Pg1

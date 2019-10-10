@@ -1,0 +1,2 @@
+Remove Pin=U14A-24 From Net=ASP_SEL_N
+Add Pin To Net: Pin=U14A-72 Old Net=NetU14_72 New Net=ASP_SEL_N

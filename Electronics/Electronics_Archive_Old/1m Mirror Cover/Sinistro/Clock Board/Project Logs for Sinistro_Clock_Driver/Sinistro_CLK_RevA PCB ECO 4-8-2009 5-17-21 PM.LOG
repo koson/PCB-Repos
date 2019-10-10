@@ -1,0 +1,25 @@
+Added Component: Designator=J2(HDR2X12)
+Added Pin To Net: NetName=PH_CLK1 Pin=J2-1
+Added Pin To Net: NetName=PH_CLK2 Pin=J2-2
+Added Pin To Net: NetName=PH_CLK3 Pin=J2-3
+Added Pin To Net: NetName=PH_CLK4 Pin=J2-4
+Added Pin To Net: NetName=PH_CLK5 Pin=J2-5
+Added Pin To Net: NetName=PH_CLK6 Pin=J2-6
+Added Pin To Net: NetName=PH_CLK7 Pin=J2-7
+Added Pin To Net: NetName=PH_CLK8 Pin=J2-8
+Added Pin To Net: NetName=PH_CLK9 Pin=J2-9
+Added Pin To Net: NetName=PH_CLK10 Pin=J2-10
+Added Pin To Net: NetName=PH_CLK11 Pin=J2-11
+Added Pin To Net: NetName=PH_CLK12 Pin=J2-12
+Added Pin To Net: NetName=PH_CLK13 Pin=J2-13
+Added Pin To Net: NetName=PH_CLK14 Pin=J2-14
+Added Pin To Net: NetName=PH_CLK15 Pin=J2-15
+Added Pin To Net: NetName=PH_CLK16 Pin=J2-16
+Added Pin To Net: NetName=PH_CLK17 Pin=J2-17
+Added Pin To Net: NetName=PH_CLK18 Pin=J2-18
+Added Pin To Net: NetName=PH_CLK19 Pin=J2-19
+Added Pin To Net: NetName=PH_CLK20 Pin=J2-20
+Added Pin To Net: NetName=PH_CLK21 Pin=J2-21
+Added Pin To Net: NetName=PH_CLK22 Pin=J2-22
+Added Pin To Net: NetName=PH_CLK23 Pin=J2-23
+Added Member To Class: ClassName=Analog Member=Component J2 Header 12X2

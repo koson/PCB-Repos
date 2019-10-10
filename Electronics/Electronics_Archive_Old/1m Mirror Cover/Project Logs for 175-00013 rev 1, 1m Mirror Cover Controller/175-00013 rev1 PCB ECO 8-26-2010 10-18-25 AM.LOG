@@ -1,0 +1,36 @@
+Added Component: Designator=TP12(SMD_TEST POINT)
+Added Component: Designator=TP13(SMD_TEST POINT)
+Added Component: Designator=TP14(SMD_TEST POINT)
+Added Component: Designator=TP15(SMD_TEST POINT)
+Added Component: Designator=TP16(SMD_TEST POINT)
+Added Component: Designator=TP17(SMD_TEST POINT)
+Added Component: Designator=TP18(SMD_TEST POINT)
+Added Component: Designator=TP19(SMD_TEST POINT)
+Added Component: Designator=TP20(SMD_TEST POINT)
+Added Component: Designator=TP21(SMD_TEST POINT)
+Added Component: Designator=TP22(SMD_TEST POINT)
+Added Pin To Net: NetName=+5V Pin=TP12-1
+Added Pin To Net: NetName=NetJ1_1 Pin=TP13-1
+Added Pin To Net: NetName=NetJ2_1 Pin=TP14-1
+Added Pin To Net: NetName=NetJ3_1 Pin=TP15-1
+Added Pin To Net: NetName=NetJ4_1 Pin=TP16-1
+Added Pin To Net: NetName=NetJ5_1 Pin=TP17-1
+Added Pin To Net: NetName=NetJ6_1 Pin=TP18-1
+Added Pin To Net: NetName=NetJ7_1 Pin=TP19-1
+Added Pin To Net: NetName=NetJ9_1 Pin=TP20-1
+Added Pin To Net: NetName=NetF1_1 Pin=TP21-1
+Added Pin To Net: NetName=+24V Pin=TP22-1
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP1 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP2 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP3 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP12 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP13 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP14 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP15 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP16 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP17 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP18 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP19 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP20 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP21 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP22 Test Point SMD

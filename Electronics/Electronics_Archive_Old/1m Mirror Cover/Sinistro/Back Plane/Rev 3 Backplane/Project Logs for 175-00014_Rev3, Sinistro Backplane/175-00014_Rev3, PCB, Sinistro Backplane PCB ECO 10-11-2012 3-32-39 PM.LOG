@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-4
+Added Pin To Net: NetName=+24V Pin=P10-1
+Change Net Name : Old Net Name=NetP7_79 New Net Name=~CRYO_ENABLE
+Change Net Name : Old Net Name=V_MON New Net Name=V_MON_VARIAN

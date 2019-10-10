@@ -1,0 +1,38 @@
+Added Component: Designator=C12(SMD_0805)
+Added Component: Designator=C16(SMD_0805)
+Added Component: Designator=L5(SMD_1206)
+Added Component: Designator=RN1(RES ARRAY 0603 x 4)
+Added Component: Designator=U10(SMD_SOT23_5)
+Added Component: Designator=U15(182H_N)
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCC Pin=C16-2
+Added Pin To Net: NetName=NetC26_2 Pin=L5-1
+Added Pin To Net: NetName=VCC Pin=L5-2
+Added Pin To Net: NetName=TMS Pin=P1-5
+Added Pin To Net: NetName=TDI Pin=P1-9
+Added Pin To Net: NetName=TCK Pin=RN1-1
+Added Pin To Net: NetName=VCC Pin=RN1-2
+Added Pin To Net: NetName=VCC Pin=RN1-4
+Added Pin To Net: NetName=TMS Pin=RN1-5
+Added Pin To Net: NetName=VCC Pin=RN1-6
+Added Pin To Net: NetName=TDI Pin=RN1-7
+Added Pin To Net: NetName=VCC Pin=RN1-8
+Added Pin To Net: NetName=VCC Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=+CLK_100 Pin=U10-3
+Added Pin To Net: NetName=-CLK_100 Pin=U10-4
+Added Pin To Net: NetName=CLK_100 Pin=U10-5
+Added Pin To Net: NetName=+12V Pin=U15-2
+Added Pin To Net: NetName=A Pin=U15-4
+Added Pin To Net: NetName=NetR47_2 Pin=U15-6
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=RN1-3
+Added Net: Name=NetP1_3
+Added Member To Class: ClassName=CPLD board Member=Component C12 Cap SMD
+Added Member To Class: ClassName=CPLD board Member=Component C16 Cap SMD
+Added Member To Class: ClassName=CPLD board Member=Component L5 600R
+Added Member To Class: ClassName=CPLD board Member=Component RN1 RES ARRAY  x4
+Added Member To Class: ClassName=CPLD board Member=Component U10 FIN1002M5
+Added Member To Class: ClassName=Bias Voltages Member=Component U15 REF02AU

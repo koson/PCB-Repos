@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=Top Level_1.SchDoc|Designator=Indexer_1|SchDesignator=Indexer_1|FileName=Indexer.SchDoc|SymbolType=Normal|RawFileName=Indexer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top Level_1.SchDoc|Designator=PWM|SchDesignator=PWM|FileName=PWM for CPLD.SchDoc|SymbolType=Normal|RawFileName=PWM for CPLD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Top Level_1.SchDoc
+Record=Configuration|Name=PWM generator|DeviceName=XC2C256-7PQ208C

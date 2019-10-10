@@ -1,0 +1,11 @@
+Added Component: Designator=Q4(SOT223 w/PowerPAD)
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetC23_2 Pin=Q4-3
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Pin To Net: NetName=+24V Pin=Q4-4
+Added Member To Class: ClassName=780-00018_rev2_Pg1 Member=Component Q4 NJT4031N

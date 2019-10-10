@@ -1,0 +1,36 @@
+Remove Pin=J1C-109 From Net=CDO
+Remove Pin=J1C-112 From Net=CDO
+Remove Pin=J1C-113 From Net=CDO
+Remove Pin=J1C-118 From Net=CDO
+Remove Pin=J1C-119 From Net=CDO
+Remove Pin=J1C-122 From Net=CDO
+Remove Pin=J1C-123 From Net=CDO
+Remove Pin=J1C-128 From Net=CDO
+Remove Pin=J1C-129 From Net=CDO
+Remove Pin=J1C-132 From Net=CDO
+Remove Pin=J1C-133 From Net=CDO
+Remove Pin=J1C-138 From Net=CDO
+Remove Pin=J1C-139 From Net=CDO
+Remove Pin=J1C-143 From Net=CDO
+Remove Pin=J1C-148 From Net=CDO
+Remove Pin=J1C-149 From Net=CDO
+Remove Pin=J1C-152 From Net=CDO
+Remove Pin=J1C-153 From Net=CDO
+Add Pin To Net: Pin=J1C-109 Old Net=CDO New Net=CDO11
+Add Pin To Net: Pin=J1C-112 Old Net=CDO New Net=CDO5
+Add Pin To Net: Pin=J1C-113 Old Net=CDO New Net=CDO10
+Add Pin To Net: Pin=J1C-118 Old Net=CDO New Net=CDO9
+Add Pin To Net: Pin=J1C-119 Old Net=CDO New Net=CDO4
+Add Pin To Net: Pin=J1C-122 Old Net=CDO New Net=CDO15
+Add Pin To Net: Pin=J1C-123 Old Net=CDO New Net=CDO19
+Add Pin To Net: Pin=J1C-128 Old Net=CDO New Net=CDO8
+Add Pin To Net: Pin=J1C-129 Old Net=CDO New Net=CDO3
+Add Pin To Net: Pin=J1C-132 Old Net=CDO New Net=CDO14
+Add Pin To Net: Pin=J1C-133 Old Net=CDO New Net=CDO18
+Add Pin To Net: Pin=J1C-138 Old Net=CDO New Net=CDO7
+Add Pin To Net: Pin=J1C-139 Old Net=CDO New Net=CDO2
+Add Pin To Net: Pin=J1C-143 Old Net=CDO New Net=CDO17
+Add Pin To Net: Pin=J1C-148 Old Net=CDO New Net=CDO6
+Add Pin To Net: Pin=J1C-149 Old Net=CDO New Net=CDO1
+Add Pin To Net: Pin=J1C-152 Old Net=CDO New Net=CDO12
+Add Pin To Net: Pin=J1C-153 Old Net=CDO New Net=CDO16

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetFER3_1 Pin=TP1-1
+Added Pin To Net: NetName=+24V Pin=TP1-1

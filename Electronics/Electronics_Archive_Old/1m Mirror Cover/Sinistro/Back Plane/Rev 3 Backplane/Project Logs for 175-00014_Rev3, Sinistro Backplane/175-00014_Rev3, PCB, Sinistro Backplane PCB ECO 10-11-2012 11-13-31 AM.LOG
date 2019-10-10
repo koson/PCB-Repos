@@ -1,0 +1,12 @@
+Added Component: Designator=P14(HDR1X2 for IDC)
+Added Component: Designator=P15(HDR1X2 for IDC)
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P15-2
+Added Pin To Net: NetName=INLET_TEMP_BIAS Pin=P7-56
+Added Pin To Net: NetName=INLET_TEMP_BIAS Pin=P14-1
+Added Net: Name=INLET_TEMP_BIAS
+Added Pin To Net: NetName=OUTLET_TEMP_BIAS Pin=P7-58
+Added Pin To Net: NetName=OUTLET_TEMP_BIAS Pin=P15-1
+Added Net: Name=OUTLET_TEMP_BIAS
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component P14 Header 2
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component P15 Header 2

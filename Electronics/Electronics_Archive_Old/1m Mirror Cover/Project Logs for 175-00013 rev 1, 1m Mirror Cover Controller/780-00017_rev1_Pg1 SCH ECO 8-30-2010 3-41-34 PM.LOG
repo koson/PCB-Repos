@@ -1,0 +1,273 @@
+Removed Parameter Arena Prefix:150 from Part U4
+Removed Parameter Arena Prefix: from Part C3
+Removed Parameter Arena Prefix: from Part C4
+Removed Parameter Arena Prefix: from Part C11
+Removed Parameter Arena Prefix: from Part C13
+Removed Parameter Arena Prefix: from Part C14
+Removed Parameter Arena Prefix: from Part C15
+Removed Parameter Arena Prefix: from Part C16
+Removed Parameter Arena Prefix: from Part C17
+Removed Parameter Arena Prefix: from Part C18
+Removed Parameter Arena Prefix: from Part C19
+Removed Parameter Arena Prefix: from Part C20
+Removed Parameter Arena Prefix: from Part L2
+Removed Parameter Arena Prefix: from Part L3
+Removed Parameter Arena Prefix: from Part P1
+Removed Parameter Arena Prefix: from Part Q1
+Removed Parameter Arena Prefix: from Part R2
+Removed Parameter Arena Prefix: from Part R3
+Removed Parameter Arena Prefix: from Part R4
+Removed Parameter Arena Prefix: from Part R6
+Removed Parameter Arena Prefix: from Part R7
+Removed Parameter Arena Prefix: from Part R8
+Removed Parameter Arena Prefix: from Part R9
+Removed Parameter Arena Prefix: from Part R10
+Removed Parameter Arena Prefix: from Part R11
+Removed Parameter Arena Prefix: from Part R12
+Removed Parameter Arena Prefix: from Part R14
+Removed Parameter Arena Prefix: from Part R15
+Removed Parameter Arena Prefix: from Part R16
+Removed Parameter Arena Prefix: from Part R29
+Removed Parameter Arena Prefix: from Part R30
+Removed Parameter Arena Prefix: from Part R31
+Removed Parameter Arena Prefix: from Part R32
+Removed Parameter Arena Prefix: from Part R33
+Removed Parameter Arena Prefix: from Part R34
+Removed Parameter Arena Prefix: from Part R35
+Removed Parameter Arena Prefix: from Part R36
+Removed Parameter Arena Prefix: from Part R37
+Removed Parameter Arena Prefix: from Part R38
+Removed Parameter Arena Prefix: from Part R39
+Removed Parameter Arena Prefix: from Part R40
+Removed Parameter Arena Prefix: from Part TP1
+Removed Parameter Arena Prefix: from Part TP2
+Removed Parameter Arena Prefix: from Part TP3
+Removed Parameter Arena Prefix: from Part TP12
+Removed Parameter Arena Prefix: from Part TP13
+Removed Parameter Arena Prefix: from Part TP14
+Removed Parameter Arena Prefix: from Part TP15
+Removed Parameter Arena Prefix: from Part TP16
+Removed Parameter Arena Prefix: from Part TP17
+Removed Parameter Arena Prefix: from Part TP18
+Removed Parameter Arena Prefix: from Part TP19
+Removed Parameter Arena Prefix: from Part TP20
+Removed Parameter Arena Prefix: from Part TP21
+Removed Parameter Arena Prefix: from Part TP22
+Removed Parameter Arena Prefix: from Part TP23
+Removed Parameter Arena Prefix: from Part TP24
+Removed Parameter Arena Prefix: from Part TP25
+Removed Parameter Arena Prefix: from Part TP26
+Removed Parameter Arena Prefix: from Part U21
+Removed Parameter Arena Prefix: from Part U22
+Removed Parameter Arena Prefix: from Part U23
+Removed Parameter Arena Type:Capacitor from Part C1
+Removed Parameter Arena Type:Capacitor from Part C2
+Removed Parameter Arena Type:Connector from Part J8
+Removed Parameter Arena Type:Connector from Part TP5
+Removed Parameter Arena Type:Connector from Part TP7
+Removed Parameter Arena Type:Connector from Part TP9
+Removed Parameter Arena Type:Connector from Part TP11
+Removed Parameter Arena Type:Diode from Part D1
+Removed Parameter Arena Type:Diode from Part D2
+Removed Parameter Arena Type: from Part C3
+Removed Parameter Arena Type: from Part C4
+Removed Parameter Arena Type: from Part C11
+Removed Parameter Arena Type: from Part C13
+Removed Parameter Arena Type: from Part C14
+Removed Parameter Arena Type: from Part C15
+Removed Parameter Arena Type: from Part C16
+Removed Parameter Arena Type: from Part C17
+Removed Parameter Arena Type: from Part C18
+Removed Parameter Arena Type: from Part C19
+Removed Parameter Arena Type: from Part C20
+Removed Parameter Arena Type: from Part F1
+Removed Parameter Arena Type: from Part L2
+Removed Parameter Arena Type: from Part L3
+Removed Parameter Arena Type: from Part P1
+Removed Parameter Arena Type: from Part Q1
+Removed Parameter Arena Type: from Part R2
+Removed Parameter Arena Type: from Part R3
+Removed Parameter Arena Type: from Part R4
+Removed Parameter Arena Type: from Part R6
+Removed Parameter Arena Type: from Part R7
+Removed Parameter Arena Type: from Part R8
+Removed Parameter Arena Type: from Part R9
+Removed Parameter Arena Type: from Part R10
+Removed Parameter Arena Type: from Part R11
+Removed Parameter Arena Type: from Part R12
+Removed Parameter Arena Type: from Part R14
+Removed Parameter Arena Type: from Part R15
+Removed Parameter Arena Type: from Part R16
+Removed Parameter Arena Type: from Part R29
+Removed Parameter Arena Type: from Part R30
+Removed Parameter Arena Type: from Part R31
+Removed Parameter Arena Type: from Part R32
+Removed Parameter Arena Type: from Part R33
+Removed Parameter Arena Type: from Part R34
+Removed Parameter Arena Type: from Part R35
+Removed Parameter Arena Type: from Part R36
+Removed Parameter Arena Type: from Part R37
+Removed Parameter Arena Type: from Part R38
+Removed Parameter Arena Type: from Part R39
+Removed Parameter Arena Type: from Part R40
+Removed Parameter Arena Type: from Part TP1
+Removed Parameter Arena Type: from Part TP2
+Removed Parameter Arena Type: from Part TP3
+Removed Parameter Arena Type: from Part TP12
+Removed Parameter Arena Type: from Part TP13
+Removed Parameter Arena Type: from Part TP14
+Removed Parameter Arena Type: from Part TP15
+Removed Parameter Arena Type: from Part TP16
+Removed Parameter Arena Type: from Part TP17
+Removed Parameter Arena Type: from Part TP18
+Removed Parameter Arena Type: from Part TP19
+Removed Parameter Arena Type: from Part TP20
+Removed Parameter Arena Type: from Part TP21
+Removed Parameter Arena Type: from Part TP22
+Removed Parameter Arena Type: from Part TP23
+Removed Parameter Arena Type: from Part TP24
+Removed Parameter Arena Type: from Part TP25
+Removed Parameter Arena Type: from Part TP26
+Removed Parameter Arena Type: from Part U21
+Removed Parameter Arena Type: from Part U22
+Removed Parameter Arena Type: from Part U23
+Removed Parameter Arena Type:IC from Part U2
+Removed Parameter Arena Type:IC from Part U3
+Removed Parameter Arena Type:IC from Part U4
+Removed Parameter Arena Type:Resistor from Part R1
+Removed Parameter Arena Type:Resistor from Part R5
+Removed Parameter Arena Type:Resistor from Part R13
+Removed Parameter Arena Type:Switch from Part P2
+Removed Parameter ComponentAvailability:Obsolete from Part J10
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part J10
+Removed Parameter ComponentLink1URL:http://www.molex.com/ from Part J10
+Removed Parameter ComponentLink2Description:Datasheet from Part J10
+Removed Parameter ComponentLink2URL:http://www.molex.com/cmc_upload/common_files/1212003_catalogmx41314.pdf from Part J10
+Removed Parameter ComponentLink3Description:Iges Model from Part J10
+Removed Parameter ComponentLink3URL:http://www.molex.com/pdm_docs/igs/15-43-6233_igs.zip from Part J10
+Removed Parameter DatasheetDocument:18-Dec-2001 from Part J10
+Removed Parameter DrillSize:Nominal, Rounded to nearest 0.05mm from Part J10
+Removed Parameter PackageDocument:18-Dec-2001 from Part J10
+Removed Parameter PackageReference:15-43-6233 from Part J10
+Removed Parameter PCB_Layout:Complies with Manufacturer's Recommendation. from Part J10
+Removed Parameter PCB_Mounting:Thru-Hole from Part J10
+Removed Parameter PerformanceCategory:3 from Part J10
+Removed Parameter Ports:1 from Part J10
+Removed Parameter Positions/Loaded:Port1 - 8 Keyed/8 from Part J10
+Removed Parameter Published:25-Jun-2002 from Part J10
+Removed Parameter Publisher:Altium Limited from Part J10
+Removed Parameter To Do list: from Part C11
+Removed Parameter To Do list: from Part C13
+Removed Parameter To Do list: from Part C14
+Removed Parameter To Do list: from Part C15
+Removed Parameter To Do list: from Part C16
+Removed Parameter To Do list: from Part C17
+Removed Parameter To Do list: from Part C18
+Removed Parameter To Do list: from Part C19
+Removed Parameter To Do list: from Part C20
+Removed Parameter To Do list: from Part D1
+Removed Parameter To Do list: from Part L2
+Removed Parameter To Do list: from Part L3
+Removed Parameter To Do list: from Part R29
+Removed Parameter To Do list: from Part R30
+Removed Parameter To Do list: from Part R31
+Removed Parameter To Do list: from Part R32
+Removed Parameter To Do list: from Part R33
+Removed Parameter To Do list: from Part R34
+Removed Parameter To Do list: from Part R35
+Removed Parameter To Do list: from Part R36
+Removed Parameter To Do list: from Part R37
+Removed Parameter To Do list: from Part R38
+Removed Parameter To Do list: from Part R39
+Removed Parameter To Do list: from Part R40
+Removed Parameter To Do list: from Part TP1
+Removed Parameter To Do list: from Part TP2
+Removed Parameter To Do list: from Part TP3
+Added Parameter COST= to Part J1
+Added Parameter COST= to Part J2
+Added Parameter COST= to Part J3
+Added Parameter COST= to Part J4
+Added Parameter COST= to Part J5
+Added Parameter COST= to Part J6
+Added Parameter COST= to Part J7
+Added Parameter COST= to Part J9
+Added Parameter COST= to Part J10
+Added Parameter COST= to Part U1
+Added Parameter COST= to Part U1
+Added Parameter LCO p/n= to Part J1
+Added Parameter LCO p/n= to Part J2
+Added Parameter LCO p/n= to Part J3
+Added Parameter LCO p/n= to Part J4
+Added Parameter LCO p/n= to Part J5
+Added Parameter LCO p/n= to Part J6
+Added Parameter LCO p/n= to Part J7
+Added Parameter LCO p/n= to Part J9
+Added Parameter LCO p/n= to Part J10
+Added Parameter LCO p/n= to Part U1
+Added Parameter LCO p/n= to Part U1
+Added Parameter Manufacturer= to Part J1
+Added Parameter Manufacturer= to Part J2
+Added Parameter Manufacturer= to Part J3
+Added Parameter Manufacturer= to Part J4
+Added Parameter Manufacturer= to Part J5
+Added Parameter Manufacturer= to Part J6
+Added Parameter Manufacturer= to Part J7
+Added Parameter Manufacturer= to Part J9
+Added Parameter Manufacturer= to Part J10
+Added Parameter Manufacturer= to Part U1
+Added Parameter Manufacturer= to Part U1
+Added Parameter Manuf p/n= to Part J1
+Added Parameter Manuf p/n= to Part J2
+Added Parameter Manuf p/n= to Part J3
+Added Parameter Manuf p/n= to Part J4
+Added Parameter Manuf p/n= to Part J5
+Added Parameter Manuf p/n= to Part J6
+Added Parameter Manuf p/n= to Part J7
+Added Parameter Manuf p/n= to Part J9
+Added Parameter Manuf p/n= to Part J10
+Added Parameter Manuf p/n= to Part U1
+Added Parameter Manuf p/n= to Part U1
+Added Parameter VALUE= to Part J1
+Added Parameter VALUE= to Part J2
+Added Parameter VALUE= to Part J3
+Added Parameter VALUE= to Part J4
+Added Parameter VALUE= to Part J5
+Added Parameter VALUE= to Part J6
+Added Parameter VALUE= to Part J7
+Added Parameter VALUE= to Part J9
+Added Parameter VALUE= to Part J10
+Added Parameter VALUE= to Part U1
+Added Parameter VALUE= to Part U1
+Added Parameter Vendor= to Part J1
+Added Parameter Vendor= to Part J2
+Added Parameter Vendor= to Part J3
+Added Parameter Vendor= to Part J4
+Added Parameter Vendor= to Part J5
+Added Parameter Vendor= to Part J6
+Added Parameter Vendor= to Part J7
+Added Parameter Vendor= to Part J9
+Added Parameter Vendor= to Part J10
+Added Parameter Vendor= to Part U1
+Added Parameter Vendor= to Part U1
+Added Parameter Vendor Mult.= to Part J1
+Added Parameter Vendor Mult.= to Part J2
+Added Parameter Vendor Mult.= to Part J3
+Added Parameter Vendor Mult.= to Part J4
+Added Parameter Vendor Mult.= to Part J5
+Added Parameter Vendor Mult.= to Part J6
+Added Parameter Vendor Mult.= to Part J7
+Added Parameter Vendor Mult.= to Part J9
+Added Parameter Vendor Mult.= to Part J10
+Added Parameter Vendor Mult.= to Part U1
+Added Parameter Vendor Mult.= to Part U1
+Added Parameter Vendor p/n= to Part J1
+Added Parameter Vendor p/n= to Part J2
+Added Parameter Vendor p/n= to Part J3
+Added Parameter Vendor p/n= to Part J4
+Added Parameter Vendor p/n= to Part J5
+Added Parameter Vendor p/n= to Part J6
+Added Parameter Vendor p/n= to Part J7
+Added Parameter Vendor p/n= to Part J9
+Added Parameter Vendor p/n= to Part J10
+Added Parameter Vendor p/n= to Part U1
+Added Parameter Vendor p/n= to Part U1

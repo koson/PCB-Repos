@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=+CLK_100 Pin=P3-3
+Removed Pin From Net: NetName=-CLK_100 Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P3-11
+Removed Pin From Net: NetName=GND Pin=P3-12
+Removed Pin From Net: NetName=GND Pin=P3-21
+Removed Pin From Net: NetName=GND Pin=P3-22
+Removed Pin From Net: NetName=CONVST_N Pin=P3-29
+Removed Pin From Net: NetName=GND Pin=P3-31
+Removed Pin From Net: NetName=GND Pin=P3-32
+Removed Pin From Net: NetName=GND Pin=P3-37
+Removed Pin From Net: NetName=GND Pin=P3-41
+Removed Pin From Net: NetName=GND Pin=P3-42
+Removed Pin From Net: NetName=GND Pin=P3-46
+Removed Pin From Net: NetName=DC_HOLD Pin=P3-47
+Removed Pin From Net: NetName=RESET_BLANK Pin=P3-48
+Removed Pin From Net: NetName=GAIN_4X Pin=P3-50
+Removed Pin From Net: NetName=GND Pin=P3-51
+Removed Pin From Net: NetName=GND Pin=P3-52
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P5-2
+Removed Pin From Net: NetName=I_ADDR0_A Pin=P5-3
+Removed Pin From Net: NetName=SCLK Pin=P5-4
+Removed Pin From Net: NetName=I_ADDR0_B Pin=P5-5
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Pin From Net: NetName=I_ADDR1 Pin=P5-7
+Removed Pin From Net: NetName=SIMO Pin=P5-8
+Removed Pin From Net: NetName=I_ADDR2 Pin=P5-9
+Removed Pin From Net: NetName=SOMI Pin=P5-10
+Removed Pin From Net: NetName=GND Pin=P5-11
+Removed Pin From Net: NetName=GND Pin=P5-12
+Removed Pin From Net: NetName=GND Pin=P5-16
+Removed Pin From Net: NetName=GND Pin=P5-21
+Removed Pin From Net: NetName=GND Pin=P5-22
+Removed Pin From Net: NetName=GND Pin=P5-31
+Removed Pin From Net: NetName=GND Pin=P5-32
+Removed Pin From Net: NetName=B3_SCL Pin=P5-34
+Removed Pin From Net: NetName=B3_SDA Pin=P5-40
+Removed Pin From Net: NetName=GND Pin=P5-41
+Removed Pin From Net: NetName=GND Pin=P5-42
+Removed Pin From Net: NetName=GND Pin=P5-51
+Removed Pin From Net: NetName=GND Pin=P5-52
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Added Component: Designator=P8(QFS SMD PWR PINS)
+Added Component: Designator=P9(QFS SMD PWR PINS)
+Added Pin To Net: NetName=GND Pin=P1-53
+Added Pin To Net: NetName=GND Pin=P1-54
+Added Pin To Net: NetName=+CLK_100 Pin=P1-55
+Added Pin To Net: NetName=-CLK_100 Pin=P1-57
+Added Pin To Net: NetName=GND Pin=P1-63
+Added Pin To Net: NetName=GND Pin=P1-64
+Added Pin To Net: NetName=GND Pin=P1-73
+Added Pin To Net: NetName=GND Pin=P1-74
+Added Pin To Net: NetName=CONVST_N Pin=P1-81
+Added Pin To Net: NetName=GND Pin=P1-83
+Added Pin To Net: NetName=GND Pin=P1-84
+Added Pin To Net: NetName=GND Pin=P1-89
+Added Pin To Net: NetName=GND Pin=P1-93
+Added Pin To Net: NetName=GND Pin=P1-94
+Added Pin To Net: NetName=GND Pin=P1-98
+Added Pin To Net: NetName=DC_HOLD Pin=P1-99
+Added Pin To Net: NetName=RESET_BLANK Pin=P1-100
+Added Pin To Net: NetName=GAIN_4X Pin=P1-102
+Added Pin To Net: NetName=GND Pin=P1-103
+Added Pin To Net: NetName=GND Pin=P1-104
+Added Pin To Net: NetName=GND Pin=P1-105
+Added Pin To Net: NetName=GND Pin=P1-106
+Added Pin To Net: NetName=I_ADDR0_A Pin=P1-107
+Added Pin To Net: NetName=SCLK Pin=P1-108
+Added Pin To Net: NetName=I_ADDR0_B Pin=P1-109
+Added Pin To Net: NetName=GND Pin=P1-110
+Added Pin To Net: NetName=I_ADDR1 Pin=P1-111
+Added Pin To Net: NetName=SIMO Pin=P1-112
+Added Pin To Net: NetName=I_ADDR2 Pin=P1-113
+Added Pin To Net: NetName=SOMI Pin=P1-114
+Added Pin To Net: NetName=GND Pin=P1-115
+Added Pin To Net: NetName=GND Pin=P1-116
+Added Pin To Net: NetName=GND Pin=P1-120
+Added Pin To Net: NetName=GND Pin=P1-125
+Added Pin To Net: NetName=GND Pin=P1-126
+Added Pin To Net: NetName=GND Pin=P1-135
+Added Pin To Net: NetName=GND Pin=P1-136
+Added Pin To Net: NetName=B3_SCL Pin=P1-138
+Added Pin To Net: NetName=B3_SDA Pin=P1-144
+Added Pin To Net: NetName=GND Pin=P1-145
+Added Pin To Net: NetName=GND Pin=P1-146
+Added Pin To Net: NetName=GND Pin=P1-155
+Added Pin To Net: NetName=GND Pin=P1-156
+Added Member To Class: ClassName=BackPlane_10A Member=Component P2 Header 6
+Added Member To Class: ClassName=BackPlane_10A Member=Component P6 Header 6
+Added Member To Class: ClassName=BackPlane_10A Member=Component P8 QFSS-PC4
+Added Member To Class: ClassName=BackPlane_10A Member=Component P9 QFSS-PC4

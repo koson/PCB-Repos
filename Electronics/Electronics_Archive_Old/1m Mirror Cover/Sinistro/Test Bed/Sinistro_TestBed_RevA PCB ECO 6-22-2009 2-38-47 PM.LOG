@@ -1,0 +1,48 @@
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q1 Pin=J10-5
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q1 Pin=J10-6
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q2 Pin=J10-8
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q2 Pin=J10-9
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3A Pin=J10-10
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q4 Pin=J10-11
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q4 Pin=J10-12
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q3 Pin=J10-13
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q3 Pin=J10-14
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.VOG Pin=J10-15
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.TGB Pin=J10-20
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P2B Pin=J10-22
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.TGA Pin=J10-23
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P1B Pin=J10-24
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P2A Pin=J10-25
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3B Pin=J10-26
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P1A Pin=J10-27
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.VRD Pin=J10-29
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.VOD Pin=J10-30
+Added Pin To Net: NetName=CLK_BRD_I/O.SG Pin=P6-109
+Added Pin To Net: NetName=CLK_BRD_I/O.RG Pin=P6-113
+Added Pin To Net: NetName=CLK_BRD_I/O.S3 Pin=P6-118
+Added Pin To Net: NetName=A4OUT Pin=P7-3
+Added Pin To Net: NetName=A3OUT Pin=P7-7
+Added Pin To Net: NetName=A2OUT Pin=P7-13
+Added Pin To Net: NetName=A1OUT Pin=P7-17
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q1 Pin=TP19-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q2 Pin=TP20-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q3 Pin=TP21-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S1Q4 Pin=TP22-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q1 Pin=TP32-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q2 Pin=TP33-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q3 Pin=TP34-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.S2Q4 Pin=TP35-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P1A Pin=TP39-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P1B Pin=TP40-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P2A Pin=TP41-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P2B Pin=TP42-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3A Pin=TP43-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3B Pin=TP44-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.TGA Pin=TP45-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.TGB Pin=TP46-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.VOD Pin=TP47-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.VRD Pin=TP48-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.VOG Pin=TP49-1
+Change Net Name : Old Net Name=CLK_BRD_I/O.RG New Net Name=ANALOG CLOCK DRIVES.RG
+Change Net Name : Old Net Name=CLK_BRD_I/O.S3 New Net Name=ANALOG CLOCK DRIVES.S3
+Change Net Name : Old Net Name=CLK_BRD_I/O.SG New Net Name=ANALOG CLOCK DRIVES.SG

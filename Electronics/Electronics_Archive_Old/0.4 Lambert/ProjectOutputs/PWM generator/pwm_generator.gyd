@@ -1,0 +1,63 @@
+Pin Freeze File:  version J.30
+
+2C256208 XC2C256-7-PQ208
+CLK S:PIN55
+PB0 S:PIN127
+PB1 S:PIN126
+SW<0> S:PIN50
+SW<1> S:PIN49
+SW<2> S:PIN48
+SW<3> S:PIN47
+SW<4> S:PIN45
+SW<5> S:PIN43
+SW<6> S:PIN41
+SW<7> S:PIN40
+HA1 S:PIN27
+HA2 S:PIN28
+HA3 S:PIN29
+HA4 S:PIN30
+LEDS<0> S:PIN185
+LEDS<1> S:PIN184
+LEDS<2> S:PIN183
+LEDS<3> S:PIN182
+LEDS<4> S:PIN180
+LEDS<5> S:PIN179
+LEDS<6> S:PIN178
+LEDS<7> S:PIN175
+
+
+;The remaining section of the .gyd file is for documentation purposes only.
+;It shows where your internal equations were placed in the last successful fit.
+
+PARTITION FB1_1 PWM_U3/i(6) PWM_U3/i(5) PWM_U3/i(4) PWM_U3/i(3)
+		 PWM_U3/i(2) PWM_U3/i(1) PWM_U4/Q(3) PWM_U4/Q(4)
+		 PWM_U4/Q(5) PWM_U4/Q(6) PWM_U4/Q(7) PWM_U5/i(0)
+		 PWM_U3/i(0) PWM_U4/Q(0) PWM_U4/Q(1) PWM_U4/Q(2)
+		
+PARTITION FB2_1 Indexer_1_U12/i(2) Indexer_1_U12/i(1) Indexer_1_PinSignal_U12_CLKDV Indexer_1_U12/i(0)
+		 Indexer_1_U11/i(2) Indexer_1_U11/i(1) Indexer_1_PinSignal_U10_CLKDV Indexer_1_U10/i(0)
+		 PWM_U5/i(2) PWM_NamedSignal_2_5MHZ PWM_U5/i(1) Indexer_1_PinSignal_U11_CLKDV
+		 Indexer_1_U11/i(0) Indexer_1_U10/i(2) Indexer_1_U10/i(1) PWM_U3/i(7)
+		
+PARTITION FB3_4 Indexer_1_U15/i(2) Indexer_1_U15/i(1) Indexer_1_NamedSignal_20HZ Indexer_1_U14/i(0)
+		 Indexer_1_U13/i(2) Indexer_1_U13/i(1) Indexer_1_PinSignal_U13_CLKDV Indexer_1_U13/i(0)
+		 Indexer_1_U15/i(0) Indexer_1_U14/i(2) Indexer_1_U14/i(1) Indexer_1_PinSignal_U14_CLKDV
+		 LEDS<0>
+
+
+
+PARTITION FB7_11 HA4 HA3 HA2 HA1
+		
+
+
+
+
+PARTITION FB11_4 LEDS<7>
+PARTITION FB11_11 LEDS<6> LEDS<5> LEDS<4> LEDS<3>
+		 LEDS<2> LEDS<1>
+
+
+
+
+
+

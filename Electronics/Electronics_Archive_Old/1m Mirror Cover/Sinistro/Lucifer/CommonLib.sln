@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adm", "..\ADM\adm.vcproj", "{9CE2EE0A-B75A-4947-AAE7-695A53A325A5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADMExtensions", "..\ADMExtensions\ADMExtensions.vcproj", "{D4725A25-B363-4F0E-B1DE-F3BF1A1D7DA7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AxCommonCtrl", "..\AxCommonCtrl\AxCommonCtrl.vcproj", "{D90A171C-571B-45EC-A962-9F98B1864E2B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9CE2EE0A-B75A-4947-AAE7-695A53A325A5}.Debug.ActiveCfg = Debug|Win32
+		{9CE2EE0A-B75A-4947-AAE7-695A53A325A5}.Debug.Build.0 = Debug|Win32
+		{9CE2EE0A-B75A-4947-AAE7-695A53A325A5}.Release.ActiveCfg = Release|Win32
+		{9CE2EE0A-B75A-4947-AAE7-695A53A325A5}.Release.Build.0 = Release|Win32
+		{D4725A25-B363-4F0E-B1DE-F3BF1A1D7DA7}.Debug.ActiveCfg = Debug|Win32
+		{D4725A25-B363-4F0E-B1DE-F3BF1A1D7DA7}.Debug.Build.0 = Debug|Win32
+		{D4725A25-B363-4F0E-B1DE-F3BF1A1D7DA7}.Release.ActiveCfg = Release|Win32
+		{D4725A25-B363-4F0E-B1DE-F3BF1A1D7DA7}.Release.Build.0 = Release|Win32
+		{D90A171C-571B-45EC-A962-9F98B1864E2B}.Debug.ActiveCfg = Debug|Win32
+		{D90A171C-571B-45EC-A962-9F98B1864E2B}.Debug.Build.0 = Debug|Win32
+		{D90A171C-571B-45EC-A962-9F98B1864E2B}.Release.ActiveCfg = Release|Win32
+		{D90A171C-571B-45EC-A962-9F98B1864E2B}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

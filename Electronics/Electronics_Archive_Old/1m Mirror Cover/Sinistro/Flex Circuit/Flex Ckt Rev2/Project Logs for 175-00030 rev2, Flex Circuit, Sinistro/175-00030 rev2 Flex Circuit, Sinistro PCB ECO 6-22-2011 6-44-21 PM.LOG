@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=P1A Pin=J2-U
+Added Net: Name=P1A
+Added Pin To Net: NetName=P1B Pin=J2-ii
+Added Net: Name=P1B
+Added Pin To Net: NetName=P3B Pin=J2-ss
+Added Net: Name=P3B

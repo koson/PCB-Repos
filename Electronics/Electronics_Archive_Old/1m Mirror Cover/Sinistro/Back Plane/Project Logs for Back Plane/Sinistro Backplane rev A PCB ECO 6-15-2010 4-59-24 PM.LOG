@@ -1,0 +1,70 @@
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=CLK_6_P Pin=P7-3
+Added Pin To Net: NetName=A_SOMI Pin=P7-4
+Added Pin To Net: NetName=CLK_6_N Pin=P7-5
+Added Pin To Net: NetName=A_INTERFACE_RESET_N Pin=P7-6
+Added Pin To Net: NetName=A_SCLK Pin=P7-7
+Added Pin To Net: NetName=A_SIMO Pin=P7-9
+Added Pin To Net: NetName=GND Pin=P7-11
+Added Pin To Net: NetName=GND Pin=P7-12
+Added Pin To Net: NetName=GND Pin=P7-21
+Added Pin To Net: NetName=GND Pin=P7-22
+Added Pin To Net: NetName=GND Pin=P7-31
+Added Pin To Net: NetName=GND Pin=P7-32
+Added Pin To Net: NetName=S_WIRED_1 Pin=P7-39
+Added Pin To Net: NetName=GND Pin=P7-41
+Added Pin To Net: NetName=GND Pin=P7-42
+Added Pin To Net: NetName=I_ADDR0_A Pin=P7-43
+Added Pin To Net: NetName=I_ADDR1 Pin=P7-45
+Added Pin To Net: NetName=I_ADDR2 Pin=P7-47
+Added Pin To Net: NetName=GND Pin=P7-51
+Added Pin To Net: NetName=GND Pin=P7-52
+Added Pin To Net: NetName=NetP7_13 Pin=P7-13
+Added Pin To Net: NetName=NetP7_13 Pin=P8-1
+Added Net: Name=NetP7_13
+Added Pin To Net: NetName=NetP7_14 Pin=P7-14
+Added Pin To Net: NetName=NetP7_14 Pin=P9-1
+Added Net: Name=NetP7_14
+Added Pin To Net: NetName=NetP7_15 Pin=P7-15
+Added Pin To Net: NetName=NetP7_15 Pin=P8-2
+Added Net: Name=NetP7_15
+Added Pin To Net: NetName=NetP7_16 Pin=P7-16
+Added Pin To Net: NetName=NetP7_16 Pin=P9-2
+Added Net: Name=NetP7_16
+Added Pin To Net: NetName=NetP7_17 Pin=P7-17
+Added Pin To Net: NetName=NetP7_17 Pin=P8-3
+Added Net: Name=NetP7_17
+Added Pin To Net: NetName=NetP7_18 Pin=P7-18
+Added Pin To Net: NetName=NetP7_18 Pin=P9-3
+Added Net: Name=NetP7_18
+Added Pin To Net: NetName=NetP7_19 Pin=P7-19
+Added Pin To Net: NetName=NetP7_19 Pin=P8-4
+Added Net: Name=NetP7_19
+Added Pin To Net: NetName=NetP7_20 Pin=P7-20
+Added Pin To Net: NetName=NetP7_20 Pin=P9-4
+Added Net: Name=NetP7_20
+Added Pin To Net: NetName=NetP7_23 Pin=P7-23
+Added Pin To Net: NetName=NetP7_23 Pin=P8-5
+Added Net: Name=NetP7_23
+Added Pin To Net: NetName=NetP7_24 Pin=P7-24
+Added Pin To Net: NetName=NetP7_24 Pin=P9-5
+Added Net: Name=NetP7_24
+Added Pin To Net: NetName=NetP7_25 Pin=P7-25
+Added Pin To Net: NetName=NetP7_25 Pin=P8-6
+Added Net: Name=NetP7_25
+Added Pin To Net: NetName=NetP7_26 Pin=P7-26
+Added Pin To Net: NetName=NetP7_26 Pin=P9-6
+Added Net: Name=NetP7_26
+Added Pin To Net: NetName=NetP7_27 Pin=P7-27
+Added Pin To Net: NetName=NetP7_27 Pin=P8-7
+Added Net: Name=NetP7_27
+Added Pin To Net: NetName=NetP7_28 Pin=P7-28
+Added Pin To Net: NetName=NetP7_28 Pin=P9-7
+Added Net: Name=NetP7_28
+Added Pin To Net: NetName=NetP7_29 Pin=P7-29
+Added Pin To Net: NetName=NetP7_29 Pin=P8-8
+Added Net: Name=NetP7_29
+Added Pin To Net: NetName=NetP7_30 Pin=P7-30
+Added Pin To Net: NetName=NetP7_30 Pin=P9-8
+Added Net: Name=NetP7_30

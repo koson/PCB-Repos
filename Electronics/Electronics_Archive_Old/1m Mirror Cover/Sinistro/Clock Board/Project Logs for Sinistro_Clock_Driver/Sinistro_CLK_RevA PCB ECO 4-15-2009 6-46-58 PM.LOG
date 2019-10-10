@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SEL_MAX2_N Pin=U9-49
+Removed Pin From Net: NetName=LOAD_MAX2_N Pin=U9-50
+Removed Pin From Net: NetName=LOAD_MAX1_N Pin=U9-62
+Removed Pin From Net: NetName=SEL_MAX1_N Pin=U9-64
+Added Pin To Net: NetName=LOAD_MAX2_N Pin=U9-62
+Added Pin To Net: NetName=SEL_MAX2_N Pin=U9-64
+Added Pin To Net: NetName=LOAD_MAX1_N Pin=U9-91
+Added Pin To Net: NetName=SEL_MAX1_N Pin=U9-98

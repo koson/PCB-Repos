@@ -1,0 +1,113 @@
+Added Component: Designator=C1B(SMD_CAP_7343)
+Added Component: Designator=C1E(SMD_CAP_7343)
+Added Component: Designator=C2B(SMD_0805)
+Added Component: Designator=C2E(SMD_0805)
+Added Component: Designator=C3B(SMD_CAP_7343)
+Added Component: Designator=C3E(SMD_CAP_7343)
+Added Component: Designator=C4B(SMD_0805)
+Added Component: Designator=C4E(SMD_0805)
+Added Component: Designator=L1B(SMD_1210_INDUCT)
+Added Component: Designator=L1E(SMD_1210_INDUCT)
+Added Component: Designator=L2B(SMD_1210_INDUCT)
+Added Component: Designator=L2E(SMD_1210_INDUCT)
+Added Component: Designator=R1B(SMD_0805)
+Added Component: Designator=R1E(SMD_0805)
+Added Component: Designator=R2B(SMD_0805)
+Added Component: Designator=R2E(SMD_0805)
+Added Component: Designator=TP3B(SMD_TEST POINT)
+Added Component: Designator=TP3E(SMD_TEST POINT)
+Added Component: Designator=U1B(SOT23A)
+Added Component: Designator=U1E(SOT23A)
+Added Component: Designator=U2B(182H_M)
+Added Component: Designator=U2E(182H_M)
+Added Component: Designator=U3B(182H_M)
+Added Component: Designator=U3E(182H_M)
+Added Pin To Net: NetName=A Pin=C1B-NEG
+Added Pin To Net: NetName=NetC1B_pos Pin=C1B-POS
+Added Pin To Net: NetName=A Pin=C1E-NEG
+Added Pin To Net: NetName=NetC1E_pos Pin=C1E-POS
+Added Pin To Net: NetName=VREFLO4 Pin=C2B-1
+Added Pin To Net: NetName=NetC2B_2 Pin=C2B-2
+Added Pin To Net: NetName=VREFLO2 Pin=C2E-1
+Added Pin To Net: NetName=NetC2E_2 Pin=C2E-2
+Added Pin To Net: NetName=NetC3B_neg Pin=C3B-NEG
+Added Pin To Net: NetName=A Pin=C3B-POS
+Added Pin To Net: NetName=NetC3E_neg Pin=C3E-NEG
+Added Pin To Net: NetName=A Pin=C3E-POS
+Added Pin To Net: NetName=VREFLO4 Pin=C4B-1
+Added Pin To Net: NetName=VREFHI4 Pin=C4B-2
+Added Pin To Net: NetName=VREFLO2 Pin=C4E-1
+Added Pin To Net: NetName=VREFHI2 Pin=C4E-2
+Added Pin To Net: NetName=VREFHI4 Pin=L1B-1
+Added Pin To Net: NetName=NetC1B_pos Pin=L1B-2
+Added Pin To Net: NetName=VREFHI2 Pin=L1E-1
+Added Pin To Net: NetName=NetC1E_pos Pin=L1E-2
+Added Pin To Net: NetName=VREFLO4 Pin=L2B-1
+Added Pin To Net: NetName=NetC3B_neg Pin=L2B-2
+Added Pin To Net: NetName=VREFLO2 Pin=L2E-1
+Added Pin To Net: NetName=NetC3E_neg Pin=L2E-2
+Added Pin To Net: NetName=PH_CLK13 Pin=R1B-1
+Added Pin To Net: NetName=NetR1B_2 Pin=R1B-2
+Added Pin To Net: NetName=PH_CLK10 Pin=R1E-1
+Added Pin To Net: NetName=NetR1E_2 Pin=R1E-2
+Added Pin To Net: NetName=NetR2B_1 Pin=R2B-1
+Added Pin To Net: NetName=CDO13 Pin=R2B-2
+Added Pin To Net: NetName=NetR2E_1 Pin=R2E-1
+Added Pin To Net: NetName=CDO10 Pin=R2E-2
+Added Pin To Net: NetName=NetR2B_1 Pin=TP3B-1
+Added Pin To Net: NetName=NetR2E_1 Pin=TP3E-1
+Added Pin To Net: NetName=NetC2B_2 Pin=U1B-1
+Added Pin To Net: NetName=VREFHI4 Pin=U1B-2
+Added Pin To Net: NetName=VREFLO4 Pin=U1B-3
+Added Pin To Net: NetName=NetC2E_2 Pin=U1E-1
+Added Pin To Net: NetName=VREFHI2 Pin=U1E-2
+Added Pin To Net: NetName=VREFLO2 Pin=U1E-3
+Added Pin To Net: NetName=NetR1B_2 Pin=U2B-2
+Added Pin To Net: NetName=A Pin=U2B-3
+Added Pin To Net: NetName=NetC2B_2 Pin=U2B-5
+Added Pin To Net: NetName=NetU2B_6 Pin=U2B-6
+Added Pin To Net: NetName=VREFLO4 Pin=U2B-8
+Added Pin To Net: NetName=NetR1E_2 Pin=U2E-2
+Added Pin To Net: NetName=A Pin=U2E-3
+Added Pin To Net: NetName=NetC2E_2 Pin=U2E-5
+Added Pin To Net: NetName=NetU2E_6 Pin=U2E-6
+Added Pin To Net: NetName=VREFLO2 Pin=U2E-8
+Added Pin To Net: NetName=NetU2B_6 Pin=U3B-2
+Added Pin To Net: NetName=NetC3B_neg Pin=U3B-3
+Added Pin To Net: NetName=NetU2B_6 Pin=U3B-4
+Added Pin To Net: NetName=NetR2B_1 Pin=U3B-5
+Added Pin To Net: NetName=NetC1B_pos Pin=U3B-6
+Added Pin To Net: NetName=NetR2B_1 Pin=U3B-7
+Added Pin To Net: NetName=NetU2E_6 Pin=U3E-2
+Added Pin To Net: NetName=NetC3E_neg Pin=U3E-3
+Added Pin To Net: NetName=NetU2E_6 Pin=U3E-4
+Added Pin To Net: NetName=NetR2E_1 Pin=U3E-5
+Added Pin To Net: NetName=NetC1E_pos Pin=U3E-6
+Added Pin To Net: NetName=NetR2E_1 Pin=U3E-7
+Added Member To Class: ClassName=PPhase1/22 Member=Component C1B (C1) 35V
+Added Member To Class: ClassName=PPhase1/24 Member=Component C1D (C1) 35V
+Added Member To Class: ClassName=Reset Gate Member=Component C1E (C1) 35V
+Added Member To Class: ClassName=PPhase1/22 Member=Component C2B (C2) Cap SMD
+Added Member To Class: ClassName=Reset Gate Member=Component C2E (C2) Cap SMD
+Added Member To Class: ClassName=PPhase1/22 Member=Component C3B (C3) 35V
+Added Member To Class: ClassName=Reset Gate Member=Component C3E (C3) 35V
+Added Member To Class: ClassName=PPhase1/22 Member=Component C4B (C4) Cap SMD
+Added Member To Class: ClassName=Reset Gate Member=Component C4E (C4) Cap SMD
+Added Member To Class: ClassName=PPhase1/22 Member=Component L1B (L1) Inductor
+Added Member To Class: ClassName=Reset Gate Member=Component L1E (L1) Inductor
+Added Member To Class: ClassName=PPhase1/22 Member=Component L2B (L2) Inductor
+Added Member To Class: ClassName=Reset Gate Member=Component L2E (L2) Inductor
+Added Member To Class: ClassName=PPhase1/22 Member=Component R1B (R1) Res SMD
+Added Member To Class: ClassName=Reset Gate Member=Component R1E (R1) Res SMD
+Added Member To Class: ClassName=PPhase1/22 Member=Component R2B (R2) Res SMD
+Added Member To Class: ClassName=Reset Gate Member=Component R2E (R2) Res SMD
+Added Member To Class: ClassName=PPhase1/22 Member=Component TP3B (TP3) Test Point SMD
+Added Member To Class: ClassName=Reset Gate Member=Component TP3E (TP3) Test Point SMD
+Added Member To Class: ClassName=PPhase1/22 Member=Component U1B (U1) LM3480IM3-5.0
+Added Member To Class: ClassName=Reset Gate Member=Component U1E (U1) LM3480IM3-5.0
+Added Member To Class: ClassName=PPhase1/22 Member=Component U2B (U2) FOD0708
+Added Member To Class: ClassName=Reset Gate Member=Component U2E (U2) FOD0708
+Added Member To Class: ClassName=PPhase1/22 Member=Component U3B (U3) IXDN404
+Added Member To Class: ClassName=Reset Gate Member=Component U3E (U3) IXDN404
+Added Room: Name=PPhase1/22
+Added Room: Name=Reset Gate

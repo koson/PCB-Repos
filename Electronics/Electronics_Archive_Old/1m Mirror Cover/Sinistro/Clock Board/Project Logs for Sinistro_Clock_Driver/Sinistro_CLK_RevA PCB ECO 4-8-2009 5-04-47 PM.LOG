@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=A Pin=R26-1
+Removed Pin From Net: NetName=DAC_VRD Pin=R27-1
+Removed Member From Class: ClassName=Bias Voltages Member=R26
+Added Pin To Net: NetName=A Pin=R27-1
+Added Pin To Net: NetName=NetC28_1 Pin=R27-2
+Added Pin To Net: NetName=DAC_VRD Pin=U11-3

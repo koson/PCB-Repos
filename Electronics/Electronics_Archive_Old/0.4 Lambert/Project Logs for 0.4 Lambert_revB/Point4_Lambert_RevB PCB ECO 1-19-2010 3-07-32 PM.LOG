@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=NetC55_2 Pin=K1-7
+Removed Pin From Net: NetName=NetC54_2 Pin=K1-12
+Removed Pin From Net: NetName=IR_STRIP Pin=Q5-1
+Removed Pin From Net: NetName=NetC54_1 Pin=Q5-3
+Removed Pin From Net: NetName=UV_STRIP Pin=Q6-1
+Removed Pin From Net: NetName=NetC55_1 Pin=Q6-3
+Removed Pin From Net: NetName=OPTO_24V Pin=R27-2
+Removed Pin From Net: NetName=UV_STRIP Pin=TP3-1
+Removed Pin From Net: NetName=IR_STRIP Pin=TP4-1
+Removed Pin From Net: NetName=TDO Pin=U1-73
+Removed Pin From Net: NetName=BF_CAN_TX Pin=U13-70
+Removed Pin From Net: NetName=BF_CAN_RX Pin=U13-72
+Removed Pin From Net: NetName=NetR24_2 Pin=U16-1
+Removed Pin From Net: NetName=GND Pin=U16-2
+Removed Pin From Net: NetName=NetR26_2 Pin=U16-5
+Removed Pin From Net: NetName=DEC_AXIS_OK Pin=U16-6
+Removed Pin From Net: NetName=NetU15_2 Pin=U16-7
+Removed Pin From Net: NetName=OPTO_COM Pin=U16-9
+Removed Pin From Net: NetName=GND Pin=U16-10
+Removed Pin From Net: NetName=GND Pin=U16-12
+Removed Pin From Net: NetName=~RA_AXIS_OK Pin=U16-15
+Removed Pin From Net: NetName=GND Pin=U16-16
+Removed Member From Class: ClassName=Top_Level_IO Member=R27
+Removed Member From Class: ClassName=Top_Level_IO Member=R27
+Added Component: Designator=C63(SMD_0805)
+Added Component: Designator=C64(SMD_0805)
+Added Component: Designator=R32(SMD_0805)
+Added Component: Designator=R33(SMD_0805)
+Added Component: Designator=R34(SMD_0805)
+Added Component: Designator=SW1(CAS-120B)
+Added Component: Designator=TP44(SMD_TEST POINT)
+Added Component: Designator=TP45(SMD_TEST POINT)
+Added Component: Designator=U17(SOIC8NA_M)
+Added Component: Designator=U18(SOIC8NA_M)
+Added Component: Designator=U20(SMD_TSSOP16_RU16)
+Added Pin To Net: NetName=VCC Pin=R27-1
+Added Pin To Net: NetName=NetC54_1 Pin=R27-2
+Added Pin To Net: NetName=VCC Pin=R32-1
+Added Pin To Net: NetName=NetC55_1 Pin=R32-2
+Added Pin To Net: NetName=TDO Pin=SW1-2
+Added Pin To Net: NetName=TDI Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U13-5
+Added Pin To Net: NetName=GND Pin=U13-9
+Added Pin To Net: NetName=GND Pin=U13-13
+Added Pin To Net: NetName=GND Pin=U13-15
+Added Pin To Net: NetName=GND Pin=U13-17
+Added Pin To Net: NetName=GND Pin=U13-20
+Added Pin To Net: NetName=GND Pin=U13-22
+Added Pin To Net: NetName=GND Pin=U13-24
+Added Pin To Net: NetName=VCC Pin=U13-27
+Added Pin To Net: NetName=GND Pin=U13-127
+Added Pin To Net: NetName=GND Pin=U13-130
+Added Pin To Net: NetName=GND Pin=U13-132
+Added Pin To Net: NetName=GND Pin=U13-134
+Added Pin To Net: NetName=GND Pin=U13-136
+Added Pin To Net: NetName=GND Pin=U13-138
+Added Pin To Net: NetName=GND Pin=U13-143
+Added Pin To Net: NetName=GND Pin=U15-6
+Added Pin To Net: NetName=NetU15_2 Pin=U16-1
+Added Pin To Net: NetName=NetR24_2 Pin=U16-5
+Added Pin To Net: NetName=GND Pin=U16-6
+Added Pin To Net: NetName=NetR26_2 Pin=U16-7
+Added Pin To Net: NetName=GND Pin=U16-8
+Added Pin To Net: NetName=GND Pin=U16-9
+Added Pin To Net: NetName=DEC_AXIS_OK Pin=U16-10
+Added Pin To Net: NetName=~RA_AXIS_OK Pin=U16-12
+Added Pin To Net: NetName=OPTO_COM Pin=U16-15
+Added Pin To Net: NetName=BF_CAN_TX Pin=U17-1
+Added Pin To Net: NetName=GND Pin=U17-2
+Added Pin To Net: NetName=VCC Pin=U17-3
+Added Pin To Net: NetName=BF_CAN_RX Pin=U17-4
+Added Pin To Net: NetName=GND Pin=U18-2
+Added Pin To Net: NetName=GND Pin=U20-1
+Added Pin To Net: NetName=UV_STRIP Pin=U20-2
+Added Pin To Net: NetName=VCC Pin=U20-3
+Added Pin To Net: NetName=NetC55_2 Pin=U20-6
+Added Pin To Net: NetName=NetC55_1 Pin=U20-7
+Added Pin To Net: NetName=GND Pin=U20-8
+Added Pin To Net: NetName=UV_STRIP Pin=U20-9
+Added Pin To Net: NetName=VCC Pin=U20-10
+Added Pin To Net: NetName=VCC Pin=U20-11
+Added Pin To Net: NetName=NetC54_2 Pin=U20-14
+Added Pin To Net: NetName=NetC54_1 Pin=U20-15
+Added Pin To Net: NetName=VCC Pin=U20-16
+Added Pin To Net: NetName=CANRCV Pin=U13-70
+Added Pin To Net: NetName=CANRCV Pin=U18-4
+Added Net: Name=CANRCV
+Added Pin To Net: NetName=CANXMT Pin=U13-72
+Added Pin To Net: NetName=CANXMT Pin=U18-1
+Added Net: Name=CANXMT
+Added Pin To Net: NetName=NetC64_2 Pin=C64-2
+Added Pin To Net: NetName=NetC64_2 Pin=R34-1
+Added Net: Name=NetC64_2
+Added Pin To Net: NetName=NetK1_7 Pin=K1-7
+Added Pin To Net: NetName=NetK1_7 Pin=Q6-3
+Added Net: Name=NetK1_7
+Added Pin To Net: NetName=NetK1_12 Pin=K1-12
+Added Pin To Net: NetName=NetK1_12 Pin=Q5-3
+Added Net: Name=NetK1_12
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=TP4-1
+Added Pin To Net: NetName=NetQ5_1 Pin=U20-5
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=TP3-1
+Added Pin To Net: NetName=NetQ6_1 Pin=U20-13
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=TP44-1
+Added Pin To Net: NetName=NetR33_1 Pin=U17-7
+Added Pin To Net: NetName=NetR33_1 Pin=U18-7
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=TP45-1
+Added Pin To Net: NetName=NetR33_2 Pin=U17-6
+Added Pin To Net: NetName=NetR33_2 Pin=U18-6
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetU16_2 Pin=U16-2
+Added Pin To Net: NetName=NetU16_2 Pin=U16-3
+Added Net: Name=NetU16_2
+Added Pin To Net: NetName=OSCFILTER1 Pin=C63-2
+Added Pin To Net: NetName=OSCFILTER1 Pin=R34-2
+Added Pin To Net: NetName=OSCFILTER1 Pin=U13-11
+Added Net: Name=OSCFILTER1
+Added Pin To Net: NetName=OSCFILTER2 Pin=C63-1
+Added Pin To Net: NetName=OSCFILTER2 Pin=C64-1
+Added Pin To Net: NetName=OSCFILTER2 Pin=U13-10
+Added Net: Name=OSCFILTER2
+Added Pin To Net: NetName=STOWED_5V Pin=P5-2
+Added Pin To Net: NetName=STOWED_5V Pin=U16-14
+Added Net: Name=STOWED_5V
+Added Pin To Net: NetName=STOWED_24V Pin=P5-1
+Added Pin To Net: NetName=STOWED_24V Pin=R28-1
+Added Pin To Net: NetName=STOWED_24V Pin=U16-16
+Added Net: Name=STOWED_24V
+Added Pin To Net: NetName=TDO_BF Pin=SW1-3
+Added Pin To Net: NetName=TDO_BF Pin=U3-33
+Added Net: Name=TDO_BF
+Added Pin To Net: NetName=TDO_PLD Pin=U1-73
+Added Net: Name=TDO_PLD
+Change Class Name : Old Net Name=Top_Level_IO New Net Name=Top_Level_IO_revB
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component C63 Cap SMD
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component C64 Cap SMD
+Added Member To Class: ClassName=LED Drive Member=Component R27 Res 0805
+Added Member To Class: ClassName=LED Drive Member=Component R32 Res 0805
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component R33 Res 0805
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component R34 Res 0805
+Added Member To Class: ClassName=BlackFin --> CPLD/Stepper Motor Drive Member=Component SW1 CJS-1200TB
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component TP44 Test Point SMD
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component TP45 Test Point SMD
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component U17 65HVD232
+Added Member To Class: ClassName=Stepper Motor Driver IC Member=Component U18 65HVD232
+Added Member To Class: ClassName=LED Drive Member=Component U20 74HC123
+Added Room: Name=Top_Level_IO_revB

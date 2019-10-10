@@ -1,0 +1,12 @@
+Added Component: Designator=TP20(PAD_80D_052H)
+Added Component: Designator=TP32(PAD_80D_052H)
+Added Component: Designator=TP33(PAD_80D_052H)
+Added Component: Designator=TP62(PAD_80D_052H)
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P1B_DR Pin=TP20-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3A_DR Pin=TP32-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.P3B_DR Pin=TP33-1
+Added Pin To Net: NetName=ANALOG CLOCK DRIVES.VDD_DR Pin=TP62-1
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP20 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP32 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP33 Test point
+Added Member To Class: ClassName=Sinistro_TestBed_10A Member=Component TP62 Test point

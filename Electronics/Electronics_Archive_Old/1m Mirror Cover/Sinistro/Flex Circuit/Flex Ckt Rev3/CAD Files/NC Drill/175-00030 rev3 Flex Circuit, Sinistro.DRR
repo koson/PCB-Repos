@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00030 rev3 Flex Circuit, Sinistro.PcbDoc   7/15/2013  3:32:21 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00030 rev3 Flex Circuit, Sinistro-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00030 rev3 Flex Circuit, Sinistro-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          47               12.67 Inch (321.76 mm)
+T2        15mil (0.381mm)          Round          21               7.61 Inch (193.18 mm)
+T3        33mil (0.8382mm)         Round          4                1.32 Inch (33.60 mm)
+T4        35mil (0.889mm)          Round          41               5.88 Inch (149.43 mm)
+T5        35mil (0.889mm)          Round          1         NPTH   0.00 Inch (0.00 mm)
+T6        39mil (0.9906mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+T7        71mil (1.8034mm)         Round          4         NPTH   1.97 Inch (50.00 mm)
+T8        79mil (2.0066mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            120              29.45 Inch (747.97 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

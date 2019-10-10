@@ -1,0 +1,296 @@
+Removed Parameter Code_JEDEC:DO-204-AH from Part D1
+Removed Parameter Code_JEDEC:DO-204-AH from Part D2
+Removed Parameter Code_JEDEC:TO-92A from Part Q1
+Removed Parameter Code_JEDEC:TO-92A from Part Q2
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part D1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part D2
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part P5
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part P15
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part Q1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part Q2
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U2
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U2
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part U3
+Removed Parameter ComponentLink1URL:http://www.amphenolrf.com/ from Part P5
+Removed Parameter ComponentLink1URL:http://www.amphenolrf.com/ from Part P15
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part D1
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part D2
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part Q1
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part Q2
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part U1
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part U1
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part U1
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part U3
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U2
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U2
+Removed Parameter ComponentLink2Description:Datasheet from Part D1
+Removed Parameter ComponentLink2Description:Datasheet from Part D2
+Removed Parameter ComponentLink2Description:Datasheet from Part Q1
+Removed Parameter ComponentLink2Description:Datasheet from Part Q2
+Removed Parameter ComponentLink2Description:Datasheet from Part U1
+Removed Parameter ComponentLink2Description:Datasheet from Part U1
+Removed Parameter ComponentLink2Description:Datasheet from Part U1
+Removed Parameter ComponentLink2Description:Datasheet from Part U2
+Removed Parameter ComponentLink2Description:Datasheet from Part U2
+Removed Parameter ComponentLink2Description:Datasheet from Part U3
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/1N%2F1N4448.pdf from Part D1
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/1N%2F1N4448.pdf from Part D2
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/2N%2F2N3904.pdf from Part Q1
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/2N%2F2N3904.pdf from Part Q2
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/74%2F74AC00.pdf from Part U1
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/74%2F74AC00.pdf from Part U1
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/74%2F74AC00.pdf from Part U1
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/DM%2FDM74ALS74A.pdf from Part U3
+Removed Parameter ComponentLink2URL:http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1009,C1026,P1297,D1363 from Part U2
+Removed Parameter ComponentLink2URL:http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1009,C1026,P1297,D1363 from Part U2
+Removed Parameter DatasheetDocument:16-Apr-2002 from Part D3
+Removed Parameter DatasheetDocument:16-Apr-2002 from Part D4
+Removed Parameter DatasheetDocument:16-Apr-2002 from Part D5
+Removed Parameter DatasheetDocument:16-Apr-2002 from Part D6
+Removed Parameter DatasheetDocument:16-Apr-2002 from Part D7
+Removed Parameter DatasheetDocument:16-Apr-2002 from Part D8
+Removed Parameter DatasheetDocument:19-Mar-1999 from Part J10
+Removed Parameter DatasheetDocument:30-May-2003 from Part P5
+Removed Parameter DatasheetDocument:30-May-2003 from Part P15
+Removed Parameter DatasheetDocument:1997 from Part D1
+Removed Parameter DatasheetDocument:1997 from Part D2
+Removed Parameter DatasheetDocument:1997 from Part Q1
+Removed Parameter DatasheetDocument:1997 from Part Q2
+Removed Parameter DatasheetVersion:1996 from Part U2
+Removed Parameter DatasheetVersion:1996 from Part U2
+Removed Parameter DatasheetVersion:Feb-1998 from Part U3
+Removed Parameter DatasheetVersion:Nov-1999 from Part U1
+Removed Parameter DatasheetVersion:Nov-1999 from Part U1
+Removed Parameter DatasheetVersion:Nov-1999 from Part U1
+Removed Parameter DrillSize:Corresponds to nominal value. from Part P5
+Removed Parameter DrillSize:Corresponds to nominal value. from Part P15
+Removed Parameter Gender:Receptacle from Part J10
+Removed Parameter LatestRevisionDate:04-Mar-2005 from Part U1
+Removed Parameter LatestRevisionDate:04-Mar-2005 from Part U1
+Removed Parameter LatestRevisionDate:04-Mar-2005 from Part U1
+Removed Parameter LatestRevisionDate:04-Mar-2005 from Part U3
+Removed Parameter LatestRevisionDate:06-Jun-2005 from Part U2
+Removed Parameter LatestRevisionDate:06-Jun-2005 from Part U2
+Removed Parameter LatestRevisionDate:15-Jan-2003 from Part Q1
+Removed Parameter LatestRevisionDate:15-Jan-2003 from Part Q2
+Removed Parameter LatestRevisionDate:15-Jul-2004 from Part P5
+Removed Parameter LatestRevisionDate:15-Jul-2004 from Part P15
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part D3
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part D4
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part D5
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part D6
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part D7
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part D8
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C58
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C69
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C70
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C71
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part D1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part D2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J5
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J6
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J7
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J8
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J9
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J10
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J11
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R5
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R6
+Removed Parameter LatestRevisionNote:Component Replaced. from Part P5
+Removed Parameter LatestRevisionNote:Component Replaced. from Part P15
+Removed Parameter LatestRevisionNote:PCB Footprint 'BCY-W3/D4.7' replaced from Part Q1
+Removed Parameter LatestRevisionNote:PCB Footprint 'BCY-W3/D4.7' replaced from Part Q2
+Removed Parameter LatestRevisionNote:PCB Footprint replaced. from Part D3
+Removed Parameter LatestRevisionNote:PCB Footprint replaced. from Part D4
+Removed Parameter LatestRevisionNote:PCB Footprint replaced. from Part D5
+Removed Parameter LatestRevisionNote:PCB Footprint replaced. from Part D6
+Removed Parameter LatestRevisionNote:PCB Footprint replaced. from Part D7
+Removed Parameter LatestRevisionNote:PCB Footprint replaced. from Part D8
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C58
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C69
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C70
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C71
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part D1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part D2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J7
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J8
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J9
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J10
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J11
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R6
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U1
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U1
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U1
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U2
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U2
+Removed Parameter LatestRevisionNote:Stylized 3D Model Added. from Part U3
+Removed Parameter Orientation:Right Angle from Part J10
+Removed Parameter PackageDescription:DIP, Plastic; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm from Part U2
+Removed Parameter PackageDescription:DIP, Plastic; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm from Part U2
+Removed Parameter PackageDescription:DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm from Part U1
+Removed Parameter PackageDescription:DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm from Part U1
+Removed Parameter PackageDescription:DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm from Part U1
+Removed Parameter PackageDescription:DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm from Part U3
+Removed Parameter PackageDocument:16-Apr-2002 from Part D3
+Removed Parameter PackageDocument:16-Apr-2002 from Part D4
+Removed Parameter PackageDocument:16-Apr-2002 from Part D5
+Removed Parameter PackageDocument:16-Apr-2002 from Part D6
+Removed Parameter PackageDocument:16-Apr-2002 from Part D7
+Removed Parameter PackageDocument:16-Apr-2002 from Part D8
+Removed Parameter PackageDocument:Rev. A, 16-Jun-1997 from Part P5
+Removed Parameter PackageDocument:Rev. A, 16-Jun-1997 from Part P15
+Removed Parameter PackageDocument:Sep-1998 from Part Q1
+Removed Parameter PackageDocument:Sep-1998 from Part Q2
+Removed Parameter PackageDocument:U from Part J10
+Removed Parameter PackageReference:3.5X2.8X1.9 from Part D3
+Removed Parameter PackageReference:3.5X2.8X1.9 from Part D4
+Removed Parameter PackageReference:3.5X2.8X1.9 from Part D5
+Removed Parameter PackageReference:3.5X2.8X1.9 from Part D6
+Removed Parameter PackageReference:3.5X2.8X1.9 from Part D7
+Removed Parameter PackageReference:3.5X2.8X1.9 from Part D8
+Removed Parameter PackageReference:908-21103 from Part P5
+Removed Parameter PackageReference:908-21103 from Part P15
+Removed Parameter PackageReference:787202 from Part J10
+Removed Parameter PackageReference:AXIAL-0.3 from Part R1
+Removed Parameter PackageReference:AXIAL-0.3 from Part R2
+Removed Parameter PackageReference:AXIAL-0.3 from Part R3
+Removed Parameter PackageReference:AXIAL-0.3 from Part R4
+Removed Parameter PackageReference:AXIAL-0.3 from Part R5
+Removed Parameter PackageReference:AXIAL-0.3 from Part R6
+Removed Parameter PackageReference:CAPR5-4X5 from Part C81
+Removed Parameter PackageReference:CAPR5-4X5 from Part C82
+Removed Parameter PackageReference:CAPR5-4X5 from Part C83
+Removed Parameter PackageReference:CAPR5-4X5 from Part C84
+Removed Parameter PackageReference:CAPR5-4X5 from Part C85
+Removed Parameter PackageReference:CAPR5-4X5 from Part C86
+Removed Parameter PackageReference:DO-35 from Part D1
+Removed Parameter PackageReference:DO-35 from Part D2
+Removed Parameter PackageReference:N8 from Part U2
+Removed Parameter PackageReference:N8 from Part U2
+Removed Parameter PackageReference:N14A from Part U1
+Removed Parameter PackageReference:N14A from Part U1
+Removed Parameter PackageReference:N14A from Part U1
+Removed Parameter PackageReference:N14A from Part U3
+Removed Parameter PackageReference:RAD-0.3 from Part C58
+Removed Parameter PackageReference:RAD-0.3 from Part C69
+Removed Parameter PackageReference:RAD-0.3 from Part C70
+Removed Parameter PackageReference:RAD-0.3 from Part C71
+Removed Parameter PackageReference:TO-92A from Part Q1
+Removed Parameter PackageReference:TO-92A from Part Q2
+Removed Parameter PackageVersion:2000 from Part U1
+Removed Parameter PackageVersion:2000 from Part U1
+Removed Parameter PackageVersion:2000 from Part U1
+Removed Parameter PackageVersion:2000 from Part U3
+Removed Parameter PackageVersion:N8 1002 from Part U2
+Removed Parameter PackageVersion:N8 1002 from Part U2
+Removed Parameter PCB_Layout:Complies with manufacturer's recommendation. from Part P5
+Removed Parameter PCB_Layout:Complies with manufacturer's recommendation. from Part P15
+Removed Parameter Positions:25 from Part J10
+Removed Parameter Published:8-Jun-2000 from Part C58
+Removed Parameter Published:8-Jun-2000 from Part C69
+Removed Parameter Published:8-Jun-2000 from Part C70
+Removed Parameter Published:8-Jun-2000 from Part C71
+Removed Parameter Published:8-Jun-2000 from Part D1
+Removed Parameter Published:8-Jun-2000 from Part D2
+Removed Parameter Published:8-Jun-2000 from Part D3
+Removed Parameter Published:8-Jun-2000 from Part D4
+Removed Parameter Published:8-Jun-2000 from Part D5
+Removed Parameter Published:8-Jun-2000 from Part D6
+Removed Parameter Published:8-Jun-2000 from Part D7
+Removed Parameter Published:8-Jun-2000 from Part D8
+Removed Parameter Published:8-Jun-2000 from Part Q1
+Removed Parameter Published:8-Jun-2000 from Part Q2
+Removed Parameter Published:8-Jun-2000 from Part R1
+Removed Parameter Published:8-Jun-2000 from Part R2
+Removed Parameter Published:8-Jun-2000 from Part R3
+Removed Parameter Published:8-Jun-2000 from Part R4
+Removed Parameter Published:8-Jun-2000 from Part R5
+Removed Parameter Published:8-Jun-2000 from Part R6
+Removed Parameter Published:8-Jun-2000 from Part U2
+Removed Parameter Published:8-Jun-2000 from Part U2
+Removed Parameter Published:15-Jul-2004 from Part P5
+Removed Parameter Published:15-Jul-2004 from Part P15
+Removed Parameter Published:15-Jun-2001 from Part J10
+Removed Parameter Published:17-Jul-2002 from Part U1
+Removed Parameter Published:17-Jul-2002 from Part U1
+Removed Parameter Published:17-Jul-2002 from Part U1
+Removed Parameter Published:17-Jul-2002 from Part U3
+Removed Parameter Published:23-Sep-2002 from Part C81
+Removed Parameter Published:23-Sep-2002 from Part C82
+Removed Parameter Published:23-Sep-2002 from Part C83
+Removed Parameter Published:23-Sep-2002 from Part C84
+Removed Parameter Published:23-Sep-2002 from Part C85
+Removed Parameter Published:23-Sep-2002 from Part C86
+Removed Parameter Publisher:Altium Limited from Part C58
+Removed Parameter Publisher:Altium Limited from Part C69
+Removed Parameter Publisher:Altium Limited from Part C70
+Removed Parameter Publisher:Altium Limited from Part C71
+Removed Parameter Publisher:Altium Limited from Part C81
+Removed Parameter Publisher:Altium Limited from Part C82
+Removed Parameter Publisher:Altium Limited from Part C83
+Removed Parameter Publisher:Altium Limited from Part C84
+Removed Parameter Publisher:Altium Limited from Part C85
+Removed Parameter Publisher:Altium Limited from Part C86
+Removed Parameter Publisher:Altium Limited from Part D1
+Removed Parameter Publisher:Altium Limited from Part D2
+Removed Parameter Publisher:Altium Limited from Part D3
+Removed Parameter Publisher:Altium Limited from Part D4
+Removed Parameter Publisher:Altium Limited from Part D5
+Removed Parameter Publisher:Altium Limited from Part D6
+Removed Parameter Publisher:Altium Limited from Part D7
+Removed Parameter Publisher:Altium Limited from Part D8
+Removed Parameter Publisher:Altium Limited from Part J1
+Removed Parameter Publisher:Altium Limited from Part J2
+Removed Parameter Publisher:Altium Limited from Part J3
+Removed Parameter Publisher:Altium Limited from Part J4
+Removed Parameter Publisher:Altium Limited from Part J5
+Removed Parameter Publisher:Altium Limited from Part J6
+Removed Parameter Publisher:Altium Limited from Part J7
+Removed Parameter Publisher:Altium Limited from Part J8
+Removed Parameter Publisher:Altium Limited from Part J9
+Removed Parameter Publisher:Altium Limited from Part J10
+Removed Parameter Publisher:Altium Limited from Part J11
+Removed Parameter Publisher:Altium Limited from Part P5
+Removed Parameter Publisher:Altium Limited from Part P15
+Removed Parameter Publisher:Altium Limited from Part Q1
+Removed Parameter Publisher:Altium Limited from Part Q2
+Removed Parameter Publisher:Altium Limited from Part R1
+Removed Parameter Publisher:Altium Limited from Part R2
+Removed Parameter Publisher:Altium Limited from Part R3
+Removed Parameter Publisher:Altium Limited from Part R4
+Removed Parameter Publisher:Altium Limited from Part R5
+Removed Parameter Publisher:Altium Limited from Part R6
+Removed Parameter Publisher:Altium Limited from Part U1
+Removed Parameter Publisher:Altium Limited from Part U1
+Removed Parameter Publisher:Altium Limited from Part U1
+Removed Parameter Publisher:Altium Limited from Part U2
+Removed Parameter Publisher:Altium Limited from Part U2
+Removed Parameter Publisher:Altium Limited from Part U3
+Removed Parameter Voltage:15V from Part C82
+Removed Parameter Voltage:15V from Part C83
+Removed Parameter Voltage:15V from Part C84
+Removed Parameter Voltage:15V from Part C85
+Removed Parameter Voltage:15V from Part C86
+Removed Parameter Voltage:35V from Part C81

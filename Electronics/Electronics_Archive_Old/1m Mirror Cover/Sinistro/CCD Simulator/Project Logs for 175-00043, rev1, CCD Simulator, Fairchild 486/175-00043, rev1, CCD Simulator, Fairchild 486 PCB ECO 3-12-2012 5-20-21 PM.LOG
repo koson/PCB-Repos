@@ -1,0 +1,9 @@
+Added Component: Designator=TP12(SMD_TEST POINT)
+Added Component: Designator=TP13(SMD_TEST POINT)
+Added Component: Designator=TP14(SMD_TEST POINT)
+Added Pin To Net: NetName=+28V Pin=TP12-1
+Added Pin To Net: NetName=+5VANA Pin=TP13-1
+Added Pin To Net: NetName=-5VANA Pin=TP14-1
+Added Member To Class: ClassName=780-00044 rev1, pg2, CCD Simulator, Fairchild 486 Member=Component TP12 Test Point SMD
+Added Member To Class: ClassName=780-00044 rev1, pg2, CCD Simulator, Fairchild 486 Member=Component TP13 Test Point SMD
+Added Member To Class: ClassName=780-00044 rev1, pg2, CCD Simulator, Fairchild 486 Member=Component TP14 Test Point SMD

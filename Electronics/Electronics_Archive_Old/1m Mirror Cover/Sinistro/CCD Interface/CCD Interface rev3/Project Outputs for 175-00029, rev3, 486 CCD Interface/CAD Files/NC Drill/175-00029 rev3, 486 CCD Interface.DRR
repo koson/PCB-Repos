@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00029 rev3, 486 CCD Interface.PcbDoc   7/16/2013  3:08:48 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00029 rev3, 486 CCD Interface-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00029 rev3, 486 CCD Interface-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          100              23.13 Inch (587.59 mm)
+T2        25mil (0.635mm)          Round          12               2.63 Inch (66.85 mm)
+T3        33mil (0.8382mm)         Round          8                1.92 Inch (48.88 mm)
+T4        40mil (1.016mm)          Round          54               10.40 Inch (264.16 mm)
+T5        35mil (0.889mm)          Round          1         NPTH   0.00 Inch (0.00 mm)
+T6        39mil (0.9906mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+T7        49mil (1.2446mm)         Round          2         NPTH   1.30 Inch (33.00 mm)
+T8        71mil (1.8034mm)         Round          8         NPTH   10.20 Inch (259.16 mm)
+T9        79mil (2.0066mm)         Round          4         NPTH   2.53 Inch (64.31 mm)
+T10       169mil (4.2926mm)        Round          4         NPTH   2.65 Inch (67.38 mm)
+---------------------------------------------------------------------------
+Totals                                            194              54.78 Inch (1391.32 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

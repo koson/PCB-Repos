@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=C1
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=C2
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=U1
+Removed Member From Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=U2
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component C18 35V
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component C19 35V
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component P3 LEMO 3S 18p RT PCB
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component P4 Header 8 0.156"
+Added Member To Class: ClassName=780-00028_rev2_Pg1, Sinistro Power Supply Member=Component U3 DS2411
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component U8 Voltage Reg, Neg Fixed
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component U9 LM350T
+Added Member To Class: ClassName=780-00028_rev2_Pg2, Sinistro Power Supply Member=Component U10 LM350T

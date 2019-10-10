@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C1-1
+Removed Pin From Net: NetName=A Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-NEG
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C6-1
+Removed Pin From Net: NetName=A Pin=C6-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C7A-1
+Removed Pin From Net: NetName=A Pin=C7A-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C7B-1
+Removed Pin From Net: NetName=A Pin=C7B-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C7C-1
+Removed Pin From Net: NetName=A Pin=C7C-2
+Removed Pin From Net: NetName=GND Pin=C10A-NEG
+Removed Pin From Net: NetName=GND Pin=C10B-NEG
+Removed Pin From Net: NetName=GND Pin=C10C-NEG
+Removed Pin From Net: NetName=GND Pin=C11A-NEG
+Removed Pin From Net: NetName=GND Pin=C11B-NEG
+Removed Pin From Net: NetName=GND Pin=C11C-NEG
+Removed Pin From Net: NetName=GND Pin=C14A-1
+Removed Pin From Net: NetName=GND Pin=C14B-1
+Removed Pin From Net: NetName=GND Pin=C14C-1
+Removed Pin From Net: NetName=A Pin=C16A-1
+Removed Pin From Net: NetName=A Pin=C16B-1
+Removed Pin From Net: NetName=A Pin=C16C-1
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C17A-1
+Removed Pin From Net: NetName=A Pin=C17A-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C17B-1
+Removed Pin From Net: NetName=A Pin=C17B-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=C17C-1
+Removed Pin From Net: NetName=A Pin=C17C-2
+Removed Pin From Net: NetName=+24V_IN Pin=F1A-1
+Removed Pin From Net: NetName=+24V_IN Pin=F1B-1
+Removed Pin From Net: NetName=+24V_IN Pin=F1C-1
+Removed Pin From Net: NetName=+24V_IN Pin=F2-1
+Removed Pin From Net: NetName=+24V_IN Pin=F3-1
+Removed Pin From Net: NetName=RS+ Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P5-2
+Removed Pin From Net: NetName=GND Pin=P5-3
+Removed Pin From Net: NetName=RS- Pin=P5-4
+Removed Pin From Net: NetName=ANALOG SPLYS ON Pin=PS1A-1
+Removed Pin From Net: NetName=GND Pin=PS1A-2
+Removed Pin From Net: NetName=ANALOG SPLYS ON Pin=PS1B-1
+Removed Pin From Net: NetName=GND Pin=PS1B-2
+Removed Pin From Net: NetName=ANALOG SPLYS ON Pin=PS1C-1
+Removed Pin From Net: NetName=GND Pin=PS1C-2
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=A Pin=R2-2
+Removed Pin From Net: NetName=+24V Pin=R5-2
+Removed Pin From Net: NetName=A Pin=R6-2
+Removed Pin From Net: NetName=A Pin=R7-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=R8B-2
+Removed Pin From Net: NetName=-VOUT_PWRB Pin=R9B-1
+Removed Pin From Net: NetName=VCC Pin=TP1-1
+Removed Pin From Net: NetName=A Pin=TP3-1
+Removed Pin From Net: NetName=A Pin=TP4-1
+Removed Pin From Net: NetName=A Pin=TP5-1
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=TP10B-1
+Removed Pin From Net: NetName=-VOUT_PWRB Pin=TP11B-1
+Removed Pin From Net: NetName=A Pin=U1-2
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=A Pin=U4-2
+Removed Pin From Net: NetName=+24V Pin=U4-4
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U4-5
+Removed Pin From Net: NetName=-VOUT_PWRB Pin=U5-A3
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U5-A5
+Removed Pin From Net: NetName=RS+ Pin=U5-A57
+Removed Pin From Net: NetName=RS- Pin=U5-A59
+Removed Pin From Net: NetName=A Pin=U5-A121
+Removed Pin From Net: NetName=A Pin=U5-A121
+Removed Pin From Net: NetName=A Pin=U5-A121
+Removed Pin From Net: NetName=A Pin=U5-A121
+Removed Pin From Net: NetName=GND Pin=U5-A122
+Removed Pin From Net: NetName=GND Pin=U5-A122
+Removed Pin From Net: NetName=GND Pin=U5-A122
+Removed Pin From Net: NetName=GND Pin=U5-A122
+Removed Pin From Net: NetName=ANALOG SPLYS ON Pin=U5-B47
+Removed Pin From Net: NetName=GND Pin=U5-B49
+Removed Pin From Net: NetName=VCC Pin=U5-B121
+Removed Pin From Net: NetName=VCC Pin=U5-B121
+Removed Pin From Net: NetName=VCC Pin=U5-B121
+Removed Pin From Net: NetName=VCC Pin=U5-B121
+Removed Pin From Net: NetName=GND Pin=U5-B122
+Removed Pin From Net: NetName=GND Pin=U5-B122
+Removed Pin From Net: NetName=GND Pin=U5-B122
+Removed Pin From Net: NetName=GND Pin=U5-B122
+Removed Pin From Net: NetName=A Pin=U6A-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U6A-5
+Removed Pin From Net: NetName=A Pin=U6B-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U6B-4
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U6B-5
+Removed Pin From Net: NetName=A Pin=U6C-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U6C-5
+Removed Pin From Net: NetName=A Pin=U7A-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U7A-5
+Removed Pin From Net: NetName=A Pin=U7B-2
+Removed Pin From Net: NetName=-VOUT_PWRB Pin=U7B-3
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U7B-5
+Removed Pin From Net: NetName=A Pin=U7C-2
+Removed Pin From Net: NetName=+VOUT_PWRB Pin=U7C-5
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=C1
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=C2
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=C3
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=C6
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=F2
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=F3
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=P5
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=R1
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=R2
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=R5
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=R6
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=R7
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=TP1
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=TP3
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=TP4
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=TP5
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=U1
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=U2
+Removed Member From Class: ClassName=780-00028_rev1_Pg1, Sinistro Power Supply Member=U4
+Change Net Name : Old Net Name=+VOUT_PWRB New Net Name=+12V
+Change Net Name : Old Net Name=-VOUT_PWRB New Net Name=-12V
+Added Pin To Net: NetName=+5ANA Pin=P4-4
+Added Pin To Net: NetName=+5ANA Pin=TP14-1
+Added Net: Name=+5ANA
+Added Pin To Net: NetName=+30V Pin=C4-1
+Added Pin To Net: NetName=+30V Pin=U3-3
+Added Net: Name=+30V
+Added Pin To Net: NetName=-5ANA Pin=P4-14
+Added Pin To Net: NetName=-5ANA Pin=TP15-1
+Added Net: Name=-5ANA
+Change Class Name : Old Net Name=780-00028_rev1_Pg1, Sinistro Power Supply New Net Name=780-00028_rev2_Pg1, Sinistro Power Supply
+Change Room Name: Old Name=780-00028_rev1_Pg1, Sinistro Power Supply New Name=780-00028_rev2_Pg1, Sinistro Power Supply
+Change Room Scope: Old Scope=InComponentClass('780-00028_rev1_Pg1, Sinistro Power Supply') New Scope=InComponentClass('780-00028_rev2_Pg1, Sinistro Power Supply')

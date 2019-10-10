@@ -1,0 +1,22 @@
+Removed Parameter Capacitance @ Vr, F:- from Part D3
+Removed Parameter Category:Discrete Semiconductor Products from Part D3
+Removed Parameter ComponentLink1Description:http://www.vishay.com/doc?88742 from Part D3
+Removed Parameter ComponentLink1URL:http://www.vishay.com/doc?88742 from Part D3
+Removed Parameter Current - Average Rectified (Io):4A from Part D3
+Removed Parameter Current - Reverse Leakage @ Vr:500µA @ 30V from Part D3
+Removed Parameter Diode Type :Schottky from Part D3
+Removed Parameter Manufacturer Part Number:SL43-E3/57T from Part D3
+Removed Parameter Mounting Type:Surface Mount from Part D3
+Removed Parameter Package / Case:DO-214AB, SMC from Part D3
+Removed Parameter Packaging:Cut Tape (CT) from Part D3
+Removed Parameter Pricing 1:1=0.98, 10=0.761, 100=0.6522, 250=0.60872, 500=0.5435 (USD) from Part D3
+Removed Parameter Reverse Recovery Time (trr):- from Part D3
+Removed Parameter RoHS:RoHS Compliant from Part D3
+Removed Parameter Speed:Fast Recovery =< 500ns, > 200mA (Io) from Part D3
+Removed Parameter Stock 1:4489 from Part D3
+Removed Parameter Supplier 1:Digi-Key from Part D3
+Removed Parameter Supplier Part Number 1:SL43-E3/57TGICT-ND from Part D3
+Removed Parameter Supplier Part Number:SL43-E3/57TGITR-ND from Part D3
+Removed Parameter Voltage - DC Reverse (Vr) (Max):30V from Part D3
+Removed Parameter Voltage - Forward (Vf) (Max) @ If:420mV @ 4A from Part D3
+Change Value of Parameter Vendor in Part TP1 Old= New=DigiKey

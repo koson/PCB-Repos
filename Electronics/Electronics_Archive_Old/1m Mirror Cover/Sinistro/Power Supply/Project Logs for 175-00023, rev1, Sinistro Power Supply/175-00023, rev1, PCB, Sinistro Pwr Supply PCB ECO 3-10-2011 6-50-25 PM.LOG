@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=-VOUT_PWRC Pin=R9C-1
+Removed Pin From Net: NetName=-VOUT_PWRC Pin=TP11C-1
+Removed Pin From Net: NetName=-VOUT_PWRC Pin=U7C-3
+Added Pin To Net: NetName=-VOUT_PWRC Pin=R2-2
+Change Net Name : Old Net Name=-VOUT_PWRC New Net Name=A
+Added Pin To Net: NetName=-VOUT_PWRC Pin=R2-1
+Added Pin To Net: NetName=-VOUT_PWRC Pin=R9C-1
+Added Pin To Net: NetName=-VOUT_PWRC Pin=TP11C-1
+Added Pin To Net: NetName=-VOUT_PWRC Pin=U7C-3
+Added Net: Name=-VOUT_PWRC

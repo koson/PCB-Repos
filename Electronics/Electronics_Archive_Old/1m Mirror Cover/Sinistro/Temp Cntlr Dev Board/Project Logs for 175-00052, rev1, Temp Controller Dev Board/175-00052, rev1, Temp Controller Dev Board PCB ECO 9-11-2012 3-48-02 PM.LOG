@@ -1,0 +1,6 @@
+Added Component: Designator=TP7A(SMD_TEST POINT)
+Added Component: Designator=TP7B(SMD_TEST POINT)
+Added Pin To Net: NetName=DACOUT3 Pin=TP7A-1
+Added Pin To Net: NetName=DACOUT4 Pin=TP7B-1
+Added Member To Class: ClassName=TECCHAN1 Member=Component TP7A (TP7) Test Point SMD
+Added Member To Class: ClassName=TECCHAN2 Member=Component TP7B (TP7) Test Point SMD

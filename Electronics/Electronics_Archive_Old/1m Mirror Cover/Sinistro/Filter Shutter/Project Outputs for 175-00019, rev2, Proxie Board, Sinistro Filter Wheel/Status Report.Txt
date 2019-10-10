@@ -1,0 +1,80 @@
+Output: ODB++ Files
+Type  : ODB
+From  : PCB Document [175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.PcbDoc]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.REP]
+
+Output: NC Drill Output1
+Type  : NC Drill
+From  : PCB Document [175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.PcbDoc]
+   Generated File[175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel-Plated.TXT]
+   Generated File[175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel-NonPlated.TXT]
+   Generated File[175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.DRL]
+   Generated File[175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.LDP]
+   Generated File[175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.DRR]
+
+Output: IPC-D-356A-NETLIST FILE
+Type  : Test Points
+From  : PCB Document [175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.PcbDoc]
+   Generated File[Fabrication Testpoint Report for 175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.ipc]
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.PcbDoc]
+   Generated File[Pick Place for 175-00019 rev2, Proxie Sensor, Sinistro Filter Wheel.txt]
+
+
+Files Generated   : 59
+Documents Printed : 0
+
+Finished Output Generation At 2:32:54 PM On 2/28/2011

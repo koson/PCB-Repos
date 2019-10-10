@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=R2-1
+Removed Pin From Net: NetName=PROXY1 Pin=R2-2
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Added Component: Designator=R2(SMD_0805)
+Added Component: Designator=R3(SMD_0805)
+Added Component: Designator=R4(SMD_0805)
+Added Component: Designator=R6(SMD_0805)
+Added Component: Designator=R7(SMD_0805)
+Added Component: Designator=R8(SMD_0805)
+Added Component: Designator=R9(SMD_0805)
+Added Component: Designator=R10(SMD_0805)
+Added Component: Designator=R11(SMD_0805)
+Added Component: Designator=R12(SMD_0805)
+Added Component: Designator=R13(SMD_0805)
+Added Component: Designator=U4(SMD_SOT23_3)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=VBUS Pin=D1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-1
+Added Pin To Net: NetName=PROXY1 Pin=R2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R3-1
+Added Pin To Net: NetName=PROXY2 Pin=R3-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R4-1
+Added Pin To Net: NetName=PROXY3 Pin=R4-2
+Added Pin To Net: NetName=AX2_H_BRIDGE_ERR Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetJ4_1 Pin=R6-1
+Added Pin To Net: NetName=PROXY4 Pin=R6-2
+Added Pin To Net: NetName=NetJ5_1 Pin=R7-1
+Added Pin To Net: NetName=PROXY5 Pin=R7-2
+Added Pin To Net: NetName=NetJ6_1 Pin=R8-1
+Added Pin To Net: NetName=PROXY6 Pin=R8-2
+Added Pin To Net: NetName=NetJ7_1 Pin=R9-1
+Added Pin To Net: NetName=PROXY7 Pin=R9-2
+Added Pin To Net: NetName=NetJ9_1 Pin=R10-1
+Added Pin To Net: NetName=PROXY8 Pin=R10-2
+Added Pin To Net: NetName=ETHERLED_FD Pin=R11-1
+Added Pin To Net: NetName=NetJ10_9 Pin=R11-2
+Added Pin To Net: NetName=ETHERLED_ACT Pin=R12-1
+Added Pin To Net: NetName=NetJ10_12 Pin=R12-2
+Added Pin To Net: NetName=NetP2_5 Pin=R13-1
+Added Pin To Net: NetName=VCC Pin=R13-2
+Added Pin To Net: NetName=SSN Pin=U4-1
+Added Pin To Net: NetName=3.3V Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R3 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R4 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R5 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R6 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R7 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R8 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R9 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R10 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R11 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R12 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R13 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component U4 DS2411

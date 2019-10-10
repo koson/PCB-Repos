@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=+12V Pin=P3-1
+Removed Pin From Net: NetName=+5ANA Pin=P3-4
+Removed Pin From Net: NetName=VCC Pin=P3-5
+Removed Pin From Net: NetName=+24V Pin=P3-6
+Removed Pin From Net: NetName=RS+ Pin=P3-8
+Removed Pin From Net: NetName=RS- Pin=P3-9
+Removed Pin From Net: NetName=-12V Pin=P3-12
+Removed Pin From Net: NetName=+12V Pin=P3-13
+Removed Pin From Net: NetName=-5ANA Pin=P3-14
+Removed Pin From Net: NetName=VCC Pin=P3-15
+Removed Pin From Net: NetName=+24V Pin=P3-16
+Removed Pin From Net: NetName=-12V Pin=P3-18
+Added Component: Designator=C2(SMD_0805)
+Added Component: Designator=C3(SMD_0805)
+Added Component: Designator=C4(SMD_0805)
+Added Component: Designator=C5(SMD_0805)
+Added Component: Designator=C6(SMD_0805)
+Added Component: Designator=C7(SMD_0805)
+Added Component: Designator=R8(SMD_0805)
+Added Component: Designator=R9(SMD_0805)
+Added Component: Designator=R10(SMD_0805)
+Added Component: Designator=R11(SMD_0805)
+Added Component: Designator=R12(SMD_0805)
+Added Component: Designator=R13(SMD_0805)
+Added Component: Designator=U2(SMD_SOT23_5)
+Added Component: Designator=U3(SMD_SOT23_5)
+Added Component: Designator=U4(SMD_SOT23_5)
+Added Component: Designator=U5(SMD_SOT23_5)
+Added Component: Designator=U6(SMD_SOT23_5)
+Added Component: Designator=U7(SMD_SOT23_5)
+Added Pin To Net: NetName=+12V Pin=C2-1
+Added Pin To Net: NetName=A Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=C3-1
+Added Pin To Net: NetName=A Pin=C3-2
+Added Pin To Net: NetName=+12V Pin=C4-1
+Added Pin To Net: NetName=A Pin=C4-2
+Added Pin To Net: NetName=+12V Pin=C5-1
+Added Pin To Net: NetName=A Pin=C5-2
+Added Pin To Net: NetName=+12V Pin=C6-1
+Added Pin To Net: NetName=A Pin=C6-2
+Added Pin To Net: NetName=+12V Pin=C7-1
+Added Pin To Net: NetName=A Pin=C7-2
+Added Pin To Net: NetName=-5ANA Pin=R8-1
+Added Pin To Net: NetName=+24V Pin=R9-2
+Added Pin To Net: NetName=+12V Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=-12V Pin=R12-1
+Added Pin To Net: NetName=+5ANA Pin=R13-2
+Added Pin To Net: NetName=A Pin=U2-2
+Added Pin To Net: NetName=-5ANA Pin=U2-3
+Added Pin To Net: NetName=+12V Pin=U2-5
+Added Pin To Net: NetName=A Pin=U3-2
+Added Pin To Net: NetName=+24V Pin=U3-4
+Added Pin To Net: NetName=+12V Pin=U3-5
+Added Pin To Net: NetName=A Pin=U4-2
+Added Pin To Net: NetName=+12V Pin=U4-4
+Added Pin To Net: NetName=+12V Pin=U4-5
+Added Pin To Net: NetName=A Pin=U5-2
+Added Pin To Net: NetName=VCC Pin=U5-4
+Added Pin To Net: NetName=+12V Pin=U5-5
+Added Pin To Net: NetName=A Pin=U6-2
+Added Pin To Net: NetName=+5ANA Pin=U6-4
+Added Pin To Net: NetName=+12V Pin=U6-5
+Added Pin To Net: NetName=A Pin=U7-2
+Added Pin To Net: NetName=-12V Pin=U7-3
+Added Pin To Net: NetName=+12V Pin=U7-5
+Added Pin To Net: NetName=24RTN Pin=P3-8
+Added Pin To Net: NetName=24RTN Pin=P3-9
+Added Net: Name=24RTN
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-13
+Added Pin To Net: NetName=NetP3_1 Pin=R10-1
+Added Pin To Net: NetName=NetP3_1 Pin=U4-3
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=R13-1
+Added Pin To Net: NetName=NetP3_4 Pin=U6-3
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Pin To Net: NetName=NetP3_5 Pin=P3-15
+Added Pin To Net: NetName=NetP3_5 Pin=R11-1
+Added Pin To Net: NetName=NetP3_5 Pin=U5-3
+Added Net: Name=NetP3_5
+Added Pin To Net: NetName=NetP3_6 Pin=P3-6
+Added Pin To Net: NetName=NetP3_6 Pin=P3-16
+Added Pin To Net: NetName=NetP3_6 Pin=R9-1
+Added Pin To Net: NetName=NetP3_6 Pin=U3-3
+Added Net: Name=NetP3_6
+Added Pin To Net: NetName=NetP3_12 Pin=P3-12
+Added Pin To Net: NetName=NetP3_12 Pin=P3-18
+Added Pin To Net: NetName=NetP3_12 Pin=R12-2
+Added Pin To Net: NetName=NetP3_12 Pin=U7-4
+Added Net: Name=NetP3_12
+Added Pin To Net: NetName=NetP3_14 Pin=P3-14
+Added Pin To Net: NetName=NetP3_14 Pin=R8-2
+Added Pin To Net: NetName=NetP3_14 Pin=U2-4
+Added Net: Name=NetP3_14
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component C2 Cap SMD
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component C3 Cap SMD
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component C4 Cap SMD
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component C5 Cap SMD
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component C6 Cap SMD
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component C7 Cap SMD
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R8 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R9 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R10 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R11 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R12 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component R13 Res 0805
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component U2 100 V/V
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component U3 100 V/V
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component U4 100 V/V
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component U5 100 V/V
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component U6 100 V/V
+Added Member To Class: ClassName=780-00018_rev3_Pg1 Member=Component U7 100 V/V

@@ -1,0 +1,15 @@
+.model DC_drive
+.attrib fpga_pinnum 1 P185
+.outputs LEDS0
+.attrib fpga_pinnum 1 P184
+.outputs LEDS1
+.attrib fpga_pinnum 1 P183
+.outputs LEDS2
+.attrib fpga_pinnum 1 P127
+.inputs PB0
+.attrib fpga_pinnum 1 P126
+.inputs PB1
+.attrib fpga_pinnum 1 P125
+.inputs PB2
+.attrib fpga_pinnum 1 P123
+.inputs PB3

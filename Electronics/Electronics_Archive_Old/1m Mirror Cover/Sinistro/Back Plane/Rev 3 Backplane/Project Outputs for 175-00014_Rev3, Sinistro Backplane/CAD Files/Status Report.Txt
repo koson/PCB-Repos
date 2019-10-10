@@ -1,0 +1,12 @@
+Output: PCBFabricationDrawing
+Type  : Gerber
+From  : PCB Document [175-00014_Rev3, PCB, Sinistro Backplane.PcbDoc]
+   Generated File[175-00014_Rev3, PCB, Sinistro Backplane.GPT]
+   Generated File[175-00014_Rev3, PCB, Sinistro Backplane.EXTREP]
+   Generated File[175-00014_Rev3, PCB, Sinistro Backplane.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:45:25 AM On 12/20/2012

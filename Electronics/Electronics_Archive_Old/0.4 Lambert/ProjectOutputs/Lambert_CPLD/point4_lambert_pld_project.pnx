@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE ibis [
+<!ELEMENT ibis (part, pin+)>
+<!ELEMENT part EMPTY>
+<!ELEMENT pin EMPTY>
+<!ATTLIST part
+  arch   CDATA #REQUIRED
+  device CDATA #REQUIRED
+  spg    CDATA #REQUIRED
+  pkg    CDATA #REQUIRED>
+<!ATTLIST pin
+  nm     CDATA #REQUIRED
+  no     CDATA #REQUIRED
+  iostd  (TTL|LVTTL|LVCMOS2|NA) "NA"
+  sr     (SLOW|FAST|slow|fast) "SLOW"
+  dir    (BIDIR|bidir|INPUT|input|OUTPUT|output) "BIDIR">
+]>
+<ibis><part arch="xpla3" device="XCR3128XL" pkg="VQ100" spg="-10"/><pin dir="input" nm="CLK_20MHZ" no="87"/><pin dir="input" nm="DC_DIRECTION" no="47"/><pin dir="input" nm="DEC_AXIS_OK" no="25"/><pin dir="input" nm="DEPLOYED_1" no="70"/><pin dir="input" nm="X_DC_START" no="46"/><pin dir="input" nm="X_RA_AXIS_OK" no="31"/><pin dir="input" nm="STOWED_1" no="64"/><pin dir="input" nm="UV_STRIP" no="63"/><pin dir="input" nm="LIGHTBARMINUS" no="99"/><pin dir="input" nm="PWM_IR_LOAD" no="69"/><pin dir="input" nm="X_PWM_IR_EN" no="56"/><pin dir="input" nm="X_PWM_UV_EN" no="48"/><pin dir="input" nm="PWM_D&lt;0&gt;" no="60"/><pin dir="input" nm="PWM_D&lt;1&gt;" no="57"/><pin dir="input" nm="PWM_D&lt;2&gt;" no="58"/><pin dir="input" nm="PWM_D&lt;3&gt;" no="55"/><pin dir="input" nm="PWM_D&lt;4&gt;" no="54"/><pin dir="input" nm="PWM_D&lt;5&gt;" no="53"/><pin dir="input" nm="PWM_D&lt;6&gt;" no="49"/><pin dir="input" nm="PWM_D&lt;7&gt;" no="52"/><pin dir="input" nm="PWM_UV_LOAD" no="65"/><pin dir="input" nm="PWM_WHT_LOAD" no="61"/><pin dir="input" nm="X_PWM_WHT_EN" no="50"/><pin dir="output" nm="IN1" no="76" sr="fast"/><pin dir="output" nm="IN2" no="77" sr="fast"/><pin dir="output" nm="IR_STRIP" no="94" sr="fast"/><pin dir="output" nm="OK_TO_MOVE" no="45" sr="fast"/><pin dir="output" nm="PWM_IR_OUT" no="85" sr="fast"/><pin dir="output" nm="PWM_UV_OUT" no="78" sr="fast"/><pin dir="output" nm="PWM_WHT_OUT" no="100" sr="fast"/><pin dir="output" nm="X_HOME" no="75" sr="fast"/></ibis>

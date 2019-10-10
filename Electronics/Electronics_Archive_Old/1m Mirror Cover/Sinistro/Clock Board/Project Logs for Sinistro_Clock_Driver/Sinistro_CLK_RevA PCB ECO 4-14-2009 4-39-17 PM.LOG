@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=-CLK_100 Pin=R11-1
+Removed Pin From Net: NetName=+CLK_100 Pin=R11-2
+Added Pin To Net: NetName=+CLK_100 Pin=R11-1
+Added Pin To Net: NetName=-CLK_100 Pin=R11-2

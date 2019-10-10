@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE ibis [
+<!ELEMENT ibis (part, pin+)>
+<!ELEMENT part EMPTY>
+<!ELEMENT pin EMPTY>
+<!ATTLIST part
+  arch   CDATA #REQUIRED
+  device CDATA #REQUIRED
+  spg    CDATA #REQUIRED
+  pkg    CDATA #REQUIRED>
+<!ATTLIST pin
+  nm     CDATA #REQUIRED
+  no     CDATA #REQUIRED
+  iostd  (LVTTL|SSTL3_I|LVCMOS33|LVCMOS25|SSTL2_I|LVCMOS18|LVCMOS15|HSTL_I|NA) "NA"
+  sr     (SLOW|FAST|slow|fast) "SLOW"
+  dir    (BIDIR|bidir|INPUT|input|OUTPUT|output) "BIDIR">
+]>
+<ibis><part arch="xbr" device="XC2C256" pkg="PQ208" spg="-7"/><pin dir="input" iostd="LVCMOS18" nm="PB0" no="127"/><pin dir="input" iostd="LVCMOS18" nm="PB1" no="126"/><pin dir="input" iostd="LVCMOS18" nm="PB2" no="125"/><pin dir="input" iostd="LVCMOS18" nm="PB3" no="123"/><pin dir="output" iostd="LVCMOS18" nm="LEDS0" no="185" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS1" no="184" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS2" no="183" sr="fast"/></ibis>

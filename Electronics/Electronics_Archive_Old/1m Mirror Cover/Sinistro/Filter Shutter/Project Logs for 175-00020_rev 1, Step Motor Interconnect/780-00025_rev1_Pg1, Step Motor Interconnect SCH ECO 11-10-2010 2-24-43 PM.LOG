@@ -1,0 +1,4 @@
+Remove Pin=U1-22 From Net=INDEX4+
+Remove Pin=U1-23 From Net=INDEX4-
+Add Pin To Net: Pin=U1-11 Old Net=NetU1_11 New Net=INDEX4-
+Add Pin To Net: Pin=U1-12 Old Net=NetU1_12 New Net=INDEX4+

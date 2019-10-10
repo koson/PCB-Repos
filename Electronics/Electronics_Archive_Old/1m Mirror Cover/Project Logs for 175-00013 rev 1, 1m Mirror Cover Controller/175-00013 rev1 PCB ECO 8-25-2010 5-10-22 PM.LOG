@@ -1,0 +1,47 @@
+Added Component: Designator=TP29(SMD_TEST POINT)
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=+24V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+24V Pin=R35-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=+24V Pin=U23-2
+Added Pin To Net: NetName=GND Pin=U23-8
+Added Pin To Net: NetName=GND Pin=U23-9
+Added Pin To Net: NetName=+12V Pin=C19-2
+Added Pin To Net: NetName=+12V Pin=C20-2
+Added Pin To Net: NetName=+12V Pin=L3-2
+Added Pin To Net: NetName=+12V Pin=R36-2
+Added Pin To Net: NetName=+12V Pin=R38-2
+Added Pin To Net: NetName=+12V Pin=TP29-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=R36-1
+Added Pin To Net: NetName=NetC20_1 Pin=R39-2
+Added Pin To Net: NetName=NetC20_1 Pin=U23-6
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U23-1
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=R37-2
+Added Pin To Net: NetName=NetR35_1 Pin=U23-5
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=R40-2
+Added Pin To Net: NetName=NetR37_1 Pin=U23-3
+Added Net: Name=NetR37_1
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component C18 Low ESR
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component C19 Low ESR
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component C20 Cap SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component L3 445-3872-2-ND
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R2 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R35 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R36 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R37 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R38 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R39 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component R40 Res 0805
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component TP29 Test Point SMD
+Added Member To Class: ClassName=780-00017_rev1_Pg1 Member=Component U23 LTC3631

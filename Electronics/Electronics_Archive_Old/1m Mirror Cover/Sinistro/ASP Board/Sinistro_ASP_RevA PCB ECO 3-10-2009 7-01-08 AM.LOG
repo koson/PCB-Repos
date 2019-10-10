@@ -1,0 +1,177 @@
+Removed Pin From Net: NetName=NetR5A_1 Pin=R8A-1
+Removed Pin From Net: NetName=NetR5B_1 Pin=R8B-1
+Removed Pin From Net: NetName=NetR5C_1 Pin=R8C-1
+Removed Pin From Net: NetName=NetR5D_1 Pin=R8D-1
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3A-1
+Removed Pin From Net: NetName=NetTP5A_1 Pin=U3A-2
+Removed Pin From Net: NetName=NetC12A_2 Pin=U3A-3
+Removed Pin From Net: NetName=A Pin=U3A-4
+Removed Pin From Net: NetName=A Pin=U3A-5
+Removed Pin From Net: NetName=NetR2A_2 Pin=U3A-6
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3A-8
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3A-9
+Removed Pin From Net: NetName=+5ANA Pin=U3A-12
+Removed Pin From Net: NetName=+28V Pin=U3A-13
+Removed Pin From Net: NetName=A1_OUT Pin=U3A-14
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3A-16
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3B-1
+Removed Pin From Net: NetName=NetTP5B_1 Pin=U3B-2
+Removed Pin From Net: NetName=NetC12B_2 Pin=U3B-3
+Removed Pin From Net: NetName=A Pin=U3B-4
+Removed Pin From Net: NetName=A Pin=U3B-5
+Removed Pin From Net: NetName=NetR2B_2 Pin=U3B-6
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3B-8
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3B-9
+Removed Pin From Net: NetName=+5ANA Pin=U3B-12
+Removed Pin From Net: NetName=+28V Pin=U3B-13
+Removed Pin From Net: NetName=A2_OUT Pin=U3B-14
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3B-16
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3C-1
+Removed Pin From Net: NetName=NetTP5C_1 Pin=U3C-2
+Removed Pin From Net: NetName=NetC12C_2 Pin=U3C-3
+Removed Pin From Net: NetName=A Pin=U3C-4
+Removed Pin From Net: NetName=A Pin=U3C-5
+Removed Pin From Net: NetName=NetR2C_2 Pin=U3C-6
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3C-8
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3C-9
+Removed Pin From Net: NetName=+5ANA Pin=U3C-12
+Removed Pin From Net: NetName=+28V Pin=U3C-13
+Removed Pin From Net: NetName=A3_OUT Pin=U3C-14
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3C-16
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3D-1
+Removed Pin From Net: NetName=NetTP5D_1 Pin=U3D-2
+Removed Pin From Net: NetName=NetC12D_2 Pin=U3D-3
+Removed Pin From Net: NetName=A Pin=U3D-4
+Removed Pin From Net: NetName=A Pin=U3D-5
+Removed Pin From Net: NetName=NetR2D_2 Pin=U3D-6
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3D-8
+Removed Pin From Net: NetName=/GAIN_4X Pin=U3D-9
+Removed Pin From Net: NetName=+5ANA Pin=U3D-12
+Removed Pin From Net: NetName=+28V Pin=U3D-13
+Removed Pin From Net: NetName=A4_OUT Pin=U3D-14
+Removed Pin From Net: NetName=/RESET_BLANK Pin=U3D-16
+Added Component: Designator=TP8(PAD_80D_052H)
+Added Component: Designator=TP9A(PAD_80D_052H)
+Added Component: Designator=TP9B(PAD_80D_052H)
+Added Component: Designator=TP9C(PAD_80D_052H)
+Added Component: Designator=TP9D(PAD_80D_052H)
+Added Component: Designator=TP11(PAD_80D_052H)
+Added Component: Designator=TP12(PAD_80D_052H)
+Added Component: Designator=TP13(PAD_80D_052H)
+Added Component: Designator=TP14(PAD_80D_052H)
+Added Component: Designator=TP15(PAD_80D_052H)
+Added Component: Designator=TP16(PAD_80D_052H)
+Added Component: Designator=TP17(PAD_80D_052H)
+Added Component: Designator=TP18(PAD_80D_052H)
+Added Component: Designator=TP25(PAD_80D_052H)
+Added Component: Designator=TP27(PAD_80D_052H)
+Added Component: Designator=TP28(PAD_80D_052H)
+Added Component: Designator=TP29(PAD_80D_052H)
+Added Component: Designator=TP30(PAD_80D_052H)
+Added Component: Designator=TP31(PAD_80D_052H)
+Added Pin To Net: NetName=4.096VREF Pin=TP8-1
+Added Pin To Net: NetName=COMMOUTA Pin=TP9A-1
+Added Pin To Net: NetName=COMMOUTB Pin=TP9B-1
+Added Pin To Net: NetName=COMMOUTC Pin=TP9C-1
+Added Pin To Net: NetName=COMMOUTD Pin=TP9D-1
+Added Pin To Net: NetName=SCLK Pin=TP11-1
+Added Pin To Net: NetName=SIMO Pin=TP12-1
+Added Pin To Net: NetName=SOMI Pin=TP13-1
+Added Pin To Net: NetName=A Pin=TP14-1
+Added Pin To Net: NetName=A Pin=TP15-1
+Added Pin To Net: NetName=A Pin=TP16-1
+Added Pin To Net: NetName=A Pin=TP17-1
+Added Pin To Net: NetName=GND Pin=TP18-1
+Added Pin To Net: NetName=+12V Pin=TP25-1
+Added Pin To Net: NetName=+5ANA Pin=TP27-1
+Added Pin To Net: NetName=+28V Pin=TP28-1
+Added Pin To Net: NetName=VCC Pin=TP29-1
+Added Pin To Net: NetName=-5ANA Pin=TP30-1
+Added Pin To Net: NetName=-12V Pin=TP31-1
+Added Pin To Net: NetName=A1_OUT Pin=U3A-6
+Added Pin To Net: NetName=NetTP5A_1 Pin=U3A-7
+Added Pin To Net: NetName=NetC12A_2 Pin=U3A-14
+Added Pin To Net: NetName=A2_OUT Pin=U3B-6
+Added Pin To Net: NetName=NetTP5B_1 Pin=U3B-7
+Added Pin To Net: NetName=NetC12B_2 Pin=U3B-14
+Added Pin To Net: NetName=A3_OUT Pin=U3C-6
+Added Pin To Net: NetName=NetTP5C_1 Pin=U3C-7
+Added Pin To Net: NetName=NetC12C_2 Pin=U3C-14
+Added Pin To Net: NetName=A4_OUT Pin=U3D-6
+Added Pin To Net: NetName=NetTP5D_1 Pin=U3D-7
+Added Pin To Net: NetName=NetC12D_2 Pin=U3D-14
+Added Pin To Net: NetName=I_ADDR0_A Pin=J5-107
+Added Net: Name=I_ADDR0_A
+Added Pin To Net: NetName=I_ADDR0_B Pin=J5-109
+Added Net: Name=I_ADDR0_B
+Added Pin To Net: NetName=I_ADDR1 Pin=J5-111
+Added Net: Name=I_ADDR1
+Added Pin To Net: NetName=I_ADDR2 Pin=J5-113
+Added Net: Name=I_ADDR2
+Added Pin To Net: NetName=NetR8A_1 Pin=R8A-1
+Added Pin To Net: NetName=NetR8A_1 Pin=R8A-3
+Added Pin To Net: NetName=NetR8A_1 Pin=U7A-8
+Added Net: Name=NetR8A_1
+Added Pin To Net: NetName=NetR8B_1 Pin=R8B-1
+Added Pin To Net: NetName=NetR8B_1 Pin=R8B-3
+Added Pin To Net: NetName=NetR8B_1 Pin=U7B-8
+Added Net: Name=NetR8B_1
+Added Pin To Net: NetName=NetR8C_1 Pin=R8C-1
+Added Pin To Net: NetName=NetR8C_1 Pin=R8C-3
+Added Pin To Net: NetName=NetR8C_1 Pin=U7C-8
+Added Net: Name=NetR8C_1
+Added Pin To Net: NetName=NetR8D_1 Pin=R8D-1
+Added Pin To Net: NetName=NetR8D_1 Pin=R8D-3
+Added Pin To Net: NetName=NetR8D_1 Pin=U7D-8
+Added Net: Name=NetR8D_1
+Added Pin To Net: NetName=NetR18A_1 Pin=R18A-1
+Added Pin To Net: NetName=NetR18A_1 Pin=U7A-5
+Added Net: Name=NetR18A_1
+Added Pin To Net: NetName=NetR18B_1 Pin=R18B-1
+Added Pin To Net: NetName=NetR18B_1 Pin=U7B-5
+Added Net: Name=NetR18B_1
+Added Pin To Net: NetName=NetR18C_1 Pin=R18C-1
+Added Pin To Net: NetName=NetR18C_1 Pin=U7C-5
+Added Net: Name=NetR18C_1
+Added Pin To Net: NetName=NetR18D_1 Pin=R18D-1
+Added Pin To Net: NetName=NetR18D_1 Pin=U7D-5
+Added Net: Name=NetR18D_1
+Added Pin To Net: NetName=NetU3A_8 Pin=U3A-8
+Added Pin To Net: NetName=NetU3A_8 Pin=U3A-9
+Added Pin To Net: NetName=NetU3A_8 Pin=U3A-11
+Added Pin To Net: NetName=NetU3A_8 Pin=U5A-2
+Added Net: Name=NetU3A_8
+Added Pin To Net: NetName=NetU3B_8 Pin=U3B-8
+Added Pin To Net: NetName=NetU3B_8 Pin=U3B-9
+Added Pin To Net: NetName=NetU3B_8 Pin=U3B-11
+Added Pin To Net: NetName=NetU3B_8 Pin=U5B-2
+Added Net: Name=NetU3B_8
+Added Pin To Net: NetName=NetU3C_8 Pin=U3C-8
+Added Pin To Net: NetName=NetU3C_8 Pin=U3C-9
+Added Pin To Net: NetName=NetU3C_8 Pin=U3C-11
+Added Pin To Net: NetName=NetU3C_8 Pin=U5C-2
+Added Net: Name=NetU3C_8
+Added Pin To Net: NetName=NetU3D_8 Pin=U3D-8
+Added Pin To Net: NetName=NetU3D_8 Pin=U3D-9
+Added Pin To Net: NetName=NetU3D_8 Pin=U3D-11
+Added Pin To Net: NetName=NetU3D_8 Pin=U5D-2
+Added Net: Name=NetU3D_8
+Added Member To Class: ClassName=Analog Member=Component TP8 Test point
+Added Member To Class: ClassName=CH1 Member=Component TP9A (TP9) Test point
+Added Member To Class: ClassName=CH2 Member=Component TP9B (TP9) Test point
+Added Member To Class: ClassName=CH3 Member=Component TP9C (TP9) Test point
+Added Member To Class: ClassName=CH4 Member=Component TP9D (TP9) Test point
+Added Member To Class: ClassName=CPLD Member=Component TP11 Test point
+Added Member To Class: ClassName=CPLD Member=Component TP12 Test point
+Added Member To Class: ClassName=CPLD Member=Component TP13 Test point
+Added Member To Class: ClassName=CPLD Member=Component TP14 AGND
+Added Member To Class: ClassName=CPLD Member=Component TP15 AGND
+Added Member To Class: ClassName=CPLD Member=Component TP16 AGND
+Added Member To Class: ClassName=CPLD Member=Component TP17 AGND
+Added Member To Class: ClassName=CPLD Member=Component TP18 DGND
+Added Member To Class: ClassName=CPLD Member=Component TP25 +12V
+Added Member To Class: ClassName=CPLD Member=Component TP27 +5ANA
+Added Member To Class: ClassName=CPLD Member=Component TP28 +28V
+Added Member To Class: ClassName=CPLD Member=Component TP29 +3.3V
+Added Member To Class: ClassName=CPLD Member=Component TP30 -5ANA
+Added Member To Class: ClassName=CPLD Member=Component TP31 -12V

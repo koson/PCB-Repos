@@ -1,0 +1,4 @@
+Added Component: Designator=C13(SMD_CAP_6032)
+Added Pin To Net: NetName=AGND Pin=C13-NEG
+Added Pin To Net: NetName=VOD Pin=C13-POS
+Added Member To Class: ClassName=486 board Member=Component C13 35V
