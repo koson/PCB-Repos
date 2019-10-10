@@ -12,7 +12,7 @@
 	url = https://github.com/istarc/stm32.git
 [submodule "stm32/AltiumDesigner_PcbLibrary"]
 	path = stm32/AltiumDesigner_PcbLibrary
-	url = https://github.com/liquanqing/AltiumDesigner_PcbLibrary.git
+	url = https://github.com/KitSprout/AltiumDesigner_PcbLibrary.git
 
 [submodule "stm32/Tailsitter_Brain"]
 	path = stm32/Tailsitter_Brain
@@ -248,3 +248,9 @@
 [submodule "PCB-multi-layer/tvws_pcb_projects"]
 	path = PCB-multi-layer/tvws_pcb_projects
 	url = https://github.com/RyanEGuerra/tvws_pcb_projects
+[submodule "stm32/Rodent_v1.0"]
+	path = stm32/Rodent_v1.0
+	url = https://github.com/OskOnu/Rodent_v1.0.git
+[submodule "stm32/Kiwino"]
+	path = stm32/Kiwino
+	url = https://github.com/LoganHorowitz/Kiwino.git
