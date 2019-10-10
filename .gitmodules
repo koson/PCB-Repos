@@ -125,3 +125,9 @@
 [submodule "stm32/WPT_RX"]
 	path = stm32/WPT_RX
 	url = https://github.com/LoganHorowitz/WPT_RX.git
+[submodule "stm32/Rodent_v1.0"]
+	path = stm32/Rodent_v1.0
+	url = https://github.com/OskOnu/Rodent_v1.0.git
+[submodule "stm32/Kiwino"]
+	path = stm32/Kiwino
+	url = https://github.com/LoganHorowitz/Kiwino.git
