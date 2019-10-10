@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: 175-00029 rev4, 486 CCD Interface.GBR   10/27/2015  12:11:29 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer (*.GTL)                       
+.gbr                Internal Plane 1 (*.GP1)                
+.gbr                Mid-Layer 1  (*.G1)                     
+.gbr                Bottom Layer (*.GBL)                    
+.gbr                Bottom Paste                            
+.gbr                Mechanical 2                            
+.gbr                Mechanical 1                            
+.gbr                Mechanical 3                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

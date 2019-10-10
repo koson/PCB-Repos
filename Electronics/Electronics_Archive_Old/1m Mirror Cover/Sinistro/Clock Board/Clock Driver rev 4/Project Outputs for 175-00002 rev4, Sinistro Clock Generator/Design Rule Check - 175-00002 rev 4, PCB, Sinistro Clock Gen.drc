@@ -1,0 +1,134 @@
+Protel Design System Design Rule Check
+PCB File : \\Files\users\rlobdill\Altum Projects\Sinistro\Clock Board\Clock Driver rev 4\175-00002 rev 4, PCB, Sinistro Clock Gen.PcbDoc
+Date     : 1/2/2013
+Time     : 3:17:18 PM
+
+Processing Rule : Room CPLD board (Bounding Region = (21142.268mil, 15337.508mil, 27618mil, 19508mil) (InComponentClass('CPLD board'))
+Rule Violations :0
+
+Processing Rule : Room P3A (Bounding Region = (21513.118mil, 18145.925mil, 22556.425mil, 18618.307mil) (InComponentClass('P3A'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase7 (Bounding Region = (22398.945mil, 16964.822mil, 23117.449mil, 17437.263mil) (InComponentClass('SerialPhase7'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase11 (Bounding Region = (21513.118mil, 16393.956mil, 22231.622mil, 16866.397mil) (InComponentClass('SerialPhase11'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase6 (Bounding Region = (21513.118mil, 16964.822mil, 22231.622mil, 17437.263mil) (InComponentClass('SerialPhase6'))
+Rule Violations :0
+
+Processing Rule : Room TGA (Bounding Region = (23658.787mil, 18145.925mil, 24702.094mil, 18618.307mil) (InComponentClass('TGA'))
+Rule Violations :0
+
+Processing Rule : Room TGB (Bounding Region = (24731.622mil, 18145.925mil, 25774.929mil, 18618.307mil) (InComponentClass('TGB'))
+Rule Violations :0
+
+Processing Rule : Room P3B (Bounding Region = (22585.953mil, 18145.925mil, 23629.26mil, 18618.307mil) (InComponentClass('P3B'))
+Rule Violations :0
+
+Processing Rule : Room Reset Gate (Bounding Region = (25056.425mil, 17555.373mil, 25774.929mil, 18027.814mil) (InComponentClass('Reset Gate'))
+Rule Violations :0
+
+Processing Rule : Room PPhase1/22 (Bounding Region = (22398.945mil, 17555.373mil, 23117.449mil, 18027.814mil) (InComponentClass('PPhase1/22'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) ((HasFootprint('TQFP48_m') or HasFootprint('RM-8'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=15mil) (Preferred=15mil) ((InNet('-5ANA') OR InNet('+5ANA') OR InNet(A)or InNet('+24V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=50mil) ((InNet('+5') OR InNet('D')))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InComponent('Q1*'))or(InComponent('Q2*')) Or (InComponent('U13')) or (InComponent('U16'))or(InComponent('Q3')) or(InComponent('Q4'))or(InComponent('Q5'))or (InNet(E)))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Room RefAmps6 (Bounding Region = (25358mil, 18791mil, 25969mil, 19548mil) (InComponentClass('RefAmps6'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps2 (Bounding Region = (22209mil, 18791mil, 22819mil, 19548mil) (InComponentClass('RefAmps2'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps5 (Bounding Region = (24571mil, 18791mil, 25182mil, 19548mil) (InComponentClass('RefAmps5'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps1 (Bounding Region = (21357mil, 18791mil, 22032mil, 19548mil) (InComponentClass('RefAmps1'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps4 (Bounding Region = (23784mil, 18791mil, 24394mil, 19548mil) (InComponentClass('RefAmps4'))
+Rule Violations :0
+
+Processing Rule : Room PPhase1/21 (Bounding Region = (21513.118mil, 17555.373mil, 22231.622mil, 18027.814mil) (InComponentClass('PPhase1/21'))
+Rule Violations :0
+
+Processing Rule : Room PPhase1/23 (Bounding Region = (23284.772mil, 17555.373mil, 24003.275mil, 18027.814mil) (InComponentClass('PPhase1/23'))
+Rule Violations :0
+
+Processing Rule : Room PPhase1/24 (Bounding Region = (24170.598mil, 17555.373mil, 24889.102mil, 18027.814mil) (InComponentClass('PPhase1/24'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase9 (Bounding Region = (24170.598mil, 16964.822mil, 24889.102mil, 17437.263mil) (InComponentClass('SerialPhase9'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase10 (Bounding Region = (25056.425mil, 16964.822mil, 25774.929mil, 17437.263mil) (InComponentClass('SerialPhase10'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase12 (Bounding Region = (22398.945mil, 16393.956mil, 23117.449mil, 16866.397mil) (InComponentClass('SerialPhase12'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase13 (Bounding Region = (23284.772mil, 16393.956mil, 24003.276mil, 16866.397mil) (InComponentClass('SerialPhase13'))
+Rule Violations :0
+
+Processing Rule : Room Summing Gate (Bounding Region = (25056.425mil, 16393.956mil, 25774.929mil, 16866.397mil) (InComponentClass('Summing Gate'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase8 (Bounding Region = (23284.772mil, 16964.822mil, 24003.276mil, 17437.263mil) (InComponentClass('SerialPhase8'))
+Rule Violations :0
+
+Processing Rule : Room SerialPhase14 (Bounding Region = (24170.598mil, 16393.956mil, 24889.102mil, 16866.397mil) (InComponentClass('SerialPhase14'))
+Rule Violations :0
+
+Processing Rule : Room RefAmps3 (Bounding Region = (22996mil, 18791mil, 23607mil, 19548mil) (InComponentClass('RefAmps3'))
+Rule Violations :0
+
+Processing Rule : Room Bias Voltages (Bounding Region = (21380mil, 15795mil, 28476mil, 17453mil) (InComponentClass('Bias Voltages'))
+Rule Violations :0
+
+Processing Rule : Room Analog (Bounding Region = (26280mil, 18296mil, 27141mil, 19666mil) (InComponentClass('Analog'))
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:03

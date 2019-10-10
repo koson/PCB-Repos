@@ -1,0 +1,132 @@
+Release 13.1 ngdbuild O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Command Line:
+C:\Xilinx\13.1\SecondInstall\ISE_DS\ISE\bin\nt\unwrapped\NGDBuild.exe -p
+XCR3128XL-VQ100-10 -dd \\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo -aul -uc \\Files\users\rlobdill\Altum
+Projects\0.4 Lambert\ProjectOutputs\Lambert_CPLD\Point4_Lambert_PLD_Project.ucf
+-nt on -a point4_lambert_pld_project.edf point4_lambert_pld_project.ngd
+
+Executing edif2ngd -a -aul "point4_lambert_pld_project.edf"
+"\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\point4_lambert_pld_project.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Adding pads to all top level port signals...
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/point4_lambert_pld_project.ngo"...
+Reading NGO file "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/point4_lambert_pld_project.ngo" ...
+Executing edif2ngd -noa -aul "CDIV256.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\CDIV256.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/CDIV256.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\CDIV256.ngo"...
+Executing edif2ngd -noa -aul "AND2S.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\AND2S.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/AND2S.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\AND2S.ngo"...
+Executing edif2ngd -noa -aul "CB8CLEDB.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\CB8CLEDB.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/CB8CLEDB.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\CB8CLEDB.ngo"...
+Executing edif2ngd -noa -aul "XOR2S.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\XOR2S.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/XOR2S.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\XOR2S.ngo"...
+Executing edif2ngd -noa -aul "FD8B.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\FD8B.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/FD8B.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\FD8B.ngo"...
+Executing edif2ngd -noa -aul "OR2S.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\OR2S.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/OR2S.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\OR2S.ngo"...
+Executing edif2ngd -noa -aul "CDIV128DC50.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\CDIV128DC50.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/CDIV128DC50.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\CDIV128DC50.ngo"...
+Executing edif2ngd -noa -aul "FD2CS.edn" "\\files\users\rlobdill\altum
+projects\0.4 lambert\projectoutputs\lambert_cpld\_ngo\FD2CS.ngo"
+Release 13.1 - edif2ngd O.40d (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 13.1 edif2ngd O.40d (nt)
+INFO:NgdBuild - Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+Writing module to "//files/users/rlobdill/altum projects/0.4
+lambert/projectoutputs/lambert_cpld/_ngo/FD2CS.ngo"...
+Loading design module "\\files\users\rlobdill\altum projects\0.4
+lambert\projectoutputs\lambert_cpld\_ngo\FD2CS.ngo"...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "//Files/users/rlobdill/Altum
+Projects/0.4 Lambert/ProjectOutputs/Lambert_CPLD/Point4_Lambert_PLD_Project.ucf"
+...
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 79080 kilobytes
+
+Writing NGD file "point4_lambert_pld_project.ngd" ...
+Total REAL time to NGDBUILD completion:  15 sec
+Total CPU time to NGDBUILD completion:   2 sec
+
+Writing NGDBUILD log file "point4_lambert_pld_project.bld"...

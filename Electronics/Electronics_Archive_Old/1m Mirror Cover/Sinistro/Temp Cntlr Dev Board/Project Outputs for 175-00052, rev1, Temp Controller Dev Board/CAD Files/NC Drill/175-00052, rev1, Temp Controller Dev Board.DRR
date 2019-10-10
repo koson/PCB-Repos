@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00052, rev1, Temp Controller Dev Board.PcbDoc   10/1/2012  4:01:41 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00052, rev1, Temp Controller Dev Board-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        6mil (0.1524mm)          Round          29               1.84 Inch (46.69 mm)
+T2        10mil (0.254mm)          Round          290              50.93 Inch (1293.54 mm)
+T3        14mil (0.3556mm)         Round          20               1.90 Inch (48.19 mm)
+T4        24mil (0.6096mm)         Round          4                5.52 Inch (140.16 mm)
+T5        28mil (0.7112mm)         Round          4                0.72 Inch (18.30 mm)
+T6        30mil (0.762mm)          Round          8                3.75 Inch (95.22 mm)
+T7        33mil (0.8382mm)         Round          20               2.52 Inch (64.12 mm)
+T8        35mil (0.889mm)          Round          50               19.90 Inch (505.43 mm)
+T9        47mil (1.1938mm)         Round          2                0.20 Inch (5.00 mm)
+T10       52mil (1.3208mm)         Round          10               4.61 Inch (117.15 mm)
+T11       70mil (1.778mm)          Round          3                0.31 Inch (7.92 mm)
+T12       78mil (1.9812mm)         Round          7                3.75 Inch (95.25 mm)
+---------------------------------------------------------------------------
+Totals                                            447              95.94 Inch (2436.97 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

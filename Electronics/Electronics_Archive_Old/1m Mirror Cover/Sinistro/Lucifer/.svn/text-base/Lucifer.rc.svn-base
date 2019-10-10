@@ -1,0 +1,759 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MAIN_DIALOG DIALOGEX 0, 0, 598, 486
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | 
+    WS_VISIBLE | WS_CLIPSIBLINGS | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "LUCIFER"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "<name>",IDC_NAME,71,7,83,8
+    LTEXT           "Firmware:",IDC_STATIC,231,7,34,8
+    LTEXT           "Serial #:",IDC_STATIC,337,7,29,8
+    LTEXT           "<firmware>",IDC_FIRMWARE,269,7,45,8
+    LTEXT           "<serial>",IDC_SERIAL,367,7,45,8
+    PUSHBUTTON      "Snap",IDC_SNAP,7,260,49,18
+    CONTROL         "",IDC_BRIGHTNESS,"msctls_trackbar32",TBS_VERT | 
+                    TBS_BOTH | TBS_NOTICKS | WS_GROUP | WS_TABSTOP,19,41,13,
+                    45,WS_EX_STATICEDGE
+    CONTROL         "",IDC_CONTRAST,"msctls_trackbar32",TBS_VERT | TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,35,41,13,45,WS_EX_STATICEDGE
+    CTEXT           "%0",IDC_BRIGHTNESS_VALUE,15,87,18,8
+    CTEXT           "%0",IDC_CONTRAST_VALUE,31,87,18,8
+    ICON            IDI_BRIGHTNESS,IDC_BRIGHTNESS_TITLE,14,18,20,20
+    ICON            IDI_CONTRAST,IDC_CONTRAST_TITLE,31,18,20,20
+    PUSHBUTTON      "Save TIFF",IDC_SAVE_TIFF,7,326,49,14,BS_MULTILINE
+    CONTROL         "",IDC_IMAGE,"Static",SS_BLACKRECT | NOT WS_VISIBLE,70,
+                    19,521,464,WS_EX_CLIENTEDGE
+    CTEXT           "please wait...",IDC_WAITMSG,7,394,50,8
+    CONTROL         "",IDC_ANIMATION,"SysAnimate32",ACS_CENTER | 
+                    ACS_TRANSPARENT | NOT WS_VISIBLE,14,413,43,37
+    GROUPBOX        "",IDC_STATIC,7,404,57,52,NOT WS_VISIBLE
+    GROUPBOX        "Display",IDC_STATIC,7,7,52,96
+    PUSHBUTTON      "Save RAW",IDC_SAVE_RAW,7,344,49,14,BS_MULTILINE
+    LTEXT           "<version>",IDC_VERSION,162,7,47,8
+    GROUPBOX        "Cursor",IDC_STATIC,7,126,57,38,WS_GROUP | WS_TABSTOP
+    LTEXT           "x=%0\ny=%1\ni =%2",IDC_CURSORPOS,14,134,41,26
+    PUSHBUTTON      "Stop",IDC_STOP,7,281,48,18
+    PUSHBUTTON      "Edit\nSettings",IDC_EDIT_SETTINGS,7,225,50,25,
+                    BS_MULTILINE
+    PUSHBUTTON      "USB Device",IDC_USBDEV,7,364,49,13
+    LTEXT           "Ch %0",IDC_CHANNEL,15,108,30,11,SS_SUNKEN
+    CONTROL         "User1",IDC_CHANNEL_SPINNER,"AXSpinner32",0x0,44,108,8,
+                    12
+    LTEXT           "N=%0\nQ=0x%1\nW=%2\nH =%3",IDC_MODEPARAMS,15,179,41,37
+    GROUPBOX        "Mode",IDC_STATIC,7,168,57,52
+END
+
+IDD_ABOUT DIALOGEX 0, 0, 206, 152
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About..."
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,79,131,50,14
+    GROUPBOX        "Device",IDC_STATIC,105,40,94,82
+    LTEXT           "<name>",IDC_NAME,113,53,86,8
+    LTEXT           "<firmware>",IDC_FIRMWARE,161,63,36,8
+    LTEXT           "<serial>",IDC_SERIAL,163,74,36,8
+    LTEXT           "Firmware:",IDC_STATIC,111,63,48,8
+    LTEXT           "Serial #:",IDC_STATIC,113,74,48,8
+    GROUPBOX        "Software",IDC_STATIC,7,40,94,82
+    LTEXT           "<product>",IDC_PRODUCT,35,7,164,23
+    ICON            IDI_CAMERA,IDC_STATIC,7,7,20,20
+    LTEXT           "<application>",IDC_APP,13,53,82,16
+    LTEXT           "<driver>",IDC_DRIVER,13,73,82,16
+END
+
+IDD_SETTINGS DIALOGEX 0, 0, 345, 266
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Edit Camera Settings"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,293,7,45,14,WS_GROUP
+    PUSHBUTTON      "Cancel",IDCANCEL,293,23,45,14
+    CONTROL         "",IDC_TABCONTROL,"SysTabControl32",0x0,7,7,278,252
+    PUSHBUTTON      "Load...",IDC_LOAD,293,91,45,14
+    PUSHBUTTON      "Save...",IDC_SAVE,293,108,45,14
+    PUSHBUTTON      "Initialize",IDC_INITIALIZE,293,245,45,14
+END
+
+IDD_GENERAL_TAB DIALOGEX 0, 0, 248, 251
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CONTROL | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Serial (X):",IDC_STATIC,73,13,33,8
+    CONTROL         "User1",IDC_SPINNER_BINX,"AXSpinner32",0x0,127,10,8,12
+    CTEXT           "%0",IDC_BINX,109,10,17,11,SS_SUNKEN
+    EDITTEXT        IDC_AUTOSAVE_PATH,7,193,179,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_SETPATH,188,193,18,12
+    LTEXT           "Parallel (Y): ",IDC_STATIC,67,26,38,9
+    CONTROL         "User1",IDC_SPINNER_BINY,"AXSpinner32",0x0,127,23,8,12
+    CTEXT           "%0",IDC_BINY,109,24,17,11,SS_SUNKEN
+    LTEXT           "Exposure\nTime [mS]",IDC_STATIC,155,10,37,18
+    EDITTEXT        IDC_EXPOSURE,191,15,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_EXPOSURE,"AXSpinner32",0x0,231,15,8,
+                    12
+    LTEXT           "Shutter\nDelay [mS]",IDC_STATIC,155,29,37,19
+    EDITTEXT        IDC_DELAYMS,191,32,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_DELAYMS,"AXSpinner32",0x0,231,32,8,
+                    12
+    EDITTEXT        IDC_LOOPS,161,151,36,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_LOOPS,"AXSpinner32",0x0,197,151,8,12
+    LTEXT           "X(min):",IDC_STATIC,9,65,24,9
+    EDITTEXT        IDC_XMIN1,33,63,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_XMIN1,"AXSpinner32",0x0,64,63,8,12
+    LTEXT           "X(max):",IDC_STATIC,75,65,27,9
+    EDITTEXT        IDC_XMAX1,103,63,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_XMAX1,"AXSpinner32",0x0,134,63,8,12
+    LTEXT           "Y(min):",IDC_STATIC,9,79,23,9
+    EDITTEXT        IDC_YMIN1,33,76,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_YMIN1,"AXSpinner32",0x0,64,78,8,12
+    LTEXT           "Y(max):",IDC_STATIC,75,79,26,9
+    EDITTEXT        IDC_YMAX1,103,76,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_YMAX1,"AXSpinner32",0x0,134,78,8,12
+    GROUPBOX        "ROI #1",IDC_STATIC,2,54,148,41
+    GROUPBOX        "",IDC_STATIC,2,178,243,32,0,WS_EX_TRANSPARENT
+    LTEXT           "X(min):",IDC_STATIC,10,108,24,9
+    EDITTEXT        IDC_XMIN2,34,106,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_XMIN2,"AXSpinner32",0x0,64,106,8,12
+    LTEXT           "X(max):",IDC_STATIC,76,108,27,9
+    EDITTEXT        IDC_XMAX2,104,106,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_XMAX2,"AXSpinner32",0x0,134,106,8,12
+    LTEXT           "Y(min):",IDC_STATIC,10,122,23,9
+    EDITTEXT        IDC_YMIN2,34,119,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_YMIN2,"AXSpinner32",0x0,64,119,8,12
+    LTEXT           "Y(max):",IDC_STATIC,76,122,26,9
+    EDITTEXT        IDC_YMAX2,104,119,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_YMAX2,"AXSpinner32",0x0,134,119,8,12
+    GROUPBOX        "ROI #2",IDC_STATIC,2,95,148,41
+    LTEXT           "X(min):",IDC_STATIC,10,148,24,9
+    EDITTEXT        IDC_XMIN3,34,148,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_XMIN3,"AXSpinner32",0x0,64,148,8,12
+    LTEXT           "X(max):",IDC_STATIC,76,148,27,9
+    EDITTEXT        IDC_XMAX3,104,148,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_XMAX3,"AXSpinner32",0x0,134,148,8,12
+    LTEXT           "Y(min):",IDC_STATIC,10,164,23,9
+    EDITTEXT        IDC_YMIN3,34,161,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_YMIN3,"AXSpinner32",0x0,64,161,8,12
+    LTEXT           "Y(max):",IDC_STATIC,76,164,26,9
+    EDITTEXT        IDC_YMAX3,104,161,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_YMAX3,"AXSpinner32",0x0,134,161,8,12
+    GROUPBOX        "ROI #3",IDC_STATIC,2,137,148,41
+    CONTROL         "Enabled",IDC_ROI2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    34,95,41,10
+    CONTROL         "Enabled",IDC_ROI3,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    34,137,41,10
+    CONTROL         "Enabled",IDC_ROI1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    34,52,41,10
+    GROUPBOX        "Binning",IDC_STATIC,63,0,80,39
+    GROUPBOX        "Timing",IDC_STATIC,149,0,96,50
+    CONTROL         "Video ON",IDC_VIDEO,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,165,170,46,10,WS_EX_RIGHT
+    EDITTEXT        IDC_RMODE,17,12,21,13,ES_CENTER | ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_RMODE,"AXSpinner32",0x0,37,12,8,12
+    GROUPBOX        "Readout Mode",IDC_STATIC,2,0,58,39
+    GROUPBOX        "Loop n-times",IDC_STATIC,155,141,58,27
+    CONTROL         "Auto-save images",IDC_AUTOSAVE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,9,182,73,10
+    CONTROL         "TDI",IDC_TDI,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,18,
+                    26,27,10,WS_EX_RIGHT
+    EDITTEXT        IDC_PRESCAN,105,42,19,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_PRESCAN,"AXSpinner32",0x0,123,42,8,
+                    12
+    CONTROL         "No Flush",IDC_FLUSH_NONE,"Button",BS_AUTORADIOBUTTON,
+                    160,66,48,8
+    CONTROL         "Flush",IDC_FLUSH,"Button",BS_AUTORADIOBUTTON | 
+                    WS_DISABLED,160,78,43,8
+    GROUPBOX        "Flush 1st Row",IDC_STATIC,155,55,56,47
+    LTEXT           "Prescan Columns:",IDC_STATIC,43,42,58,8
+    CONTROL         "Y-Flip",IDC_FLIPY,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    161,89,32,10
+END
+
+IDD_CLK_TAB DIALOGEX 0, 0, 282, 231
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CONTROL | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "HIGH",IDC_STATIC,157,18,20,8
+    EDITTEXT        IDC_S13H,178,17,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_S13H,"AXSpinner32",0x0,218,16,8,12
+    LTEXT           "LOW",IDC_STATIC,158,31,20,8
+    EDITTEXT        IDC_S13L,178,29,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_S13L,"AXSpinner32",0x0,218,29,8,12
+    GROUPBOX        "S1,S2,S3",IDC_STATIC,149,7,118,38
+    LTEXT           "HIGH",IDC_STATIC,157,57,20,8
+    EDITTEXT        IDC_P12H,178,56,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_P12H,"AXSpinner32",0x0,218,55,8,12
+    LTEXT           "LOW",IDC_STATIC,158,70,20,8
+    EDITTEXT        IDC_P12L,178,68,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_P12L,"AXSpinner32",0x0,218,68,8,12
+    GROUPBOX        "P1,P2",IDC_STATIC,149,46,119,38
+    LTEXT           "HIGH",IDC_STATIC,157,96,20,8
+    EDITTEXT        IDC_P3H,177,95,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_P3H,"AXSpinner32",0x0,218,94,8,12
+    LTEXT           "LOW",IDC_STATIC,158,109,20,8
+    EDITTEXT        IDC_P3L,178,107,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_P3L,"AXSpinner32",0x0,218,107,8,12
+    GROUPBOX        "P3",IDC_STATIC,149,85,119,38
+    LTEXT           "HIGH",IDC_STATIC,157,137,20,8
+    EDITTEXT        IDC_RGH,178,136,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_RGH,"AXSpinner32",0x0,218,135,8,12
+    LTEXT           "LOW",IDC_STATIC,158,150,20,8
+    EDITTEXT        IDC_RGL,178,148,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_RGL,"AXSpinner32",0x0,218,148,8,12
+    GROUPBOX        "RG",IDC_STATIC,149,126,119,38
+    LTEXT           "HIGH",IDC_STATIC,157,176,20,8
+    EDITTEXT        IDC_TGH,178,175,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TGH,"AXSpinner32",0x0,218,174,8,12
+    LTEXT           "LOW",IDC_STATIC,158,189,20,8
+    EDITTEXT        IDC_TGL,178,187,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TGL,"AXSpinner32",0x0,218,187,8,12
+    GROUPBOX        "TG",IDC_STATIC,149,165,120,38
+    LTEXT           "HIGH",IDC_STATIC,23,175,20,8
+    EDITTEXT        IDC_SGH,43,173,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_SGH,"AXSpinner32",0x0,84,173,8,12
+    LTEXT           "LOW",IDC_STATIC,24,188,20,8
+    EDITTEXT        IDC_SGL,44,186,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_SGL,"AXSpinner32",0x0,84,186,8,12
+    GROUPBOX        "SG",IDC_STATIC,17,163,123,38
+    LTEXT           "VOD (V)",IDC_STATIC,14,58,26,8
+    EDITTEXT        IDC_VOD,42,57,35,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_VOD,"AXSpinner32",0x0,78,58,8,12
+    LTEXT           "VRD (V)",IDC_STATIC,15,71,25,8
+    EDITTEXT        IDC_VRD,42,70,35,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_VRD,"AXSpinner32",0x0,78,71,8,12
+    GROUPBOX        "DC BIAS Voltages",IDC_STATIC,7,46,135,94
+    LTEXT           "VOG (V)",IDC_STATIC,16,84,25,8
+    EDITTEXT        IDC_VOG,42,83,35,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_VOG,"AXSpinner32",0x0,78,84,8,12
+    LTEXT           "VDD (V)",IDC_STATIC,14,97,27,8
+    EDITTEXT        IDC_VDD,42,96,35,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_VDD,"AXSpinner32",0x0,78,97,8,12
+    CONTROL         "OFF",IDC_BIAS_ON,"Button",BS_AUTOCHECKBOX | BS_PUSHLIKE | 
+                    WS_TABSTOP,17,115,67,18
+    CTEXT           "Temperature (C): %0",IDC_CLOCK_TEMPERATURE,75,7,63,16
+    CONTROL         "User1",IDC_SPINNER_CLKNUM,"AXSpinner32",0x0,41,17,8,12
+    GROUPBOX        "CLK Board#",IDC_STATIC,7,7,52,29
+    CTEXT           "%0",IDC_MON_VOD,87,57,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    CTEXT           "%0",IDC_MON_VRD,87,70,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    CTEXT           "%0",IDC_MON_VOG,87,83,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    CTEXT           "%0",IDC_MON_VDD,87,96,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    CTEXT           "%0",IDC_MON_S13H,228,16,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_S13L,228,29,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_P12H,228,55,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_P12L,228,68,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_RGH,228,135,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_RGL,228,148,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_TGH,228,174,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_TGL,228,187,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_MON_SGH,93,173,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    CTEXT           "%0",IDC_MON_SGL,93,186,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    CTEXT           "%0",IDC_MON_P3H,228,94,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    CTEXT           "%0",IDC_MON_P3L,228,107,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    CTEXT           "%0",IDC_CLKNUM,21,17,19,12,SS_SUNKEN
+    PUSHBUTTON      "Get",IDC_CLK_GET_BN,101,25,26,13
+    CONTROL         "Poll",IDC_POLL_CLK,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,74,25,26,13
+    PUSHBUTTON      "SET",IDC_CLK_SET_BN,219,205,44,13
+END
+
+IDD_ASP_TAB DIALOGEX 0, 0, 245, 152
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CONTROL | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    GROUPBOX        "ASP Board#",IDC_STATIC,4,1,56,29
+    CTEXT           "Temperature (C)\n%0",IDC_ASP_TEMPERATURE,183,10,58,19
+    GROUPBOX        "Hardware Gain",IDC_STATIC,4,33,57,25
+    CONTROL         "x1",IDC_GAIN_X1,"Button",BS_AUTORADIOBUTTON,10,44,22,8
+    CONTROL         "x4",IDC_GAIN_X4,"Button",BS_AUTORADIOBUTTON,35,44,22,8
+    CONTROL         "Reset Blanking",IDC_RESET_BLANK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,4,59,60,10,WS_EX_RIGHT
+    LTEXT           "Offset 1 (DN)",IDC_STATIC,77,47,44,8
+    EDITTEXT        IDC_ADJ1,121,45,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_ADJ1,"AXSpinner32",0x0,161,45,8,12
+    GROUPBOX        "Analog Channels",IDC_STATIC,69,34,103,85
+    CTEXT           "%0",IDC_MON_ADJ1,190,58,43,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    LTEXT           "Offset 2 (DN)",IDC_STATIC,77,61,44,8
+    LTEXT           "Offset 3 (DN)",IDC_STATIC,77,74,44,8
+    LTEXT           "Offset 4 (DN)",IDC_STATIC,77,87,44,8
+    EDITTEXT        IDC_ADJ2,121,58,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_ADJ2,"AXSpinner32",0x0,161,58,8,12
+    CTEXT           "%0",IDC_MON_ADJ2,190,71,43,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    EDITTEXT        IDC_ADJ3,121,71,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_ADJ3,"AXSpinner32",0x0,161,71,8,12
+    CTEXT           "%0",IDC_MON_ADJ3,190,84,43,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    EDITTEXT        IDC_ADJ4,121,85,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_ADJ4,"AXSpinner32",0x0,161,85,8,12
+    CTEXT           "%0",IDC_MON_ADJ4,190,98,43,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    GROUPBOX        "DC Levels [V]",IDC_STATIC,183,46,58,73
+    CONTROL         "User1",IDC_SPINNER_JJ,"AXSpinner32",0x0,51,87,8,12
+    GROUPBOX        "JJ factor",IDC_STATIC,4,76,59,29
+    EDITTEXT        IDC_JJ,11,87,39,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_ASPNUM,"AXSpinner32",0x0,34,12,8,12
+    LTEXT           "%0",IDC_ASPNUM,17,13,17,11,SS_SUNKEN
+    CONTROL         "4",IDC_ASP4,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,147,
+                    15,20,10
+    CONTROL         "3",IDC_ASP3,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,123,
+                    15,20,10
+    CONTROL         "2",IDC_ASP2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,99,15,
+                    20,10
+    CONTROL         "1",IDC_ASP1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,75,15,
+                    20,10
+    GROUPBOX        "Enabled ASP boards",IDC_STATIC,69,2,103,28
+    PUSHBUTTON      "Set",IDC_ASP_SET_BN,122,99,38,12
+    PUSHBUTTON      "Get",IDC_ASP_GET_BN,217,29,24,13
+    CONTROL         "Poll",IDC_POLL_ASP,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,188,29,28,13
+END
+
+IDD_CLK_TIMING_TAB DIALOGEX 0, 0, 249, 226
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CONTROL | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "ts1",IDC_STATIC,29,16,16,8
+    EDITTEXT        IDC_TS1,49,15,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TS1,"AXSpinner32",0x0,88,15,8,12
+    LTEXT           "ts2",IDC_STATIC,29,29,16,8
+    EDITTEXT        IDC_TS2,49,28,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TS2,"AXSpinner32",0x0,88,28,8,12
+    LTEXT           "ts3",IDC_STATIC,29,42,16,8
+    EDITTEXT        IDC_TS3,49,41,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TS3,"AXSpinner32",0x0,88,41,8,12
+    LTEXT           "ts4",IDC_STATIC,29,55,16,8
+    EDITTEXT        IDC_TS4,49,54,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TS4,"AXSpinner32",0x0,88,54,8,12
+    LTEXT           "ts5",IDC_STATIC,29,68,16,8
+    EDITTEXT        IDC_TS5,49,67,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TS5,"AXSpinner32",0x0,88,67,8,12
+    LTEXT           "ts6",IDC_STATIC,29,81,16,8
+    EDITTEXT        IDC_TS6,49,80,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TS6,"AXSpinner32",0x0,88,80,8,12
+    LTEXT           "ts7",IDC_STATIC,29,94,16,8
+    EDITTEXT        IDC_TS7,49,93,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TS7,"AXSpinner32",0x0,88,93,8,12
+    LTEXT           "tADC",IDC_STATIC,28,121,20,8
+    EDITTEXT        IDC_TADC,49,119,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TADC,"AXSpinner32",0x0,88,119,8,12
+    LTEXT           "tSG",IDC_STATIC,29,107,16,8
+    EDITTEXT        IDC_TSG,49,106,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TSG,"AXSpinner32",0x0,88,106,8,12
+    LTEXT           "tp1",IDC_STATIC,131,26,16,8
+    EDITTEXT        IDC_TP1,149,25,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TP1,"AXSpinner32",0x0,189,25,8,12
+    LTEXT           "tp2",IDC_STATIC,131,41,16,8
+    EDITTEXT        IDC_TP2,149,39,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TP2,"AXSpinner32",0x0,189,39,8,12
+    LTEXT           "tp3",IDC_STATIC,131,54,16,8
+    EDITTEXT        IDC_TP3,149,54,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TP3,"AXSpinner32",0x0,189,54,8,12
+    LTEXT           "tp4",IDC_STATIC,131,70,16,8
+    EDITTEXT        IDC_TP4,149,68,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TP4,"AXSpinner32",0x0,189,68,8,12
+    LTEXT           "tp5",IDC_STATIC,131,82,16,8
+    EDITTEXT        IDC_TP5,149,81,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TP5,"AXSpinner32",0x0,189,81,8,12
+    LTEXT           "tp6",IDC_STATIC,131,97,16,8
+    EDITTEXT        IDC_TP6,149,95,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TP6,"AXSpinner32",0x0,189,95,8,12
+    LTEXT           "tp7",IDC_STATIC,131,110,16,8
+    EDITTEXT        IDC_TP7,149,110,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TP7,"AXSpinner32",0x0,189,110,8,12
+    LTEXT           "tMPP",IDC_STATIC,131,126,16,8
+    EDITTEXT        IDC_TMPP,149,124,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TMPP,"AXSpinner32",0x0,189,124,8,12
+    GROUPBOX        "Serial Timing [us]",IDC_SERIAL_TIMING,4,1,102,164
+    GROUPBOX        "Parallel Timing [us]",IDC_SERIAL_TIMING2,121,9,95,154
+    LTEXT           "tTDI [ms]",IDC_STATIC,125,146,31,8
+    EDITTEXT        IDC_TTDI,159,143,40,12,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_TTDI,"AXSpinner32",0x0,197,143,8,12
+    LTEXT           "ADC reads\nper pixel",IDC_STATIC,19,142,36,19
+    EDITTEXT        IDC_ADCREADS,57,143,30,13,ES_AUTOHSCROLL
+    CONTROL         "User1",IDC_SPINNER_ADCREADS,"AXSpinner32",0x0,87,143,8,
+                    12
+END
+
+IDD_POWER_TAB DIALOGEX 0, 0, 248, 163
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CONTROL | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "+5V",IDC_STATIC,59,29,16,8
+    GROUPBOX        "Supply Voltage [volt]",IDC_STATIC,53,15,76,107
+    CONTROL         "OFF",IDC_BIAS_ON,"Button",BS_AUTOCHECKBOX | BS_PUSHLIKE | 
+                    WS_TABSTOP,97,128,67,18
+    CTEXT           "%0",IDC_MON_P5V,79,27,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "-5V",IDC_STATIC,59,43,16,8
+    CTEXT           "%0",IDC_MON_M5V,79,41,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "+3.3V",IDC_STATIC,59,57,16,8
+    CTEXT           "%0",IDC_MON_P3V,79,55,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "+12V",IDC_STATIC,59,71,18,8
+    CTEXT           "%0",IDC_MON_P12V,79,69,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "-12V",IDC_STATIC,59,85,16,8
+    CTEXT           "%0",IDC_MON_M12V,79,83,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "+28V",IDC_STATIC,59,100,19,8
+    CTEXT           "%0",IDC_MON_P28V,79,97,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "+5V",IDC_STATIC,139,29,16,8
+    GROUPBOX        "Supply Current [A]",IDC_STATIC,133,15,76,107
+    CTEXT           "%0",IDC_MON_P5A,159,27,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "-5V",IDC_STATIC,139,43,16,8
+    CTEXT           "%0",IDC_MON_M5A,159,41,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "+3.3V",IDC_STATIC,139,57,16,8
+    CTEXT           "%0",IDC_MON_P3A,159,55,35,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "+12V",IDC_STATIC,139,71,18,8
+    CTEXT           "%0",IDC_MON_P12A,159,69,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    LTEXT           "-12V",IDC_STATIC,139,85,16,8
+    CTEXT           "%0",IDC_MON_M12A,159,83,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+    LTEXT           "+28V",IDC_STATIC,139,100,19,8
+    CTEXT           "%0",IDC_MON_P28A,159,97,35,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_MAIN_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 591
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 483
+    END
+
+    IDD_ABOUT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 199
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 145
+    END
+
+    IDD_SETTINGS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 338
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 259
+    END
+
+    IDD_GENERAL_TAB, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 245
+        BOTTOMMARGIN, 248
+    END
+
+    IDD_CLK_TAB, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 276
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 226
+    END
+
+    IDD_ASP_TAB, DIALOG
+    BEGIN
+        LEFTMARGIN, 4
+        RIGHTMARGIN, 241
+        BOTTOMMARGIN, 148
+    END
+
+    IDD_CLK_TIMING_TAB, DIALOG
+    BEGIN
+        LEFTMARGIN, 4
+        RIGHTMARGIN, 244
+        TOPMARGIN, 1
+        BOTTOMMARGIN, 221
+    END
+
+    IDD_POWER_TAB, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 238
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 156
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_CAMERA              ICON                    "Luci.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AVI
+//
+
+IDR_BUSY                AVI                     "FINDCOMP.AVI"
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (Australia) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENA)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_AUS
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_CHOOSE_DEVICE DIALOGEX 0, 0, 374, 134
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Choose Device"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,320,4,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,320,22,50,14
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | 
+                    WS_TABSTOP,4,4,312,126,WS_EX_CLIENTEDGE
+    LTEXT           "Please wait...",IDC_WAIT_MSG,322,43,48,8
+END
+
+IDD_USB2DEV_DIALOG DIALOGEX 0, 0, 403, 185
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "USB Device Commands"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    GROUPBOX        "Device Info",IDC_STATIC,3,77,101,70
+    GROUPBOX        "EEPROM",IDC_STATIC,110,79,289,49
+    EDITTEXT        IDC_EEPROM_BYTES,140,93,28,12,ES_AUTOHSCROLL
+    LTEXT           "Bytes:",IDC_STATIC,116,95,20,8
+    EDITTEXT        IDC_EEPROM_DATA,115,109,279,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Read",IDC_EEPROM_READ,245,92,39,14
+    PUSHBUTTON      "Write",IDC_EEPROM_WRITE,286,92,33,14
+    GROUPBOX        "Bulk Pipes",IDC_STATIC,110,133,289,49
+    EDITTEXT        IDC_BULK_BYTES,140,147,41,12,ES_AUTOHSCROLL
+    LTEXT           "Bytes:",IDC_STATIC,116,149,20,8
+    EDITTEXT        IDC_BULK_DATA,115,163,279,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Read",IDC_BULK_READ,185,146,50,14
+    GROUPBOX        "Vendor Request",IDC_STATIC,3,3,396,71
+    EDITTEXT        IDC_VR_BYTES,47,33,33,12,ES_AUTOHSCROLL
+    LTEXT           "Bytes:",IDC_STATIC,25,35,20,8
+    EDITTEXT        IDC_VR_DATA,8,52,383,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Read",IDC_VR_READ,97,32,50,14
+    PUSHBUTTON      "Write",IDC_VR_WRITE,157,32,50,14
+    EDITTEXT        IDC_VR_REQUEST,47,16,20,13,ES_AUTOHSCROLL
+    LTEXT           "Code: 0x",IDC_STATIC,17,18,29,8
+    EDITTEXT        IDC_VR_VALUE,74,16,32,12,ES_AUTOHSCROLL
+    LTEXT           "Value (hex)",IDC_STATIC,72,8,36,8
+    EDITTEXT        IDC_VR_INDEX,111,16,33,12,ES_AUTOHSCROLL
+    LTEXT           "Index (dec)",IDC_STATIC,111,8,36,8
+    EDITTEXT        IDC_VR_TIMEOUT,260,16,37,12,ES_AUTOHSCROLL
+    LTEXT           "Timeout:",IDC_STATIC,230,18,28,8
+    EDITTEXT        IDC_EEPROM_START,211,92,28,12,ES_AUTOHSCROLL
+    LTEXT           "Offset: 0x",IDC_STATIC,180,95,31,8
+    PUSHBUTTON      "Reset",IDC_RESET,5,151,46,14
+    PUSHBUTTON      "Download",IDC_DOWNLOAD_EEPROM,328,91,64,14
+    LTEXT           "Vendor id:\nProduct id:\nFirmware:\nSerial:",IDC_STATIC,
+                    8,103,36,34
+    CTEXT           "<name>",IDC_NAME,6,87,95,8
+    LTEXT           "%0\n%1\n%2\n%3",IDC_INFO,45,102,52,35
+    CONTROL         "",IDC_PROGRESS,"msctls_progress32",NOT WS_VISIBLE,5,171,
+                    101,10
+    PUSHBUTTON      "Reload",IDC_RELOAD,53,151,48,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_CHOOSE_DEVICE, DIALOG
+    BEGIN
+        LEFTMARGIN, 4
+        RIGHTMARGIN, 370
+        TOPMARGIN, 4
+        BOTTOMMARGIN, 130
+    END
+
+    IDD_USB2DEV_DIALOG, DIALOG
+    BEGIN
+        RIGHTMARGIN, 399
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_CAMERA              ICON                    "Luci.ico"
+IDI_CONTRAST            ICON                    "Contrast.ico"
+IDI_BRIGHTNESS          ICON                    "Brightness.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "LCOGT"
+            VALUE "FileDescription", "Low-level User Command Interface for Sinistro USB Camera"
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "Lucifer"
+            VALUE "LegalCopyright", "Copyright © 2009 LCOGT"
+            VALUE "OriginalFilename", "Lucifer.exe"
+            VALUE "ProductName", "Sinistro USB Camera"
+            VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// RT_MANIFEST
+//
+
+IDR_MANIFEST            RT_MANIFEST             "Lucifer.exe.manifest"
+#endif    // English (Australia) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif
+#include "afxres.rc"         // Standard components
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

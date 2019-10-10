@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Point4_Lambert.PcbDoc   10/22/2009  3:10:37 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : Point4_Lambert-Plated.TXT
+EIA File   : Point4_Lambert.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          407              76.27 Inch (1937.36 mm)
+T2        13mil (0.3302mm)         Round          3                1.04 Inch (26.46 mm)
+T3        16mil (0.4064mm)         Round          9                0.40 Inch (10.15 mm)
+T4        24mil (0.6096mm)         Round          2                0.75 Inch (19.00 mm)
+T5        28mil (0.7112mm)         Round          2                0.20 Inch (5.08 mm)
+T6        30mil (0.762mm)          Round          7                0.86 Inch (21.87 mm)
+T7        35mil (0.889mm)          Round          49               9.51 Inch (241.64 mm)
+T8        36mil (0.9144mm)         Round          4                0.30 Inch (7.50 mm)
+T9        39mil (0.9906mm)         Round          2                0.75 Inch (19.00 mm)
+T10       40mil (1.016mm)          Round          10               1.50 Inch (38.10 mm)
+T11       47mil (1.1938mm)         Round          12               1.65 Inch (41.91 mm)
+T12       51mil (1.2954mm)         Round          15               3.08 Inch (78.29 mm)
+T13       70mil (1.778mm)          Round          2                0.81 Inch (20.57 mm)
+T14       83mil (2.1082mm)         Round          6                2.20 Inch (55.80 mm)
+T15       91mil (2.3114mm)         Round          2                0.47 Inch (12.04 mm)
+T16       110mil (2.794mm)         Round          6                2.20 Inch (55.80 mm)
+T17       120mil (3.048mm)         Round          2                0.98 Inch (24.89 mm)
+T18       127mil (3.2258mm)        Round          2                0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            542              103.42 Inch (2626.90 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

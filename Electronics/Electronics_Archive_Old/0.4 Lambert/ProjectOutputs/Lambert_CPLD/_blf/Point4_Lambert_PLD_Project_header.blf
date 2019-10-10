@@ -1,0 +1,72 @@
+.model Point4_Lambert_PLD_Project
+.attrib fpga_clock_pin 1 True
+.attrib fpga_pinnum 1 P87
+.inputs CLK_20MHZ
+.attrib fpga_pinnum 1 P47
+.inputs DC_DIRECTION
+.attrib fpga_pinnum 1 P25
+.inputs DEC_AXIS_OK
+.attrib fpga_pinnum 1 P70
+.inputs DEPLOYED_1
+.attrib fpga_pinnum 1 P76
+.outputs IN1
+.attrib fpga_pinnum 1 P77
+.outputs IN2
+.attrib fpga_pinnum 1 P94
+.outputs IR_STRIP
+.attrib fpga_pinnum 1 P99
+.inputs LIGHTBARMINUS
+.attrib fpga_pinnum 1 P45
+.outputs OK_TO_MOVE
+.attrib fpga_pinnum 1 P52
+.inputs PWM_D<7>
+.attrib fpga_pinnum 1 P49
+.inputs PWM_D<6>
+.attrib fpga_pinnum 1 P53
+.inputs PWM_D<5>
+.attrib fpga_pinnum 1 P54
+.inputs PWM_D<4>
+.attrib fpga_pinnum 1 P55
+.inputs PWM_D<3>
+.attrib fpga_pinnum 1 P58
+.inputs PWM_D<2>
+.attrib fpga_pinnum 1 P57
+.inputs PWM_D<1>
+.attrib fpga_pinnum 1 P60
+.inputs PWM_D<0>
+.attrib fpga_pinnum 1 P69
+.inputs PWM_IR_LOAD
+.attrib fpga_pinnum 1 P85
+.outputs PWM_IR_OUT
+.attrib fpga_pinnum 1 P65
+.inputs PWM_UV_LOAD
+.attrib fpga_pinnum 1 P78
+.outputs PWM_UV_OUT
+.attrib fpga_pinnum 1 P61
+.inputs PWM_WHT_LOAD
+.attrib fpga_pinnum 1 P100
+.outputs PWM_WHT_OUT
+.attrib fpga_pinnum 1 P64
+.inputs STOWED_1
+.attrib fpga_pinnum 1 p62
+.inputs TCK
+.attrib fpga_pinnum 1 P4
+.inputs TDI
+.attrib fpga_pinnum 1 P73
+.inputs TDO_PLD
+.attrib fpga_pinnum 1 P15
+.inputs TMS
+.attrib fpga_pinnum 1 P63
+.inputs UV_STRIP
+.attrib fpga_pinnum 1 P46
+.inputs X_DC_START
+.attrib fpga_pinnum 1 P75
+.outputs X_HOME
+.attrib fpga_pinnum 1 P56
+.inputs X_PWM_IR_EN
+.attrib fpga_pinnum 1 P48
+.inputs X_PWM_UV_EN
+.attrib fpga_pinnum 1 P50
+.inputs X_PWM_WHT_EN
+.attrib fpga_pinnum 1 P31
+.inputs X_RA_AXIS_OK

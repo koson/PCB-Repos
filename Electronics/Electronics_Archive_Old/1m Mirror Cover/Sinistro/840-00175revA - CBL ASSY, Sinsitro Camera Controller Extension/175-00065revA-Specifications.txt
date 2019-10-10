@@ -1,0 +1,53 @@
+Fabrication tolerances
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+
+
+Text " ALL EXPOSED HOLES AND CONDUCTIVE SURFACES SHALL BE COATED" (-12091.126mil,-991.562mil) on Mechanical 2
+Text "0.002" FROM THE 1:1 DIMENSIONS OF THE MASTER ARTWORK." (-12091.126mil,1003.488mil) on Mechanical 2
+Text "10)" (-12346.126mil,253.438mil) on Mechanical 2
+Text "11)" (-12336.126mil,103.438mil) on Mechanical 2
+Text "12)" (-12346.126mil,-296.562mil) on Mechanical 2
+Text "13)" (-12346.126mil,-446.562mil) on Mechanical 2
+Text "14)" (-12346.126mil,-841.562mil) on Mechanical 2
+Text "15)" (-12346.126mil,-991.562mil) on Mechanical 2
+Text "16)" (-12341.126mil,-1536.562mil) on Mechanical 2
+Text "17)" (-12346.126mil,-1686.562mil) on Mechanical 2
+Text "18)" (-12346.126mil,-2231.562mil) on Mechanical 2
+Text "19)" (-12346.126mil,-2381.562mil) on Mechanical 2
+Text "20)" (-12356.126mil,-2681.562mil) on Mechanical 2
+Text "21)" (-12346.126mil,-3226.562mil) on Mechanical 2
+Text "6)" (-12291.126mil,1153.438mil) on Mechanical 2
+Text "7)" (-12291.126mil,853.438mil) on Mechanical 2
+Text "8)" (-12291.126mil,553.438mil) on Mechanical 2
+Text "9)" (-12291.126mil,403.438mil) on Mechanical 2
+Text "ALL BOARDS SHALL BE ELECTRICALLY TESTED TO THE SUPPLIED IPC-D-356A NET LIST" (-12091.126mil,-3226.562mil) on Mechanical 2
+Text "ALL DRILL HOLE SIZES AND TOLERANCES APPLY AFTER PLATING." (-12091.126mil,553.438mil) on Mechanical 2
+Text "ALL HOLES AND CONDUCTIVE SURFACES SHALL BE PLATED WITH A MINIMUM OF 0.001" COPPER." (-12091.126mil,-841.562mil) on Mechanical 2
+Text "BASE LAMINATE: POLYIMIDE" (-12091.535mil,-285.433mil) on Mechanical 2
+Text "BOW AND TWIST SHALL NOT EXCEED 0.010" PER INCH." (-12091.126mil,253.438mil) on Mechanical 2
+Text "COATINGS" (-12391.126mil,-1341.512mil) on Mechanical 2
+Text "ELECTRICAL TESTING" (-12391.126mil,-3031.512mil) on Mechanical 2
+Text "END PRODUCT CONDUCTOR WIDTHS AND PAD DIAMETERS SHALL NOT VARY MORE THAN" (-12091.126mil,1153.438mil) on Mechanical 2
+Text "ETCHED MARKING IS ACCEPTABLE" (-12106.299mil,-2407.48mil) on Mechanical 2
+Text "FABRICATION TOLERANCES" (-12391.126mil,1353.488mil) on Mechanical 2
+Text "FOR CONTINUITY, OPENS AND SHORTS." (-12091.126mil,-3376.512mil) on Mechanical 2
+Text "FOR PCB ROUTING DIMENSIONS: .XXX = +/-.005"  .XX = +/-.020"" (-12091.126mil,103.438mil) on Mechanical 2
+Text "LAND SHALL BE WITHIN 0.005" DIAMETER TO THE TRUE POSITION OF THE HOLE IT CIRCUMSCRIBES." (-12091.126mil,703.488mil) on Mechanical 2
+Text "MARKING" (-12391.126mil,-2036.512mil) on Mechanical 2
+Text "MATERIAL" (-12391.126mil,-96.512mil) on Mechanical 2
+Text "NO INK MARKING IS TO BE USED" (-12096.457mil,-2250mil) on Mechanical 2
+Text "PLATING" (-12391.126mil,-646.512mil) on Mechanical 2
+Text "SEE STACK-UP LEGEND FOR COPPER CLADDING CALL OUTS" (-12084.126mil,-442.512mil) on Mechanical 2
+Text "THE CONDUCTIVE PATTERN SHALL BE POSITIONED SO THAT THE LOCATION OF ANY PAD OR" (-12091.126mil,853.438mil) on Mechanical 2
+Text "THE MINIMUM ANNULAR RING SHALL BE 0.005"." (-12091.126mil,403.438mil) on Mechanical 2
+Text "WITH A GOLD IMMERSION PLATING TO PRESERVE SOLDERABILITY." (-12084.126mil,-1142.512mil) on Mechanical 2
+
+

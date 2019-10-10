@@ -1,0 +1,21 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+U2         DD6/DFN6           633.263mil    937.808mil    576.176mil    977.178mil    576.176mil    977.178mil  T        360.00 SHT21          
+U1         DGG048_N               575mil        460mil        575mil        460mil    717.716mil    233.622mil  T        180.00 SN74AHCT16244DGGR
+P9         FC1_Flex_Cable_connector_25_pos   2006.176mil   1152.178mil   2006.176mil   1152.178mil   1533.729mil   1200.406mil  T        360.00 Header 25 for flex cable
+P8         FC1_Flex_Cable_connector_25_pos   2006.176mil    277.178mil   2006.176mil    277.178mil   1533.729mil    325.406mil  T        360.00 Header 25 for flex cable
+P7         HDR1X4_for_IDC     921.176mil    412.178mil    921.176mil    262.178mil    921.176mil    262.178mil  T         90.00 Header 4       
+P6         HDR1X4_for_IDC   -1226.501mil   8035.783mil  -1376.501mil   8035.783mil  -1376.501mil   8035.783mil  T        360.00 Header 4       
+P5         HDR1X4_for_IDC       693.5mil  11380.686mil      768.5mil  11250.783mil    768.499mil  11250.783mil  T        120.00 Header 4       
+P4         HDR2X5                 215mil        465mil        265mil        265mil        265mil        265mil  T         90.00 Header 5X2     
+P3         FC1_Flex_Cable_connector_25_pos   1651.176mil    707.178mil   1651.176mil    707.178mil   1178.729mil    755.406mil  T        360.00 Header 25 for flex cable
+P2         HDR1X4_for_IDC     -3161.5mil  11375.879mil  -3086.501mil  11505.783mil    -3086.5mil  11505.783mil  T        240.00 Header 4       
+P1         FC1_Flex_Cable_connector_20_pos   2436.176mil   1512.178mil   2436.176mil   1512.178mil   2062.154mil   1560.406mil  T        360.00 Header 20 for flex cable
+C4         EEE-FK1V101XP     2861.176mil    612.178mil   2861.176mil    612.178mil   2861.176mil    710.178mil  T        180.00 100u, EEE-FK1V101XP
+C3         EEE-FK1V101XP     2871.176mil   1077.178mil   2871.176mil   1077.178mil   2871.176mil   1175.178mil  T        180.00 100u, EEE-FK1V101XP
+C2         SMD_0805               785mil        890mil        785mil        890mil        785mil        845mil  T         90.00 Cap SMD        
+C1         SMD_0805           466.176mil    127.178mil    466.176mil    127.178mil    511.176mil    127.178mil  T        180.00 Cap SMD        
+           TARGET_MECHANICAL_5 -40199.231mil  -20688.53mil  -5664.135mil  14411.509mil -40199.231mil  -20688.53mil  T          0.00 Comment        
+           TARGET_MECHANICAL_5 -40199.231mil  -20688.53mil   3095.865mil  14411.509mil -40199.231mil  -20688.53mil  T          0.00 Comment        
+           TARGET_MECHANICAL_5 -40199.231mil  -20688.53mil  -4924.135mil   -388.491mil -40199.231mil  -20688.53mil  T          0.00 Comment        
+

@@ -1,0 +1,12 @@
+Output: PCBFabricationDrawing
+Type  : Gerber
+From  : PCB Document [175-00023, rev2, PCB, Sinistro Pwr Supply.PcbDoc]
+   Generated File[175-00023, rev2, PCB, Sinistro Pwr Supply.GPT]
+   Generated File[175-00023, rev2, PCB, Sinistro Pwr Supply.EXTREP]
+   Generated File[175-00023, rev2, PCB, Sinistro Pwr Supply.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:00:45 PM On 12/18/2012

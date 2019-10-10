@@ -1,0 +1,168 @@
+
+----------------------------------------
+|  P a r t i t i o n    S u c c e e d  |
+----------------------------------------
+0 Group(s)
+
+GCLK2: 4=CLK.p
+----------------- B l o c k 0 ------------------
+PLApt(30/56), Fanin(24/38), Clk(1/3), Bct(1/4), Pin(0/11), Mcell(16/16)
+PLApts[30/32] 73 76 77 70 115 71 72 67 68 69 126 49 61 125 47 60 124 56 57 123 59 45 122 53 55 75 44 50 52 () 
+              () 66
+Fanins[24] HA1.n PWM_NamedSignal_2_5MHZ.n PWM_U3/i(0).n PWM_U3/i(1).n PWM_U3/i(2).n PWM_U3/i(3).n 
+           PWM_U3/i(4).n PWM_U3/i(5).n PWM_U4/Q(0).n PWM_U4/Q(1).n PWM_U4/Q(2).n PWM_U4/Q(3).n PWM_U4/Q(4).n 
+           PWM_U4/Q(5).n PWM_U4/Q(6).n PWM_U4/Q(7).n SW<0>.p SW<1>.p SW<2>.p SW<3>.p SW<4>.p SW<5>.p SW<6>.p 
+           SW<7>.p
+clk[1] CLK 
+CTC: (pt=115) PWM_NamedSignal_2_5MHZ ;
+CTR: 
+CTS: 
+CTE: 
+vref: [0]
+Signal[16] [PWM_U4/Q(7)(219)] [PWM_U4/Q(6)(218)] [PWM_U4/Q(5)(217)] [PWM_U4/Q(4)(216)] [PWM_U4/Q(3)(215)]  
+           [PWM_U4/Q(2)(224)] [PWM_U4/Q(1)(223)] [PWM_U4/Q(0)(222)] [PWM_U3/i(0)(221)] [PWM_U5/i(0)(220)]  
+           [PWM_U3/i(1)(214)] [PWM_U3/i(2)(213)] [PWM_U3/i(3)(212)] [PWM_U3/i(4)(211)] [PWM_U3/i(5)(210)]  
+           [PWM_U3/i(6)(209)] 
+Signal[16] [ 0: PWM_U3/i(6)(209) (2)  ][ 1: PWM_U3/i(5)(210) (208)  ][ 2: PWM_U3/i(4)(211) (206)  ][ 3:  
+           PWM_U3/i(3)(212) (205)  ][ 4: PWM_U3/i(2)(213) (203)  ][ 5: PWM_U3/i(1)(214) (202)  ][ 6:  
+           PWM_U4/Q(3)(215)  ][ 7: PWM_U4/Q(4)(216)  ][ 8: PWM_U4/Q(5)(217)  ][ 9: PWM_U4/Q(6)(218)  ][ 10:  
+           PWM_U4/Q(7)(219)  ][ 11: PWM_U5/i(0)(220) (201)  ][ 12: PWM_U3/i(0)(221) (200)  ][ 13:  
+           PWM_U4/Q(0)(222) (199)  ][ 14: PWM_U4/Q(1)(223) (198)  ][ 15: PWM_U4/Q(2)(224) (197)  ]
+----------------- B l o c k 1 ------------------
+PLApt(28/56), Fanin(22/38), Clk(1/3), Bct(1/4), Pin(0/10), Mcell(16/16)
+PLApts[28/56] 127 129 109 113 121 114 111 112 79 83 117 84 81 117 82 86 117 85 89 117 90 87 88 () () () () () 
+              () () () 110 () () () () () 130 () () 74 () () () () () 80 () () () () () () () () 115
+Fanins[22] Indexer_1_PinSignal_U10_CLKDV.n Indexer_1_PinSignal_U11_CLKDV.n Indexer_1_U10/i(0).n 
+           Indexer_1_U10/i(1).n Indexer_1_U10/i(2).n Indexer_1_U11/i(0).n Indexer_1_U11/i(1).n 
+           Indexer_1_U11/i(2).n Indexer_1_U12/i(0).n Indexer_1_U12/i(1).n Indexer_1_U12/i(2).n 
+           PWM_NamedSignal_2_5MHZ.n PWM_U3/i(0).n PWM_U3/i(1).n PWM_U3/i(2).n PWM_U3/i(3).n PWM_U3/i(4).n 
+           PWM_U3/i(5).n PWM_U3/i(6).n PWM_U5/i(0).n PWM_U5/i(1).n PWM_U5/i(2).n
+clk[1] CLK 
+CTC: (pt=121) Indexer_1_PinSignal_U10_CLKDV ;
+CTR: 
+CTS: 
+CTE: 
+vref: [0]
+Signal[16] [PWM_U3/i(7)(240)] [PWM_U5/i(1)(235)] [PWM_NamedSignal_2_5MHZ(234)] [PWM_U5/i(2)(233)]  
+           [Indexer_1_U10/i(0)(232)] [Indexer_1_PinSignal_U10_CLKDV(231)] [Indexer_1_U10/i(1)(239)]  
+           [Indexer_1_U10/i(2)(238)] [Indexer_1_U11/i(0)(237)] [Indexer_1_PinSignal_U11_CLKDV(236)]  
+           [Indexer_1_U11/i(1)(230)] [Indexer_1_U11/i(2)(229)] [Indexer_1_U12/i(0)(228)]  
+           [Indexer_1_PinSignal_U12_CLKDV(227)] [Indexer_1_U12/i(1)(226)] [Indexer_1_U12/i(2)(225)] 
+Signal[16] [ 0: Indexer_1_U12/i(2)(225) (3)  ][ 1: Indexer_1_U12/i(1)(226) (4)  ][ 2:  
+           Indexer_1_PinSignal_U12_CLKDV(227) (5)  ][ 3: Indexer_1_U12/i(0)(228) (6)  ][ 4:  
+           Indexer_1_U11/i(2)(229) (7)  ][ 5: Indexer_1_U11/i(1)(230) (8)  ][ 6:  
+           Indexer_1_PinSignal_U10_CLKDV(231)  ][ 7: Indexer_1_U10/i(0)(232)  ][ 8: PWM_U5/i(2)(233)  ][ 9:  
+           PWM_NamedSignal_2_5MHZ(234)  ][ 10: PWM_U5/i(1)(235)  ][ 11: Indexer_1_PinSignal_U11_CLKDV(236)  
+           (9)  ][ 12: Indexer_1_U11/i(0)(237) (10)  ][ 13: Indexer_1_U10/i(2)(238) (12)  ][ 14:  
+           Indexer_1_U10/i(1)(239) (14)  ][ 15: PWM_U3/i(7)(240)  ]
+----------------- B l o c k 2 ------------------
+PLApt(31/56), Fanin(23/38), Clk(0/3), Bct(2/4), Pin(1/11), Mcell(13/16)
+PLApts[31/56] 22 42 91 95 118 1 96 93 94 98 97 101 102 99 100 104 103 107 108 120 105 106 120 () () 120 () () 
+              119 () () () () () () () () () () () 92 () () 120 () () 119 () () 119 () () 119 () () 116
+Fanins[23] LEDS<0>.n LEDS<1>.n LEDS<2>.n LEDS<3>.n LEDS<4>.n LEDS<5>.n LEDS<6>.n LEDS<7>.n 
+           Indexer_1_NamedSignal_20HZ.n Indexer_1_PinSignal_U12_CLKDV.n Indexer_1_PinSignal_U13_CLKDV.n 
+           Indexer_1_PinSignal_U14_CLKDV.n Indexer_1_U13/i(0).n Indexer_1_U13/i(1).n Indexer_1_U13/i(2).n 
+           Indexer_1_U14/i(0).n Indexer_1_U14/i(1).n Indexer_1_U14/i(2).n Indexer_1_U15/i(0).n 
+           Indexer_1_U15/i(1).n Indexer_1_U15/i(2).n PB0.p PB1.p
+clk[0] 
+CTC: (pt=118) Indexer_1_PinSignal_U12_CLKDV ;
+CTR: (pt=1) PB1' ;
+CTS: 
+CTE: 
+vref: [0]
+Signal[13] [LEDS<0>(256),LEDS<0>(185)] [Indexer_1_U13/i(0)(251)] [Indexer_1_PinSignal_U13_CLKDV(250)]  
+           [Indexer_1_U13/i(1)(249)] [Indexer_1_U13/i(2)(248)] [Indexer_1_U14/i(0)(247)]  
+           [Indexer_1_PinSignal_U14_CLKDV(255)] [Indexer_1_U14/i(1)(254)] [Indexer_1_U14/i(2)(253)]  
+           [Indexer_1_U15/i(0)(252)] [Indexer_1_NamedSignal_20HZ(246)] [Indexer_1_U15/i(1)(245)]  
+           [Indexer_1_U15/i(2)(244)] 
+Signal[13] [ 0: (196)  ][ 1: (195)  ][ 2: (194)  ][ 3: Indexer_1_U15/i(2)(244) (193)  ][ 4:  
+           Indexer_1_U15/i(1)(245) (192)  ][ 5: Indexer_1_NamedSignal_20HZ(246) (191)  ][ 6:  
+           Indexer_1_U14/i(0)(247)  ][ 7: Indexer_1_U13/i(2)(248)  ][ 8: Indexer_1_U13/i(1)(249)  ][ 9:  
+           Indexer_1_PinSignal_U13_CLKDV(250)  ][ 10: Indexer_1_U13/i(0)(251)  ][ 11:  
+           Indexer_1_U15/i(0)(252) (189)  ][ 12: Indexer_1_U14/i(2)(253) (188)  ][ 13:  
+           Indexer_1_U14/i(1)(254) (187)  ][ 14: Indexer_1_PinSignal_U14_CLKDV(255) (186)  ][ 15:  
+           LEDS<0>(256) LEDS<0>(185)  ]
+----------------- B l o c k 3 ------------------
+----------------- B l o c k 4 ------------------
+PLApt(0/56), Fanin(0/38), Clk(0/3), Bct(0/4), Pin(7/11), Mcell(0/16)
+PLApts[0/0]
+Fanins[ 0]
+clk[0] 
+CTC: 
+CTR: 
+CTS: 
+CTE: 
+vref: [0]
+Signal[ 7] [SW<1>(49)] [SW<2>(48)] [SW<3>(47)] [SW<4>(45)] [SW<5>(43)] [SW<6>(41)] [SW<7>(40)] 
+Signal[ 7] [ 0: SW<1>(49)  ][ 1: SW<2>(48)  ][ 2: SW<3>(47)  ][ 3: (46)  ][ 4: SW<4>(45)  ][ 5: (44)  ][ 6:  
+            ][ 7:  ][ 8:  ][ 9:  ][ 10:  ][ 11: SW<5>(43)  ][ 12: SW<6>(41)  ][ 13: SW<7>(40)  ][ 14: (39)  ] 
+           [ 15: (38)  ]
+----------------- B l o c k 5 ------------------
+PLApt(0/56), Fanin(0/38), Clk(0/3), Bct(0/4), Pin(2/11), Mcell(0/16)
+PLApts[0/0]
+Fanins[ 0]
+clk[0] 
+CTC: 
+CTR: 
+CTS: 
+CTE: 
+vref: [0]
+Signal[ 2] [CLK(55)] [SW<0>(50)] 
+Signal[ 2] [ 0: SW<0>(50)  ][ 1: (51)  ][ 2: (54)  ][ 3: CLK(55)  ][ 4: (56)  ][ 5: (57)  ][ 6:  ][ 7:  ] 
+           [ 8:  ][ 9:  ][ 10:  ][ 11: (58)  ][ 12: (60)  ][ 13: (61)  ][ 14: (62)  ][ 15: (63)  ]
+----------------- B l o c k 6 ------------------
+PLApt(6/56), Fanin(19/38), Clk(0/3), Bct(2/4), Pin(4/10), Mcell(4/16)
+PLApts[6/50] () () () () 115 131 () () () () () () () () () () () () () () () () () () () () () () () () () 
+             () () () () () () () () () 78 () () 43 () () 78 () () 128
+Fanins[19] HA1.n HA2.n PWM_NamedSignal_2_5MHZ.n PWM_U3/i(0).n PWM_U3/i(1).n PWM_U3/i(2).n PWM_U3/i(3).n 
+           PWM_U3/i(4).n PWM_U3/i(5).n PWM_U3/i(6).n PWM_U3/i(7).n PWM_U4/Q(0).n PWM_U4/Q(1).n PWM_U4/Q(2).n 
+           PWM_U4/Q(3).n PWM_U4/Q(4).n PWM_U4/Q(5).n PWM_U4/Q(6).n PWM_U4/Q(7).n
+clk[0] 
+CTC: (pt=115) PWM_NamedSignal_2_5MHZ ;
+CTR: (pt=131) HA2 ;
+CTS: 
+CTE: 
+vref: [0]
+Signal[ 4] [HA1(318),HA1(27)] [HA3(316),HA3(29)] [HA2(317),HA2(28)] [HA4(315),HA4(30)] 
+Signal[ 4] [ 0: (37)  ][ 1: (36)  ][ 2: (35)  ][ 3: (34)  ][ 4: (32)  ][ 5: (31)  ][ 6:  ][ 7:  ][ 8:  ][ 9:  
+            ][ 10: HA4(315) HA4(30)  ][ 11: HA3(316) HA3(29)  ][ 12: HA2(317) HA2(28)  ][ 13: HA1(318)  
+           HA1(27)  ][ 14:  ][ 15:  ]
+----------------- B l o c k 7 ------------------
+----------------- B l o c k 8 ------------------
+----------------- B l o c k 9 ------------------
+----------------- B l o c k 10 ------------------
+PLApt(35/56), Fanin(11/38), Clk(0/3), Bct(2/4), Pin(7/9), Mcell(7/16)
+PLApts[35/50] 3 8 10 19 116 1 27 39 12 14 16 23 29 30 32 35 2 7 20 40 15 17 24 31 33 36 21 41 18 25 34 37 26 
+              38 () () () () () () () () () () () () () () () 6
+Fanins[11] LEDS<0>.n LEDS<1>.n LEDS<2>.n LEDS<3>.n LEDS<4>.n LEDS<5>.n LEDS<6>.n LEDS<7>.n 
+           Indexer_1_NamedSignal_20HZ.n PB0.p PB1.p
+clk[0] 
+CTC: (pt=116) Indexer_1_NamedSignal_20HZ ;
+CTR: (pt=1) PB1' ;
+CTS: 
+CTE: 
+vref: [0]
+Signal[ 7] [LEDS<3>(382),LEDS<3>(182)] [LEDS<4>(381),LEDS<4>(180)] [LEDS<2>(383),LEDS<2>(183)]  
+           [LEDS<5>(380),LEDS<5>(179)] [LEDS<1>(384),LEDS<1>(184)] [LEDS<6>(379),LEDS<6>(178)]  
+           [LEDS<7>(372),LEDS<7>(175)] 
+Signal[ 7] [ 0:  ][ 1: (173)  ][ 2: (174)  ][ 3: LEDS<7>(372) LEDS<7>(175)  ][ 4:  ][ 5:  ][ 6:  ][ 7:  ] 
+           [ 8:  ][ 9:  ][ 10: LEDS<6>(379) LEDS<6>(178)  ][ 11: LEDS<5>(380) LEDS<5>(179)  ][ 12:  
+           LEDS<4>(381) LEDS<4>(180)  ][ 13: LEDS<3>(382) LEDS<3>(182)  ][ 14: LEDS<2>(383) LEDS<2>(183)  ] 
+           [ 15: LEDS<1>(384) LEDS<1>(184)  ]
+----------------- B l o c k 11 ------------------
+----------------- B l o c k 12 ------------------
+----------------- B l o c k 13 ------------------
+----------------- B l o c k 14 ------------------
+PLApt(0/56), Fanin(0/38), Clk(0/3), Bct(0/4), Pin(2/11), Mcell(0/16)
+PLApts[0/0]
+Fanins[ 0]
+clk[0] 
+CTC: 
+CTR: 
+CTS: 
+CTE: 
+vref: [0]
+Signal[ 2] [PB0(127)] [PB1(126)] 
+Signal[ 2] [ 0: (118)  ][ 1: (119)  ][ 2: (120)  ][ 3: (121)  ][ 4: (122)  ][ 5: (123)  ][ 6:  ][ 7:  ][ 8:  
+            ][ 9:  ][ 10: (125)  ][ 11: PB1(126)  ][ 12: PB0(127)  ][ 13: (128)  ][ 14:  ][ 15: (131)  ]
+----------------- B l o c k 15 ------------------

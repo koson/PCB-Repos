@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00019 rev1, Proxie Sensor, Sinistro Filter Wheel.PcbDoc   11/9/2010  10:18:24 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00019 rev1, Proxie Sensor, Sinistro Filter Wheel-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00019 rev1, Proxie Sensor, Sinistro Filter Wheel-NonPlated.TXT
+EIA File   : 175-00019 rev1, Proxie Sensor, Sinistro Filter Wheel.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          117              15.45 Inch (392.46 mm)
+T2        28mil (0.7112mm)         Round          9                1.28 Inch (32.54 mm)
+T3        87mil (2.2098mm)         Round          2                0.59 Inch (15.00 mm)
+T4        130mil (3.302mm)         Round          1                0.00 Inch (0.00 mm)
+T5        47mil (1.1938mm)         Round          2         NPTH   0.85 Inch (21.55 mm)
+---------------------------------------------------------------------------
+Totals                                            131              18.17 Inch (461.55 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : \\Files\users\rlobdill\Altum Projects\Sinistro\ASP Board\ASP Board Rev. 2\175-00003, rev 2, Sinistro ASP.PcbDoc
+Date     : 1/10/2013
+Time     : 3:46:43 PM
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InNet('E')))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) ((HasFootprint('TQFP48_m') or HasFootprint('RM-8'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=50mil) ((InNet('+5') OR InNet('D')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=15mil) (Preferred=15mil) ((InNet('-5ANA') OR InNet('+5ANA') OR InNet(A)or InNet('+24V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net +28V Between Pad R13C-2 (4200.52,999.323mil) And Track on layer Bottom Layer (.GBL) (4222.788,1041.055mil)
+   Violation between Un-Routed Net Constraint: Net +28V Between Pad R13D-2 (5232.016,999.323mil) And Track on layer Bottom Layer (.GBL) (5254.284,1041.055mil)
+   Violation between Un-Routed Net Constraint: Net +28V Between Pad R13B-2 (3149.338,999.323mil) And Track on layer Bottom Layer (.GBL) (3171.606,1041.055mil)
+   Violation between Un-Routed Net Constraint: Net +28V Between Pad R13A-2 (2102.094,999.323mil) And Track on layer Bottom Layer (.GBL) (2124.362,1041.055mil)
+Rule Violations :4
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (All)
+Rule Violations :0
+
+Processing Rule : Room CH1 (Bounding Region = (11629.921mil, 11027.559mil, 12488.189mil, 13960.63mil) (InComponentClass('CH1'))
+Rule Violations :0
+
+Processing Rule : Room Analog (Bounding Region = (10681.102mil, 11307.087mil, 15492.126mil, 14464.567mil) (InComponentClass('Analog'))
+Rule Violations :0
+
+Processing Rule : Room CPLD (Bounding Region = (9905.512mil, 10311.024mil, 15649.606mil, 14519.685mil) (InComponentClass('CPLD'))
+Rule Violations :0
+
+Processing Rule : Room CH4 (Bounding Region = (14759.843mil, 11027.559mil, 15618.11mil, 13960.63mil) (InComponentClass('CH4'))
+Rule Violations :0
+
+Processing Rule : Room CH3 (Bounding Region = (13728.346mil, 11027.559mil, 14586.614mil, 13960.63mil) (InComponentClass('CH3'))
+Rule Violations :0
+
+Processing Rule : Room CH2 (Bounding Region = (12677.165mil, 11027.559mil, 13535.433mil, 13960.63mil) (InComponentClass('CH2'))
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:02

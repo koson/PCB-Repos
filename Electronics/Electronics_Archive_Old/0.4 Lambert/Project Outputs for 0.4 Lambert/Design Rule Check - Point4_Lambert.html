@@ -1,0 +1,433 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : sans-serif;
+			color : white;
+			background-color : #21489e;
+			padding: 0.3em;
+		}
+		body {
+			font-family : verdana;
+		}
+		td, th {
+			padding: 0.5em;
+			text-align : center;
+			width : 18%;
+		}
+		th {
+			background-color : #A6CAF0;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+		}
+		
+		.DRC_summary_header {							
+			padding-bottom : 0.1em;
+			border : 0px solid black;							
+			width: 100%;
+                        align: right;
+                        
+		}
+
+		.DRC_summary_header_col1, 
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3
+		{
+			color : black;
+			font-size:150%;
+                        padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2: 0em;
+			border : 0px solid black;
+			width : auto;
+			vertical-align: top;
+			font-weight: bold;				
+		}
+		
+		.DRC_summary_header_col1 	
+		{		                       
+			text-align: right;
+                        width: auto;	
+		}
+
+		.DRC_summary_header_col2 	
+		{		
+			text-align: center;	
+		}
+
+		.DRC_summary_header_col3 	
+		{		
+			text-align: left;	
+		}
+
+
+		
+		.header_holder
+		{
+		Width = 100%;
+		border = 0px solid green;
+		padding = 0;
+		}
+		
+		
+		
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+                {
+			left:0;
+			top:0;
+			padding-top : 0.1em;			
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top
+
+		}
+		.front_matter {	
+			
+			margin-top: 5px;
+ 			margin-left: 0px;					 			
+ 			horizontal-align: left;
+		}
+				
+		
+		.front_matter_column1 {
+			width : 10em;	
+			text-align  : right;
+			padding-right:0.1em;
+			
+		}
+		
+		.front_matter_column2 {
+                        width: 0.1em;
+			align: center;
+			text-align : center;
+			margin-right  : 0.1em;	
+			margin-left   : 0.1em;
+		}
+		.front_matter_column3 {
+			width         : auto;  
+			text-align    : left;	
+			margin-right  : 0.5em;				
+		}
+		
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : right;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #EEEEE0 
+		}
+		tr.onmouseout_even { 
+			background-color : #F3F3E3   
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : lightYellow
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #008000 
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script></head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\PROGRAM FILES\ALTIUM DESIGNER SUMMER 09\Templates\AD-rgb_logo_223x64.gif
+		"><a href="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports" class="customize"><acronym title="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports">customize</acronym></a><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td Style="width:70%">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3">10/22/2009</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3">11:25:16 AM</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3">00:00:06</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3"><a href="file:///\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc" class="file"><acronym title="\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc">\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td Style="Width:30%">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings</td>
+<td class="DRC_summary_header_col2">:</td>
+<td class="DRC_summary_header_col3">0</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations</td>
+<td class="DRC_summary_header_col2">:</td>
+<td class="DRC_summary_header_col3" style="color : red">19</td></tr>
+</table>
+</td>
+</table>
+<hr><a name="IDATACMW"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">0</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDAFBCMW">Net Antennae (Tolerance=0mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDALBCMW">Silk to Silk (Clearance=10mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDARBCMW">Silkscreen Over Component Pads (Clearance=2mil) (All),(All)</a></td>
+<td class="column2">1</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDAACCMW">Minimum Solder Mask Sliver (Gap=1mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDAGCCMW">Hole To Hole Clearance (Gap=10mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDAMCCMW">Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDASCCMW">Hole Size Constraint (Min=1mil) (Max=300mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDAYCCMW">Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDA4CCMW">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">18</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDAQGCMW">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDAWGCMW">Width Constraint (Min=10mil) (Max=50mil) (Preferred=50mil) ((InNet('+5') OR InNet('D')))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDA2GCMW">Width Constraint (Min=5mil) (Max=50mil) (Preferred=10mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDACHCMW">Width Constraint (Min=5mil) (Max=50mil) (Preferred=5mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDAIHCMW">Clearance Constraint (Gap=4mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDAOHCMW">Clearance Constraint (Gap=6mil) ((HasFootprint('TQFP48_m') or HasFootprint('RM-8'))),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDAUHCMW">Room BlackFin --&gt; CPLD/Stepper Motor Drive (Bounding Region = (1654mil, 1780mil, 5688mil, 3380mil) (InComponentClass('BlackFin --&gt; CPLD/Stepper Motor Drive'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDA0HCMW">Room LED Drive (Bounding Region = (1550mil, 4078mil, 3617mil, 5390mil) (InComponentClass('LED Drive'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDADQCMW">Room Power Supplies (Bounding Region = (1477mil, 1783mil, 5333mil, 5335mil) (InComponentClass('Power Supplies'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDAJQCMW">Room Schematic for PLD program (Bounding Region = (2038.614mil, 2457.976mil, 2737.591mil, 3156.953mil) (InComponentClass('Schematic for PLD program'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDAPQCMW">Room Stepper Motor Driver IC (Bounding Region = (1739mil, 3023mil, 3367mil, 4242mil) (InComponentClass('Stepper Motor Driver IC'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDAVQCMW">Room Top_Level_IO (Bounding Region = (417mil, 1719mil, 5800mil, 5360mil) (InComponentClass('Top_Level_IO'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">19</td>
+</tr>
+</table><br><hr><a name="IDARBCMW"><table>
+<tr>
+<th style="text-align : left" colspan="2" class="rule">Silkscreen Over Component Pads (Clearance=2mil) (All),(All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:50%; text-align:left" class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4782.433mil|Location2.X=4792.433mil|Location1.Y=4083.024mil|Location2.Y=4219.008mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4782.433mil|Location2.X=4792.433mil|Location1.Y=4083.024mil|Location2.Y=4219.008mil|Absolute=True">Track (3808.331mil,2480.559mil)(3808.331mil,2606.543mil)  Bottom Overlay</acronym></a></td>
+<td style="width:50%; text-align:left" class="column2"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4754.102mil|Location2.X=4878.102mil|Location1.Y=4207.465mil|Location2.Y=4331.465mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4754.102mil|Location2.X=4878.102mil|Location1.Y=4207.465mil|Location2.Y=4331.465mil|Absolute=True">Pad H1-0(3837mil,2662mil)  Multi-Layer</acronym></a></td>
+</tr>
+</table></a><a href="#top">Back to top</a><br><br><a name="IDA4CCMW"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Un-Routed Net Constraint ( (All) )</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4864.243mil|Location2.X=4876.655mil|Location1.Y=3224.24mil|Location2.Y=3252.955mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4864.243mil|Location2.X=4876.655mil|Location1.Y=3224.24mil|Location2.Y=3252.955mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 2.6E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4907.55mil|Location2.X=4919.962mil|Location1.Y=3224.24mil|Location2.Y=3252.626mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4907.55mil|Location2.X=4919.962mil|Location1.Y=3224.24mil|Location2.Y=3252.626mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 2.6E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4879.878mil|Location2.X=4904.327mil|Location1.Y=3208.605mil|Location2.Y=3221.017mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4879.878mil|Location2.X=4904.327mil|Location1.Y=3208.605mil|Location2.Y=3221.017mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 2.4E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4920.801mil|Location2.X=4950.018mil|Location1.Y=3255.849mil|Location2.Y=3264.325mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4920.801mil|Location2.X=4950.018mil|Location1.Y=3255.849mil|Location2.Y=3264.325mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1.7E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4877.494mil|Location2.X=4906.711mil|Location1.Y=3255.849mil|Location2.Y=3264.325mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4877.494mil|Location2.X=4906.711mil|Location1.Y=3255.849mil|Location2.Y=3264.325mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1.7E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4833.695mil|Location2.X=4862.912mil|Location1.Y=3255.849mil|Location2.Y=3264.325mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4833.695mil|Location2.X=4862.912mil|Location1.Y=3255.849mil|Location2.Y=3264.325mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1.7E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4906.546mil|Location2.X=4920.966mil|Location1.Y=3207.601mil|Location2.Y=3222.021mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4906.546mil|Location2.X=4920.966mil|Location1.Y=3207.601mil|Location2.Y=3222.021mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4863.239mil|Location2.X=4877.658mil|Location1.Y=3207.601mil|Location2.Y=3222.021mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4863.239mil|Location2.X=4877.658mil|Location1.Y=3207.601mil|Location2.Y=3222.021mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1E2 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4884.356mil|Location2.X=4898.793mil|Location1.Y=3273.54mil|Location2.Y=3279.4mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4884.356mil|Location2.X=4898.793mil|Location1.Y=3273.54mil|Location2.Y=3279.4mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 36 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4885.411mil|Location2.X=4898.793mil|Location1.Y=3241.881mil|Location2.Y=3246.424mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4885.411mil|Location2.X=4898.793mil|Location1.Y=3241.881mil|Location2.Y=3246.424mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 31 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.212mil|Location2.X=4854.651mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.212mil|Location2.X=4854.651mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4929.554mil|Location2.X=4929.993mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4929.554mil|Location2.X=4929.993mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4897.519mil|Location2.X=4897.958mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4897.519mil|Location2.X=4897.958mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.212mil|Location2.X=4854.651mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.212mil|Location2.X=4854.651mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4886.247mil|Location2.X=4886.686mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4886.247mil|Location2.X=4886.686mil|Location1.Y=3198.574mil|Location2.Y=3199.013mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4929.554mil|Location2.X=4929.993mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4929.554mil|Location2.X=4929.993mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4886.247mil|Location2.X=4886.686mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4886.247mil|Location2.X=4886.686mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4897.519mil|Location2.X=4897.958mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=\\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4897.519mil|Location2.X=4897.958mil|Location1.Y=3230.609mil|Location2.Y=3231.048mil|Absolute=True">Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils</acronym></a><br></td>
+</tr>
+</table></a><a href="#top">Back to top</a><br><br></body>
+</html>

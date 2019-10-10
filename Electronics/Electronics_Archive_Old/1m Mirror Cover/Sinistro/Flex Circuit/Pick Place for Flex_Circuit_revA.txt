@@ -1,0 +1,11 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R2         AXIAL-0.5         4142.708mil  -2272.248mil   4142.708mil  -2272.248mil   3892.708mil  -2272.248mil  B        360.00                
+R1         AXIAL-0.5         4142.708mil  -1949.414mil   4142.708mil  -1949.414mil   4392.708mil  -1949.414mil  B        180.00                
+RTD5       RTD_1x8mm         4010.818mil  -2110.831mil   4247.039mil  -2110.831mil   4010.818mil   -1992.72mil  T          0.00 RTD 2-wire, 1x8mm
+J2         MS-3116_Size_20-41,_Male    511.802mil  -6412.012mil    511.803mil  -6412.012mil    511.802mil  -5994.012mil  T          0.00 MS3116-20-41   
+J1         FX11LA-68P         511.802mil   -238.188mil    511.802mil   -238.189mil    186.998mil   -331.692mil  T        360.00 FX11LA-68P     
+Designator TARGET_MECHANICAL_5 -26393.282mil  -22536.09mil  -2772.638mil  -8810.039mil -26393.282mil  -22536.09mil  T          0.00 Comment        
+Designator TARGET_MECHANICAL_5 -26393.282mil  -22536.09mil  -2872.047mil    472.638mil -26393.282mil  -22536.09mil  T          0.00 Comment        
+Designator TARGET_MECHANICAL_5 -26393.282mil  -22536.09mil   5849.409mil  -8711.417mil -26393.282mil  -22536.09mil  T          0.00 Comment        
+

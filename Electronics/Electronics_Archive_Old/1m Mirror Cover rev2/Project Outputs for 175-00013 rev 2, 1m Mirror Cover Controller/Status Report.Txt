@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [175-00013 rev2, 1m Mirror Cover Controller.PcbDoc]
+   Generated File[Pick Place for 175-00013 rev2, 1m Mirror Cover Controller.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:22:56 PM On 11/1/2011

@@ -1,0 +1,48 @@
+;...............................................................................
+;Constraints File
+;   Device  :
+;   Board   :
+;   Project :
+;
+;   Created 9/17/2009
+;...............................................................................
+
+;...............................................................................
+Record=FileHeader | Id=DXP Constraints v1.0
+;...............................................................................
+
+
+Record=Constraint | TargetKind=Part | TargetId=XCR3128XL-10VQ100C
+Record=Constraint | TargetKind=PCB | TargetId=0.4 Lambert.PrjPCB
+Record=Constraint | TargetKind=Port | TargetId=CLK_20MHZ | FPGA_PINNUM=P87 | FPGA_CLOCK_PIN=True
+
+Record=Constraint | TargetKind=Port | TargetId=DC_DIRECTION | FPGA_PINNUM=P47
+Record=Constraint | TargetKind=Port | TargetId=~DC_START | FPGA_PINNUM=P46
+Record=Constraint | TargetKind=Port | TargetId=DEC_AXIS_OK | FPGA_PINNUM=P25
+Record=Constraint | TargetKind=Port | TargetId=DEPLOYED_1 | FPGA_PINNUM=P70
+Record=Constraint | TargetKind=Port | TargetId=IN1 | FPGA_PINNUM=P76
+Record=Constraint | TargetKind=Port | TargetId=IN2 | FPGA_PINNUM=P77
+Record=Constraint | TargetKind=Port | TargetId=OK_TO_MOVE | FPGA_PINNUM=P45
+Record=Constraint | TargetKind=Port | TargetId=PWM_D[7..0] | FPGA_PINNUM=P52,P49,P53,P54,P55,P58,P57,P60
+Record=Constraint | TargetKind=Port | TargetId=~PWM_IR_EN | FPGA_PINNUM=P56
+Record=Constraint | TargetKind=Port | TargetId=PWM_IR_LOAD | FPGA_PINNUM=P69
+Record=Constraint | TargetKind=Port | TargetId=PWM_IR_OUT | FPGA_PINNUM=P85
+Record=Constraint | TargetKind=Port | TargetId=~PWM_UV_EN | FPGA_PINNUM=P48
+Record=Constraint | TargetKind=Port | TargetId=PWM_UV_LOAD | FPGA_PINNUM=P65
+Record=Constraint | TargetKind=Port | TargetId=PWM_UV_OUT | FPGA_PINNUM=P78
+Record=Constraint | TargetKind=Port | TargetId=~PWM_WHT_EN | FPGA_PINNUM=P50
+Record=Constraint | TargetKind=Port | TargetId=PWM_WHT_LOAD | FPGA_PINNUM=P61
+
+Record=Constraint | TargetKind=Port | TargetId=STOWED_1 | FPGA_PINNUM=P64
+Record=Constraint | TargetKind=Port | TargetId=TCK | FPGA_PINNUM=p62
+Record=Constraint | TargetKind=Port | TargetId=TDI | FPGA_PINNUM=P4
+Record=Constraint | TargetKind=Port | TargetId=TDO_PLD | FPGA_PINNUM=P73
+Record=Constraint | TargetKind=Port | TargetId=TMS | FPGA_PINNUM=P15
+Record=Constraint | TargetKind=Port | TargetId=~RA_AXIS_OK | FPGA_PINNUM=P31
+Record=Constraint | TargetKind=Port | TargetId=PWM_WHT_OUT | FPGA_PINNUM=P100
+
+Record=Constraint | TargetKind=Port | TargetId=LIGHTBAR- | FPGA_PINNUM=P99
+
+Record=Constraint | TargetKind=Port | TargetId=~HOME | FPGA_PINNUM=P75
+Record=Constraint | TargetKind=Port | TargetId=IR_STRIP | FPGA_PINNUM=P94
+Record=Constraint | TargetKind=Port | TargetId=UV_STRIP | FPGA_PINNUM=P63

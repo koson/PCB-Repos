@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 175-00066revA - PCB, Sinistro Camera Controller Pass-Thru.PcbDoc   2016-09-08  18:28:04
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 175-00066revA - PCB, Sinistro Camera Controller Pass-Thru-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00066revA - PCB, Sinistro Camera Controller Pass-Thru-NonPlated.TXT
+EIA File   : 175-00066revA - PCB, Sinistro Camera Controller Pass-Thru.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      22mil (0.559mm)                                           Round             63        PTH        14.49inch (367.96mm)
+T2      60mil (1.524mm)                                           Round             63        PTH        14.60inch (370.80mm)
+T3      177mil (4.501mm)                                          Round             18        NPTH       16.79inch (426.39mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              144
+
+Total Processing Time (hh:mm:ss) : 00:00:00

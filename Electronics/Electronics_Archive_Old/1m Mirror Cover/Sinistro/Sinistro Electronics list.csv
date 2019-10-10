@@ -1,0 +1,19 @@
+Level,item_number,reference_designator,Quantity,Requires_lco_serial_number
+0,820-00346,,,no
+1,830-00001,Clock board,1,no
+1,830-00002,CSU board,1,no
+1,830-00003,ASP board,1,no
+1,830-00009,Backplane,1,no
+1,830-00023,CCD interface board,1,no
+1,830-00024,Flex Circuit,1,no
+1,830-00053,TT board,1,no
+1,810-00014,PS Module,1,no
+1,840-00086,Power supply,1,no
+1,840-00089,Vacuum Gauge,1,no
+1,840-00094,"Assy, Ion Pump",1,no
+1,840-00092,Cryo Cabinet,1,no
+1,840-00093,Shutter control,1,no
+1,840-00129,"controller internal, Cryo",1,no
+1,840-00130,"controller internal, Ion",1,no
+1,840-00131,"controller internal, vacuum",1,no
+1,840-00132,"controller internal, shutter",1,no

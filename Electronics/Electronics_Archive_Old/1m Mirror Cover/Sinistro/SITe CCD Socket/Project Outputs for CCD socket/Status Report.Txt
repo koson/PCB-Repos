@@ -1,0 +1,97 @@
+Output: ArtworkLayers
+Type  : Gerber
+From  : PCB Document [CCD socket.PcbDoc]
+   Generated File[CCD socket.GTL]
+   Generated File[CCD socket.G1]
+   Generated File[CCD socket.GP1]
+   Generated File[CCD socket.GBL]
+   Generated File[CCD socket.GD1]
+   Generated File[CCD socket.EXTREP]
+   Generated File[CCD socket.REP]
+
+Output: DrillDrawing
+Type  : Gerber
+From  : PCB Document [CCD socket.PcbDoc]
+   Generated File[CCD socket.GD1]
+   Generated File[CCD socket.EXTREP]
+   Generated File[CCD socket.REP]
+
+Output: IPC-D-356A-NETLIST FILE
+Type  : Test Points
+From  : PCB Document [CCD socket.PcbDoc]
+   Generated File[Testpoint Report for CCD socket.ipc]
+
+Output: NC Drill Output1
+Type  : NC Drill
+From  : PCB Document [CCD socket.PcbDoc]
+   Generated File[CCD socket-Plated.TXT]
+   Generated File[CCD socket.DRL]
+   Generated File[CCD socket.LDP]
+   Generated File[CCD socket.DRR]
+
+Output: ODB++ Files
+Type  : ODB
+From  : PCB Document [CCD socket.PcbDoc]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[CCD socket.REP]
+
+Output: PCBFabricationDrawing
+Type  : Gerber
+From  : PCB Document [CCD socket.PcbDoc]
+   Generated File[CCD socket.GPT]
+   Generated File[CCD socket.EXTREP]
+   Generated File[CCD socket.REP]
+
+
+Files Generated   : 68
+Documents Printed : 0
+
+Finished Output Generation At 7:21:23 PM On 5/18/2009

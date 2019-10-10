@@ -1,0 +1,735 @@
+MDF Database:  version 1.0
+MDF_INFO | PWM_generator | XC2C256-7-PQ208
+MACROCELL | 6 | 13 | HA1_MC
+ATTRIBUTES | 2290352898 | 0
+OUTPUTMC | 9 | 0 | 13 | 0 | 6 | 0 | 14 | 0 | 15 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10 | 6 | 11
+INPUTS | 8 | PWM_U3/i(0)  | PWM_U3/i(1)  | PWM_U3/i(2)  | PWM_U3/i(3)  | PWM_U3/i(4)  | PWM_U3/i(5)  | PWM_U3/i(6)  | PWM_U3/i(7)
+INPUTMC | 8 | 0 | 12 | 0 | 5 | 0 | 4 | 0 | 3 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | 15
+LCT | 1 | 2 | Internal_Name
+EQ | 4 | 
+   HA1 := !PWM_U3/i(0) & !PWM_U3/i(1) & !PWM_U3/i(2) & 
+	!PWM_U3/i(3) & !PWM_U3/i(4) & !PWM_U3/i(5) & !PWM_U3/i(6) & 
+	!PWM_U3/i(7);	// (1 pt, 8 inp)
+    HA1.CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 12 | PWM_U3/i(0)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 8 | 0 | 5 | 0 | 4 | 0 | 3 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | 15 | 6 | 13
+INPUTS | 0
+LCT | 1 | 2 | Internal_Name
+EQ | 2 | 
+   !PWM_U3/i(0).T := Gnd;	// (0 pt, 0 inp)
+    PWM_U3/i(0).CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 9 | PWM_NamedSignal_2_5MHZ_MC
+ATTRIBUTES | 2151711488 | 0
+OUTPUTMC | 1 | 1 | 15
+INPUTS | 3 | PWM_U5/i(0)  | PWM_U5/i(2)  | PWM_U5/i(1)
+INPUTMC | 3 | 0 | 11 | 1 | 8 | 1 | 10
+EQ | 2 | 
+   PWM_NamedSignal_2_5MHZ.T := !PWM_U5/i(0) & PWM_U5/i(2) & !PWM_U5/i(1);	// (1 pt, 3 inp)
+   PWM_NamedSignal_2_5MHZ.CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+MACROCELL | 0 | 11 | PWM_U5/i(0)_MC
+ATTRIBUTES | 2151711488 | 0
+OUTPUTMC | 3 | 1 | 10 | 1 | 8 | 1 | 9
+INPUTS | 0
+EQ | 2 | 
+   !PWM_U5/i(0).T := Gnd;	// (0 pt, 0 inp)
+   PWM_U5/i(0).CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+MACROCELL | 1 | 8 | PWM_U5/i(2)_MC
+ATTRIBUTES | 2151711488 | 0
+OUTPUTMC | 2 | 1 | 8 | 1 | 9
+INPUTS | 3 | PWM_U5/i(0)  | PWM_U5/i(1)  | PWM_U5/i(2)
+INPUTMC | 3 | 0 | 11 | 1 | 10 | 1 | 8
+EQ | 3 | 
+   PWM_U5/i(2).T := PWM_U5/i(0) & PWM_U5/i(1)
+	# !PWM_U5/i(0) & PWM_U5/i(2) & !PWM_U5/i(1);	// (2 pt, 3 inp)
+   PWM_U5/i(2).CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+MACROCELL | 1 | 10 | PWM_U5/i(1)_MC
+ATTRIBUTES | 2151711488 | 0
+OUTPUTMC | 2 | 1 | 8 | 1 | 9
+INPUTS | 1 | PWM_U5/i(0)
+INPUTMC | 1 | 0 | 11
+EQ | 2 | 
+   PWM_U5/i(1).T := PWM_U5/i(0);	// (1 pt, 1 inp)
+   PWM_U5/i(1).CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+MACROCELL | 0 | 5 | PWM_U3/i(1)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 7 | 0 | 4 | 0 | 3 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | 15 | 6 | 13
+INPUTS | 1 | PWM_U3/i(0)
+INPUTMC | 1 | 0 | 12
+LCT | 1 | 2 | Internal_Name
+EQ | 2 | 
+   PWM_U3/i(1).T := !PWM_U3/i(0);	// (1 pt, 1 inp)
+    PWM_U3/i(1).CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 4 | PWM_U3/i(2)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 6 | 0 | 3 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | 15 | 6 | 13
+INPUTS | 2 | PWM_U3/i(0)  | PWM_U3/i(1)
+INPUTMC | 2 | 0 | 12 | 0 | 5
+LCT | 1 | 2 | Internal_Name
+EQ | 2 | 
+   PWM_U3/i(2).T := !PWM_U3/i(0) & !PWM_U3/i(1);	// (1 pt, 2 inp)
+    PWM_U3/i(2).CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 3 | PWM_U3/i(3)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 5 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | 15 | 6 | 13
+INPUTS | 3 | PWM_U3/i(0)  | PWM_U3/i(1)  | PWM_U3/i(2)
+INPUTMC | 3 | 0 | 12 | 0 | 5 | 0 | 4
+LCT | 1 | 2 | Internal_Name
+EQ | 2 | 
+   PWM_U3/i(3).T := !PWM_U3/i(0) & !PWM_U3/i(1) & !PWM_U3/i(2);	// (1 pt, 3 inp)
+    PWM_U3/i(3).CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 2 | PWM_U3/i(4)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 4 | 0 | 1 | 0 | 0 | 1 | 15 | 6 | 13
+INPUTS | 4 | PWM_U3/i(0)  | PWM_U3/i(1)  | PWM_U3/i(2)  | PWM_U3/i(3)
+INPUTMC | 4 | 0 | 12 | 0 | 5 | 0 | 4 | 0 | 3
+LCT | 1 | 2 | Internal_Name
+EQ | 3 | 
+   PWM_U3/i(4).T := !PWM_U3/i(0) & !PWM_U3/i(1) & !PWM_U3/i(2) & 
+	!PWM_U3/i(3);	// (1 pt, 4 inp)
+    PWM_U3/i(4).CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 1 | PWM_U3/i(5)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 3 | 0 | 0 | 1 | 15 | 6 | 13
+INPUTS | 5 | PWM_U3/i(0)  | PWM_U3/i(1)  | PWM_U3/i(2)  | PWM_U3/i(3)  | PWM_U3/i(4)
+INPUTMC | 5 | 0 | 12 | 0 | 5 | 0 | 4 | 0 | 3 | 0 | 2
+LCT | 1 | 2 | Internal_Name
+EQ | 3 | 
+   PWM_U3/i(5).T := !PWM_U3/i(0) & !PWM_U3/i(1) & !PWM_U3/i(2) & 
+	!PWM_U3/i(3) & !PWM_U3/i(4);	// (1 pt, 5 inp)
+    PWM_U3/i(5).CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 0 | PWM_U3/i(6)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 2 | 1 | 15 | 6 | 13
+INPUTS | 6 | PWM_U3/i(0)  | PWM_U3/i(1)  | PWM_U3/i(2)  | PWM_U3/i(3)  | PWM_U3/i(4)  | PWM_U3/i(5)
+INPUTMC | 6 | 0 | 12 | 0 | 5 | 0 | 4 | 0 | 3 | 0 | 2 | 0 | 1
+LCT | 1 | 2 | Internal_Name
+EQ | 3 | 
+   PWM_U3/i(6).T := !PWM_U3/i(0) & !PWM_U3/i(1) & !PWM_U3/i(2) & 
+	!PWM_U3/i(3) & !PWM_U3/i(4) & !PWM_U3/i(5);	// (1 pt, 6 inp)
+    PWM_U3/i(6).CLK = PWM_NamedSignal_2_5MHZ;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 15 | PWM_U3/i(7)_MC
+ATTRIBUTES | 2151678752 | 0
+OUTPUTMC | 1 | 6 | 13
+INPUTS | 8 | PWM_U3/i(0)  | PWM_U3/i(1)  | PWM_U3/i(2)  | PWM_U3/i(3)  | PWM_U3/i(4)  | PWM_U3/i(5)  | PWM_U3/i(6)  | PWM_NamedSignal_2_5MHZ
+INPUTMC | 8 | 0 | 12 | 0 | 5 | 0 | 4 | 0 | 3 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | 9
+EQ | 3 | 
+   PWM_U3/i(7).T := !PWM_U3/i(0) & !PWM_U3/i(1) & !PWM_U3/i(2) & 
+	!PWM_U3/i(3) & !PWM_U3/i(4) & !PWM_U3/i(5) & !PWM_U3/i(6);	// (1 pt, 7 inp)
+    PWM_U3/i(7).CLK = PWM_NamedSignal_2_5MHZ;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 6 | 12 | HA2_MC
+ATTRIBUTES | 1610875650 | 0
+INPUTS | 8 | PWM_U4/Q(0)  | PWM_U4/Q(3)  | PWM_U4/Q(1)  | PWM_U4/Q(2)  | PWM_U4/Q(4)  | PWM_U4/Q(5)  | PWM_U4/Q(6)  | PWM_U4/Q(7)
+INPUTMC | 8 | 0 | 13 | 0 | 6 | 0 | 14 | 0 | 15 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10
+EQ | 3 | 
+   HA2 = !PWM_U4/Q(0) & !PWM_U4/Q(3) & !PWM_U4/Q(1) & 
+	!PWM_U4/Q(2) & !PWM_U4/Q(4) & !PWM_U4/Q(5) & !PWM_U4/Q(6) & 
+	!PWM_U4/Q(7);	// (1 pt, 8 inp)
+
+MACROCELL | 0 | 13 | PWM_U4/Q(0)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 10 | 0 | 13 | 0 | 14 | 0 | 15 | 0 | 6 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 3 | PWM_U4/Q(0)  | HA1  | SW<0>
+INPUTMC | 2 | 0 | 13 | 6 | 13
+INPUTP | 1 | 54
+LCT | 1 | 2 | Internal_Name
+EQ | 3 | 
+   !PWM_U4/Q(0) := PWM_U4/Q(0) & !HA1
+	# HA1 & !SW<0>;	// (2 pt, 3 inp)
+    PWM_U4/Q(0).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 6 | PWM_U4/Q(3)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 7 | 0 | 6 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 6 | HA1  | PWM_U4/Q(3)  | SW<3>  | PWM_U4/Q(0)  | PWM_U4/Q(1)  | PWM_U4/Q(2)
+INPUTMC | 5 | 6 | 13 | 0 | 6 | 0 | 13 | 0 | 14 | 0 | 15
+INPUTP | 1 | 51
+LCT | 1 | 2 | Internal_Name
+EQ | 4 | 
+   !PWM_U4/Q(3) := !HA1 & !PWM_U4/Q(3)
+	$ HA1 & !SW<3>
+	# !PWM_U4/Q(0) & !HA1 & !PWM_U4/Q(1) & !PWM_U4/Q(2);	// (3 pt, 6 inp)
+    PWM_U4/Q(3).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 14 | PWM_U4/Q(1)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 9 | 0 | 14 | 0 | 15 | 0 | 6 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 4 | HA1  | SW<1>  | PWM_U4/Q(0)  | PWM_U4/Q(1)
+INPUTMC | 3 | 6 | 13 | 0 | 13 | 0 | 14
+INPUTP | 1 | 53
+LCT | 1 | 2 | Internal_Name
+EQ | 4 | 
+   !PWM_U4/Q(1) := HA1 & !SW<1>
+	# PWM_U4/Q(0) & !HA1 & !PWM_U4/Q(1)
+	# !PWM_U4/Q(0) & !HA1 & PWM_U4/Q(1);	// (3 pt, 4 inp)
+    PWM_U4/Q(1).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 15 | PWM_U4/Q(2)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 8 | 0 | 15 | 0 | 6 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 5 | PWM_U4/Q(0)  | HA1  | PWM_U4/Q(1)  | PWM_U4/Q(2)  | SW<2>
+INPUTMC | 4 | 0 | 13 | 6 | 13 | 0 | 14 | 0 | 15
+INPUTP | 1 | 52
+LCT | 1 | 2 | Internal_Name
+EQ | 4 | 
+   PWM_U4/Q(2).T := !PWM_U4/Q(0) & !HA1 & !PWM_U4/Q(1)
+	# HA1 & PWM_U4/Q(2) & !SW<2>
+	# HA1 & !PWM_U4/Q(2) & SW<2>;	// (3 pt, 5 inp)
+    PWM_U4/Q(2).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 7 | PWM_U4/Q(4)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 6 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 7 | HA1  | PWM_U4/Q(4)  | SW<4>  | PWM_U4/Q(0)  | PWM_U4/Q(3)  | PWM_U4/Q(1)  | PWM_U4/Q(2)
+INPUTMC | 6 | 6 | 13 | 0 | 7 | 0 | 13 | 0 | 6 | 0 | 14 | 0 | 15
+INPUTP | 1 | 49
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   !PWM_U4/Q(4) := !HA1 & !PWM_U4/Q(4)
+	$ HA1 & !SW<4>
+	# !PWM_U4/Q(0) & !HA1 & !PWM_U4/Q(3) & !PWM_U4/Q(1) & 
+	!PWM_U4/Q(2);	// (3 pt, 7 inp)
+    PWM_U4/Q(4).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 8 | PWM_U4/Q(5)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 5 | 0 | 8 | 0 | 9 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 8 | HA1  | PWM_U4/Q(5)  | SW<5>  | PWM_U4/Q(0)  | PWM_U4/Q(3)  | PWM_U4/Q(1)  | PWM_U4/Q(2)  | PWM_U4/Q(4)
+INPUTMC | 7 | 6 | 13 | 0 | 8 | 0 | 13 | 0 | 6 | 0 | 14 | 0 | 15 | 0 | 7
+INPUTP | 1 | 47
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   PWM_U4/Q(5).T := HA1 & PWM_U4/Q(5) & !SW<5>
+	# HA1 & !PWM_U4/Q(5) & SW<5>
+	# !PWM_U4/Q(0) & !HA1 & !PWM_U4/Q(3) & !PWM_U4/Q(1) & 
+	!PWM_U4/Q(2) & !PWM_U4/Q(4);	// (3 pt, 8 inp)
+    PWM_U4/Q(5).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 9 | PWM_U4/Q(6)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 4 | 0 | 9 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 9 | HA1  | PWM_U4/Q(6)  | SW<6>  | PWM_U4/Q(0)  | PWM_U4/Q(3)  | PWM_U4/Q(1)  | PWM_U4/Q(2)  | PWM_U4/Q(4)  | PWM_U4/Q(5)
+INPUTMC | 8 | 6 | 13 | 0 | 9 | 0 | 13 | 0 | 6 | 0 | 14 | 0 | 15 | 0 | 7 | 0 | 8
+INPUTP | 1 | 45
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   PWM_U4/Q(6).T := HA1 & PWM_U4/Q(6) & !SW<6>
+	# HA1 & !PWM_U4/Q(6) & SW<6>
+	# !PWM_U4/Q(0) & !HA1 & !PWM_U4/Q(3) & !PWM_U4/Q(1) & 
+	!PWM_U4/Q(2) & !PWM_U4/Q(4) & !PWM_U4/Q(5);	// (3 pt, 9 inp)
+    PWM_U4/Q(6).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 0 | 10 | PWM_U4/Q(7)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 3 | 0 | 10 | 6 | 12 | 6 | 10
+INPUTS | 10 | HA1  | PWM_U4/Q(7)  | SW<7>  | PWM_U4/Q(0)  | PWM_U4/Q(3)  | PWM_U4/Q(1)  | PWM_U4/Q(2)  | PWM_U4/Q(4)  | PWM_U4/Q(5)  | PWM_U4/Q(6)
+INPUTMC | 9 | 6 | 13 | 0 | 10 | 0 | 13 | 0 | 6 | 0 | 14 | 0 | 15 | 0 | 7 | 0 | 8 | 0 | 9
+INPUTP | 1 | 44
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   PWM_U4/Q(7).T := HA1 & PWM_U4/Q(7) & !SW<7>
+	# HA1 & !PWM_U4/Q(7) & SW<7>
+	# !PWM_U4/Q(0) & !HA1 & !PWM_U4/Q(3) & !PWM_U4/Q(1) & 
+	!PWM_U4/Q(2) & !PWM_U4/Q(4) & !PWM_U4/Q(5) & !PWM_U4/Q(6);	// (3 pt, 10 inp)
+    PWM_U4/Q(7).CLK = !(PWM_NamedSignal_2_5MHZ);	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 6 | 11 | HA3_MC
+ATTRIBUTES | 42205986 | 0
+INPUTS | 1 | HA1
+INPUTMC | 1 | 6 | 13
+LCT | 1 | 4 | Internal_Name
+EQ | 3 | 
+   !HA3 := Gnd;	// (0 pt, 0 inp)
+    HA3.CLK = HA1;	// PTC	(1 pt, 1 inp)
+    HA3.AR = HA2;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 6 | 10 | HA4_MC
+ATTRIBUTES | 1074004738 | 0
+INPUTS | 8 | PWM_U4/Q(0)  | PWM_U4/Q(3)  | PWM_U4/Q(1)  | PWM_U4/Q(2)  | PWM_U4/Q(4)  | PWM_U4/Q(5)  | PWM_U4/Q(6)  | PWM_U4/Q(7)
+INPUTMC | 8 | 0 | 13 | 0 | 6 | 0 | 14 | 0 | 15 | 0 | 7 | 0 | 8 | 0 | 9 | 0 | 10
+EQ | 3 | 
+   !HA4 = !PWM_U4/Q(0) & !PWM_U4/Q(3) & !PWM_U4/Q(1) & 
+	!PWM_U4/Q(2) & !PWM_U4/Q(4) & !PWM_U4/Q(5) & !PWM_U4/Q(6) & 
+	!PWM_U4/Q(7);	// (1 pt, 8 inp)
+
+MACROCELL | 2 | 15 | LEDS<0>_MC
+ATTRIBUTES | 2185495330 | 0
+OUTPUTMC | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+INPUTS | 10 | LEDS<0>  | PB0  | LEDS<4>  | LEDS<3>  | LEDS<5>  | LEDS<1>  | LEDS<6>  | LEDS<2>  | LEDS<7>  | Indexer_1_NamedSignal_20HZ
+INPUTMC | 9 | 2 | 15 | 10 | 12 | 10 | 13 | 10 | 11 | 10 | 15 | 10 | 10 | 10 | 14 | 10 | 3 | 2 | 5
+INPUTP | 1 | 133
+LCT | 1 | 4 | Internal_Name
+EQ | 6 | 
+   !LEDS<0>.T := LEDS<0> & !PB0 & LEDS<4> & LEDS<3> & LEDS<5> & 
+	LEDS<1> & LEDS<6> & LEDS<2> & LEDS<7>
+	# !LEDS<0> & PB0 & !LEDS<4> & !LEDS<3> & !LEDS<5> & 
+	!LEDS<1> & !LEDS<6> & !LEDS<2> & !LEDS<7>;	// (2 pt, 9 inp)
+    LEDS<0>.CLK = Indexer_1_NamedSignal_20HZ;	// PTC	(1 pt, 1 inp)
+    LEDS<0>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 10 | 12 | LEDS<4>_MC
+ATTRIBUTES | 2319713026 | 0
+OUTPUTMC | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+INPUTS | 9 | LEDS<0>  | PB0  | LEDS<4>  | LEDS<3>  | LEDS<1>  | LEDS<2>  | LEDS<5>  | LEDS<6>  | LEDS<7>
+INPUTMC | 8 | 2 | 15 | 10 | 12 | 10 | 13 | 10 | 15 | 10 | 14 | 10 | 11 | 10 | 10 | 10 | 3
+INPUTP | 1 | 133
+LCT | 2 | 4 | Internal_Name | 2 | Internal_Name
+EQ | 18 | 
+   LEDS<4>.T := LEDS<0> & !PB0 & !LEDS<4> & LEDS<3> & LEDS<1> & 
+	LEDS<2>
+	# LEDS<0> & !PB0 & LEDS<3> & !LEDS<5> & LEDS<1> & 
+	LEDS<2>
+	# LEDS<0> & !PB0 & LEDS<3> & LEDS<1> & !LEDS<6> & 
+	LEDS<2>
+	# LEDS<0> & !PB0 & LEDS<3> & LEDS<1> & LEDS<2> & 
+	!LEDS<7>
+	# !LEDS<0> & PB0 & LEDS<4> & !LEDS<3> & !LEDS<1> & 
+	!LEDS<2>
+	# !LEDS<0> & PB0 & !LEDS<3> & LEDS<5> & !LEDS<1> & 
+	!LEDS<2>
+	# !LEDS<0> & PB0 & !LEDS<3> & !LEDS<1> & LEDS<6> & 
+	!LEDS<2>
+	# !LEDS<0> & PB0 & !LEDS<3> & !LEDS<1> & !LEDS<2> & 
+	LEDS<7>;	// (8 pt, 9 inp)
+    LEDS<4>.CLK = Indexer_1_NamedSignal_20HZ;	// CTC	(1 pt, 1 inp)
+    LEDS<4>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 10 | 13 | LEDS<3>_MC
+ATTRIBUTES | 2323907330 | 0
+OUTPUTMC | 8 | 10 | 13 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 12 | 2 | 15
+INPUTS | 9 | LEDS<3>  | LEDS<0>  | LEDS<1>  | PB0  | LEDS<2>  | LEDS<4>  | LEDS<5>  | LEDS<6>  | LEDS<7>
+INPUTMC | 8 | 10 | 13 | 2 | 15 | 10 | 15 | 10 | 14 | 10 | 12 | 10 | 11 | 10 | 10 | 10 | 3
+INPUTP | 1 | 133
+LCT | 2 | 4 | Internal_Name | 2 | Internal_Name
+EQ | 11 | 
+   LEDS<3> := !LEDS<3>
+	$ LEDS<0> & !LEDS<1>
+	# !LEDS<0> & !PB0
+	# PB0 & LEDS<2>
+	# LEDS<1> & !LEDS<2>
+	# LEDS<4> & LEDS<3> & LEDS<5> & LEDS<6> & 
+	LEDS<2> & LEDS<7>
+	# !LEDS<4> & !LEDS<3> & !LEDS<5> & !LEDS<6> & 
+	!LEDS<2> & !LEDS<7>;	// (7 pt, 9 inp)
+    LEDS<3>.CLK = Indexer_1_NamedSignal_20HZ;	// CTC	(1 pt, 1 inp)
+    LEDS<3>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 10 | 15 | LEDS<1>_MC
+ATTRIBUTES | 2319713026 | 0
+OUTPUTMC | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+INPUTS | 9 | LEDS<0>  | PB0  | LEDS<4>  | LEDS<3>  | LEDS<5>  | LEDS<1>  | LEDS<6>  | LEDS<2>  | LEDS<7>
+INPUTMC | 8 | 2 | 15 | 10 | 12 | 10 | 13 | 10 | 11 | 10 | 15 | 10 | 10 | 10 | 14 | 10 | 3
+INPUTP | 1 | 133
+LCT | 2 | 4 | Internal_Name | 2 | Internal_Name
+EQ | 8 | 
+   !LEDS<1>.T := LEDS<0> & PB0
+	# !LEDS<0> & !PB0
+	# LEDS<0> & LEDS<4> & LEDS<3> & LEDS<5> & 
+	LEDS<1> & LEDS<6> & LEDS<2> & LEDS<7>
+	# !LEDS<0> & !LEDS<4> & !LEDS<3> & !LEDS<5> & 
+	!LEDS<1> & !LEDS<6> & !LEDS<2> & !LEDS<7>;	// (4 pt, 9 inp)
+    LEDS<1>.CLK = Indexer_1_NamedSignal_20HZ;	// CTC	(1 pt, 1 inp)
+    LEDS<1>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 10 | 11 | LEDS<5>_MC
+ATTRIBUTES | 2319713026 | 0
+OUTPUTMC | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+INPUTS | 9 | LEDS<0>  | PB0  | LEDS<4>  | LEDS<3>  | LEDS<5>  | LEDS<1>  | LEDS<2>  | LEDS<6>  | LEDS<7>
+INPUTMC | 8 | 2 | 15 | 10 | 12 | 10 | 13 | 10 | 11 | 10 | 15 | 10 | 14 | 10 | 10 | 10 | 3
+INPUTP | 1 | 133
+LCT | 2 | 4 | Internal_Name | 2 | Internal_Name
+EQ | 14 | 
+   LEDS<5>.T := LEDS<0> & !PB0 & LEDS<4> & LEDS<3> & !LEDS<5> & 
+	LEDS<1> & LEDS<2>
+	# LEDS<0> & !PB0 & LEDS<4> & LEDS<3> & LEDS<1> & 
+	!LEDS<6> & LEDS<2>
+	# LEDS<0> & !PB0 & LEDS<4> & LEDS<3> & LEDS<1> & 
+	LEDS<2> & !LEDS<7>
+	# !LEDS<0> & PB0 & !LEDS<4> & !LEDS<3> & LEDS<5> & 
+	!LEDS<1> & !LEDS<2>
+	# !LEDS<0> & PB0 & !LEDS<4> & !LEDS<3> & !LEDS<1> & 
+	LEDS<6> & !LEDS<2>
+	# !LEDS<0> & PB0 & !LEDS<4> & !LEDS<3> & !LEDS<1> & 
+	!LEDS<2> & LEDS<7>;	// (6 pt, 9 inp)
+    LEDS<5>.CLK = Indexer_1_NamedSignal_20HZ;	// CTC	(1 pt, 1 inp)
+    LEDS<5>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 10 | 14 | LEDS<2>_MC
+ATTRIBUTES | 2319713026 | 0
+OUTPUTMC | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+INPUTS | 9 | LEDS<0>  | PB0  | LEDS<1>  | LEDS<4>  | LEDS<3>  | LEDS<5>  | LEDS<6>  | LEDS<2>  | LEDS<7>
+INPUTMC | 8 | 2 | 15 | 10 | 15 | 10 | 12 | 10 | 13 | 10 | 11 | 10 | 10 | 10 | 14 | 10 | 3
+INPUTP | 1 | 133
+LCT | 2 | 4 | Internal_Name | 2 | Internal_Name
+EQ | 10 | 
+   !LEDS<2>.T := LEDS<0> & PB0
+	# LEDS<0> & !LEDS<1>
+	# !LEDS<0> & !PB0
+	# !LEDS<0> & LEDS<1>
+	# LEDS<0> & LEDS<4> & LEDS<3> & LEDS<5> & 
+	LEDS<6> & LEDS<2> & LEDS<7>
+	# !LEDS<0> & !LEDS<4> & !LEDS<3> & !LEDS<5> & 
+	!LEDS<6> & !LEDS<2> & !LEDS<7>;	// (6 pt, 9 inp)
+    LEDS<2>.CLK = Indexer_1_NamedSignal_20HZ;	// CTC	(1 pt, 1 inp)
+    LEDS<2>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 10 | 10 | LEDS<6>_MC
+ATTRIBUTES | 2319713026 | 0
+OUTPUTMC | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+INPUTS | 9 | LEDS<0>  | PB0  | LEDS<4>  | LEDS<3>  | LEDS<5>  | LEDS<1>  | LEDS<6>  | LEDS<2>  | LEDS<7>
+INPUTMC | 8 | 2 | 15 | 10 | 12 | 10 | 13 | 10 | 11 | 10 | 15 | 10 | 10 | 10 | 14 | 10 | 3
+INPUTP | 1 | 133
+LCT | 2 | 4 | Internal_Name | 2 | Internal_Name
+EQ | 10 | 
+   LEDS<6>.T := LEDS<0> & !PB0 & LEDS<4> & LEDS<3> & LEDS<5> & 
+	LEDS<1> & !LEDS<6> & LEDS<2>
+	# LEDS<0> & !PB0 & LEDS<4> & LEDS<3> & LEDS<5> & 
+	LEDS<1> & LEDS<2> & !LEDS<7>
+	# !LEDS<0> & PB0 & !LEDS<4> & !LEDS<3> & !LEDS<5> & 
+	!LEDS<1> & LEDS<6> & !LEDS<2>
+	# !LEDS<0> & PB0 & !LEDS<4> & !LEDS<3> & !LEDS<5> & 
+	!LEDS<1> & !LEDS<2> & LEDS<7>;	// (4 pt, 9 inp)
+    LEDS<6>.CLK = Indexer_1_NamedSignal_20HZ;	// CTC	(1 pt, 1 inp)
+    LEDS<6>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 10 | 3 | LEDS<7>_MC
+ATTRIBUTES | 2319713026 | 0
+OUTPUTMC | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+INPUTS | 9 | LEDS<0>  | PB0  | LEDS<4>  | LEDS<3>  | LEDS<5>  | LEDS<1>  | LEDS<6>  | LEDS<2>  | LEDS<7>
+INPUTMC | 8 | 2 | 15 | 10 | 12 | 10 | 13 | 10 | 11 | 10 | 15 | 10 | 10 | 10 | 14 | 10 | 3
+INPUTP | 1 | 133
+LCT | 2 | 4 | Internal_Name | 2 | Internal_Name
+EQ | 6 | 
+   LEDS<7>.T := LEDS<0> & !PB0 & LEDS<4> & LEDS<3> & LEDS<5> & 
+	LEDS<1> & LEDS<6> & LEDS<2> & !LEDS<7>
+	# !LEDS<0> & PB0 & !LEDS<4> & !LEDS<3> & !LEDS<5> & 
+	!LEDS<1> & !LEDS<6> & !LEDS<2> & LEDS<7>;	// (2 pt, 9 inp)
+    LEDS<7>.CLK = Indexer_1_NamedSignal_20HZ;	// CTC	(1 pt, 1 inp)
+    LEDS<7>.AR = !PB1;	// CTR	(1 pt, 1 inp)
+
+MACROCELL | 2 | 5 | Indexer_1_NamedSignal_20HZ_MC
+ATTRIBUTES | 2151678752 | 0
+OUTPUTMC | 1 | 2 | 15
+INPUTS | 4 | Indexer_1_U15/i(0)  | Indexer_1_U15/i(1)  | Indexer_1_U15/i(2)  | Indexer_1_PinSignal_U14_CLKDV
+INPUTMC | 4 | 2 | 11 | 2 | 4 | 2 | 3 | 2 | 14
+EQ | 5 | 
+   Indexer_1_NamedSignal_20HZ.T := Indexer_1_U15/i(0) & !Indexer_1_U15/i(1) & 
+	Indexer_1_U15/i(2)
+	# !Indexer_1_U15/i(0) & Indexer_1_U15/i(1) & 
+	Indexer_1_U15/i(2);	// (2 pt, 3 inp)
+    Indexer_1_NamedSignal_20HZ.CLK = Indexer_1_PinSignal_U14_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 11 | Indexer_1_U15/i(0)_MC
+ATTRIBUTES | 2151678752 | 0
+OUTPUTMC | 4 | 2 | 3 | 2 | 4 | 2 | 11 | 2 | 5
+INPUTS | 4 | Indexer_1_U15/i(0)  | Indexer_1_U15/i(1)  | Indexer_1_U15/i(2)  | Indexer_1_PinSignal_U14_CLKDV
+INPUTMC | 4 | 2 | 11 | 2 | 4 | 2 | 3 | 2 | 14
+EQ | 3 | 
+   !Indexer_1_U15/i(0).T := Indexer_1_U15/i(0) & !Indexer_1_U15/i(1) & 
+	Indexer_1_U15/i(2);	// (1 pt, 3 inp)
+    Indexer_1_U15/i(0).CLK = Indexer_1_PinSignal_U14_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 4 | Indexer_1_U15/i(1)_MC
+ATTRIBUTES | 2155873056 | 0
+OUTPUTMC | 4 | 2 | 3 | 2 | 4 | 2 | 11 | 2 | 5
+INPUTS | 4 | Indexer_1_U15/i(0)  | Indexer_1_U15/i(1)  | Indexer_1_U15/i(2)  | Indexer_1_PinSignal_U14_CLKDV
+INPUTMC | 4 | 2 | 11 | 2 | 4 | 2 | 3 | 2 | 14
+EQ | 5 | 
+   Indexer_1_U15/i(1) := Indexer_1_U15/i(0) & !Indexer_1_U15/i(1) & 
+	!Indexer_1_U15/i(2)
+	# !Indexer_1_U15/i(0) & Indexer_1_U15/i(1) & 
+	!Indexer_1_U15/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U15/i(1).CLK = Indexer_1_PinSignal_U14_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 3 | Indexer_1_U15/i(2)_MC
+ATTRIBUTES | 2155873056 | 0
+OUTPUTMC | 4 | 2 | 3 | 2 | 4 | 2 | 11 | 2 | 5
+INPUTS | 4 | Indexer_1_U15/i(0)  | Indexer_1_U15/i(1)  | Indexer_1_U15/i(2)  | Indexer_1_PinSignal_U14_CLKDV
+INPUTMC | 4 | 2 | 11 | 2 | 4 | 2 | 3 | 2 | 14
+EQ | 5 | 
+   Indexer_1_U15/i(2) := Indexer_1_U15/i(0) & Indexer_1_U15/i(1) & 
+	!Indexer_1_U15/i(2)
+	# !Indexer_1_U15/i(0) & !Indexer_1_U15/i(1) & 
+	Indexer_1_U15/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U15/i(2).CLK = Indexer_1_PinSignal_U14_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 14 | Indexer_1_PinSignal_U14_CLKDV_MC
+ATTRIBUTES | 2151678752 | 0
+OUTPUTMC | 4 | 2 | 3 | 2 | 4 | 2 | 11 | 2 | 5
+INPUTS | 4 | Indexer_1_U14/i(0)  | Indexer_1_U14/i(1)  | Indexer_1_U14/i(2)  | Indexer_1_PinSignal_U13_CLKDV
+INPUTMC | 4 | 2 | 6 | 2 | 13 | 2 | 12 | 2 | 9
+EQ | 5 | 
+   Indexer_1_PinSignal_U14_CLKDV.T := Indexer_1_U14/i(0) & !Indexer_1_U14/i(1) & 
+	Indexer_1_U14/i(2)
+	# !Indexer_1_U14/i(0) & Indexer_1_U14/i(1) & 
+	Indexer_1_U14/i(2);	// (2 pt, 3 inp)
+    Indexer_1_PinSignal_U14_CLKDV.CLK = Indexer_1_PinSignal_U13_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 6 | Indexer_1_U14/i(0)_MC
+ATTRIBUTES | 2151678752 | 0
+OUTPUTMC | 4 | 2 | 12 | 2 | 13 | 2 | 6 | 2 | 14
+INPUTS | 4 | Indexer_1_U14/i(0)  | Indexer_1_U14/i(1)  | Indexer_1_U14/i(2)  | Indexer_1_PinSignal_U13_CLKDV
+INPUTMC | 4 | 2 | 6 | 2 | 13 | 2 | 12 | 2 | 9
+EQ | 3 | 
+   !Indexer_1_U14/i(0).T := Indexer_1_U14/i(0) & !Indexer_1_U14/i(1) & 
+	Indexer_1_U14/i(2);	// (1 pt, 3 inp)
+    Indexer_1_U14/i(0).CLK = Indexer_1_PinSignal_U13_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 13 | Indexer_1_U14/i(1)_MC
+ATTRIBUTES | 2155873056 | 0
+OUTPUTMC | 4 | 2 | 12 | 2 | 13 | 2 | 6 | 2 | 14
+INPUTS | 4 | Indexer_1_U14/i(0)  | Indexer_1_U14/i(1)  | Indexer_1_U14/i(2)  | Indexer_1_PinSignal_U13_CLKDV
+INPUTMC | 4 | 2 | 6 | 2 | 13 | 2 | 12 | 2 | 9
+EQ | 5 | 
+   Indexer_1_U14/i(1) := Indexer_1_U14/i(0) & !Indexer_1_U14/i(1) & 
+	!Indexer_1_U14/i(2)
+	# !Indexer_1_U14/i(0) & Indexer_1_U14/i(1) & 
+	!Indexer_1_U14/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U14/i(1).CLK = Indexer_1_PinSignal_U13_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 12 | Indexer_1_U14/i(2)_MC
+ATTRIBUTES | 2155873056 | 0
+OUTPUTMC | 4 | 2 | 12 | 2 | 13 | 2 | 6 | 2 | 14
+INPUTS | 4 | Indexer_1_U14/i(0)  | Indexer_1_U14/i(1)  | Indexer_1_U14/i(2)  | Indexer_1_PinSignal_U13_CLKDV
+INPUTMC | 4 | 2 | 6 | 2 | 13 | 2 | 12 | 2 | 9
+EQ | 5 | 
+   Indexer_1_U14/i(2) := Indexer_1_U14/i(0) & Indexer_1_U14/i(1) & 
+	!Indexer_1_U14/i(2)
+	# !Indexer_1_U14/i(0) & !Indexer_1_U14/i(1) & 
+	Indexer_1_U14/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U14/i(2).CLK = Indexer_1_PinSignal_U13_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 9 | Indexer_1_PinSignal_U13_CLKDV_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 4 | 2 | 12 | 2 | 13 | 2 | 6 | 2 | 14
+INPUTS | 3 | Indexer_1_U13/i(0)  | Indexer_1_U13/i(1)  | Indexer_1_U13/i(2)
+INPUTMC | 3 | 2 | 10 | 2 | 8 | 2 | 7
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   Indexer_1_PinSignal_U13_CLKDV.T := Indexer_1_U13/i(0) & !Indexer_1_U13/i(1) & 
+	Indexer_1_U13/i(2)
+	# !Indexer_1_U13/i(0) & Indexer_1_U13/i(1) & 
+	Indexer_1_U13/i(2);	// (2 pt, 3 inp)
+    Indexer_1_PinSignal_U13_CLKDV.CLK = Indexer_1_PinSignal_U12_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 10 | Indexer_1_U13/i(0)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 4 | 2 | 7 | 2 | 8 | 2 | 10 | 2 | 9
+INPUTS | 3 | Indexer_1_U13/i(0)  | Indexer_1_U13/i(1)  | Indexer_1_U13/i(2)
+INPUTMC | 3 | 2 | 10 | 2 | 8 | 2 | 7
+LCT | 1 | 2 | Internal_Name
+EQ | 3 | 
+   !Indexer_1_U13/i(0).T := Indexer_1_U13/i(0) & !Indexer_1_U13/i(1) & 
+	Indexer_1_U13/i(2);	// (1 pt, 3 inp)
+    Indexer_1_U13/i(0).CLK = Indexer_1_PinSignal_U12_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 8 | Indexer_1_U13/i(1)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 4 | 2 | 7 | 2 | 8 | 2 | 10 | 2 | 9
+INPUTS | 3 | Indexer_1_U13/i(0)  | Indexer_1_U13/i(1)  | Indexer_1_U13/i(2)
+INPUTMC | 3 | 2 | 10 | 2 | 8 | 2 | 7
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   Indexer_1_U13/i(1) := Indexer_1_U13/i(0) & !Indexer_1_U13/i(1) & 
+	!Indexer_1_U13/i(2)
+	# !Indexer_1_U13/i(0) & Indexer_1_U13/i(1) & 
+	!Indexer_1_U13/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U13/i(1).CLK = Indexer_1_PinSignal_U12_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 2 | 7 | Indexer_1_U13/i(2)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 4 | 2 | 7 | 2 | 8 | 2 | 10 | 2 | 9
+INPUTS | 3 | Indexer_1_U13/i(0)  | Indexer_1_U13/i(1)  | Indexer_1_U13/i(2)
+INPUTMC | 3 | 2 | 10 | 2 | 8 | 2 | 7
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   Indexer_1_U13/i(2) := Indexer_1_U13/i(0) & Indexer_1_U13/i(1) & 
+	!Indexer_1_U13/i(2)
+	# !Indexer_1_U13/i(0) & !Indexer_1_U13/i(1) & 
+	Indexer_1_U13/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U13/i(2).CLK = Indexer_1_PinSignal_U12_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 2 | Indexer_1_PinSignal_U12_CLKDV_MC
+ATTRIBUTES | 2151678752 | 0
+INPUTS | 4 | Indexer_1_U12/i(0)  | Indexer_1_U12/i(1)  | Indexer_1_U12/i(2)  | Indexer_1_PinSignal_U11_CLKDV
+INPUTMC | 4 | 1 | 3 | 1 | 1 | 1 | 0 | 1 | 11
+EQ | 5 | 
+   Indexer_1_PinSignal_U12_CLKDV.T := Indexer_1_U12/i(0) & !Indexer_1_U12/i(1) & 
+	Indexer_1_U12/i(2)
+	# !Indexer_1_U12/i(0) & Indexer_1_U12/i(1) & 
+	Indexer_1_U12/i(2);	// (2 pt, 3 inp)
+    Indexer_1_PinSignal_U12_CLKDV.CLK = Indexer_1_PinSignal_U11_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 3 | Indexer_1_U12/i(0)_MC
+ATTRIBUTES | 2151678752 | 0
+OUTPUTMC | 4 | 1 | 0 | 1 | 1 | 1 | 3 | 1 | 2
+INPUTS | 4 | Indexer_1_U12/i(0)  | Indexer_1_U12/i(1)  | Indexer_1_U12/i(2)  | Indexer_1_PinSignal_U11_CLKDV
+INPUTMC | 4 | 1 | 3 | 1 | 1 | 1 | 0 | 1 | 11
+EQ | 3 | 
+   !Indexer_1_U12/i(0).T := Indexer_1_U12/i(0) & !Indexer_1_U12/i(1) & 
+	Indexer_1_U12/i(2);	// (1 pt, 3 inp)
+    Indexer_1_U12/i(0).CLK = Indexer_1_PinSignal_U11_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 1 | Indexer_1_U12/i(1)_MC
+ATTRIBUTES | 2155873056 | 0
+OUTPUTMC | 4 | 1 | 0 | 1 | 1 | 1 | 3 | 1 | 2
+INPUTS | 4 | Indexer_1_U12/i(0)  | Indexer_1_U12/i(1)  | Indexer_1_U12/i(2)  | Indexer_1_PinSignal_U11_CLKDV
+INPUTMC | 4 | 1 | 3 | 1 | 1 | 1 | 0 | 1 | 11
+EQ | 5 | 
+   Indexer_1_U12/i(1) := Indexer_1_U12/i(0) & !Indexer_1_U12/i(1) & 
+	!Indexer_1_U12/i(2)
+	# !Indexer_1_U12/i(0) & Indexer_1_U12/i(1) & 
+	!Indexer_1_U12/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U12/i(1).CLK = Indexer_1_PinSignal_U11_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 0 | Indexer_1_U12/i(2)_MC
+ATTRIBUTES | 2155873056 | 0
+OUTPUTMC | 4 | 1 | 0 | 1 | 1 | 1 | 3 | 1 | 2
+INPUTS | 4 | Indexer_1_U12/i(0)  | Indexer_1_U12/i(1)  | Indexer_1_U12/i(2)  | Indexer_1_PinSignal_U11_CLKDV
+INPUTMC | 4 | 1 | 3 | 1 | 1 | 1 | 0 | 1 | 11
+EQ | 5 | 
+   Indexer_1_U12/i(2) := Indexer_1_U12/i(0) & Indexer_1_U12/i(1) & 
+	!Indexer_1_U12/i(2)
+	# !Indexer_1_U12/i(0) & !Indexer_1_U12/i(1) & 
+	Indexer_1_U12/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U12/i(2).CLK = Indexer_1_PinSignal_U11_CLKDV;	// PTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 11 | Indexer_1_PinSignal_U11_CLKDV_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 4 | 1 | 0 | 1 | 1 | 1 | 3 | 1 | 2
+INPUTS | 3 | Indexer_1_U11/i(0)  | Indexer_1_U11/i(1)  | Indexer_1_U11/i(2)
+INPUTMC | 3 | 1 | 12 | 1 | 5 | 1 | 4
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   Indexer_1_PinSignal_U11_CLKDV.T := Indexer_1_U11/i(0) & !Indexer_1_U11/i(1) & 
+	Indexer_1_U11/i(2)
+	# !Indexer_1_U11/i(0) & Indexer_1_U11/i(1) & 
+	Indexer_1_U11/i(2);	// (2 pt, 3 inp)
+    Indexer_1_PinSignal_U11_CLKDV.CLK = Indexer_1_PinSignal_U10_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 12 | Indexer_1_U11/i(0)_MC
+ATTRIBUTES | 2285896448 | 0
+OUTPUTMC | 4 | 1 | 4 | 1 | 5 | 1 | 12 | 1 | 11
+INPUTS | 3 | Indexer_1_U11/i(0)  | Indexer_1_U11/i(1)  | Indexer_1_U11/i(2)
+INPUTMC | 3 | 1 | 12 | 1 | 5 | 1 | 4
+LCT | 1 | 2 | Internal_Name
+EQ | 3 | 
+   !Indexer_1_U11/i(0).T := Indexer_1_U11/i(0) & !Indexer_1_U11/i(1) & 
+	Indexer_1_U11/i(2);	// (1 pt, 3 inp)
+    Indexer_1_U11/i(0).CLK = Indexer_1_PinSignal_U10_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 5 | Indexer_1_U11/i(1)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 4 | 1 | 4 | 1 | 5 | 1 | 12 | 1 | 11
+INPUTS | 3 | Indexer_1_U11/i(0)  | Indexer_1_U11/i(1)  | Indexer_1_U11/i(2)
+INPUTMC | 3 | 1 | 12 | 1 | 5 | 1 | 4
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   Indexer_1_U11/i(1) := Indexer_1_U11/i(0) & !Indexer_1_U11/i(1) & 
+	!Indexer_1_U11/i(2)
+	# !Indexer_1_U11/i(0) & Indexer_1_U11/i(1) & 
+	!Indexer_1_U11/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U11/i(1).CLK = Indexer_1_PinSignal_U10_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 4 | Indexer_1_U11/i(2)_MC
+ATTRIBUTES | 2290090752 | 0
+OUTPUTMC | 4 | 1 | 4 | 1 | 5 | 1 | 12 | 1 | 11
+INPUTS | 3 | Indexer_1_U11/i(0)  | Indexer_1_U11/i(1)  | Indexer_1_U11/i(2)
+INPUTMC | 3 | 1 | 12 | 1 | 5 | 1 | 4
+LCT | 1 | 2 | Internal_Name
+EQ | 5 | 
+   Indexer_1_U11/i(2) := Indexer_1_U11/i(0) & Indexer_1_U11/i(1) & 
+	!Indexer_1_U11/i(2)
+	# !Indexer_1_U11/i(0) & !Indexer_1_U11/i(1) & 
+	Indexer_1_U11/i(2);	// (2 pt, 3 inp)
+    Indexer_1_U11/i(2).CLK = Indexer_1_PinSignal_U10_CLKDV;	// CTC	(1 pt, 1 inp)
+
+MACROCELL | 1 | 6 | Indexer_1_PinSignal_U10_CLKDV_MC
+ATTRIBUTES | 2151711488 | 0
+INPUTS | 3 | Indexer_1_U10/i(0)  | Indexer_1_U10/i(1)  | Indexer_1_U10/i(2)
+INPUTMC | 3 | 1 | 7 | 1 | 14 | 1 | 13
+EQ | 5 | 
+   Indexer_1_PinSignal_U10_CLKDV.T := Indexer_1_U10/i(0) & !Indexer_1_U10/i(1) & 
+	Indexer_1_U10/i(2)
+	# !Indexer_1_U10/i(0) & Indexer_1_U10/i(1) & 
+	Indexer_1_U10/i(2);	// (2 pt, 3 inp)
+   Indexer_1_PinSignal_U10_CLKDV.CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+MACROCELL | 1 | 7 | Indexer_1_U10/i(0)_MC
+ATTRIBUTES | 2151711488 | 0
+OUTPUTMC | 4 | 1 | 13 | 1 | 14 | 1 | 7 | 1 | 6
+INPUTS | 3 | Indexer_1_U10/i(0)  | Indexer_1_U10/i(1)  | Indexer_1_U10/i(2)
+INPUTMC | 3 | 1 | 7 | 1 | 14 | 1 | 13
+EQ | 3 | 
+   !Indexer_1_U10/i(0).T := Indexer_1_U10/i(0) & !Indexer_1_U10/i(1) & 
+	Indexer_1_U10/i(2);	// (1 pt, 3 inp)
+   Indexer_1_U10/i(0).CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+MACROCELL | 1 | 14 | Indexer_1_U10/i(1)_MC
+ATTRIBUTES | 2155905792 | 0
+OUTPUTMC | 4 | 1 | 13 | 1 | 14 | 1 | 7 | 1 | 6
+INPUTS | 3 | Indexer_1_U10/i(0)  | Indexer_1_U10/i(1)  | Indexer_1_U10/i(2)
+INPUTMC | 3 | 1 | 7 | 1 | 14 | 1 | 13
+EQ | 5 | 
+   Indexer_1_U10/i(1) := Indexer_1_U10/i(0) & !Indexer_1_U10/i(1) & 
+	!Indexer_1_U10/i(2)
+	# !Indexer_1_U10/i(0) & Indexer_1_U10/i(1) & 
+	!Indexer_1_U10/i(2);	// (2 pt, 3 inp)
+   Indexer_1_U10/i(1).CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+MACROCELL | 1 | 13 | Indexer_1_U10/i(2)_MC
+ATTRIBUTES | 2155905792 | 0
+OUTPUTMC | 4 | 1 | 13 | 1 | 14 | 1 | 7 | 1 | 6
+INPUTS | 3 | Indexer_1_U10/i(0)  | Indexer_1_U10/i(1)  | Indexer_1_U10/i(2)
+INPUTMC | 3 | 1 | 7 | 1 | 14 | 1 | 13
+EQ | 5 | 
+   Indexer_1_U10/i(2) := Indexer_1_U10/i(0) & Indexer_1_U10/i(1) & 
+	!Indexer_1_U10/i(2)
+	# !Indexer_1_U10/i(0) & !Indexer_1_U10/i(1) & 
+	Indexer_1_U10/i(2);	// (2 pt, 3 inp)
+   Indexer_1_U10/i(2).CLK  =  CLK;	// GCK	(0 pt, 0 inp)
+GLOBALS | 1 | 2 | CLK
+
+PIN | CLK | 16384 | 0 | LVCMOS18 | 59 | 8 | 0 | 11 | 1 | 10 | 1 | 8 | 1 | 9 | 1 | 13 | 1 | 14 | 1 | 7 | 1 | 6
+PIN | SW<0> | 64 | 0 | LVCMOS18 | 54 | 1 | 0 | 13
+PIN | SW<3> | 64 | 0 | LVCMOS18 | 51 | 1 | 0 | 6
+PIN | SW<1> | 64 | 0 | LVCMOS18 | 53 | 1 | 0 | 14
+PIN | SW<2> | 64 | 0 | LVCMOS18 | 52 | 1 | 0 | 15
+PIN | SW<4> | 64 | 0 | LVCMOS18 | 49 | 1 | 0 | 7
+PIN | SW<5> | 64 | 0 | LVCMOS18 | 47 | 1 | 0 | 8
+PIN | SW<6> | 64 | 0 | LVCMOS18 | 45 | 1 | 0 | 9
+PIN | SW<7> | 64 | 0 | LVCMOS18 | 44 | 1 | 0 | 10
+PIN | PB0 | 64 | 0 | LVCMOS18 | 133 | 8 | 10 | 3 | 10 | 10 | 10 | 14 | 10 | 11 | 10 | 15 | 10 | 13 | 10 | 12 | 2 | 15
+PIN | PB1 | 64 | 0 | LVCMOS18 | 132 | 0
+PIN | HA1 | 536871040 | 0 | LVCMOS18 | 30
+PIN | HA2 | 536871040 | 0 | LVCMOS18 | 31
+PIN | HA3 | 536871040 | 0 | LVCMOS18 | 32
+PIN | HA4 | 536871040 | 0 | LVCMOS18 | 33
+PIN | LEDS<0> | 536871040 | 0 | LVCMOS18 | 197
+PIN | LEDS<1> | 536871040 | 0 | LVCMOS18 | 196
+PIN | LEDS<2> | 536871040 | 0 | LVCMOS18 | 195
+PIN | LEDS<3> | 536871040 | 0 | LVCMOS18 | 194
+PIN | LEDS<4> | 536871040 | 0 | LVCMOS18 | 192
+PIN | LEDS<5> | 536871040 | 0 | LVCMOS18 | 191
+PIN | LEDS<6> | 536871040 | 0 | LVCMOS18 | 190
+PIN | LEDS<7> | 536871040 | 0 | LVCMOS18 | 185

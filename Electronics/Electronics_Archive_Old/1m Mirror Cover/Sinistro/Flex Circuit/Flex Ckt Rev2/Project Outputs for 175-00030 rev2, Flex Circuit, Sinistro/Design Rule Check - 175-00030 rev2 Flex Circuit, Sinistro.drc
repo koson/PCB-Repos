@@ -1,0 +1,50 @@
+Protel Design System Design Rule Check
+PCB File : U:\Altum Projects\Sinistro\Flex Circuit\Flex Ckt Rev2\175-00030 rev2 Flex Circuit, Sinistro.PcbDoc
+Date     : 6/30/2011
+Time     : 3:55:08 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) (InNet('AGND')),(All)
+Rule Violations :0
+
+Processing Rule : Room 780-00034 rev2 Flex Circuit, Sinistro (Bounding Region = (26193mil, 15484mil, 30833mil, 22880.688mil) (InComponentClass('780-00034 rev2 Flex Circuit, Sinistro'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:00

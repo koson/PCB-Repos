@@ -1,0 +1,60 @@
+.model DC_drive
+.outputs LEDS0
+.outputs LEDS1
+.outputs LEDS2
+.inputs PB0
+.inputs PB1
+.inputs PB2
+.inputs PB3
+.loc DC motor drive interface.VHD 96
+.subckt INV U10 I=-U10/I O=+PinSignal_U10_O
+.names PB3 U10/I
+1 1
+.loc DC motor drive interface.VHD 103
+.subckt AND2S u9 I0=-u9/I0 I1=-u9/I1 O=+PinSignal_u9_O
+.names PinSignal_U10_O u9/I0
+1 1
+.names PinSignal_U4_Q1 u9/I1
+1 1
+.loc DC motor drive interface.VHD 111
+.subckt INV U8 I=-U8/I O=+PinSignal_U8_O
+.names PB2 U8/I
+1 1
+.loc DC motor drive interface.VHD 118
+.subckt OR2S U7 I0=-U7/I0 I1=-U7/I1 O=+PinSignal_U7_O
+.names PinSignal_u9_O U7/I0
+1 1
+.names PinSignal_U5_O U7/I1
+1 1
+.loc DC motor drive interface.VHD 126
+.subckt INV U6 I=-U6/I O=+LEDS2
+.names PinSignal_U7_O U6/I
+1 1
+.loc DC motor drive interface.VHD 133
+.subckt AND2S U5 I0=-U5/I0 I1=-U5/I1 O=+PinSignal_U5_O
+.names PinSignal_U8_O U5/I0
+1 1
+.names PinSignal_U4_Q0 U5/I1
+1 1
+.loc DC motor drive interface.VHD 141
+.subckt FD2CS U4 C=-U4/C CLR=-U4/CLR D0=-U4/D0 D1=-U4/D1 Q0=+PinSignal_U4_Q0 Q1=+PinSignal_U4_Q1
+.names PB1 U4/C
+1 1
+.names PinSignal_U7_O U4/CLR
+1 1
+.names PinSignal_U3_O U4/D0
+1 1
+.names PB0 U4/D1
+1 1
+.loc DC motor drive interface.VHD 152
+.subckt INV U3 I=-U3/I O=+PinSignal_U3_O
+.names PB0 U3/I
+1 1
+.loc DC motor drive interface.VHD 159
+.subckt INV U2 I=-U2/I O=+LEDS1
+.names PinSignal_U4_Q1 U2/I
+1 1
+.loc DC motor drive interface.VHD 166
+.subckt INV U1 I=-U1/I O=+LEDS0
+.names PinSignal_U4_Q0 U1/I
+1 1

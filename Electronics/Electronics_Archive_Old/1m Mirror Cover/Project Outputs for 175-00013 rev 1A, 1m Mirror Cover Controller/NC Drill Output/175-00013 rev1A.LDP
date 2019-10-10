@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Files\users\rlobdill\Altum Projects\1m mirror cover\175-00013 rev1A.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=175-00013 rev1a-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=175-00013 rev1a-nonplated.txt|LayerPairs=gtl,gbl

@@ -1,0 +1,68 @@
+###############################################################################
+### Altium HDL Synthesizer 1.1.0.1
+### Copyright (C) 2005-2009, Altium Limited. All Rights Reserved
+###############################################################################
+### Timestamp: 5/24/2012 4:53:14 PM
+###############################################################################
+### Commandline: AltiumSynthesizer.exe "-o" "Point4_Lambert_PLD_Project.mof" "-p" "Point4_Lambert_PLD_Project.mpf"
+###
+### Options:
+###
+### Synthesizing Point4_Lambert_PLD_Project for CoolRunnerXPLA3
+### Entity                  : Point4_Lambert_PLD_Project
+### VerilogMode             : 1 (0=Verilog95, 1=Verilog2001, 2=VerilogSystem, 3=Ams)
+### VHDL87                  : False
+### Insert Toplevel Buffers : True
+### Combinational Logic Opt : 3 (1=Low, 3=Normal, 5=High)
+###############################################################################
+### Compilation Report
+###############################################################################
+
+analyzing entity point4_lambert_pld_project
+analyzing architecture structure
+###############################################################################
+### Elaboration Report
+###############################################################################
+
+executing Point4_Lambert_PLD_Project(structure)
+
+###############################################################################
+### Synthesis Report
+###############################################################################
+
+###############################################################################
+### Optimization Report
+###  command: mmHDLtoEDIF -f xilinx -n coolrunnerxpla3 -p coolrunnerxpla3 -z 3 -o "\\Files\users\rlobdill\Altum Projects\0.4 Lambert\ProjectOutputs\Lambert_CPLD\Point4_Lambert_PLD_Project.edf" -b "\\Files\users\rlobdill\Altum Projects\0.4 Lambert\ProjectOutputs\Lambert_CPLD\Point4_Lambert_PLD_Project.bfl" -e Point4_Lambert_PLD_Project -L "C:\Documents and Settings\All Users\Documents\Altium\AD 10\Library/" 
+
+INFO LibDir:  "C:\Documents and Settings\All Users\Documents\Altium\AD 10\Library/"
+
+INFO ConstraintsMap:  "C:\Documents and Settings\All Users\Documents\Altium\AD 10\Library/vhdl_lib/VendorConstraints.map"
+
+optimizing "_blf/cell0001"
+ 
+###############################################################################
+### Design Statistics
+###############################################################################
+ 
+MacroCells:     
+    CDIV256     : 1
+    FDC         : 3
+    AND2S       : 6
+    CB8CLEDB    : 3
+    XOR2S       : 1
+    FD8B        : 3
+    OR2S        : 1
+    CDIV128DC50 : 1
+    INV         : 12
+    FD2CS       : 1
+    LDC         : 3
+                
+Area Estimates: 
+ 
+###############################################################################
+ 
+formating EDIF....                            
+
+###############################################################################
+Synthesis successful
+###############################################################################

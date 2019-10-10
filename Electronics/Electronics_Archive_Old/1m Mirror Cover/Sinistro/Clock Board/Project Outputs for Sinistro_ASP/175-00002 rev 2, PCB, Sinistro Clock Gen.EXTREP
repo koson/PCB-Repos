@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: 175-00002 rev 2, PCB, Sinistro Clock Gen.GBR   3/22/2010  7:58:34 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer (.GTL)                        
+.G1                 MidLayer1 (*.G1)                        
+.GP1                +12V (*.GP1)                            
+.GP2                -12V (*.GP2)                            
+.GP3                A & GND (*.GP3)                         
+.GP4                Chassis E (*.GP4)                       
+.GP5                +28V & VCC (*.GP5)                      
+.G2                 MidLayer2 (*.G2)                        
+.G3                 MidLayer3 (*.G3)                        
+.GBL                Bottom Layer (.GBL)                     
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+------------------------------------------------------------------------------------------

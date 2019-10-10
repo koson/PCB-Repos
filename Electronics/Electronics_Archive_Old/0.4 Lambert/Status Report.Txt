@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [Lambert_interconnect_revA.PcbDoc]
+   Generated File[Fabrication Testpoint Report for Lambert_interconnect_revA.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:07:10 AM On 2/2/2010

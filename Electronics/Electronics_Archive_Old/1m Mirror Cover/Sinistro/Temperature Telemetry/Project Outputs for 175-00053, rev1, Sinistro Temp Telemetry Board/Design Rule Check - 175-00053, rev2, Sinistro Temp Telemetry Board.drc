@@ -1,0 +1,70 @@
+Protel Design System Design Rule Check
+PCB File : \\Files\users\rlobdill\Altum Projects\Sinistro\Temperature Telemetry\175-00053, rev2, Sinistro Temp Telemetry Board.PcbDoc
+Date     : 6/25/2013
+Time     : 11:32:03 AM
+
+Processing Rule : Room 780-00051, rev2, Pg1, Sinistro Temp Telemetry Board (Bounding Region = (1324.127mm, 831.482mm, 1521.866mm, 973.849mm) (InComponentClass('780-00051, rev2, Pg1, Sinistro Temp Telemetry Board'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=5.08mm) (Preferred=0.635mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.762mm) (Air Gap=0.254mm) (Entries=4) ((InNet('NetJ1A_13')OR InNet('NetJ1B_13')OR InNet('NetJ1C_13')OR InNet('NetJ1D_13')OR InNet('NetJ1E_13')OR InNet('NetJ1F_13')OR InNet('NetJ1G_13')OR InNet('NetJ1H_13')OR InNet('NetJ1I_13')OR InNet('NetJ1J_13')OR InNet('NetJ1K_13')OR InNet('NetJ1L_13') OR InNet('NetK1A_11')OR InNet('NetK1B_11')OR InNet('NetK1C_11')OR InNet('NetK1D_11')OR InNet('NetK1E_11')OR InNet('NetK1F_11')OR InNet('NetK1G_11')OR InNet('NetK1H_11')OR InNet('NetK1I_11')OR InNet('NetK1J_11')OR InNet('NetK1K_11')OR InNet('NetK1L_11')or InNet('+24V')or InNet('RTN')))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Room LM335 AND FAN (Bounding Region = (1316.304mm, 827.57mm, 1515.262mm, 978.23mm) (InComponentClass('LM335 AND FAN'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=7.62mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.025mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0mm) (All),(All)
+   Violation between Track (144.069mm,7.843mm)(144.069mm,52.293mm)  Top Overlay and 
+                     Pad Q4-2(144.351mm,48.085mm)  Multi-Layer
+   Violation between Track (144.069mm,7.843mm)(144.069mm,52.293mm)  Top Overlay and 
+                     Pad Q4-2(144.351mm,46.585mm)  Multi-Layer
+   Violation between Track (144.069mm,7.843mm)(144.069mm,52.293mm)  Top Overlay and 
+                     Pad Q4-2(144.351mm,45.085mm)  Multi-Layer
+   Violation between Track (144.069mm,7.843mm)(144.069mm,52.293mm)  Top Overlay and 
+                     Pad Q4-2(144.351mm,43.585mm)  Multi-Layer
+Rule Violations :4
+
+Processing Rule : Silk to Silk (Clearance=0.051mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room HEATCHAN1 (Bounding Region = (1330.503mm, 875.005mm, 1487.348mm, 936.066mm) (InComponentClass('HEATCHAN1'))
+Rule Violations :0
+
+Processing Rule : Room HEATCHAN2 (Bounding Region = (1320.216mm, 830.695mm, 1521.866mm, 975.424mm) (InComponentClass('HEATCHAN2'))
+Rule Violations :0
+
+Processing Rule : Room SF CONNECTIONS (Bounding Region = (1316.761mm, 827.723mm, 1524.838mm, 991.426mm) (InComponentClass('SF CONNECTIONS'))
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:01

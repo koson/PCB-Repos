@@ -1,0 +1,40 @@
+MDF Database:  version 1.0
+MDF_INFO | DC_drive | XC2C256-7-PQ208
+MACROCELL | 2 | 15 | LEDS0_MC
+ATTRIBUTES | 2307130118 | 0
+OUTPUTMC | 1 | 10 | 14
+INPUTS | 1 | PB0
+INPUTP | 1 | 133
+LCT | 2 | 1 | Internal_Name | 2 | Internal_Name
+EQ | 3 | 
+   LEDS0 := PB0;	// (1 pt, 1 inp)
+    LEDS0.CLK = PB1;	// CTC	(1 pt, 1 inp)
+    LEDS0.AP = !LEDS2;	// CTS	(1 pt, 1 inp)
+
+MACROCELL | 10 | 14 | LEDS2_MC
+ATTRIBUTES | 1610875650 | 0
+INPUTS | 4 | PB2  | LEDS0  | PB3  | LEDS1
+INPUTMC | 2 | 2 | 15 | 10 | 15
+INPUTP | 2 | 131 | 129
+EQ | 2 | 
+   !LEDS2 = !PB2 & !LEDS0
+	# !PB3 & !LEDS1;	// (2 pt, 4 inp)
+
+MACROCELL | 10 | 15 | LEDS1_MC
+ATTRIBUTES | 2307130118 | 0
+OUTPUTMC | 1 | 10 | 14
+INPUTS | 1 | PB0
+INPUTP | 1 | 133
+LCT | 2 | 1 | Internal_Name | 2 | Internal_Name
+EQ | 3 | 
+   LEDS1 := !PB0;	// (1 pt, 1 inp)
+    LEDS1.CLK = PB1;	// CTC	(1 pt, 1 inp)
+    LEDS1.AP = !LEDS2;	// CTS	(1 pt, 1 inp)
+
+PIN | PB0 | 64 | 0 | LVCMOS18 | 133 | 2 | 2 | 15 | 10 | 15
+PIN | PB1 | 64 | 0 | LVCMOS18 | 132 | 0
+PIN | PB2 | 64 | 0 | LVCMOS18 | 131 | 1 | 10 | 14
+PIN | PB3 | 64 | 0 | LVCMOS18 | 129 | 1 | 10 | 14
+PIN | LEDS0 | 536871040 | 0 | LVCMOS18 | 197
+PIN | LEDS1 | 536871040 | 0 | LVCMOS18 | 196
+PIN | LEDS2 | 536871040 | 0 | LVCMOS18 | 195

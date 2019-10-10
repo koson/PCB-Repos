@@ -1,0 +1,80 @@
+Release 9.1i ngdbuild J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx91i\bin\nt\NGDBuild.Exe -p XC2C256-7PQ208 -dd
+c:\documents and settings\rlobdill\my documents\altium briefcase\altum
+projects\0.4 lambert\projectoutputs\dc_drive\_ngo -aul -uc C:\Documents and
+Settings\rlobdill\My Documents\Altium Briefcase\Altum Projects\0.4
+Lambert\ProjectOutputs\DC_Drive\DC_drive.ucf -nt on -a dc_drive.edf dc_drive.ngd
+
+Executing edif2ngd -a -aul "dc_drive.edf" "c:\documents and settings\rlobdill\my
+documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\dc_drive\_ngo\dc_drive.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Adding pads to all top level port signals...
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4
+lambert/projectoutputs/dc_drive/_ngo/dc_drive.ngo"...
+Reading NGO file "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/dc_drive/_ngo/dc_drive.ngo"
+...
+Executing edif2ngd -noa -aul "AND2S.edn" "c:\documents and settings\rlobdill\my
+documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\dc_drive\_ngo\AND2S.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/dc_drive/_ngo/AND2S.ngo"...
+Loading design module "c:\documents and settings\rlobdill\my documents\altium
+briefcase\altum projects\0.4 lambert\projectoutputs\dc_drive\_ngo\AND2S.ngo"...
+Executing edif2ngd -noa -aul "OR2S.edn" "c:\documents and settings\rlobdill\my
+documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\dc_drive\_ngo\OR2S.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/dc_drive/_ngo/OR2S.ngo"...
+Loading design module "c:\documents and settings\rlobdill\my documents\altium
+briefcase\altum projects\0.4 lambert\projectoutputs\dc_drive\_ngo\OR2S.ngo"...
+Executing edif2ngd -noa -aul "FD2CS.edn" "c:\documents and settings\rlobdill\my
+documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\dc_drive\_ngo\FD2CS.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/dc_drive/_ngo/FD2CS.ngo"...
+Loading design module "c:\documents and settings\rlobdill\my documents\altium
+briefcase\altum projects\0.4 lambert\projectoutputs\dc_drive\_ngo\FD2CS.ngo"...
+
+Applying constraints in "C:/Documents and Settings/rlobdill/My Documents/Altium
+Briefcase/Altum Projects/0.4 Lambert/ProjectOutputs/DC_Drive/DC_drive.ucf" to
+the design...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 63564 kilobytes
+
+Writing NGD file "dc_drive.ngd" ...
+
+Writing NGDBUILD log file "dc_drive.bld"...

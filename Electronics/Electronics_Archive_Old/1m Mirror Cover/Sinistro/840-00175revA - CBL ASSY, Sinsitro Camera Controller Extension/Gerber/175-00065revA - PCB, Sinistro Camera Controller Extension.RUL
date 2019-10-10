@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\grin\Documents\Altium Projects\NRES\840-00175revA - CBL ASSY, Sinsitro Camera Controller Extension\175-00065revA - PCB, Sinistro Camera Controller Extension.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

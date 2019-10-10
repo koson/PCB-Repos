@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00013 rev1.PcbDoc   8/30/2010  10:56:40 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00013 rev1-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00013 rev1-NonPlated.TXT
+EIA File   : 175-00013 rev1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          152              35.39 Inch (899.01 mm)
+T2        13mil (0.3302mm)         Round          4                0.60 Inch (15.35 mm)
+T3        28mil (0.7112mm)         Round          10               12.44 Inch (315.97 mm)
+T4        30mil (0.762mm)          Round          14               1.98 Inch (50.34 mm)
+T5        35mil (0.889mm)          Round          22               2.61 Inch (66.28 mm)
+T6        36mil (0.9144mm)         Round          4                0.30 Inch (7.50 mm)
+T7        40mil (1.016mm)          Round          4                0.54 Inch (13.65 mm)
+T8        47mil (1.1938mm)         Round          12               1.65 Inch (41.91 mm)
+T9        50mil (1.27mm)           Round          2                0.37 Inch (9.29 mm)
+T10       60mil (1.524mm)          Round          3                1.04 Inch (26.34 mm)
+T11       63mil (1.6002mm)         Round          2                0.62 Inch (15.75 mm)
+T12       91mil (2.3114mm)         Round          5                7.79 Inch (197.90 mm)
+T13       40mil (1.016mm)          Round          4         NPTH   3.10 Inch (78.62 mm)
+T14       128mil (3.2512mm)        Round          2         NPTH   0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            240              68.87 Inch (1749.34 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

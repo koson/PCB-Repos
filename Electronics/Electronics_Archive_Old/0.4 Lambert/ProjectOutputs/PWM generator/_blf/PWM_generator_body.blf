@@ -1,0 +1,160 @@
+.model PWM_generator
+.inputs CLK
+.outputs HA1
+.outputs HA2
+.outputs HA3
+.outputs HA4
+.outputs LEDS<7>
+.outputs LEDS<6>
+.outputs LEDS<5>
+.outputs LEDS<4>
+.outputs LEDS<3>
+.outputs LEDS<2>
+.outputs LEDS<1>
+.outputs LEDS<0>
+.inputs PB0
+.inputs PB1
+.inputs SW<7>
+.inputs SW<6>
+.inputs SW<5>
+.inputs SW<4>
+.inputs SW<3>
+.inputs SW<2>
+.inputs SW<1>
+.inputs SW<0>
+.loc Indexer.VHD 112
+.subckt CDIV10DC50 Indexer_1/U15 CLKDV=+Indexer_1/NamedSignal_20HZ CLKIN=-Indexer_1/U15/CLKIN
+.names Indexer_1/PinSignal_U14_CLKDV Indexer_1/U15/CLKIN
+1 1
+.loc Indexer.VHD 99
+.subckt CB8CLEDB Indexer_1/U16 C=-Indexer_1/U16/C CE=-Indexer_1/U16/CE CEO=+$$COND0 CLR=-Indexer_1/U16/CLR D<7>=-Indexer_1/U16/D<7> D<6>=-Indexer_1/U16/D<6> D<5>=-Indexer_1/U16/D<5> D<4>=-Indexer_1/U16/D<4> D<3>=-Indexer_1/U16/D<3> D<2>=-Indexer_1/U16/D<2> D<1>=-Indexer_1/U16/D<1> D<0>=-Indexer_1/U16/D<0> L=-Indexer_1/U16/L Q<7>=+LEDS<7> Q<6>=+LEDS<6> Q<5>=+LEDS<5> Q<4>=+LEDS<4> Q<3>=+LEDS<3> Q<2>=+LEDS<2> Q<1>=+LEDS<1> Q<0>=+LEDS<0> TC=+Indexer_1/PinSignal_U16_TC UP=-Indexer_1/U16/UP
+.names Indexer_1/NamedSignal_20HZ Indexer_1/U16/C
+1 1
+.names Indexer_1/PinSignal_U17_O Indexer_1/U16/CE
+1 1
+.names Indexer_1/PinSignal_U19_O Indexer_1/U16/CLR
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<7>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<6>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<5>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<4>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<3>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<2>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<1>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/D<0>
+1 1
+.names Indexer_1/PowerSignal_GND Indexer_1/U16/L
+1 1
+.names Indexer_1/PinSignal_U18_O Indexer_1/U16/UP
+1 1
+.loc Indexer.VHD 92
+.subckt INV Indexer_1/U17 I=-Indexer_1/U17/I O=+Indexer_1/PinSignal_U17_O
+.names Indexer_1/PinSignal_U16_TC Indexer_1/U17/I
+1 1
+.loc Indexer.VHD 85
+.subckt INV Indexer_1/U18 I=-Indexer_1/U18/I O=+Indexer_1/PinSignal_U18_O
+.names PB0 Indexer_1/U18/I
+1 1
+.names Indexer_1/PowerSignal_GND
+.loc Indexer.VHD 78
+.subckt INV Indexer_1/U19 I=-Indexer_1/U19/I O=+Indexer_1/PinSignal_U19_O
+.names PB1 Indexer_1/U19/I
+1 1
+.loc PWM for CPLD.VHD 173
+.subckt FDC PWM/U1 C=-PWM/U1/C CLR=-PWM/U1/CLR D=-PWM/U1/D Q=+HA3
+.names HA1 PWM/U1/C
+1 1
+.names HA2 PWM/U1/CLR
+1 1
+.names PWM/PowerSignal_VCC PWM/U1/D
+1 1
+.loc PWM for CPLD.VHD 166
+.subckt INV PWM/U2 I=-PWM/U2/I O=+PWM/PinSignal_U2_O
+.names PWM/NamedSignal_2_5MHZ PWM/U2/I
+1 1
+.loc PWM for CPLD.VHD 159
+.subckt CDIV256 PWM/U3 CLKDV=+HA1 CLKIN=-PWM/U3/CLKIN
+.names PWM/NamedSignal_2_5MHZ PWM/U3/CLKIN
+1 1
+.loc PWM for CPLD.VHD 147
+.subckt CB8CLEDB PWM/U4 C=-PWM/U4/C CE=-PWM/U4/CE CEO=+$$COND1 CLR=-PWM/U4/CLR D<7>=-PWM/U4/D<7> D<6>=-PWM/U4/D<6> D<5>=-PWM/U4/D<5> D<4>=-PWM/U4/D<4> D<3>=-PWM/U4/D<3> D<2>=-PWM/U4/D<2> D<1>=-PWM/U4/D<1> D<0>=-PWM/U4/D<0> L=-PWM/U4/L Q<7>=+$$COND2 Q<6>=+$$COND3 Q<5>=+$$COND4 Q<4>=+$$COND5 Q<3>=+$$COND6 Q<2>=+$$COND7 Q<1>=+$$COND8 Q<0>=+$$COND9 TC=+HA2 UP=-PWM/U4/UP
+.names PWM/PinSignal_U2_O PWM/U4/C
+1 1
+.names PWM/PowerSignal_VCC PWM/U4/CE
+1 1
+.names PWM/PowerSignal_GND PWM/U4/CLR
+1 1
+.names SW<7> PWM/U4/D<7>
+1 1
+.names SW<6> PWM/U4/D<6>
+1 1
+.names SW<5> PWM/U4/D<5>
+1 1
+.names SW<4> PWM/U4/D<4>
+1 1
+.names SW<3> PWM/U4/D<3>
+1 1
+.names SW<2> PWM/U4/D<2>
+1 1
+.names SW<1> PWM/U4/D<1>
+1 1
+.names SW<0> PWM/U4/D<0>
+1 1
+.names HA1 PWM/U4/L
+1 1
+.names PWM/PowerSignal_GND PWM/U4/UP
+1 1
+.loc PWM for CPLD.VHD 140
+.subckt CDIV8DC50 PWM/U5 CLKDV=+PWM/NamedSignal_2_5MHZ CLKIN=-PWM/U5/CLKIN
+.names CLK PWM/U5/CLKIN
+1 1
+.loc PWM for CPLD.VHD 133
+.subckt CDIV10DC50 PWM/U6 CLKDV=+PWM/PinSignal_U6_CLKDV CLKIN=-PWM/U6/CLKIN
+.names PWM/NamedSignal_2_5MHZ PWM/U6/CLKIN
+1 1
+.loc PWM for CPLD.VHD 126
+.subckt CDIV10DC50 PWM/U7 CLKDV=+PWM/PinSignal_U7_CLKDV CLKIN=-PWM/U7/CLKIN
+.names PWM/PinSignal_U6_CLKDV PWM/U7/CLKIN
+1 1
+.loc PWM for CPLD.VHD 119
+.subckt CDIV10DC50 PWM/U8 CLKDV=+PWM/PinSignal_U8_CLKDV CLKIN=-PWM/U8/CLKIN
+.names PWM/PinSignal_U7_CLKDV PWM/U8/CLKIN
+1 1
+.loc PWM for CPLD.VHD 112
+.subckt CDIV10DC50 PWM/U9 CLKDV=+PWM/PinSignal_U9_CLKDV CLKIN=-PWM/U9/CLKIN
+.names PWM/PinSignal_U8_CLKDV PWM/U9/CLKIN
+1 1
+.loc PWM for CPLD.VHD 105
+.subckt INV PWM/U20 I=-PWM/U20/I O=+HA4
+.names HA2 PWM/U20/I
+1 1
+.names PWM/PowerSignal_VCC
+1
+.names PWM/PowerSignal_GND
+.loc Indexer.VHD 119
+.subckt CDIV10DC50 Indexer_1/U14 CLKDV=+Indexer_1/PinSignal_U14_CLKDV CLKIN=-Indexer_1/U14/CLKIN
+.names Indexer_1/PinSignal_U13_CLKDV Indexer_1/U14/CLKIN
+1 1
+.loc Indexer.VHD 126
+.subckt CDIV10DC50 Indexer_1/U13 CLKDV=+Indexer_1/PinSignal_U13_CLKDV CLKIN=-Indexer_1/U13/CLKIN
+.names Indexer_1/PinSignal_U12_CLKDV Indexer_1/U13/CLKIN
+1 1
+.loc Indexer.VHD 133
+.subckt CDIV10DC50 Indexer_1/U12 CLKDV=+Indexer_1/PinSignal_U12_CLKDV CLKIN=-Indexer_1/U12/CLKIN
+.names Indexer_1/PinSignal_U11_CLKDV Indexer_1/U12/CLKIN
+1 1
+.loc Indexer.VHD 140
+.subckt CDIV10DC50 Indexer_1/U11 CLKDV=+Indexer_1/PinSignal_U11_CLKDV CLKIN=-Indexer_1/U11/CLKIN
+.names Indexer_1/PinSignal_U10_CLKDV Indexer_1/U11/CLKIN
+1 1
+.loc Indexer.VHD 147
+.subckt CDIV10DC50 Indexer_1/U10 CLKDV=+Indexer_1/PinSignal_U10_CLKDV CLKIN=-Indexer_1/U10/CLKIN
+.names CLK Indexer_1/U10/CLKIN
+1 1

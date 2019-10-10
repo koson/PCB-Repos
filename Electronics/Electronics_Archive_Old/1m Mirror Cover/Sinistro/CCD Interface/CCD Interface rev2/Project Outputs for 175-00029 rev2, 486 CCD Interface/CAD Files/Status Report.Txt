@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [175-00029 rev2, 486 CCD Interface.PcbDoc]
+   Generated File[Fabrication Testpoint Report for 175-00029 rev2, 486 CCD Interface.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:49:38 PM On 7/5/2011

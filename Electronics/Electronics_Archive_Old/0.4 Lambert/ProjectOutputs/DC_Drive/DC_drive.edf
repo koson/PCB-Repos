@@ -1,0 +1,162 @@
+(EDIF DC_drive
+ (EDIFVersion 2 0 0)
+ (EDIFLevel 0)
+ (keywordMap (keywordLevel 0))
+ (status(Written
+   (TimeStamp 2009 9 17 14 25 3)
+   (Program "Altium Synthesis" (version "1.0.0.0"))
+   (Comment "Copyright (c) 2002-2007 Altium Limited")))
+ (library Xilinx (EDIFLevel 0) (technology (numberdefinition))
+
+  (cell OBUF (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port O (direction OUTPUT))
+     (port I (direction INPUT)))))
+  (cell IBUF (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port O (direction OUTPUT))
+     (port I (direction INPUT)))))
+  (cell AND2S (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I0 (direction INPUT))
+     (port I1 (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell OR2S (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I0 (direction INPUT))
+     (port I1 (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell INV (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell FD2CS (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port C (direction INPUT))
+     (port CLR (direction INPUT))
+     (port D0 (direction INPUT))
+     (port D1 (direction INPUT))
+     (port Q0 (direction OUTPUT))
+     (port Q1 (direction OUTPUT)))))
+  (cell DC_drive (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface
+     (port PB0 (direction INPUT)
+      (property LOC (string "P127")))
+     (port PB1 (direction INPUT)
+      (property LOC (string "P126")))
+     (port PB2 (direction INPUT)
+      (property LOC (string "P125")))
+     (port PB3 (direction INPUT)
+      (property LOC (string "P123")))
+     (port LEDS0 (direction OUTPUT)
+      (property LOC (string "P185")))
+     (port LEDS1 (direction OUTPUT)
+      (property LOC (string "P184")))
+     (port LEDS2 (direction OUTPUT)
+      (property LOC (string "P183"))))
+    (contents
+     (instance PB_ibuf_0 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P127")))
+     (instance PB_ibuf_1 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P126")))
+     (instance PB_ibuf_2 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P125")))
+     (instance PB_ibuf_3 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P123")))
+     (instance LEDS_obuf_0 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P185")))
+     (instance LEDS_obuf_1 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P184")))
+     (instance LEDS_obuf_2 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P183")))
+     (instance u9 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 103")))
+     (instance U5 (viewref view_1 (cellRef AND2S))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 133")))
+     (instance U7 (viewref view_1 (cellRef OR2S))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 118")))
+     (instance U10 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 96")))
+     (instance U8 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 111")))
+     (instance U6 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 126")))
+     (instance U3 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 152")))
+     (instance U2 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 159")))
+     (instance U1 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 166")))
+     (instance U4 (viewref view_1 (cellRef FD2CS))
+      (property HDL_SOURCE (string "DC motor drive interface.VHD : 141")))
+     (net PB_ibuf_0 (joined
+       (portRef O  (instanceRef PB_ibuf_0))
+       (portRef I  (instanceRef U3))
+       (portRef D1  (instanceRef U4))))
+     (net PB_ibuf_1 (joined
+       (portRef O  (instanceRef PB_ibuf_1))
+       (portRef C  (instanceRef U4))))
+     (net PB_ibuf_2 (joined
+       (portRef O  (instanceRef PB_ibuf_2))
+       (portRef I  (instanceRef U8))))
+     (net PB_ibuf_3 (joined
+       (portRef O  (instanceRef PB_ibuf_3))
+       (portRef I  (instanceRef U10))))
+     (net PinSignal_U10_O (joined
+       (portRef O  (instanceRef U10))
+       (portRef I0  (instanceRef u9))))
+     (net PinSignal_U4_Q1 (joined
+       (portRef Q1  (instanceRef U4))
+       (portRef I1  (instanceRef u9))
+       (portRef I  (instanceRef U2))))
+     (net PinSignal_u9_O (joined
+       (portRef O  (instanceRef u9))
+       (portRef I0  (instanceRef U7))))
+     (net PinSignal_U5_O (joined
+       (portRef O  (instanceRef U5))
+       (portRef I1  (instanceRef U7))))
+     (net PinSignal_U7_O (joined
+       (portRef O  (instanceRef U7))
+       (portRef I  (instanceRef U6))
+       (portRef CLR  (instanceRef U4))))
+     (net PinSignal_U8_O (joined
+       (portRef O  (instanceRef U8))
+       (portRef I0  (instanceRef U5))))
+     (net PinSignal_U4_Q0 (joined
+       (portRef Q0  (instanceRef U4))
+       (portRef I1  (instanceRef U5))
+       (portRef I  (instanceRef U1))))
+     (net PinSignal_U3_O (joined
+       (portRef O  (instanceRef U3))
+       (portRef D0  (instanceRef U4))))
+     (net LEDS_int_0 (joined
+       (portRef O  (instanceRef U1))
+       (portRef I  (instanceRef LEDS_obuf_0))))
+     (net LEDS_int_1 (joined
+       (portRef O  (instanceRef U2))
+       (portRef I  (instanceRef LEDS_obuf_1))))
+     (net LEDS_int_2 (joined
+       (portRef O  (instanceRef U6))
+       (portRef I  (instanceRef LEDS_obuf_2))))
+     (net LEDS0 (joined
+       (portRef O  (instanceRef LEDS_obuf_0))
+       (portRef LEDS0)))
+     (net LEDS1 (joined
+       (portRef O  (instanceRef LEDS_obuf_1))
+       (portRef LEDS1)))
+     (net LEDS2 (joined
+       (portRef O  (instanceRef LEDS_obuf_2))
+       (portRef LEDS2)))
+     (net PB0 (joined
+       (portRef PB0)
+       (portRef I  (instanceRef PB_ibuf_0))))
+     (net PB1 (joined
+       (portRef PB1)
+       (portRef I  (instanceRef PB_ibuf_1))))
+     (net PB2 (joined
+       (portRef PB2)
+       (portRef I  (instanceRef PB_ibuf_2))))
+     (net PB3 (joined
+       (portRef PB3)
+       (portRef I  (instanceRef PB_ibuf_3))))))))
+ (design DC_drive (cellRef DC_drive (libraryRef Xilinx))))

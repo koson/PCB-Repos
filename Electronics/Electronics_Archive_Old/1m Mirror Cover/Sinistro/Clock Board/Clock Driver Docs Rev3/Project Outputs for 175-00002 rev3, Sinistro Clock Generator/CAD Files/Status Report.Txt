@@ -1,0 +1,12 @@
+Output: PCBFabricationDrawing
+Type  : Gerber
+From  : PCB Document [175-00002 rev 3, PCB, Sinistro Clock Gen.PcbDoc]
+   Generated File[175-00002 rev 3, PCB, Sinistro Clock Gen.GPT]
+   Generated File[175-00002 rev 3, PCB, Sinistro Clock Gen.EXTREP]
+   Generated File[175-00002 rev 3, PCB, Sinistro Clock Gen.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:12:54 PM On 3/28/2011

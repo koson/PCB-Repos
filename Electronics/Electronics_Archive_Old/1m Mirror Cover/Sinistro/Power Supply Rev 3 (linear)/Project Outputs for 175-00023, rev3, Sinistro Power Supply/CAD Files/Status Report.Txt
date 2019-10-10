@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [175-00030 rev3 Flex Circuit, Sinistro.PcbDoc]
+   Generated File[Pick Place for 175-00030 rev3 Flex Circuit, Sinistro.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:11:48 PM On 7/15/2013

@@ -1,0 +1,376 @@
+(EDIF PWM_generator
+ (EDIFVersion 2 0 0)
+ (EDIFLevel 0)
+ (keywordMap (keywordLevel 0))
+ (status(Written
+   (TimeStamp 2009 9 16 10 56 44)
+   (Program "Altium Synthesis" (version "1.0.0.0"))
+   (Comment "Copyright (c) 2002-2007 Altium Limited")))
+ (library Xilinx (EDIFLevel 0) (technology (numberdefinition))
+
+  (cell GND (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port G (direction OUTPUT)))))
+  (cell BUFG (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port O (direction OUTPUT))
+     (port I (direction INPUT)))))
+  (cell OBUF (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port O (direction OUTPUT))
+     (port I (direction INPUT)))))
+  (cell IBUF (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port O (direction OUTPUT))
+     (port I (direction INPUT)))))
+  (cell VCC (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port P (direction OUTPUT)))))
+  (cell CDIV8DC50 (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port CLKDV (direction OUTPUT))
+     (port CLKIN (direction INPUT)))))
+  (cell CDIV10DC50 (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port CLKDV (direction OUTPUT))
+     (port CLKIN (direction INPUT)))))
+  (cell FDC (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port C (direction INPUT))
+     (port CLR (direction INPUT))
+     (port D (direction INPUT))
+     (port Q (direction OUTPUT)))))
+  (cell CDIV256 (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port CLKDV (direction OUTPUT))
+     (port CLKIN (direction INPUT)))))
+  (cell CB8CLEDB (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port C (direction INPUT))
+     (port CE (direction INPUT))
+     (port CEO (direction OUTPUT))
+     (port CLR (direction INPUT))
+     (port (array (rename D "D(7:0)") 8) (direction INPUT))
+     (port L (direction INPUT))
+     (port (array (rename Q "Q(7:0)") 8) (direction OUTPUT))
+     (port TC (direction OUTPUT))
+     (port UP (direction INPUT)))))
+  (cell INV (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface 
+     (port I (direction INPUT))
+     (port O (direction OUTPUT)))))
+  (cell PWM_generator (celltype GENERIC) (view view_1 (viewType NETLIST)
+    (interface
+     (port CLK (direction INPUT)
+      (property LOC (string "P55")))
+     (port PB0 (direction INPUT)
+      (property LOC (string "P127")))
+     (port PB1 (direction INPUT)
+      (property LOC (string "P126")))
+     (port (array (rename SW "SW(7:0)") 8) (direction INPUT))
+     (port HA1 (direction OUTPUT)
+      (property LOC (string "P27")))
+     (port HA2 (direction OUTPUT)
+      (property LOC (string "P28")))
+     (port HA3 (direction OUTPUT)
+      (property LOC (string "P29")))
+     (port HA4 (direction OUTPUT)
+      (property LOC (string "P30")))
+     (port (array (rename LEDS "LEDS(7:0)") 8) (direction OUTPUT)))
+    (contents
+     (instance CLK_ibuf (viewref view_1 (cellRef BUFG))
+      (property LOC (string "P55")))
+     (instance PB_ibuf_0 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P127")))
+     (instance PB_ibuf_1 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P126")))
+     (instance SW__ibuf_7 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P40")))
+     (instance SW__ibuf_6 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P41")))
+     (instance SW__ibuf_5 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P43")))
+     (instance SW__ibuf_4 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P45")))
+     (instance SW__ibuf_3 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P47")))
+     (instance SW__ibuf_2 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P48")))
+     (instance SW__ibuf_1 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P49")))
+     (instance SW__ibuf_0 (viewref view_1 (cellRef IBUF))
+      (property LOC (string "P50")))
+     (instance n2q (viewref view_1 (cellRef GND)))
+     (instance n2r (viewref view_1 (cellRef VCC)))
+     (instance HA_obuf_1 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P27")))
+     (instance HA_obuf_2 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P28")))
+     (instance HA_obuf_3 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P29")))
+     (instance HA_obuf_4 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P30")))
+     (instance LEDS__obuf_7 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P175")))
+     (instance LEDS__obuf_6 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P178")))
+     (instance LEDS__obuf_5 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P179")))
+     (instance LEDS__obuf_4 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P180")))
+     (instance LEDS__obuf_3 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P182")))
+     (instance LEDS__obuf_2 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P183")))
+     (instance LEDS__obuf_1 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P184")))
+     (instance LEDS__obuf_0 (viewref view_1 (cellRef OBUF))
+      (property LOC (string "P185")))
+     (instance PWM_U5 (viewref view_1 (cellRef CDIV8DC50))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 140")))
+     (instance PWM_U3 (viewref view_1 (cellRef CDIV256))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 159")))
+     (instance PWM_U1 (viewref view_1 (cellRef FDC))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 173")))
+     (instance Indexer_1_U15 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "Indexer.VHD : 112")))
+     (instance PWM_U6 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 133")))
+     (instance PWM_U7 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 126")))
+     (instance PWM_U8 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 119")))
+     (instance PWM_U9 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 112")))
+     (instance Indexer_1_U14 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "Indexer.VHD : 119")))
+     (instance Indexer_1_U13 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "Indexer.VHD : 126")))
+     (instance Indexer_1_U12 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "Indexer.VHD : 133")))
+     (instance Indexer_1_U11 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "Indexer.VHD : 140")))
+     (instance Indexer_1_U10 (viewref view_1 (cellRef CDIV10DC50))
+      (property HDL_SOURCE (string "Indexer.VHD : 147")))
+     (instance Indexer_1_U16 (viewref view_1 (cellRef CB8CLEDB))
+      (property HDL_SOURCE (string "Indexer.VHD : 99")))
+     (instance PWM_U4 (viewref view_1 (cellRef CB8CLEDB))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 147")))
+     (instance Indexer_1_U17 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Indexer.VHD : 92")))
+     (instance Indexer_1_U18 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Indexer.VHD : 85")))
+     (instance Indexer_1_U19 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "Indexer.VHD : 78")))
+     (instance PWM_U2 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 166")))
+     (instance PWM_U20 (viewref view_1 (cellRef INV))
+      (property HDL_SOURCE (string "PWM for CPLD.VHD : 105")))
+     (net CLK_ibuf (joined
+       (portRef O  (instanceRef CLK_ibuf))
+       (portRef CLKIN  (instanceRef PWM_U5))
+       (portRef CLKIN  (instanceRef Indexer_1_U10))))
+     (net PB_ibuf_0 (joined
+       (portRef O  (instanceRef PB_ibuf_0))
+       (portRef I  (instanceRef Indexer_1_U18))))
+     (net PB_ibuf_1 (joined
+       (portRef O  (instanceRef PB_ibuf_1))
+       (portRef I  (instanceRef Indexer_1_U19))))
+     (net SW__ibuf_7 (joined
+       (portRef O  (instanceRef SW__ibuf_7))
+       (portRef (member D 0)  (instanceRef PWM_U4))))
+     (net SW__ibuf_6 (joined
+       (portRef O  (instanceRef SW__ibuf_6))
+       (portRef (member D 1)  (instanceRef PWM_U4))))
+     (net SW__ibuf_5 (joined
+       (portRef O  (instanceRef SW__ibuf_5))
+       (portRef (member D 2)  (instanceRef PWM_U4))))
+     (net SW__ibuf_4 (joined
+       (portRef O  (instanceRef SW__ibuf_4))
+       (portRef (member D 3)  (instanceRef PWM_U4))))
+     (net SW__ibuf_3 (joined
+       (portRef O  (instanceRef SW__ibuf_3))
+       (portRef (member D 4)  (instanceRef PWM_U4))))
+     (net SW__ibuf_2 (joined
+       (portRef O  (instanceRef SW__ibuf_2))
+       (portRef (member D 5)  (instanceRef PWM_U4))))
+     (net SW__ibuf_1 (joined
+       (portRef O  (instanceRef SW__ibuf_1))
+       (portRef (member D 6)  (instanceRef PWM_U4))))
+     (net SW__ibuf_0 (joined
+       (portRef O  (instanceRef SW__ibuf_0))
+       (portRef (member D 7)  (instanceRef PWM_U4))))
+     (net Indexer_1_PinSignal_U14_CLKDV (joined
+       (portRef CLKDV  (instanceRef Indexer_1_U14))
+       (portRef CLKIN  (instanceRef Indexer_1_U15))))
+     (net Indexer_1_NamedSignal_20HZ (joined
+       (portRef CLKDV  (instanceRef Indexer_1_U15))
+       (portRef C  (instanceRef Indexer_1_U16))))
+     (net Indexer_1_PinSignal_U17_O (joined
+       (portRef O  (instanceRef Indexer_1_U17))
+       (portRef CE  (instanceRef Indexer_1_U16))))
+     (net Indexer_1_PinSignal_U19_O (joined
+       (portRef O  (instanceRef Indexer_1_U19))
+       (portRef CLR  (instanceRef Indexer_1_U16))))
+     (net n2q (joined
+       (portRef G  (instanceRef n2q))
+       (portRef (member D 0)  (instanceRef Indexer_1_U16))
+       (portRef (member D 1)  (instanceRef Indexer_1_U16))
+       (portRef (member D 2)  (instanceRef Indexer_1_U16))
+       (portRef (member D 3)  (instanceRef Indexer_1_U16))
+       (portRef (member D 4)  (instanceRef Indexer_1_U16))
+       (portRef (member D 5)  (instanceRef Indexer_1_U16))
+       (portRef (member D 6)  (instanceRef Indexer_1_U16))
+       (portRef (member D 7)  (instanceRef Indexer_1_U16))
+       (portRef L  (instanceRef Indexer_1_U16))
+       (portRef CLR  (instanceRef PWM_U4))
+       (portRef UP  (instanceRef PWM_U4))))
+     (net Indexer_1_PinSignal_U18_O (joined
+       (portRef O  (instanceRef Indexer_1_U18))
+       (portRef UP  (instanceRef Indexer_1_U16))))
+     (net Indexer_1_PinSignal_U16_TC (joined
+       (portRef TC  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef Indexer_1_U17))))
+     (net HA_int_1 (joined
+       (portRef CLKDV  (instanceRef PWM_U3))
+       (portRef C  (instanceRef PWM_U1))
+       (portRef L  (instanceRef PWM_U4))
+       (portRef I  (instanceRef HA_obuf_1))))
+     (net HA_int_2 (joined
+       (portRef TC  (instanceRef PWM_U4))
+       (portRef CLR  (instanceRef PWM_U1))
+       (portRef I  (instanceRef PWM_U20))
+       (portRef I  (instanceRef HA_obuf_2))))
+     (net n2r (joined
+       (portRef P  (instanceRef n2r))
+       (portRef D  (instanceRef PWM_U1))
+       (portRef CE  (instanceRef PWM_U4))))
+     (net PWM_NamedSignal_2_5MHZ (joined
+       (portRef CLKDV  (instanceRef PWM_U5))
+       (portRef CLKIN  (instanceRef PWM_U6))
+       (portRef CLKIN  (instanceRef PWM_U3))
+       (portRef I  (instanceRef PWM_U2))))
+     (net PWM_PinSignal_U2_O (joined
+       (portRef O  (instanceRef PWM_U2))
+       (portRef C  (instanceRef PWM_U4))))
+     (net PWM_PinSignal_U6_CLKDV (joined
+       (portRef CLKDV  (instanceRef PWM_U6))
+       (portRef CLKIN  (instanceRef PWM_U7))))
+     (net PWM_PinSignal_U7_CLKDV (joined
+       (portRef CLKDV  (instanceRef PWM_U7))
+       (portRef CLKIN  (instanceRef PWM_U8))))
+     (net PWM_PinSignal_U8_CLKDV (joined
+       (portRef CLKDV  (instanceRef PWM_U8))
+       (portRef CLKIN  (instanceRef PWM_U9))))
+     (net Indexer_1_PinSignal_U13_CLKDV (joined
+       (portRef CLKDV  (instanceRef Indexer_1_U13))
+       (portRef CLKIN  (instanceRef Indexer_1_U14))))
+     (net Indexer_1_PinSignal_U12_CLKDV (joined
+       (portRef CLKDV  (instanceRef Indexer_1_U12))
+       (portRef CLKIN  (instanceRef Indexer_1_U13))))
+     (net Indexer_1_PinSignal_U11_CLKDV (joined
+       (portRef CLKDV  (instanceRef Indexer_1_U11))
+       (portRef CLKIN  (instanceRef Indexer_1_U12))))
+     (net Indexer_1_PinSignal_U10_CLKDV (joined
+       (portRef CLKDV  (instanceRef Indexer_1_U10))
+       (portRef CLKIN  (instanceRef Indexer_1_U11))))
+     (net HA_int_3 (joined
+       (portRef Q  (instanceRef PWM_U1))
+       (portRef I  (instanceRef HA_obuf_3))))
+     (net HA_int_4 (joined
+       (portRef O  (instanceRef PWM_U20))
+       (portRef I  (instanceRef HA_obuf_4))))
+     (net LEDS__int_7 (joined
+       (portRef (member Q 0)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_7))))
+     (net LEDS__int_6 (joined
+       (portRef (member Q 1)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_6))))
+     (net LEDS__int_5 (joined
+       (portRef (member Q 2)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_5))))
+     (net LEDS__int_4 (joined
+       (portRef (member Q 3)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_4))))
+     (net LEDS__int_3 (joined
+       (portRef (member Q 4)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_3))))
+     (net LEDS__int_2 (joined
+       (portRef (member Q 5)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_2))))
+     (net LEDS__int_1 (joined
+       (portRef (member Q 6)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_1))))
+     (net LEDS__int_0 (joined
+       (portRef (member Q 7)  (instanceRef Indexer_1_U16))
+       (portRef I  (instanceRef LEDS__obuf_0))))
+     (net HA1 (joined
+       (portRef O  (instanceRef HA_obuf_1))
+       (portRef HA1)))
+     (net HA2 (joined
+       (portRef O  (instanceRef HA_obuf_2))
+       (portRef HA2)))
+     (net HA3 (joined
+       (portRef O  (instanceRef HA_obuf_3))
+       (portRef HA3)))
+     (net HA4 (joined
+       (portRef O  (instanceRef HA_obuf_4))
+       (portRef HA4)))
+     (net (rename LEDS_7 "LEDS<7>") (joined
+       (portRef O  (instanceRef LEDS__obuf_7))
+       (portRef (member LEDS 0))))
+     (net (rename LEDS_6 "LEDS<6>") (joined
+       (portRef O  (instanceRef LEDS__obuf_6))
+       (portRef (member LEDS 1))))
+     (net (rename LEDS_5 "LEDS<5>") (joined
+       (portRef O  (instanceRef LEDS__obuf_5))
+       (portRef (member LEDS 2))))
+     (net (rename LEDS_4 "LEDS<4>") (joined
+       (portRef O  (instanceRef LEDS__obuf_4))
+       (portRef (member LEDS 3))))
+     (net (rename LEDS_3 "LEDS<3>") (joined
+       (portRef O  (instanceRef LEDS__obuf_3))
+       (portRef (member LEDS 4))))
+     (net (rename LEDS_2 "LEDS<2>") (joined
+       (portRef O  (instanceRef LEDS__obuf_2))
+       (portRef (member LEDS 5))))
+     (net (rename LEDS_1 "LEDS<1>") (joined
+       (portRef O  (instanceRef LEDS__obuf_1))
+       (portRef (member LEDS 6))))
+     (net (rename LEDS_0 "LEDS<0>") (joined
+       (portRef O  (instanceRef LEDS__obuf_0))
+       (portRef (member LEDS 7))))
+     (net CLK (joined
+       (portRef CLK)
+       (portRef I  (instanceRef CLK_ibuf))))
+     (net PB0 (joined
+       (portRef PB0)
+       (portRef I  (instanceRef PB_ibuf_0))))
+     (net PB1 (joined
+       (portRef PB1)
+       (portRef I  (instanceRef PB_ibuf_1))))
+     (net (rename SW_7 "SW<7>") (joined
+       (portRef (member SW 0))
+       (portRef I  (instanceRef SW__ibuf_7))))
+     (net (rename SW_6 "SW<6>") (joined
+       (portRef (member SW 1))
+       (portRef I  (instanceRef SW__ibuf_6))))
+     (net (rename SW_5 "SW<5>") (joined
+       (portRef (member SW 2))
+       (portRef I  (instanceRef SW__ibuf_5))))
+     (net (rename SW_4 "SW<4>") (joined
+       (portRef (member SW 3))
+       (portRef I  (instanceRef SW__ibuf_4))))
+     (net (rename SW_3 "SW<3>") (joined
+       (portRef (member SW 4))
+       (portRef I  (instanceRef SW__ibuf_3))))
+     (net (rename SW_2 "SW<2>") (joined
+       (portRef (member SW 5))
+       (portRef I  (instanceRef SW__ibuf_2))))
+     (net (rename SW_1 "SW<1>") (joined
+       (portRef (member SW 6))
+       (portRef I  (instanceRef SW__ibuf_1))))
+     (net (rename SW_0 "SW<0>") (joined
+       (portRef (member SW 7))
+       (portRef I  (instanceRef SW__ibuf_0))))))))
+ (design PWM_generator (cellRef PWM_generator (libraryRef Xilinx))))

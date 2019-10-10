@@ -1,0 +1,37 @@
+FABRICATION NOTES
+
+  GENERAL
+    1) Manufactuered in accordance with IPC-6012B Class 1
+    2) Number of layers: 2
+    3) Finished thickness: 0.062
+    4) Base material: FR4
+    5) Plating: Gold immersion
+    6) Solder mask color: Any
+
+  EXCEPTIONS
+    7) Silkscreen on top only
+    8) Minimum dielectric thickness is 0.031 in
+    9) All drill hole sizes and tolerances apply after plating
+   10) All holes plated
+   11) All exposed holes and surfaces gold immersion plated to preserve
+       solderability
+
+  ROUTING TOLERANCES
+   12) X.XX  = +/- 0.02 in
+   13) X.XXX = +/- 0.005 in
+
+  LAYER STACK
+    *.GTL - 1 Oz. Cu (finished) TOP LAYER GERBER DATA
+    *.GBL - 1 Oz. Cu (finished) BOTTOM LAYER GERBER DATA
+    *.GTS - TOP LAYER SOLDERMASK
+    *.GBS - BOTTOM LAYER SOLDERMASK
+    *.GTO - TOP LAYER (ONLY) SILKSCREEN
+    *.GD1 - DRILL DRAWING
+    *.GM1 - BOARD OUTLINE
+    *.GM2 - BOARD DRAWING AND NOTES
+
+NOTICE:
+This drawing embodies a proprietary design owned by Las Cumbres Observatory
+Global Telescope Network, Inc. It is submitted for a specific purpose under a
+confidential relationship, and except for purposes expressly granted in
+writing, all rights are reserved by Las Cumbres Observatory.

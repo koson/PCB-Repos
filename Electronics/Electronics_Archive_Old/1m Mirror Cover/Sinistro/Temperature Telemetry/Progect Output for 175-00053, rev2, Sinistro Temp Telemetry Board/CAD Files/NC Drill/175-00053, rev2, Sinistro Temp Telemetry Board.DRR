@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00053, rev2, Sinistro Temp Telemetry Board.PcbDoc   6/25/2013  2:18:33 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00053, rev2, Sinistro Temp Telemetry Board-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00053, rev2, Sinistro Temp Telemetry Board-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          335              65.64 Inch (1667.28 mm)
+T2        15mil (0.381mm)          Round          17               16.26 Inch (412.98 mm)
+T3        25mil (0.635mm)          Round          8                3.25 Inch (82.55 mm)
+T4        28mil (0.7112mm)         Round          4                2.92 Inch (74.19 mm)
+T5        30mil (0.762mm)          Round          4                2.81 Inch (71.48 mm)
+T6        35mil (0.889mm)          Round          12               6.74 Inch (171.28 mm)
+T7        36mil (0.9144mm)         Round          4                0.30 Inch (7.50 mm)
+T8        39mil (0.9906mm)         Round          9                3.97 Inch (100.91 mm)
+T9        40mil (1.016mm)          Round          4                0.54 Inch (13.65 mm)
+T10       63mil (1.6002mm)         Round          2                0.62 Inch (15.75 mm)
+T11       91mil (2.3114mm)         Round          2                0.47 Inch (12.04 mm)
+T12       166mil (4.2164mm)        Round          6                7.48 Inch (189.95 mm)
+T13       40mil (1.016mm)          Round          4         NPTH   3.10 Inch (78.62 mm)
+T14       128mil (3.2512mm)        Round          2         NPTH   0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            413              114.55 Inch (2909.59 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

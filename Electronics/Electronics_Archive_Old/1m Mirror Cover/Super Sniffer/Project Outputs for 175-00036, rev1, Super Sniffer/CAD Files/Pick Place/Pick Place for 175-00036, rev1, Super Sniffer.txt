@@ -1,0 +1,208 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+           TARGET_MECHANICAL_5 -27864.189mil -16698.189mil       -624mil      -1091mil -27864.189mil -16698.189mil  T          0.00 Comment        
+           TARGET_MECHANICAL_5 -27864.189mil -16698.189mil       7364mil       8065mil -27864.189mil -16698.189mil  T          0.00 Comment        
+           TARGET_MECHANICAL_5 -27864.189mil -16698.189mil      -1340mil       8148mil -27864.189mil -16698.189mil  T          0.00 Comment        
+U1         SuperFin_Footprint   2891.472mil   3340.677mil   3881.827mil    2600.52mil   3366.866mil   2583.197mil  T         90.00 SuperFin Module
+J4         HEADER_2X30        996.047mil   2990.811mil    946.047mil   4440.811mil    946.047mil   4440.811mil  T        270.00 HDR 2x30   0.1"
+J3         QSH-060-010-X-D-A   2496.047mil   3340.811mil   2496.047mil   3340.811mil   2609.039mil   4020.214mil  B        270.00 SAMTEC QSH-060-01-X-D-A
+J2         QSH-060-010-X-D-A   3286.047mil   3340.811mil   3286.047mil   3340.811mil   3399.039mil   4020.214mil  B        270.00 SAMTEC QSH-060-01-X-D-A
+J1         HEADER_2X30       3661.047mil   6891.811mil   5111.047mil   6941.811mil   5111.047mil   6941.811mil  T        180.00 HDR 2x30   0.1"
+D104       LED_SMD_0402       805.047mil   1521.811mil    805.047mil   1521.811mil    805.047mil   1539.527mil  T        270.00 LED SMD 0402   
+D103       LED_SMD_0402      1185.047mil   1639.811mil   1185.047mil   1639.811mil   1167.331mil   1639.811mil  T        360.00 LED SMD 0402   
+D102       LED_SMD_0402       800.047mil   1659.811mil    800.047mil   1659.811mil    800.047mil   1642.094mil  T         90.00 LED SMD 0402   
+D101       LED_SMD_0402       765.047mil   1521.811mil    765.047mil   1521.811mil    765.047mil   1504.094mil  T         90.00 LED SMD 0402   
+D100       LED_SMD_0402       800.047mil   1759.811mil    800.047mil   1759.811mil    800.047mil   1742.094mil  T         90.00 LED SMD 0402   
+D99        LED_SMD_0402       754.047mil   1658.311mil    754.047mil   1658.311mil    754.047mil   1676.027mil  T        270.00 LED SMD 0402   
+D98        LED_SMD_0402      1175.047mil   1839.811mil   1175.047mil   1839.811mil   1157.331mil   1839.811mil  T        360.00 LED SMD 0402   
+D97        LED_SMD_0402       800.047mil   1854.811mil    800.047mil   1854.811mil    800.047mil   1837.094mil  T         90.00 LED SMD 0402   
+D96        LED_SMD_0402       760.047mil   1753.311mil    760.047mil   1753.311mil    760.047mil   1771.027mil  T        270.00 LED SMD 0402   
+D95        LED_SMD_0402       752.047mil   1853.311mil    752.047mil   1853.311mil    752.047mil   1871.027mil  T        270.00 LED SMD 0402   
+D94        LED_SMD_0402      1180.047mil   2039.811mil   1180.047mil   2039.811mil   1162.331mil   2039.811mil  T        360.00 LED SMD 0402   
+D93        LED_SMD_0402       800.047mil   2054.811mil    800.047mil   2054.811mil    800.047mil   2037.094mil  T         90.00 LED SMD 0402   
+D92        LED_SMD_0402       795.047mil   2154.811mil    795.047mil   2154.811mil    795.047mil   2137.095mil  T         90.00 LED SMD 0402   
+D91        LED_SMD_0402       760.047mil   2054.811mil    760.047mil   2054.811mil    760.047mil   2072.528mil  T        270.00 LED SMD 0402   
+D90        LED_SMD_0402       800.047mil   2259.811mil    800.047mil   2259.811mil    800.047mil   2242.095mil  T         90.00 LED SMD 0402   
+D89        LED_SMD_0402      1180.047mil   2239.811mil   1180.047mil   2239.811mil   1162.331mil   2239.811mil  T        360.00 LED SMD 0402   
+D88        LED_SMD_0402       757.047mil   2154.811mil    757.047mil   2154.811mil    757.047mil   2172.528mil  T        270.00 LED SMD 0402   
+D87        LED_SMD_0402       805.047mil   2354.811mil    805.047mil   2354.811mil    805.047mil   2337.095mil  T         90.00 LED SMD 0402   
+D86        LED_SMD_0402       759.047mil   2258.311mil    759.047mil   2258.311mil    759.047mil   2276.028mil  T        270.00 LED SMD 0402   
+D85        LED_SMD_0402      1190.047mil   2449.811mil   1190.047mil   2449.811mil   1172.331mil   2449.811mil  T        360.00 LED SMD 0402   
+D84        LED_SMD_0402       768.047mil   2350.811mil    768.047mil   2350.811mil    768.047mil   2368.528mil  T        270.00 LED SMD 0402   
+D83        LED_SMD_0402       800.047mil   2554.811mil    800.047mil   2554.811mil    800.047mil   2537.095mil  T         90.00 LED SMD 0402   
+D82        LED_SMD_0402      1190.047mil   2644.811mil   1190.047mil   2644.811mil   1172.331mil   2644.811mil  T        360.00 LED SMD 0402   
+D81        LED_SMD_0402       805.047mil   2654.811mil    805.047mil   2654.811mil    805.047mil   2637.095mil  T         90.00 LED SMD 0402   
+D80        LED_SMD_0402       759.047mil   2553.311mil    759.047mil   2553.311mil    759.047mil   2571.028mil  T        270.00 LED SMD 0402   
+D79        LED_SMD_0402       800.047mil   2754.811mil    800.047mil   2754.811mil    800.047mil   2737.095mil  T         90.00 LED SMD 0402   
+D78        LED_SMD_0402       765.047mil   2654.811mil    765.047mil   2654.811mil    765.047mil   2672.528mil  T        270.00 LED SMD 0402   
+D77        LED_SMD_0402      1195.047mil   2839.811mil   1195.047mil   2839.811mil   1177.331mil   2839.811mil  T        360.00 LED SMD 0402   
+D76        LED_SMD_0402       805.047mil   2864.811mil    805.047mil   2864.811mil    805.047mil   2847.095mil  T         90.00 LED SMD 0402   
+D75        LED_SMD_0402       761.047mil   2754.811mil    761.047mil   2754.811mil    761.047mil   2772.528mil  T        270.00 LED SMD 0402   
+D74        LED_SMD_0402       764.047mil   2862.811mil    764.047mil   2862.811mil    764.047mil   2880.528mil  T        270.00 LED SMD 0402   
+D73        LED_SMD_0402      1195.047mil   3039.811mil   1195.047mil   3039.811mil   1177.331mil   3039.811mil  T        360.00 LED SMD 0402   
+D72        LED_SMD_0402       805.047mil   3059.811mil    805.047mil   3059.811mil    805.047mil   3042.095mil  T         90.00 LED SMD 0402   
+D71        LED_SMD_0402       810.047mil   3159.811mil    810.047mil   3159.811mil    810.047mil   3142.095mil  T         90.00 LED SMD 0402   
+D70        LED_SMD_0402       768.047mil   3058.311mil    768.047mil   3058.311mil    768.047mil   3076.028mil  T        270.00 LED SMD 0402   
+D69        LED_SMD_0402       805.047mil   3254.811mil    805.047mil   3254.811mil    805.047mil   3237.095mil  T         90.00 LED SMD 0402   
+D68        LED_SMD_0402      1185.047mil   3244.811mil   1185.047mil   3244.811mil   1167.331mil   3244.811mil  T        360.00 LED SMD 0402   
+D67        LED_SMD_0402       772.047mil   3158.311mil    772.047mil   3158.311mil    772.047mil   3176.028mil  T        270.00 LED SMD 0402   
+D66        LED_SMD_0402       805.047mil   3354.811mil    805.047mil   3354.811mil    805.047mil   3337.095mil  T         90.00 LED SMD 0402   
+D65        LED_SMD_0402       765.047mil   3254.811mil    765.047mil   3254.811mil    765.047mil   3272.528mil  T        270.00 LED SMD 0402   
+D64        LED_SMD_0402      1175.047mil   3444.811mil   1175.047mil   3444.811mil   1157.331mil   3444.811mil  T        360.00 LED SMD 0402   
+D63        LED_SMD_0402       765.047mil   3353.311mil    765.047mil   3353.311mil    765.047mil   3371.028mil  T        270.00 LED SMD 0402   
+D62        LED_SMD_0402       801.047mil   3555.595mil    801.047mil   3555.595mil    801.047mil   3537.878mil  T         90.00 LED SMD 0402   
+D61        LED_SMD_0402      1170.047mil   3639.811mil   1170.047mil   3639.811mil   1152.331mil   3639.811mil  T        360.00 LED SMD 0402   
+D60        LED_SMD_0402       805.047mil   3654.811mil    805.047mil   3654.811mil    805.047mil   3637.095mil  T         90.00 LED SMD 0402   
+D59        LED_SMD_0402       760.047mil   3554.811mil    760.047mil   3554.811mil    760.047mil   3572.528mil  T        270.00 LED SMD 0402   
+D58        LED_SMD_0402       800.047mil   3754.811mil    800.047mil   3754.811mil    800.047mil   3737.095mil  T         90.00 LED SMD 0402   
+D57        LED_SMD_0402       765.047mil   3654.811mil    765.047mil   3654.811mil    765.047mil   3672.528mil  T        270.00 LED SMD 0402   
+D56        LED_SMD_0402      1170.047mil   3844.811mil   1170.047mil   3844.811mil   1152.331mil   3844.811mil  T        360.00 LED SMD 0402   
+D55        LED_SMD_0402       800.047mil   3859.811mil    800.047mil   3859.811mil    800.047mil   3842.095mil  T         90.00 LED SMD 0402   
+D54        LED_SMD_0402       760.047mil   3754.811mil    760.047mil   3754.811mil    760.047mil   3772.528mil  T        270.00 LED SMD 0402   
+D53        LED_SMD_0402       760.047mil   3857.528mil    760.047mil   3857.528mil    760.047mil   3875.244mil  T        270.00 LED SMD 0402   
+D52        LED_SMD_0402      1170.047mil   4039.811mil   1170.047mil   4039.811mil   1152.331mil   4039.811mil  T        360.00 LED SMD 0402   
+D51        LED_SMD_0402      1170.047mil   4244.811mil   1170.047mil   4244.811mil   1152.331mil   4244.811mil  T        360.00 LED SMD 0402   
+D50        LED_SMD_0402       755.047mil   4319.811mil    755.047mil   4319.811mil    755.047mil   4337.528mil  T        270.00 LED SMD 0402   
+D49        LED_SMD_0402      1166.331mil   4440.811mil   1166.331mil   4440.811mil   1148.614mil   4440.811mil  T        360.00 LED SMD 0402   
+D48        LED_SMD_0402       761.047mil   4421.811mil    761.047mil   4421.811mil    761.047mil   4439.528mil  T        270.00 LED SMD 0402   
+D47        LED_SMD_0402       795.047mil   4319.811mil    795.047mil   4319.811mil    795.047mil   4302.095mil  T         90.00 LED SMD 0402   
+D46        LED_SMD_0402      5133.047mil   6677.811mil   5133.047mil   6677.811mil   5115.331mil   6677.811mil  T        360.00 LED SMD 0402   
+D45        LED_SMD_0402       801.047mil   4421.811mil    801.047mil   4421.811mil    801.047mil   4404.095mil  T         90.00 LED SMD 0402   
+D44        LED_SMD_0402      5013.047mil   7067.811mil   5013.047mil   7067.811mil   5013.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D43        LED_SMD_0402      5033.047mil   6677.811mil   5033.047mil   6677.811mil   5015.331mil   6677.811mil  T        360.00 LED SMD 0402   
+D42        LED_SMD_0402      5133.047mil   6717.811mil   5133.047mil   6717.811mil   5150.764mil   6717.811mil  T        180.00 LED SMD 0402   
+D41        LED_SMD_0402      5030.764mil   6717.811mil   5030.764mil   6717.811mil    5048.48mil   6717.811mil  T        180.00 LED SMD 0402   
+D40        LED_SMD_0402      4813.047mil   7067.811mil   4813.047mil   7067.811mil   4813.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D39        LED_SMD_0402      4710.047mil   6715.811mil   4710.047mil   6715.811mil   4710.047mil   6733.528mil  T        270.00 LED SMD 0402   
+D38        LED_SMD_0402      4613.047mil   7065.528mil   4613.047mil   7065.528mil   4613.047mil   7047.811mil  T         90.00 LED SMD 0402   
+D37        LED_SMD_0402      4512.047mil   6715.811mil   4512.047mil   6715.811mil   4512.047mil   6733.528mil  T        270.00 LED SMD 0402   
+D36        LED_SMD_0402      4413.047mil   7065.528mil   4413.047mil   7065.528mil   4413.047mil   7047.811mil  T         90.00 LED SMD 0402   
+D35        LED_SMD_0402      4213.047mil   7067.811mil   4213.047mil   7067.811mil   4213.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D34        LED_SMD_0402      4013.047mil   7067.811mil   4013.047mil   7067.811mil   4013.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D33        LED_SMD_0402      3813.047mil   7067.811mil   3813.047mil   7067.811mil   3813.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D32        LED_SMD_0402      3613.047mil   7067.811mil   3613.047mil   7067.811mil   3613.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D31        LED_SMD_0402      3528.764mil   6669.811mil   3528.764mil   6669.811mil   3511.047mil   6669.811mil  T        360.00 LED SMD 0402   
+D30        LED_SMD_0402      3413.047mil   7067.811mil   3413.047mil   7067.811mil   3413.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D29        LED_SMD_0402      3428.764mil   6669.811mil   3428.764mil   6669.811mil   3411.047mil   6669.811mil  T        360.00 LED SMD 0402   
+D28        LED_SMD_0402      3528.764mil   6709.811mil   3528.764mil   6709.811mil    3546.48mil   6709.811mil  T        180.00 LED SMD 0402   
+D27        LED_SMD_0402      3328.764mil   6669.811mil   3328.764mil   6669.811mil   3311.047mil   6669.811mil  T        360.00 LED SMD 0402   
+D26        LED_SMD_0402      3428.764mil   6709.811mil   3428.764mil   6709.811mil    3446.48mil   6709.811mil  T        180.00 LED SMD 0402   
+D25        LED_SMD_0402      3211.047mil   7067.811mil   3211.047mil   7067.811mil   3211.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D24        LED_SMD_0402      3228.764mil   6669.811mil   3228.764mil   6669.811mil   3211.047mil   6669.811mil  T        360.00 LED SMD 0402   
+D23        LED_SMD_0402      3328.764mil   6709.811mil   3328.764mil   6709.811mil    3346.48mil   6709.811mil  T        180.00 LED SMD 0402   
+D21        LED_SMD_0402      3013.047mil   7067.811mil   3013.047mil   7067.811mil   3013.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D20        LED_SMD_0402      3028.764mil   6669.811mil   3028.764mil   6669.811mil   3011.047mil   6669.811mil  T        360.00 LED SMD 0402   
+D19        LED_SMD_0402      2928.764mil   6669.811mil   2928.764mil   6669.811mil   2911.047mil   6669.811mil  T        360.00 LED SMD 0402   
+D18        LED_SMD_0402      3028.764mil   6709.811mil   3028.764mil   6709.811mil    3046.48mil   6709.811mil  T        180.00 LED SMD 0402   
+D17        LED_SMD_0402      2828.764mil   6669.811mil   2828.764mil   6669.811mil   2811.047mil   6669.811mil  T        360.00 LED SMD 0402   
+D16        LED_SMD_0402      2812.047mil   7068.811mil   2812.047mil   7068.811mil   2812.047mil   7051.095mil  T         90.00 LED SMD 0402   
+D15        LED_SMD_0402      2928.764mil   6709.811mil   2928.764mil   6709.811mil    2946.48mil   6709.811mil  T        180.00 LED SMD 0402   
+D13        LED_SMD_0402      2828.047mil   6706.811mil   2828.047mil   6706.811mil   2845.764mil   6706.811mil  T        180.00 LED SMD 0402   
+D12        LED_SMD_0402      2613.047mil   7067.811mil   2613.047mil   7067.811mil   2613.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D10        LED_SMD_0402      2529.047mil   6671.811mil   2529.047mil   6671.811mil   2511.331mil   6671.811mil  T        360.00 LED SMD 0402   
+D9         LED_SMD_0402      2413.047mil   7067.811mil   2413.047mil   7067.811mil   2413.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D8         LED_SMD_0402      2429.047mil   6671.811mil   2429.047mil   6671.811mil   2411.331mil   6671.811mil  T        360.00 LED SMD 0402   
+D7         LED_SMD_0402      2529.047mil   6711.811mil   2529.047mil   6711.811mil   2546.764mil   6711.811mil  T        180.00 LED SMD 0402   
+D6         LED_SMD_0402      2329.047mil   6676.811mil   2329.047mil   6676.811mil   2311.331mil   6676.811mil  T        360.00 LED SMD 0402   
+D5         LED_SMD_0402      2429.047mil   6711.811mil   2429.047mil   6711.811mil   2446.764mil   6711.811mil  T        180.00 LED SMD 0402   
+D4         LED_SMD_0402      2213.047mil   7067.811mil   2213.047mil   7067.811mil   2213.047mil   7050.095mil  T         90.00 LED SMD 0402   
+D3         LED_SMD_0402      2229.047mil   6678.811mil   2229.047mil   6678.811mil   2211.331mil   6678.811mil  T        360.00 LED SMD 0402   
+D2         LED_SMD_0402      2330.047mil   6714.811mil   2330.047mil   6714.811mil   2347.764mil   6714.811mil  T        180.00 LED SMD 0402   
+D1         LED_SMD_0402      2225.047mil   6715.811mil   2225.047mil   6715.811mil   2242.764mil   6715.811mil  T        180.00 LED SMD 0402   
+D11        LED_SMD_0402      2730.047mil   6704.811mil   2730.047mil   6704.811mil   2747.764mil   6704.811mil  T        180.00 LED SMD 0402   
+D14        LED_SMD_0402      2729.047mil   6667.811mil   2729.047mil   6667.811mil   2711.331mil   6667.811mil  T        360.00 LED SMD 0402   
+D22        LED_SMD_0402      3226.047mil   6707.811mil   3226.047mil   6707.811mil   3243.764mil   6707.811mil  T        180.00 LED SMD 0402   
+D105       LED_SMD_0402      5283.047mil   4280.811mil   5283.047mil   4280.811mil   5300.764mil   4280.811mil  T        180.00 LED SMD 0402   
+D106       LED_SMD_0402      5283.047mil   4080.811mil   5283.047mil   4080.811mil   5300.764mil   4080.811mil  T        180.00 LED SMD 0402   
+D107       LED_SMD_0402      5283.047mil   3880.811mil   5283.047mil   3880.811mil   5300.764mil   3880.811mil  T        180.00 LED SMD 0402   
+D108       LED_SMD_0402      5283.047mil   3680.811mil   5283.047mil   3680.811mil   5300.764mil   3680.811mil  T        180.00 LED SMD 0402   
+D109       LED_SMD_0402      5283.047mil   3480.811mil   5283.047mil   3480.811mil   5300.764mil   3480.811mil  T        180.00 LED SMD 0402   
+D110       LED_SMD_0402      5283.047mil   3280.811mil   5283.047mil   3280.811mil   5300.764mil   3280.811mil  T        180.00 LED SMD 0402   
+D111       LED_SMD_0402      5283.047mil   3080.811mil   5283.047mil   3080.811mil   5300.764mil   3080.811mil  T        180.00 LED SMD 0402   
+D112       LED_SMD_0402      5283.047mil   2880.811mil   5283.047mil   2880.811mil   5300.764mil   2880.811mil  T        180.00 LED SMD 0402   
+D113       LED_SMD_0402      5283.047mil   2680.811mil   5283.047mil   2680.811mil   5300.764mil   2680.811mil  T        180.00 LED SMD 0402   
+D114       LED_SMD_0402      5283.047mil   2480.811mil   5283.047mil   2480.811mil   5300.764mil   2480.811mil  T        180.00 LED SMD 0402   
+D115       LED_SMD_0402      5283.047mil   2280.811mil   5283.047mil   2280.811mil   5300.764mil   2280.811mil  T        180.00 LED SMD 0402   
+D116       LED_SMD_0402      5228.047mil   1436.811mil   5228.047mil   1436.811mil   5228.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D117       LED_SMD_0402      4828.047mil    911.811mil   4828.047mil    911.811mil   4828.047mil    894.095mil  T         90.00 LED SMD 0402   
+D118       LED_SMD_0402      4728.047mil    911.811mil   4728.047mil    911.811mil   4728.047mil    894.095mil  T         90.00 LED SMD 0402   
+D119       LED_SMD_0402      4628.047mil    911.811mil   4628.047mil    911.811mil   4628.047mil    894.095mil  T         90.00 LED SMD 0402   
+D120       LED_SMD_0402      4528.047mil    911.811mil   4528.047mil    911.811mil   4528.047mil    894.095mil  T         90.00 LED SMD 0402   
+D121       LED_SMD_0402      4428.047mil    911.811mil   4428.047mil    911.811mil   4428.047mil    894.095mil  T         90.00 LED SMD 0402   
+D122       LED_SMD_0402      4428.047mil   1436.811mil   4428.047mil   1436.811mil   4428.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D123       LED_SMD_0402      4328.047mil    911.811mil   4328.047mil    911.811mil   4328.047mil    894.095mil  T         90.00 LED SMD 0402   
+D124       LED_SMD_0402      4228.047mil    911.811mil   4228.047mil    911.811mil   4228.047mil    894.095mil  T         90.00 LED SMD 0402   
+D125       LED_SMD_0402      4228.047mil   1436.811mil   4228.047mil   1436.811mil   4228.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D126       LED_SMD_0402      4128.047mil    911.811mil   4128.047mil    911.811mil   4128.047mil    894.095mil  T         90.00 LED SMD 0402   
+D127       LED_SMD_0402      4028.047mil    911.811mil   4028.047mil    911.811mil   4028.047mil    894.095mil  T         90.00 LED SMD 0402   
+D128       LED_SMD_0402      4028.047mil   1436.811mil   4028.047mil   1436.811mil   4028.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D129       LED_SMD_0402      3928.047mil    911.811mil   3928.047mil    911.811mil   3928.047mil    894.095mil  T         90.00 LED SMD 0402   
+D130       LED_SMD_0402      3828.047mil    911.811mil   3828.047mil    911.811mil   3828.047mil    894.095mil  T         90.00 LED SMD 0402   
+D131       LED_SMD_0402      3828.047mil   1436.811mil   3828.047mil   1436.811mil   3828.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D132       LED_SMD_0402      3728.047mil    911.811mil   3728.047mil    911.811mil   3728.047mil    894.095mil  T         90.00 LED SMD 0402   
+D133       LED_SMD_0402      3628.047mil    911.811mil   3628.047mil    911.811mil   3628.047mil    894.095mil  T         90.00 LED SMD 0402   
+D134       LED_SMD_0402      3628.047mil   1436.811mil   3628.047mil   1436.811mil   3628.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D135       LED_SMD_0402      3528.047mil    911.811mil   3528.047mil    911.811mil   3528.047mil    894.095mil  T         90.00 LED SMD 0402   
+D136       LED_SMD_0402      3428.047mil    911.811mil   3428.047mil    911.811mil   3428.047mil    894.095mil  T         90.00 LED SMD 0402   
+D137       LED_SMD_0402      3428.047mil   1436.811mil   3428.047mil   1436.811mil   3428.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D138       LED_SMD_0402      3328.047mil    911.811mil   3328.047mil    911.811mil   3328.047mil    894.095mil  T         90.00 LED SMD 0402   
+D139       LED_SMD_0402      3228.047mil   1436.811mil   3228.047mil   1436.811mil   3228.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D140       LED_SMD_0402      3028.047mil   1436.811mil   3028.047mil   1436.811mil   3028.047mil   1419.094mil  T         90.00 LED SMD 0402   
+D141       LED_SMD_0402      2753.047mil   1386.811mil   2753.047mil   1386.811mil   2735.331mil   1386.811mil  T        360.00 LED SMD 0402   
+D142       LED_SMD_0402      2753.047mil   1436.811mil   2753.047mil   1436.811mil   2770.764mil   1436.811mil  T        180.00 LED SMD 0402   
+D143       LED_SMD_0402      2653.047mil   1386.811mil   2653.047mil   1386.811mil   2635.331mil   1386.811mil  T        360.00 LED SMD 0402   
+D144       LED_SMD_0402      2553.047mil   1386.811mil   2553.047mil   1386.811mil   2535.331mil   1386.811mil  T        360.00 LED SMD 0402   
+D145       LED_SMD_0402      2653.047mil   1436.811mil   2653.047mil   1436.811mil   2670.764mil   1436.811mil  T        180.00 LED SMD 0402   
+D146       LED_SMD_0402      2553.047mil   1436.811mil   2553.047mil   1436.811mil   2570.764mil   1436.811mil  T        180.00 LED SMD 0402   
+D147       LED_SMD_0402      2437.331mil   1431.811mil   2437.331mil   1431.811mil   2419.614mil   1431.811mil  T        360.00 LED SMD 0402   
+D148       LED_SMD_0402      2437.331mil   1381.811mil   2437.331mil   1381.811mil   2455.047mil   1381.811mil  T        180.00 LED SMD 0402   
+J5         HEADER_2X30       5508.047mil   3730.811mil   5558.047mil   2280.811mil   5558.047mil   2280.811mil  T         90.00 HDR 2x30   0.1"
+J6         HEADER_2X30       3878.047mil   1236.811mil   5328.047mil   1286.811mil   5328.047mil   1286.811mil  T        180.00 HDR 2x30   0.1"
+R1         SMD_0805          5208.047mil   4330.811mil   5208.047mil   4330.811mil   5208.047mil   4375.811mil  T        270.00 Res 0805       
+R2         SMD_0805          5208.047mil   4130.811mil   5208.047mil   4130.811mil   5208.047mil   4175.811mil  T        270.00 Res 0805       
+R3         SMD_0805          5208.047mil   3930.811mil   5208.047mil   3930.811mil   5208.047mil   3975.811mil  T        270.00 Res 0805       
+R4         SMD_0805          5208.047mil   3730.811mil   5208.047mil   3730.811mil   5208.047mil   3775.811mil  T        270.00 Res 0805       
+R5         SMD_0805          5208.047mil   3530.811mil   5208.047mil   3530.811mil   5208.047mil   3575.811mil  T        270.00 Res 0805       
+R6         SMD_0805          5208.047mil   3330.811mil   5208.047mil   3330.811mil   5208.047mil   3375.811mil  T        270.00 Res 0805       
+R7         SMD_0805          5208.047mil   3130.811mil   5208.047mil   3130.811mil   5208.047mil   3175.811mil  T        270.00 Res 0805       
+R8         SMD_0805          5208.047mil   2930.811mil   5208.047mil   2930.811mil   5208.047mil   2975.811mil  T        270.00 Res 0805       
+R9         SMD_0805          5208.047mil   2730.811mil   5208.047mil   2730.811mil   5208.047mil   2775.811mil  T        270.00 Res 0805       
+R10        SMD_0805          5208.047mil   2530.811mil   5208.047mil   2530.811mil   5208.047mil   2575.811mil  T        270.00 Res 0805       
+R11        SMD_0805          5208.047mil   2330.811mil   5208.047mil   2330.811mil   5208.047mil   2375.811mil  T        270.00 Res 0805       
+R12        SMD_0805          5278.047mil   1511.811mil   5278.047mil   1511.811mil   5323.047mil   1511.811mil  T        180.00 Res 0805       
+R13        SMD_0805          4828.047mil   1041.811mil   4828.047mil   1041.811mil   4828.047mil   1086.811mil  T        270.00 Res 0805       
+R14        SMD_0805          4728.047mil   1036.811mil   4728.047mil   1036.811mil   4728.047mil   1081.811mil  T        270.00 Res 0805       
+R15        SMD_0805          4628.047mil   1036.811mil   4628.047mil   1036.811mil   4628.047mil   1081.811mil  T        270.00 Res 0805       
+R16        SMD_0805          4528.047mil   1036.811mil   4528.047mil   1036.811mil   4528.047mil   1081.811mil  T        270.00 Res 0805       
+R17        SMD_0805          4428.047mil   1036.811mil   4428.047mil   1036.811mil   4428.047mil   1081.811mil  T        270.00 Res 0805       
+R18        SMD_0805          4328.047mil   1036.811mil   4328.047mil   1036.811mil   4328.047mil   1081.811mil  T        270.00 Res 0805       
+R19        SMD_0805          4228.047mil   1036.811mil   4228.047mil   1036.811mil   4228.047mil   1081.811mil  T        270.00 Res 0805       
+R20        SMD_0805          4128.047mil   1036.811mil   4128.047mil   1036.811mil   4128.047mil   1081.811mil  T        270.00 Res 0805       
+R21        SMD_0805          4028.047mil   1036.811mil   4028.047mil   1036.811mil   4028.047mil   1081.811mil  T        270.00 Res 0805       
+R22        SMD_0805          3928.047mil   1036.811mil   3928.047mil   1036.811mil   3928.047mil   1081.811mil  T        270.00 Res 0805       
+R23        SMD_0805          3828.047mil   1036.811mil   3828.047mil   1036.811mil   3828.047mil   1081.811mil  T        270.00 Res 0805       
+R24        SMD_0805          3728.047mil   1036.811mil   3728.047mil   1036.811mil   3728.047mil   1081.811mil  T        270.00 Res 0805       
+R25        SMD_0805          3628.047mil   1036.811mil   3628.047mil   1036.811mil   3628.047mil   1081.811mil  T        270.00 Res 0805       
+R26        SMD_0805          3528.047mil   1036.811mil   3528.047mil   1036.811mil   3528.047mil   1081.811mil  T        270.00 Res 0805       
+R27        SMD_0805          3428.047mil   1036.811mil   3428.047mil   1036.811mil   3428.047mil   1081.811mil  T        270.00 Res 0805       
+R28        SMD_0805          3328.047mil   1036.811mil   3328.047mil   1036.811mil   3328.047mil   1081.811mil  T        270.00 Res 0805       
+D149       LED_SMD_0402      3711.047mil   6714.567mil   3711.047mil   6714.567mil   3711.047mil   6732.283mil  T        270.00 LED SMD 0402   
+D150       LED_SMD_0402      3811.047mil   6712.602mil   3811.047mil   6712.602mil   3811.047mil   6730.319mil  T        270.00 LED SMD 0402   
+D151       LED_SMD_0402      3911.047mil   6712.602mil   3911.047mil   6712.602mil   3911.047mil   6730.319mil  T        270.00 LED SMD 0402   
+D152       LED_SMD_0402      4013.047mil    6710.63mil   4013.047mil    6710.63mil   4013.047mil   6728.346mil  T        270.00 LED SMD 0402   
+D153       LED_SMD_0402      4111.047mil   6714.567mil   4111.047mil   6714.567mil   4111.047mil   6732.283mil  T        270.00 LED SMD 0402   
+D154       LED_SMD_0402      4211.047mil   6717.811mil   4211.047mil   6717.811mil   4211.047mil   6735.528mil  T        270.00 LED SMD 0402   
+D155       LED_SMD_0402      4311.047mil   6717.811mil   4311.047mil   6717.811mil   4311.047mil   6735.528mil  T        270.00 LED SMD 0402   
+D156       LED_SMD_0402      4409.449mil   6717.811mil   4409.449mil   6717.811mil   4409.449mil   6735.528mil  T        270.00 LED SMD 0402   
+J7         HDR2X7                 930mil       5869mil        980mil       5569mil        980mil       5569mil  T         90.00 15-91-0140     
+TP1        PAD_80D_052H      5511.811mil   5905.512mil   5511.811mil   5905.512mil   5511.811mil   5905.512mil  T         90.00 Test point     
+TP2        PAD_80D_052H      5708.661mil   6102.362mil   5708.661mil   6102.362mil   5708.661mil   6102.362mil  T         90.00 Test point     
+TP3        PAD_80D_052H      5905.512mil   5905.512mil   5905.512mil   5905.512mil   5905.512mil   5905.512mil  T         90.00 Test point     
+TP4        PAD_80D_052H      5314.961mil   6102.362mil   5314.961mil   6102.362mil   5314.961mil   6102.362mil  T         90.00 Test point     
+TP5        PAD_80D_052H           714mil       7179mil        714mil       7179mil        714mil       7179mil  T         90.00 Test point     
+TP6        PAD_80D_052H          5804mil       1625mil       5804mil       1625mil       5804mil       1625mil  T         90.00 Test point     
+TP7        PAD_80D_052H          5804mil       6989mil       5804mil       6989mil       5804mil       6989mil  T         90.00 Test point     
+TP8        PAD_80D_052H           456mil        842mil        456mil        842mil        456mil        842mil  T         90.00 Test point     
+TP9        PAD_80D_052H           486mil       5095mil        486mil       5095mil        486mil       5095mil  T         90.00 Test point     
+TP10       PAD_80D_052H          2038mil        507mil       2038mil        507mil       2038mil        507mil  T         90.00 Test point     
+

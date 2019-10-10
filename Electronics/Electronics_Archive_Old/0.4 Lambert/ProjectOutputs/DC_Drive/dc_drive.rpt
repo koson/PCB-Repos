@@ -1,0 +1,685 @@
+ 
+cpldfit:  version J.30                              Xilinx Inc.
+                                  Fitter Report
+Design Name: DC_drive                            Date:  9-17-2009,  2:25PM
+Device Used: XC2C256-7-PQ208
+Fitting Status: Successful
+
+*************************  Mapped Resource Summary  **************************
+
+Macrocells     Product Terms    Function Block   Registers      Pins           
+Used/Tot       Used/Tot         Inps Used/Tot    Used/Tot       Used/Tot       
+3  /256 (  1%) 8   /896  (  1%) 10  /640  (  2%) 2  /256 (  1%) 7  /173 (  4%)
+
+** Function Block Resources **
+
+Function Mcells   FB Inps  Pterms   IO       CTC      CTR      CTS      CTE     
+Block    Used/Tot Used/Tot Used/Tot Used/Tot Used/Tot Used/Tot Used/Tot Used/Tot
+FB1       0/16      0/40     0/56     0/11    0/1      0/1      0/1      0/1
+FB2       0/16      0/40     0/56     0/10    0/1      0/1      0/1      0/1
+FB3       1/16      3/40     3/56     1/11    1/1*     0/1      1/1*     0/1
+FB4       0/16      0/40     0/56     0/10    0/1      0/1      0/1      0/1
+FB5       0/16      0/40     0/56     0/11    0/1      0/1      0/1      0/1
+FB6       0/16      0/40     0/56     0/11    0/1      0/1      0/1      0/1
+FB7       0/16      0/40     0/56     0/10    0/1      0/1      0/1      0/1
+FB8       0/16      0/40     0/56     0/12    0/1      0/1      0/1      0/1
+FB9       0/16      0/40     0/56     0/12    0/1      0/1      0/1      0/1
+FB10      0/16      0/40     0/56     0/12    0/1      0/1      0/1      0/1
+FB11      2/16      7/40     5/56     2/ 9    1/1*     0/1      1/1*     0/1
+FB12      0/16      0/40     0/56     0/11    0/1      0/1      0/1      0/1
+FB13      0/16      0/40     0/56     0/11    0/1      0/1      0/1      0/1
+FB14      0/16      0/40     0/56     0/ 9    0/1      0/1      0/1      0/1
+FB15      0/16      0/40     0/56     0/11    0/1      0/1      0/1      0/1
+FB16      0/16      0/40     0/56     0/12    0/1      0/1      0/1      0/1
+         -----    -------  -------   -----    ---      ---      ---      ---
+Total     3/256    10/640    8/896    3/173   2/16     0/16     2/16     0/16
+
+CTC - Control Term Clock
+CTR - Control Term Reset
+CTS - Control Term Set
+CTE - Control Term Output Enable
+
+* - Resource is exhausted
+
+** Global Control Resources **
+
+GCK         GSR         GTS         
+Used/Tot    Used/Tot    Used/Tot    
+0/3         0/1         0/4
+
+
+** Pin Resources **
+
+Signal Type    Required     Mapped  |  Pin Type            Used    Total 
+------------------------------------|------------------------------------
+Input         :    4           4    |  I/O              :     7    163
+Output        :    3           3    |  GCK/IO           :     0      3
+Bidirectional :    0           0    |  GTS/IO           :     0      4
+GCK           :    0           0    |  GSR/IO           :     0      1
+GTS           :    0           0    |  CDR/IO           :     0      1
+GSR           :    0           0    |  DGE/IO           :     0      1
+                 ----        ----
+        Total      7           7
+
+End of Mapped Resource Summary
+*************************  Summary of Mapped Logic  ************************
+
+** 3 Outputs **
+
+Signal              Total Total Loc     Pin   Pin       Pin     I/O      I/O       Slew Reg     Reg Init
+Name                Pts   Inps          No.   Type      Use     STD      Style     Rate Use     State
+LEDS0               3     3     FB3_16  185   I/O       O       LVCMOS18           FAST DFF/S   SET
+LEDS2               2     4     FB11_15 183   I/O       O       LVCMOS18           FAST         
+LEDS1               3     3     FB11_16 184   I/O       O       LVCMOS18           FAST DFF/S   SET
+
+** 4 Inputs **
+
+Signal              Loc     Pin   Pin       Pin     I/O      I/O
+Name                        No.   Type      Use     STD      Style
+PB3                 FB15_6  123   I/O       I       LVCMOS18 
+PB2                 FB15_11 125   I/O       I       LVCMOS18 
+PB1                 FB15_12 126   I/O       I       LVCMOS18 
+PB0                 FB15_13 127   I/O       I       LVCMOS18 
+
+Legend:
+Pin No.   - ~     - User Assigned
+I/O Style - OD    - OpenDrain
+          - PU    - Pullup
+          - KPR   - Keeper
+          - S     - SchmittTrigger
+          - DG    - DataGate
+Reg Use   - LATCH - Transparent latch
+          - DFF   - D-flip-flop
+          - DEFF  - D-flip-flop with clock enable
+          - TFF   - T-flip-flop
+          - TDFF  - Dual-edge-triggered T-flip-flop
+          - DDFF  - Dual-edge-triggered flip-flop
+          - DDEFF - Dual-edge-triggered flip-flop with clock enable
+          /S (after any above flop/latch type) indicates initial state is Set
+**************************  Function Block Details  ************************
+Legend:
+Total Pt     - Total product terms used by the macrocell signal
+Loc          - Location where logic was mapped in device
+Pin Type/Use - I  - Input             GCK - Global clock
+               O  - Output            GTS - Global Output Enable
+              (b) - Buried macrocell  GSR - Global Set/Reset
+              VRF - Vref
+Pin No.      - ~  - User Assigned
+*********************************** FB1  ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB1_1   2    I/O           
+(unused)                      0     FB1_2   208  I/O           
+(unused)                      0     FB1_3   206  GSR/I/O       
+(unused)                      0     FB1_4   205  I/O           
+(unused)                      0     FB1_5   203  I/O           
+(unused)                      0     FB1_6   202  I/O           
+(unused)                      0     FB1_7        (b)           
+(unused)                      0     FB1_8        (b)           
+(unused)                      0     FB1_9        (b)           
+(unused)                      0     FB1_10       (b)           
+(unused)                      0     FB1_11       (b)           
+(unused)                      0     FB1_12  201  I/O           
+(unused)                      0     FB1_13  200  I/O           
+(unused)                      0     FB1_14  199  I/O           
+(unused)                      0     FB1_15  198  I/O           
+(unused)                      0     FB1_16  197  I/O           
+*********************************** FB2  ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB2_1   3    GTS/I/O       
+(unused)                      0     FB2_2   4    I/O           
+(unused)                      0     FB2_3   5    GTS/I/O       
+(unused)                      0     FB2_4   6    I/O           
+(unused)                      0     FB2_5   7    GTS/I/O       
+(unused)                      0     FB2_6   8    I/O           
+(unused)                      0     FB2_7        (b)           
+(unused)                      0     FB2_8        (b)           
+(unused)                      0     FB2_9        (b)           
+(unused)                      0     FB2_10       (b)           
+(unused)                      0     FB2_11       (b)           
+(unused)                      0     FB2_12  9    GTS/I/O       
+(unused)                      0     FB2_13  10   I/O           
+(unused)                      0     FB2_14  12   I/O           
+(unused)                      0     FB2_15  14   I/O           
+(unused)                      0     FB2_16       (b)           
+*********************************** FB3  ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               3/37
+Number of function block control terms used/remaining:        2/2
+Number of PLA product terms used/remaining:                   3/53
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB3_1   196  I/O           
+(unused)                      0     FB3_2   195  I/O           
+(unused)                      0     FB3_3   194  I/O           
+(unused)                      0     FB3_4   193  I/O           
+(unused)                      0     FB3_5   192  I/O           
+(unused)                      0     FB3_6   191  I/O           
+(unused)                      0     FB3_7        (b)           
+(unused)                      0     FB3_8        (b)           
+(unused)                      0     FB3_9        (b)           
+(unused)                      0     FB3_10       (b)           
+(unused)                      0     FB3_11       (b)           
+(unused)                      0     FB3_12  189  I/O           
+(unused)                      0     FB3_13  188  I/O           
+(unused)                      0     FB3_14  187  I/O           
+(unused)                      0     FB3_15  186  I/O           
+LEDS0                         3     FB3_16  185  I/O     O      +       +  
+
+Signals Used by Logic in Function Block
+  1: LEDS2              2: PB0                3: PB1 
+
+Signal                     1         2         3         4 FB      
+Name             0----+----0----+----0----+----0----+----0 Inputs  
+LEDS0             XXX..................................... 3       
+                 0----+----1----+----2----+----3----+----4
+                           0         0         0         0
+*********************************** FB4  ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB4_1   15   I/O           
+(unused)                      0     FB4_2   16   I/O           
+(unused)                      0     FB4_3   17   I/O           
+(unused)                      0     FB4_4   18   I/O           
+(unused)                      0     FB4_5   19   I/O           
+(unused)                      0     FB4_6   20   I/O           
+(unused)                      0     FB4_7        (b)           
+(unused)                      0     FB4_8        (b)           
+(unused)                      0     FB4_9        (b)           
+(unused)                      0     FB4_10       (b)           
+(unused)                      0     FB4_11       (b)           
+(unused)                      0     FB4_12  21   I/O           
+(unused)                      0     FB4_13  22   I/O           
+(unused)                      0     FB4_14  23   I/O           
+(unused)                      0     FB4_15       (b)           
+(unused)                      0     FB4_16  25   I/O           
+*********************************** FB5  ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB5_1   49   I/O           
+(unused)                      0     FB5_2   48   I/O           
+(unused)                      0     FB5_3   47   I/O           
+(unused)                      0     FB5_4   46   GCK/I/O       
+(unused)                      0     FB5_5   45   I/O           
+(unused)                      0     FB5_6   44   GCK/I/O       
+(unused)                      0     FB5_7        (b)           
+(unused)                      0     FB5_8        (b)           
+(unused)                      0     FB5_9        (b)           
+(unused)                      0     FB5_10       (b)           
+(unused)                      0     FB5_11       (b)           
+(unused)                      0     FB5_12  43   I/O           
+(unused)                      0     FB5_13  41   I/O           
+(unused)                      0     FB5_14  40   I/O           
+(unused)                      0     FB5_15  39   I/O           
+(unused)                      0     FB5_16  38   I/O           
+*********************************** FB6  ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB6_1   50   I/O           
+(unused)                      0     FB6_2   51   CDR/I/O       
+(unused)                      0     FB6_3   54   I/O           
+(unused)                      0     FB6_4   55   GCK/I/O       
+(unused)                      0     FB6_5   56   I/O           
+(unused)                      0     FB6_6   57   I/O           
+(unused)                      0     FB6_7        (b)           
+(unused)                      0     FB6_8        (b)           
+(unused)                      0     FB6_9        (b)           
+(unused)                      0     FB6_10       (b)           
+(unused)                      0     FB6_11       (b)           
+(unused)                      0     FB6_12  58   DGE/I/O       
+(unused)                      0     FB6_13  60   I/O           
+(unused)                      0     FB6_14  61   I/O           
+(unused)                      0     FB6_15  62   I/O           
+(unused)                      0     FB6_16  63   I/O           
+*********************************** FB7  ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB7_1   37   I/O           
+(unused)                      0     FB7_2   36   I/O           
+(unused)                      0     FB7_3   35   I/O           
+(unused)                      0     FB7_4   34   I/O           
+(unused)                      0     FB7_5   32   I/O           
+(unused)                      0     FB7_6   31   I/O           
+(unused)                      0     FB7_7        (b)           
+(unused)                      0     FB7_8        (b)           
+(unused)                      0     FB7_9        (b)           
+(unused)                      0     FB7_10       (b)           
+(unused)                      0     FB7_11  30   I/O           
+(unused)                      0     FB7_12  29   I/O           
+(unused)                      0     FB7_13  28   I/O           
+(unused)                      0     FB7_14  27   I/O           
+(unused)                      0     FB7_15       (b)           
+(unused)                      0     FB7_16       (b)           
+*********************************** FB8  ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB8_1   64   I/O           
+(unused)                      0     FB8_2   65   I/O           
+(unused)                      0     FB8_3   66   I/O           
+(unused)                      0     FB8_4   67   I/O           
+(unused)                      0     FB8_5   69   I/O           
+(unused)                      0     FB8_6   70   I/O           
+(unused)                      0     FB8_7        (b)           
+(unused)                      0     FB8_8        (b)           
+(unused)                      0     FB8_9        (b)           
+(unused)                      0     FB8_10       (b)           
+(unused)                      0     FB8_11  71   I/O           
+(unused)                      0     FB8_12  72   I/O           
+(unused)                      0     FB8_13  73   I/O           
+(unused)                      0     FB8_14  74   I/O           
+(unused)                      0     FB8_15  75   I/O           
+(unused)                      0     FB8_16  76   I/O           
+*********************************** FB9  ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB9_1   160  I/O           
+(unused)                      0     FB9_2   161  I/O           
+(unused)                      0     FB9_3   162  I/O           
+(unused)                      0     FB9_4   163  I/O           
+(unused)                      0     FB9_5   164  I/O           
+(unused)                      0     FB9_6   165  I/O           
+(unused)                      0     FB9_7        (b)           
+(unused)                      0     FB9_8        (b)           
+(unused)                      0     FB9_9        (b)           
+(unused)                      0     FB9_10       (b)           
+(unused)                      0     FB9_11  166  I/O           
+(unused)                      0     FB9_12  167  I/O           
+(unused)                      0     FB9_13  168  I/O           
+(unused)                      0     FB9_14  169  I/O           
+(unused)                      0     FB9_15  170  I/O           
+(unused)                      0     FB9_16  171  I/O           
+*********************************** FB10 ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB10_1  159  I/O           
+(unused)                      0     FB10_2  158  I/O           
+(unused)                      0     FB10_3  155  I/O           
+(unused)                      0     FB10_4  154  I/O           
+(unused)                      0     FB10_5  153  I/O           
+(unused)                      0     FB10_6  152  I/O           
+(unused)                      0     FB10_7       (b)           
+(unused)                      0     FB10_8       (b)           
+(unused)                      0     FB10_9       (b)           
+(unused)                      0     FB10_10      (b)           
+(unused)                      0     FB10_11 151  I/O           
+(unused)                      0     FB10_12 150  I/O           
+(unused)                      0     FB10_13 149  I/O           
+(unused)                      0     FB10_14 148  I/O           
+(unused)                      0     FB10_15 147  I/O           
+(unused)                      0     FB10_16 146  I/O           
+*********************************** FB11 ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               7/33
+Number of function block control terms used/remaining:        2/2
+Number of PLA product terms used/remaining:                   5/51
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB11_1       (b)           
+(unused)                      0     FB11_2  173  I/O           
+(unused)                      0     FB11_3  174  I/O           
+(unused)                      0     FB11_4  175  I/O           
+(unused)                      0     FB11_5       (b)           
+(unused)                      0     FB11_6       (b)           
+(unused)                      0     FB11_7       (b)           
+(unused)                      0     FB11_8       (b)           
+(unused)                      0     FB11_9       (b)           
+(unused)                      0     FB11_10      (b)           
+(unused)                      0     FB11_11 178  I/O           
+(unused)                      0     FB11_12 179  I/O           
+(unused)                      0     FB11_13 180  I/O           
+(unused)                      0     FB11_14 182  I/O           
+LEDS2                         2     FB11_15 183  I/O     O                 
+LEDS1                         3     FB11_16 184  I/O     O      +       +  
+
+Signals Used by Logic in Function Block
+  1: LEDS0              4: PB0                6: PB2 
+  2: LEDS1              5: PB1                7: PB3 
+  3: LEDS2            
+
+Signal                     1         2         3         4 FB      
+Name             0----+----0----+----0----+----0----+----0 Inputs  
+LEDS2             XX...XX................................. 4       
+LEDS1             ..XXX................................... 3       
+                 0----+----1----+----2----+----3----+----4
+                           0         0         0         0
+*********************************** FB12 ***********************************
+This function block is part of I/O Bank number:               2
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB12_1  145  I/O           
+(unused)                      0     FB12_2  144  I/O           
+(unused)                      0     FB12_3  143  I/O           
+(unused)                      0     FB12_4  142  I/O           
+(unused)                      0     FB12_5  140  I/O           
+(unused)                      0     FB12_6  139  I/O           
+(unused)                      0     FB12_7       (b)           
+(unused)                      0     FB12_8       (b)           
+(unused)                      0     FB12_9       (b)           
+(unused)                      0     FB12_10      (b)           
+(unused)                      0     FB12_11 138  I/O           
+(unused)                      0     FB12_12 137  I/O           
+(unused)                      0     FB12_13 136  I/O           
+(unused)                      0     FB12_14 135  I/O           
+(unused)                      0     FB12_15 134  I/O           
+(unused)                      0     FB12_16      (b)           
+*********************************** FB13 ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB13_1  107  I/O           
+(unused)                      0     FB13_2  108  I/O           
+(unused)                      0     FB13_3  109  I/O           
+(unused)                      0     FB13_4  110  I/O           
+(unused)                      0     FB13_5  111  I/O           
+(unused)                      0     FB13_6  112  I/O           
+(unused)                      0     FB13_7       (b)           
+(unused)                      0     FB13_8       (b)           
+(unused)                      0     FB13_9       (b)           
+(unused)                      0     FB13_10      (b)           
+(unused)                      0     FB13_11      (b)           
+(unused)                      0     FB13_12 113  I/O           
+(unused)                      0     FB13_13 114  I/O           
+(unused)                      0     FB13_14 115  I/O           
+(unused)                      0     FB13_15 116  I/O           
+(unused)                      0     FB13_16 117  I/O           
+*********************************** FB14 ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB14_1  106  I/O           
+(unused)                      0     FB14_2  103  I/O           
+(unused)                      0     FB14_3  102  I/O           
+(unused)                      0     FB14_4  101  I/O           
+(unused)                      0     FB14_5  100  I/O           
+(unused)                      0     FB14_6       (b)           
+(unused)                      0     FB14_7       (b)           
+(unused)                      0     FB14_8       (b)           
+(unused)                      0     FB14_9       (b)           
+(unused)                      0     FB14_10      (b)           
+(unused)                      0     FB14_11      (b)           
+(unused)                      0     FB14_12 99   I/O           
+(unused)                      0     FB14_13 97   I/O           
+(unused)                      0     FB14_14 95   I/O           
+(unused)                      0     FB14_15      (b)           
+(unused)                      0     FB14_16 91   I/O           
+*********************************** FB15 ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB15_1  118  I/O           
+(unused)                      0     FB15_2  119  I/O           
+(unused)                      0     FB15_3  120  I/O           
+(unused)                      0     FB15_4  121  I/O           
+(unused)                      0     FB15_5  122  I/O           
+(unused)                      0     FB15_6  123  I/O     I     
+(unused)                      0     FB15_7       (b)           
+(unused)                      0     FB15_8       (b)           
+(unused)                      0     FB15_9       (b)           
+(unused)                      0     FB15_10      (b)           
+(unused)                      0     FB15_11 125  I/O     I     
+(unused)                      0     FB15_12 126  I/O     I     
+(unused)                      0     FB15_13 127  I/O     I     
+(unused)                      0     FB15_14 128  I/O           
+(unused)                      0     FB15_15      (b)           
+(unused)                      0     FB15_16 131  I/O           
+*********************************** FB16 ***********************************
+This function block is part of I/O Bank number:               1
+Number of function block inputs used/remaining:               0/40
+Number of function block control terms used/remaining:        0/4
+Number of PLA product terms used/remaining:                   0/56
+Signal                        Total Loc     Pin  Pin     Pin   CTC CTR CTS CTE
+Name                          Pt            No.  Type    Use   
+(unused)                      0     FB16_1  90   I/O           
+(unused)                      0     FB16_2  89   I/O           
+(unused)                      0     FB16_3  88   I/O           
+(unused)                      0     FB16_4  87   I/O           
+(unused)                      0     FB16_5  86   I/O           
+(unused)                      0     FB16_6  85   I/O           
+(unused)                      0     FB16_7       (b)           
+(unused)                      0     FB16_8       (b)           
+(unused)                      0     FB16_9       (b)           
+(unused)                      0     FB16_10      (b)           
+(unused)                      0     FB16_11 84   I/O           
+(unused)                      0     FB16_12 83   I/O           
+(unused)                      0     FB16_13 82   I/O           
+(unused)                      0     FB16_14 80   I/O           
+(unused)                      0     FB16_15 78   I/O           
+(unused)                      0     FB16_16 77   I/O           
+*******************************  Equations  ********************************
+
+********** Mapped Logic **********
+
+LEDS0 := PB0;	// (1 pt, 1 inp)
+    LEDS0.CLK = PB1;	// CTC	(1 pt, 1 inp)
+    LEDS0.AP = !LEDS2;	// CTS	(1 pt, 1 inp)
+
+LEDS1 := !PB0;	// (1 pt, 1 inp)
+    LEDS1.CLK = PB1;	// CTC	(1 pt, 1 inp)
+    LEDS1.AP = !LEDS2;	// CTS	(1 pt, 1 inp)
+
+!LEDS2 = !PB2 & !LEDS0
+	# !PB3 & !LEDS1;	// (2 pt, 4 inp)
+
+Control Term Legend:
+Clock         - GCK    - Global Clock
+                CTC    - Block Control Term Clock
+                PTC    - Product Term Clock
+                CLKDIV - Clock Divider
+Preset        - GSR    - Global Set
+                CTS    - Block Control Term Preset
+                PTA    - Product Term Preset
+Reset         - GSR    - Global Reset
+                CTR    - Block Control Term Reset
+                PTA    - Product Term Reset
+Output Enable - GTS    - Global Tristate
+                CTE    - Block Control Term Output Enable
+                PTB    - Product Term Output Enable
+
+Legend:  <signame>.COMB = combinational node mapped to the same physical macrocell
+                          as the FastInput "signal" (not logically related)
+******************************  Device Pin Out *****************************
+
+Device : XC2C256-7-PQ208
+
+
+Pin Signal                         Pin Signal                        
+No. Name                           No. Name                          
+  1 VCC                             105 VCCIO-1.8                     
+  2 TIE                             106 TIE                           
+  3 TIE                             107 TIE                           
+  4 TIE                             108 TIE                           
+  5 TIE                             109 TIE                           
+  6 TIE                             110 TIE                           
+  7 TIE                             111 TIE                           
+  8 TIE                             112 TIE                           
+  9 TIE                             113 TIE                           
+ 10 TIE                             114 TIE                           
+ 11 VCCAUX                          115 TIE                           
+ 12 TIE                             116 TIE                           
+ 13 GND                             117 TIE                           
+ 14 TIE                             118 TIE                           
+ 15 TIE                             119 TIE                           
+ 16 TIE                             120 TIE                           
+ 17 TIE                             121 TIE                           
+ 18 TIE                             122 TIE                           
+ 19 TIE                             123 PB3                           
+ 20 TIE                             124 VCC                           
+ 21 TIE                             125 PB2                           
+ 22 TIE                             126 PB1                           
+ 23 TIE                             127 PB0                           
+ 24 GND                             128 TIE                           
+ 25 TIE                             129 GND                           
+ 26 VCCIO-1.8                       130 GND                           
+ 27 TIE                             131 TIE                           
+ 28 TIE                             132 VCCIO-1.8                     
+ 29 TIE                             133 VCCIO-1.8                     
+ 30 TIE                             134 TIE                           
+ 31 TIE                             135 TIE                           
+ 32 TIE                             136 TIE                           
+ 33 VCCIO-1.8                       137 TIE                           
+ 34 TIE                             138 TIE                           
+ 35 TIE                             139 TIE                           
+ 36 TIE                             140 TIE                           
+ 37 TIE                             141 GND                           
+ 38 TIE                             142 TIE                           
+ 39 TIE                             143 TIE                           
+ 40 TIE                             144 TIE                           
+ 41 TIE                             145 TIE                           
+ 42 GND                             146 TIE                           
+ 43 TIE                             147 TIE                           
+ 44 TIE                             148 TIE                           
+ 45 TIE                             149 TIE                           
+ 46 TIE                             150 TIE                           
+ 47 TIE                             151 TIE                           
+ 48 TIE                             152 TIE                           
+ 49 TIE                             153 TIE                           
+ 50 TIE                             154 TIE                           
+ 51 TIE                             155 TIE                           
+ 52 GND                             156 GND                           
+ 53 VCC                             157 VCCIO-1.8                     
+ 54 TIE                             158 TIE                           
+ 55 TIE                             159 TIE                           
+ 56 TIE                             160 TIE                           
+ 57 TIE                             161 TIE                           
+ 58 TIE                             162 TIE                           
+ 59 VCCIO-1.8                       163 TIE                           
+ 60 TIE                             164 TIE                           
+ 61 TIE                             165 TIE                           
+ 62 TIE                             166 TIE                           
+ 63 TIE                             167 TIE                           
+ 64 TIE                             168 TIE                           
+ 65 TIE                             169 TIE                           
+ 66 TIE                             170 TIE                           
+ 67 TIE                             171 TIE                           
+ 68 GND                             172 VCCIO-1.8                     
+ 69 TIE                             173 TIE                           
+ 70 TIE                             174 TIE                           
+ 71 TIE                             175 TIE                           
+ 72 TIE                             176 TDO                           
+ 73 TIE                             177 GND                           
+ 74 TIE                             178 TIE                           
+ 75 TIE                             179 TIE                           
+ 76 TIE                             180 TIE                           
+ 77 TIE                             181 VCCIO-1.8                     
+ 78 TIE                             182 TIE                           
+ 79 VCCIO-1.8                       183 LEDS2                         
+ 80 TIE                             184 LEDS1                         
+ 81 GND                             185 LEDS0                         
+ 82 TIE                             186 TIE                           
+ 83 TIE                             187 TIE                           
+ 84 TIE                             188 TIE                           
+ 85 TIE                             189 TIE                           
+ 86 TIE                             190 GND                           
+ 87 TIE                             191 TIE                           
+ 88 TIE                             192 TIE                           
+ 89 TIE                             193 TIE                           
+ 90 TIE                             194 TIE                           
+ 91 TIE                             195 TIE                           
+ 92 VCCIO-1.8                       196 TIE                           
+ 93 GND                             197 TIE                           
+ 94 TDI                             198 TIE                           
+ 95 TIE                             199 TIE                           
+ 96 TMS                             200 TIE                           
+ 97 TIE                             201 TIE                           
+ 98 TCK                             202 TIE                           
+ 99 TIE                             203 TIE                           
+100 TIE                             204 VCCIO-1.8                     
+101 TIE                             205 TIE                           
+102 TIE                             206 TIE                           
+103 TIE                             207 GND                           
+104 GND                             208 TIE                           
+
+
+Legend :  NC  = Not Connected, unbonded pin
+        PGND  = Unused I/O configured as additional Ground pin
+         KPR  = Unused I/O with weak keeper (leave unconnected)
+         WPU  = Unused I/O with weak pull up (leave unconnected)
+         TIE  = Unused I/O floating -- must tie to VCC, GND or other signal
+         VCC  = Dedicated Power Pin
+      VCCAUX  = Power supply for JTAG pins
+   VCCIO-3.3  = I/O supply voltage for LVTTL, LVCMOS33, SSTL3_I
+   VCCIO-2.5  = I/O supply voltage for LVCMOS25, SSTL2_I
+   VCCIO-1.8  = I/O supply voltage for LVCMOS18
+   VCCIO-1.5  = I/O supply voltage for LVCMOS15, HSTL_I
+        VREF  = Reference voltage for indicated input standard
+       *VREF  = Reference voltage pin selected by software
+         GND  = Dedicated Ground Pin
+         TDI  = Test Data In, JTAG pin
+         TDO  = Test Data Out, JTAG pin
+         TCK  = Test Clock, JTAG pin
+         TMS  = Test Mode Select, JTAG pin
+  PROHIBITED  = User reserved pin
+****************************  Compiler Options  ****************************
+
+Following is a list of all global compiler options used by the fitter run.
+
+Device(s) Specified                         : XC2C256-7-PQ208
+Optimization Method                         : DENSITY
+Multi-Level Logic Optimization              : ON
+Ignore Timing Specifications                : OFF
+Default Register Power Up Value             : LOW
+Keep User Location Constraints              : ON
+What-You-See-Is-What-You-Get                : OFF
+Exhaustive Fitting                          : OFF
+Keep Unused Inputs                          : OFF
+Slew Rate                                   : FAST
+Set Unused I/O Pin Termination              : FLOAT
+Global Clock Optimization                   : ON
+Global Set/Reset Optimization               : ON
+Global Ouput Enable Optimization            : ON
+Enable Input Registers                      : ON
+Function Block Fan-in Limit                 : 38
+Use DATA_GATE Attribute                     : ON
+Set Tristate Outputs to Termination Mode    : FLOAT
+Default Voltage Standard for All Outputs    : LVCMOS18
+Input Limit                                 : 32
+Pterm Limit                                 : 36

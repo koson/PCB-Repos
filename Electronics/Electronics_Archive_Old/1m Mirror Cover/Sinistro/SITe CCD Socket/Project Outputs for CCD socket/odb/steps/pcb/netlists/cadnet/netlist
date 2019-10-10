@@ -1,0 +1,122 @@
+H optimize n staggered n
+$0 $NONE$
+$1 A1OUT
+$2 A2OUT
+$3 A3OUT
+$4 A4OUT
+$5 GND
+$6 P1A
+$7 P1B
+$8 P2A
+$9 P2B
+$10 P3A
+$11 P3B
+$12 RG
+$13 S1Q1
+$14 S1Q2
+$15 S1Q3
+$16 S1Q4
+$17 S2Q1
+$18 S2Q2
+$19 S2Q3
+$20 S2Q4
+$21 S3
+$22 SG
+$23 TGA
+$24 TGB
+$25 VDD
+$26 VOD
+$27 VRD
+#
+#Netlist points
+#
+1 0.023 19.4465 13.3875 B e e staggered 0 0 0
+1 0.007 19.4965 15.0875 B e e staggered 0 0 0
+2 0.007 19.6465 15.0375 B e e staggered 0 0 0
+2 0.023 20.8465 13.3875 B e e staggered 0 0 0
+3 0.007 19.5965 15.0875 B e e staggered 0 0 0
+3 0.023 20.8465 14.7875 B e e staggered 0 0 0
+4 0.023 19.4465 14.7875 B e e staggered 0 0 0
+4 0.007 19.5465 15.0375 B e e staggered 0 0 0
+5 0 19.2965 13.5825 T 0.05 0.05 e s
+5 0.023 19.4465 13.5875 B e e staggered 0 0 0
+5 0 20.5415 13.2375 T 0.05 0.05 e s
+5 0.023 19.5465 13.3875 B e e staggered 0 0 0
+5 0.023 19.4465 14.5875 B e e staggered 0 0 0
+5 0.023 19.5465 14.7875 B e e staggered 0 0 0
+5 0.007 20.3465 15.0375 B e e staggered 0 0 0
+5 0.0125 20.6275 13.2375 B e e staggered 0 0 0 v
+5 0 20.7915 13.2375 T 0.05 0.05 e s
+5 0.023 20.7465 13.3875 B e e staggered 0 0 0
+5 0.023 20.8465 13.5875 B e e staggered 0 0 0
+5 0.023 20.7465 14.7875 B e e staggered 0 0 0
+5 0.023 20.8465 14.5875 B e e staggered 0 0 0
+6 0.023 19.4465 13.9875 B e e staggered 0 0 0
+6 0.023 20.8465 13.9875 B e e staggered 0 0 0
+6 0.007 20.7965 15.0875 B e e staggered 0 0 0
+7 0.023 19.4465 14.1875 B e e staggered 0 0 0
+7 0.007 20.6465 15.0375 B e e staggered 0 0 0
+7 0.023 20.8465 14.1875 B e e staggered 0 0 0
+8 0.023 19.4465 13.8875 B e e staggered 0 0 0
+8 0.007 20.6965 15.0875 B e e staggered 0 0 0
+8 0.023 20.8465 13.8875 B e e staggered 0 0 0
+9 0.023 19.4465 14.2875 B e e staggered 0 0 0
+9 0.007 20.5465 15.0375 B e e staggered 0 0 0
+9 0.023 20.8465 14.2875 B e e staggered 0 0 0
+10 0.023 19.4465 14.0875 B e e staggered 0 0 0
+10 0.007 19.9465 15.0375 B e e staggered 0 0 0
+11 0.007 20.7465 15.0375 B e e staggered 0 0 0
+11 0.023 20.8465 14.0875 B e e staggered 0 0 0
+12 0.023 19.7465 13.3875 B e e staggered 0 0 0
+12 0.023 19.7465 14.7875 B e e staggered 0 0 0
+12 0.023 20.5465 13.3875 B e e staggered 0 0 0
+12 0.007 20.2465 15.0375 B e e staggered 0 0 0
+12 0.023 20.5465 14.7875 B e e staggered 0 0 0
+13 0.007 19.7465 15.0375 B e e staggered 0 0 0
+13 0.023 20.0465 13.3875 B e e staggered 0 0 0
+14 0.007 19.8465 15.0375 B e e staggered 0 0 0
+14 0.023 20.2465 13.3875 B e e staggered 0 0 0
+15 0.007 20.1465 15.0375 B e e staggered 0 0 0
+15 0.023 20.3465 14.7875 B e e staggered 0 0 0
+16 0.023 19.9465 14.7875 B e e staggered 0 0 0
+16 0.007 19.9965 15.0875 B e e staggered 0 0 0
+17 0.007 19.6965 15.0875 B e e staggered 0 0 0
+17 0.023 19.9465 13.3875 B e e staggered 0 0 0
+18 0.007 19.8965 15.0875 B e e staggered 0 0 0
+18 0.023 20.3465 13.3875 B e e staggered 0 0 0
+19 0.007 20.0965 15.0875 B e e staggered 0 0 0
+19 0.023 20.2465 14.7875 B e e staggered 0 0 0
+20 0.023 20.0465 14.7875 B e e staggered 0 0 0
+20 0.007 20.0465 15.0375 B e e staggered 0 0 0
+21 0.007 19.7965 15.0875 B e e staggered 0 0 0
+21 0.023 20.1465 13.3875 B e e staggered 0 0 0
+21 0.023 20.1465 14.7875 B e e staggered 0 0 0
+22 0.023 19.4465 13.6875 B e e staggered 0 0 0
+22 0.023 19.4465 14.4875 B e e staggered 0 0 0
+22 0.007 20.4965 15.0875 B e e staggered 0 0 0
+22 0.023 20.8465 13.6875 B e e staggered 0 0 0
+22 0.023 20.8465 14.4875 B e e staggered 0 0 0
+23 0.023 19.4465 13.7875 B e e staggered 0 0 0
+23 0.007 20.5965 15.0875 B e e staggered 0 0 0
+23 0.023 20.8465 13.7875 B e e staggered 0 0 0
+24 0.023 19.4465 14.3875 B e e staggered 0 0 0
+24 0.007 20.4465 15.0375 B e e staggered 0 0 0
+24 0.023 20.8465 14.3875 B e e staggered 0 0 0
+25 0 19.2965 13.4925 T 0.05 0.05 e s
+25 0.023 19.4465 13.4875 B e e staggered 0 0 0
+25 0.023 19.4465 14.6875 B e e staggered 0 0 0
+25 0.023 20.8465 13.4875 B e e staggered 0 0 0
+25 0.007 20.3965 15.0875 B e e staggered 0 0 0
+25 0.023 20.8465 14.6875 B e e staggered 0 0 0
+26 0.023 19.8465 13.3875 B e e staggered 0 0 0
+26 0.023 19.8465 14.7875 B e e staggered 0 0 0
+26 0 20.4515 13.2375 T 0.05 0.05 e s
+26 0.023 20.4465 13.3875 B e e staggered 0 0 0
+26 0.007 20.1965 15.0875 B e e staggered 0 0 0
+26 0.023 20.4465 14.7875 B e e staggered 0 0 0
+27 0.023 19.6465 13.3875 B e e staggered 0 0 0
+27 0.023 19.6465 14.7875 B e e staggered 0 0 0
+27 0.023 20.6465 13.3875 B e e staggered 0 0 0
+27 0 20.7015 13.2375 T 0.05 0.05 e s
+27 0.007 20.2965 15.0875 B e e staggered 0 0 0
+27 0.023 20.6465 14.7875 B e e staggered 0 0 0

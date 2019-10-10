@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Sinistro_TestBed_RevA.PcbDoc   7/1/2009  11:41:34 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : Sinistro_TestBed_RevA-Plated.TXT
+EIA File   : Sinistro_TestBed_RevA.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          664              466.18 Inch (11841.00 mm)
+T2        25mil (0.635mm)          Round          86               338.72 Inch (8603.39 mm)
+T3        28mil (0.7112mm)         Round          8                292.61 Inch (7432.39 mm)
+T4        33mil (0.8382mm)         Round          10               293.14 Inch (7445.63 mm)
+T5        35mil (0.889mm)          Round          111              322.44 Inch (8190.07 mm)
+T6        43mil (1.0922mm)         Round          37               303.92 Inch (7719.60 mm)
+T7        47mil (1.1938mm)         Round          60               323.04 Inch (8205.22 mm)
+T8        52mil (1.3208mm)         Round          127              401.93 Inch (10208.92 mm)
+T9        125mil (3.175mm)         Round          10               339.99 Inch (8635.68 mm)
+T10       128mil (3.2512mm)        Round          2                300.91 Inch (7643.03 mm)
+---------------------------------------------------------------------------
+Totals                                            1115             3382.87 Inch (85924.94 mm)
+
+Two holes at same point : 2
+-----------------------
+6437,4409
+10582,4006
+
+Total Processing Time (hh:mm:ss) : 00:00:00

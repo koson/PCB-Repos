@@ -1,0 +1,98 @@
+Bill of Material for Sinistro_ASP.PrjPCB
+On 6/2/2009 at 6:30:35 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ +12V                PAD_80D_052H     1    TP25                         Test Point           
+ +28V                PAD_80D_052H     1    TP28                         Test Point           
+ +3.3V               PAD_80D_052H     1    TP29                         Test Point           
+ +5ANA               PAD_80D_052H     1    TP27                         Test Point           
+ 0.2 ppm             TQFP48_m         4    U6A, U6B, U6C, U6D           AD8422               
+ -12V                PAD_80D_052H     1    TP31                         Test Point           
+ 15V                 SMD_CAP_3216     8    C32, C44, C45, C53, C54, C55 outline 3.2mm x 1.6mm 
+                                           C57, C58
+ 35V                 SMD_CAP_6032     5    C10A, C10B, C10C, C10D, C59  outline 6.0mm x 3.2mm 
+ -5ANA               PAD_80D_052H     1    TP30                         Test Point           
+ 600R                SMD_1206         1    L5                                                
+ AGND                PAD_80D_052H     4    TP14, TP15, TP16, TP17       Test Point           
+ BAS70DW-04          SOT-363          4    U12A, U12B, U12C, U12D       Dual series array    
+ C0G                 1812             4    C6A, C6B, C6C, C6D           Capacitor            
+ Cap Pol             SMD_CAP_3216    28    C15A, C15B, C15C, C15D, C16A outline 3.2mm x 1.6mm 
+                                           C16B, C16C, C16D, C21A, C21B
+                                           C21C, C21D, C24A, C24B, C24C
+                                           C24D, C30A, C30B, C30C, C30D
+                                           C31A, C31B, C31C, C31D, C48A
+                                           C48B, C48C, C48D
+ Cap SMD             SMD_0805        35    C1A, C1B, C1C, C1D, C2, C7   Capacitor            
+                                           C8A, C8B, C8C, C8D, C17A
+                                           C17B, C17C, C17D, C27, C33
+                                           C34, C35, C36, C37, C38, C39
+                                           C40, C41, C42, C43, C47, C49A
+                                           C49B, C49C, C49D, C50, C51
+                                           C52, C56
+ Cap                 SMD_0805        72    C3A, C3B, C3C, C3D, C4A, C4B Capacitor            
+                                           C4C, C4D, C5A, C5B, C5C, C5D
+                                           C9A, C9B, C9C, C9D, C11A
+                                           C11B, C11C, C11D, C12A, C12B
+                                           C12C, C12D, C13A, C13B, C13C
+                                           C13D, C14A, C14B, C14C, C14D
+                                           C18A, C18B, C18C, C18D, C19A
+                                           C19B, C19C, C19D, C20A, C20B
+                                           C20C, C20D, C22A, C22B, C22C
+                                           C22D, C23A, C23B, C23C, C23D
+                                           C25A, C25B, C25C, C25D, C26A
+                                           C26B, C26C, C26D, C28A, C28B
+                                           C28C, C28D, C29A, C29B, C29C
+                                           C29D, C46A, C46B, C46C, C46D
+ DG213A              SOIC16           4    U3A, U3B, U3C, U3D           DG213 QUAD NO/NC     
+ DG642               182H_M           4    U2A, U2B, U2C, U2D           DG642                
+ DGND                PAD_80D_052H     1    TP18                         Test Point           
+ DS2411              SMD_SOT23_3      1    U15                          Silicon Serial Number 
+ EPM570T144C3        TQFP144_L        1    U14                          MAX II 3.3/2.5V CPLD, 116 IOs, 570 Logic Elements, 144-Pin Plastic TQFP, Commercial Temperature, Speed Grade 3 
+ FDV304P             SMD_SOT23_3      1    Q1                           P-MOSFET LOGIC LEVEL 
+ FIN1002M5           SMD_SOT23_5      1    U10                                               
+ Header 10X2         HDR2X10          1    P1                           Header, 10-Pin, Dual row 
+ Header 2            HDR1X2           1    P2                           Header, 2-Pin        
+ Header 5X2          HDR2X5           1    P3                           Header, 5-Pin, Dual row 
+ IFN860              TO-71            4    Q10A, Q10B, Q10C, Q10D       N-JFET NJ450L Process 
+ Inductor            SMD_1210_INDUCT   16    L1A, L1B, L1C, L1D, L2A, L2B Inductor             
+                                           L2C, L2D, L3A, L3B, L3C, L3D
+                                           L4A, L4B, L4C, L4D
+ LED SMD             SMD_0805_LED     6    D1, D2, D3, D4, D5, D6       Typical BLUE SiC LED 
+ MAX1258             QFN48_M          1    U9                           12-Bit MultChan ADC/DAC 
+ QMSS-078-01-X-D-EM2-PC4 QMS EDGE PWR PINS    1    J5                           SAMTEC QMSS W/PWR PINS 
+ RES ARRAY  x4       RES ARRAY 0603 x 4    1    RN1                          Resistor Array 4 Isolated 
+ Res SMD             SMD_0805        71    R3A, R3B, R3C, R3D, R4A, R4B Resistor             
+                                           R4C, R4D, R6A, R6B, R6C, R6D
+                                           R7A, R7B, R7C, R7D, R9A, R9B
+                                           R9C, R9D, R10A, R10B, R10C
+                                           R10D, R11A, R11B, R11C, R11D
+                                           R12A, R12B, R12C, R12D, R13A
+                                           R13B, R13C, R13D, R14A, R14B
+                                           R14C, R14D, R15A, R15B, R15C
+                                           R15D, R16A, R16B, R16C, R16D
+                                           R17A, R17B, R17C, R17D, R18A
+                                           R18B, R18C, R18D, R19A, R19B
+                                           R19C, R19D, R20A, R20B, R20C
+                                           R20D, R21, R22, R23, R24, R25
+                                           R26, R27
+ SSM2210             SO-8_M           8    U11A, U11B, U11C, U11D, U13A Dual Matched NPN     
+                                           U13B, U13C, U13D
+ SW-SPST-8POS        SMD_DIP GULL WING 16PIN    1    SW1                          SW-SMD 8-pos SPST    
+ Test point          PAD_80D_052H    47    TP1A, TP1B, TP1C, TP1D, TP2A Test Point           
+                                           TP2B, TP2C, TP2D, TP3A, TP3B
+                                           TP3C, TP3D, TP4A, TP4B, TP4C
+                                           TP4D, TP5A, TP5B, TP5C, TP5D
+                                           TP6A, TP6B, TP6C, TP6D, TP7A
+                                           TP7B, TP7C, TP7D, TP8, TP9A
+                                           TP9B, TP9C, TP9D, TP10A
+                                           TP10B, TP10C, TP10D, TP11
+                                           TP12, TP13, TP19, TP20, TP21
+                                           TP22, TP23, TP24, TP26
+ THS4031             MSOP with PowerPAD   12    U1A, U1B, U1C, U1D, U4A, U4B Low Noise, High Speed Amplifier 
+                                           U4C, U4D, U5A, U5B, U5C, U5D
+ THS4151             182H_M           4    U7A, U7B, U7C, U7D           DIFF AMP             
+ Vishay              Vishay 3 pin    12    R1A, R1B, R1C, R1D, R2A, R2B                      
+                                           R2C, R2D, R5A, R5B, R5C, R5D
+ Vishay              VISHAY 6 pin     4    R8A, R8B, R8C, R8D                                
+ VRE3401             THALER 8-PIN SOP    1    U8                           VREF 4.096V          

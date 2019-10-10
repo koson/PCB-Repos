@@ -1,0 +1,32 @@
+Pin Freeze File:  version J.30
+
+2C256208 XC2C256-7-PQ208
+PB0 S:PIN127
+PB1 S:PIN126
+PB2 S:PIN125
+PB3 S:PIN123
+LEDS0 S:PIN185
+LEDS1 S:PIN184
+LEDS2 S:PIN183
+
+
+;The remaining section of the .gyd file is for documentation purposes only.
+;It shows where your internal equations were placed in the last successful fit.
+
+
+
+PARTITION FB3_16 LEDS0
+
+
+
+
+
+
+
+PARTITION FB11_15 LEDS2 LEDS1
+
+
+
+
+
+

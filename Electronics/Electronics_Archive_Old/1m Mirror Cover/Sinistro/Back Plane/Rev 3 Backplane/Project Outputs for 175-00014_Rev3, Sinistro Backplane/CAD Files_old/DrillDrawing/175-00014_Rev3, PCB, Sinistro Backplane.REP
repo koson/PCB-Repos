@@ -1,0 +1,28 @@
+*************************************************************
+FileName = 175-00014_Rev3, PCB, Sinistro Backplane.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : 175-00014_Rev3, PCB, Sinistro Backplane.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Bottom Layer (*.GBL)-Top Layer (*.GTL)
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+

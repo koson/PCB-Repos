@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00021_rev1, 1m FWS Apps Brd, SuperFin.PcbDoc   11/29/2010  5:15:21 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer  GTL to Bottom Layer  GBL
+ASCII Plated RoundHoles File : 175-00021_rev1, 1m FWS Apps Brd, SuperFin-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00021_rev1, 1m FWS Apps Brd, SuperFin-NonPlated.TXT
+EIA File   : 175-00021_rev1, 1m FWS Apps Brd, SuperFin.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          20               6.68 Inch (169.65 mm)
+T2        28mil (0.7112mm)         Round          23               7.29 Inch (185.28 mm)
+T3        35mil (0.889mm)          Round          30               3.16 Inch (80.34 mm)
+T4        166mil (4.2164mm)        Round          1                0.00 Inch (0.00 mm)
+T5        47mil (1.1938mm)         Round          6         NPTH   6.09 Inch (154.67 mm)
+---------------------------------------------------------------------------
+Totals                                            80               23.23 Inch (589.94 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

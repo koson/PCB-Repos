@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00036, rev1, Super Sniffer.PcbDoc   11/9/2011  4:36:35 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00036, rev1, Super Sniffer-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00036, rev1, Super Sniffer-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        6mil (0.1524mm)          Round          437              37.22 Inch (945.49 mm)
+T2        10mil (0.254mm)          Round          8                4.43 Inch (112.50 mm)
+T3        35mil (0.889mm)          Round          254              48.48 Inch (1231.34 mm)
+T4        52mil (1.3208mm)         Round          10               22.02 Inch (559.35 mm)
+T5        120mil (3.048mm)         Round          8                27.89 Inch (708.44 mm)
+T6        40mil (1.016mm)          Round          8         NPTH   3.48 Inch (88.38 mm)
+---------------------------------------------------------------------------
+Totals                                            725              143.52 Inch (3645.50 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

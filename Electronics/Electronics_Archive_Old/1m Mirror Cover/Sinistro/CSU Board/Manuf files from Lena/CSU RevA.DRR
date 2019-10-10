@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CSU RevA.PcbDoc   5/27/2009  4:48:52 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CSU RevA.TXT
+EIA File   : CSU RevA.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          793              86.06 Inch (2185.91 mm)
+T2        15mil (0.381mm)          Round          346              72.22 Inch (1834.38 mm)
+T3        25mil (0.635mm)          Round          39               10.59 Inch (268.97 mm)
+T4        36mil (0.9144mm)         Round          3                10.97 Inch (278.66 mm)
+T5        42mil (1.0668mm)         Round          57               14.44 Inch (366.90 mm)
+T6        92mil (2.3368mm)         Round          2                7.14 Inch (181.40 mm)
+T7        118mil (2.9972mm)        Round          2                1.23 Inch (31.18 mm)
+---------------------------------------------------------------------------
+Totals                                            1242             202.65 Inch (5147.40 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

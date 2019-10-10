@@ -1,0 +1,70 @@
+CSU BOARD ,Las Cumbres Observatory, Inc PART NUMBER  CSUREVA		05/27/2009
+
+               
+ 
+
+The following are all master files:
+
+INSTRUCT.ION		THIS FILE
+CSUREVA_ASCII.PCBDOC	PCB FILE IN ASCII FORMAT
+CSUREVA-FAB.CAM		FAB DRAWING IN GERBER FORMAT
+CSUREVA.APR		PROTEL APERTURE LIST ASCII FILE
+CSUREVA.GTL		GERBER TOP LAYER	 
+CSUREVA.GP1		GERBER GROUND PLANE
+CSUREVA.G1		GERBER MID LAYER1 
+CSUREVA.GP2		GERBER POWER PLANE
+CSUREVA.G2		GERBER MID LAYER2
+CSUREVA.GP3		GERBER POWER PLANE
+CSUREVA.G3		GERBER MID LAYER3  
+CSUREVA.GBL		GERBER BOTTOM LAYER					   
+CSUREVA.GTO      	GERBER TOP SILKSCREEN
+CSUREVA.GBO      	GERBER BOTTOM SILKSCREEN					  
+CSUREVA.GTS		GERBER TOP SOLDERMASK					   
+CSUREVA.GBS		GERBER BOTTOM SOLDERMASK
+CSUREVA.GPT       	GERBER PAD MASTER, TOP
+CSUREVA.GPB       	GERBER PAD MASTER, BOTTOM
+CSUREVA.DRR		DRILL SCHEDULE INFORMATION
+CSUREVA.DRL		DRILL EIA FILE
+CSUREVA.TXT		DRILL ASCII
+CSUREVA.GTP		GERBER TOP PASTE				
+CSUREVA.GBP		GERBER BOTTOM PASTE
+CSUREVA.GD1       	GERBER DRILL DRAWING
+FAB_CSUREVA.PDF		FAB DRAWING IN PDF FORMAT
+ASSY-CSUREVA.PDF	ASSY DRAWING IN PDF FORMAT
+Pick Place for CSUREVA.txt
+
+
+
+3. Aperture List: SEE CSUREVA APT
+
+
+4. Drill Information
+
+---------------------------------------------------------------------------
+NCDrill File Report For: CSU RevA.PcbDoc   5/27/2009  4:48:52 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CSU RevA.TXT
+EIA File   : CSU RevA.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          793              86.06 Inch (2185.91 mm)
+T2        15mil (0.381mm)          Round          346              72.22 Inch (1834.38 mm)
+T3        25mil (0.635mm)          Round          39               10.59 Inch (268.97 mm)
+T4        36mil (0.9144mm)         Round          3                10.97 Inch (278.66 mm)
+T5        42mil (1.0668mm)         Round          57               14.44 Inch (366.90 mm)
+T6        92mil (2.3368mm)         Round          2                7.14 Inch (181.40 mm)
+T7        118mil (2.9972mm)        Round          2                1.23 Inch (31.18 mm)
+---------------------------------------------------------------------------
+Totals                                            1242             202.65 Inch (5147.40 mm)
+
+
+
+
+
+
+
+END
+

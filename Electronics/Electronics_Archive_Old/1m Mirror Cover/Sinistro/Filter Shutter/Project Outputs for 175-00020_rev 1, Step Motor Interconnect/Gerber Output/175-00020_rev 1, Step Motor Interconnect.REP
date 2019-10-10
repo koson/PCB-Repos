@@ -1,0 +1,334 @@
+*************************************************************
+FileName = 175-00020_rev 1, Step Motor Interconnect.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer GTL
+      File : 175-00020_rev 1, Step Motor Interconnect.GTL
+
+    Adding Layer      : Top Layer GTL
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : GND1 GP1
+      File : 175-00020_rev 1, Step Motor Interconnect.GP1
+
+    Adding Layer      : GND1 GP1
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : +5V GP2
+      File : 175-00020_rev 1, Step Motor Interconnect.GP2
+
+    Adding Layer      : +5V GP2
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1 G1
+      File : 175-00020_rev 1, Step Motor Interconnect.G1
+
+    Adding Layer      : Mid-Layer 1 G1
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D26
+    D27
+    D29
+    D32
+    D33
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 2 G2
+      File : 175-00020_rev 1, Step Motor Interconnect.G2
+
+    Adding Layer      : Mid-Layer 2 G2
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D27
+    D28
+    D33
+    D42
+*************************************************************
+
+*************************************************************
+Generating : +3.3V GP3
+      File : 175-00020_rev 1, Step Motor Interconnect.GP3
+
+    Adding Layer      : +3.3V GP3
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D33
+    D34
+    D35
+    D36
+    D37
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : GND2 GP4
+      File : 175-00020_rev 1, Step Motor Interconnect.GP4
+
+    Adding Layer      : GND2 GP4
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer GBL
+      File : 175-00020_rev 1, Step Motor Interconnect.GBL
+
+    Adding Layer      : Bottom Layer GBL
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 175-00020_rev 1, Step Motor Interconnect.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 175-00020_rev 1, Step Motor Interconnect.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Top Layer GTL
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 175-00020_rev 1, Step Motor Interconnect.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Top Layer GTL
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 175-00020_rev 1, Step Motor Interconnect.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Bottom Layer GBL
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+

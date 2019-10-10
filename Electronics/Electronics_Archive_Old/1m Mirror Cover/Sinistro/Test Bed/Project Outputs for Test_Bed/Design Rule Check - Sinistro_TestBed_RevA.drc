@@ -1,0 +1,68 @@
+Protel Design System Design Rule Check
+PCB File : \\Files\users\rlobdill\Altum Projects\Sinistro\Test Bed\Sinistro_TestBed_RevA.PcbDoc
+Date     : 6/30/2009
+Time     : 6:55:25 PM
+
+Processing Rule : Room Sinistro_TestBed_10A (Bounding Region = (29976mil, 18554mil, 47311mil, 26208mil) (InComponentClass('Sinistro_TestBed_10A'))
+Rule Violations :0
+
+Processing Rule : Room ASP BRD #4 (Bounding Region = (34078mil, 19680mil, 34914mil, 24670mil) (InComponentClass('ASP BRD #4'))
+Rule Violations :0
+
+Processing Rule : Room CLK BRD #4 (Bounding Region = (40872.055mil, 21608.032mil, 41414.792mil, 24655mil) (InComponentClass('CLK BRD #4'))
+Rule Violations :0
+
+Processing Rule : Room CLK BRD #3 (Bounding Region = (39098mil, 18551mil, 40038mil, 24655mil) (InComponentClass('CLK BRD #3'))
+Rule Violations :0
+
+Processing Rule : Room CLK BRD #2 (Bounding Region = (37798mil, 18551mil, 38738mil, 24655mil) (InComponentClass('CLK BRD #2'))
+Rule Violations :0
+
+Processing Rule : Room CLK BRD #1 (Bounding Region = (36498mil, 18551mil, 37438mil, 24655mil) (InComponentClass('CLK BRD #1'))
+Rule Violations :0
+
+Processing Rule : Room ASP BRD #3 (Bounding Region = (32735mil, 19657mil, 33540mil, 24670mil) (InComponentClass('ASP BRD #3'))
+Rule Violations :0
+
+Processing Rule : Room ASP BRD #2 (Bounding Region = (31435mil, 19657mil, 32240mil, 24670mil) (InComponentClass('ASP BRD #2'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InNet('E')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=50mil) ((InNet('+5') OR InNet('D')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=15mil) (Preferred=15mil) ((InNet('-5ANA') OR InNet('+5ANA') OR InNet(A)or InNet('+24V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) ((HasFootprint('TQFP48_m') or HasFootprint('RM-8'))),(All)
+Rule Violations :0
+
+Processing Rule : Room ASP BRD #1 (Bounding Region = (30135mil, 19657mil, 30940mil, 24670mil) (InComponentClass('ASP BRD #1'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:03

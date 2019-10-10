@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:06:14 PM On 2/28/2013
+
+Output: ArtworkLayers
+Type  : Gerber
+From  : PCB Document [175-00023, rev4, PCB, Sinistro Pwr Supply.PcbDoc]
+   Generated File[175-00023, rev4, PCB, Sinistro Pwr Supply.GTO]
+   Generated File[175-00023, rev4, PCB, Sinistro Pwr Supply.EXTREP]
+   Generated File[175-00023, rev4, PCB, Sinistro Pwr Supply.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:06:15 PM On 2/28/2013

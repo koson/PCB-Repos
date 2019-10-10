@@ -1,0 +1,6 @@
+   Generated File[DC motor drive interface.VHD]
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:24:59 PM On 9/17/2009

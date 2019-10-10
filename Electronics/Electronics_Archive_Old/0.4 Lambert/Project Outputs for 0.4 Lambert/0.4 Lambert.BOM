@@ -1,0 +1,71 @@
+Bill of Material for 0.4 Lambert.PrjPCB
+On 10/21/2009 at 3:49:35 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100u, EEE-FK1V101XP EEE-FK1V101XP    3    C37, C38, C39                                     
+ 16V                 SMD_CAP_3216     4    C27, C29, C36, C42           outline 3.2mm x 1.6mm 
+ 1u                  smd_0805         6    C12, C13, C14, C15, C18, C22 Capacitor            
+ 35V                 SMD_Pana size H13    1    C11                          Panasonic TG series low ESR 
+ 50V                 3225[1210]       1    C24                          Capacitor            
+ 61729-0010BLF       61729-0010BLF    1    J1                           Header, 6-Pin        
+ ACM1513-551-2PL-TL  ACM1513-551-2PL    1    FER3                         Transformer (Ideal)  
+ ADP3338AKCZ-3.3RL7  SOT223           1    U10                          High Accuracy, Ultralow I_Q, 1 A, anyCAP Low Dropout Regulator 
+ B3U-1000P           B3U-1000P        1    S1                           Switch               
+ Cap SMD             SMD_0805        32    C23, C25, C26, C28, C30, C31 Capacitor            
+                                           C32, C33, C34, C35, C40, C41
+                                           C43, C44, C45, C46, C47, C48
+                                           C49, C50, C51, C52, C53, C54
+                                           C55, C56, C57, C58, C59, C60
+                                           C61, C62
+ Cap                 SMD_0805        15    C1, C2, C3, C4, C5, C6, C7   Capacitor            
+                                           C8, C9, C10, C16, C17, C19
+                                           C20, C21
+ CM-BF537E           CM-BF5xx         1    U3                           DSP Balckfin 537     
+ CONN, 4 PIN, Round  Phoenix M12, 4-Pos    3    P3, P4, P5                   Phoenix M12, 4 Pos, PCB 
+ CP2102              QFN-28 (CP2102)    1    U2                           Silicon Labs CP2102 USB to UART Bridge IC, 5mm x 5mm 28-QFN 
+ D Connector 15      DB15 HD PCB      1    J2                           Receptacle Assembly, 15 Position, Right Angle 
+ Header 10X2         HDR2X10          1    P2                           Header, 10-Pin, Dual row 
+ Header 12 for screw term HDR 1x12 PHX RT ANGLE    1    P1                           Phoenix MCV series   
+ Header 7X2          HDR2X7           1    P6                           Header, 7-Pin, Dual row 
+ Inductor            SMD_1210_INDUCT    3    L1, L2, L3                   Inductor             
+ Latching, 24V       Relay Omron G6SK    1    K1                           Omron G6SK DPDT Dual Latching 
+ LT1124CS8           S8_N             1    U9                           Dual Low Noise, High-Speed Precision Operational Amplifier 
+ MAX1169             TSSOP14          1    U7                           Maxim SAR ADC, 58.6ksps, 16-Bit, 2-Wire Serial ADC in a 14-Pin TSSOP 
+ MAX16820            TQFN-6           3    U5, U6, U8                   MAX16820, 2MHz High-Brightness LED Driver with High-Side Current Sense and 5000:1 Dimming 
+ MC55110-CP          TQFP144_M        1    U13                          PMD Single Axis Cmd Processor 
+ MI0805K400R-10      smd_0805         2    FER1, FER2                   Inductor             
+ NJT4031N            SOT223 w/PowerPAD    1    Q4                           NPN 40V 3A 2W        
+ Oscillator          SMT 5X3.2mm      1    U14                          SMD 5 x 3.2mm        
+ PS2811-4            SO-16            2    U15, U16                     Quad Opto Coupler Open Collector 
+ PT78ST105S          PSIP_3_SMD       1    U11                          Voltage Regulator    
+ REF02AU             182H_N           1    U12                          +5V Precision Voltage Reference 
+ Res 0805            SMD_0805        28    R1, R2, R3, R4, R5, R6, R7   Resistor 0805        
+                                           R8, R9, R10, R13, R15, R16
+                                           R17, R18, R19, R20, R21, R22
+                                           R23, R24, R25, R26, R27, R28
+                                           R29, R30, R31
+ Res 0805            SMD_1206         1    F2                           Polyswitch           
+ Res SMD             SMD_0805         2    R12, R14                     Resistor             
+ Res3                smd_0805         1    R11                          Resistor             
+ RUEF400             PolySwitch Radial 0.2    1    F1                           PolySwitch RUE Series 
+ SD03H0SB            DIP6_SMD         1    S2                                                
+ SL43-E3/57T         SMC              3    D3, D4, D5                   Default Diode        
+ SMCJ30A             DIODE_SMC        2    D6, D7                                            
+ SMCJ5.0A            DIODE_SMC        1    D9                                                
+ SMCJ7.0A            DIODE_SMC        1    D8                                                
+ SP0503BAHT          SOT-143          2    D1, D2                                            
+ Test Point SMD      SMD_TEST POINT   43    TP1, TP2, TP3, TP4, TP5, TP6 SMD loop test point  
+                                           TP7, TP8, TP9, TP10, TP11
+                                           TP12, TP13, TP14, TP15, TP16
+                                           TP17, TP18, TP19, TP20, TP21
+                                           TP22, TP23, TP24, TP25, TP26
+                                           TP27, TP28, TP29, TP30, TP31
+                                           TP32, TP33, TP34, TP35, TP36
+                                           TP37, TP38, TP39, TP40, TP41
+                                           TP42, TP43
+ TLE5206-2           TO220-7          1    U4                           5A H-Bridge          
+ Wurth Elektronik 7498011002 Wurth_7498011002    1    J3                                                
+ XCR3128XL-10VQ100C  VQ100_N          1    U1                           CoolRunner XPLA3, 3.3V, 128 Macrocell CPLD, 100-Pin VQFP, Commercial Grade 
+ ZXMN3B14FTA         SOT-23B          8    Q1, Q2, Q3, Q5, Q6, Q8, Q9   N-Channel MOSFET     
+                                           Q10

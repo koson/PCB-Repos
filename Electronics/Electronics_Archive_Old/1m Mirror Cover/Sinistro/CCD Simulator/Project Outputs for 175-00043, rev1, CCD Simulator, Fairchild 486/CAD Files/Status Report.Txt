@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [175-00043, rev1, CCD Simulator, Fairchild 486.PcbDoc]
+   Generated File[Pick Place for 175-00043, rev1, CCD Simulator, Fairchild 486.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:07:46 PM On 3/13/2012

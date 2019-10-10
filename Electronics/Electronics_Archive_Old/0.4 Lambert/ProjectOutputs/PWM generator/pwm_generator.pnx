@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE ibis [
+<!ELEMENT ibis (part, pin+)>
+<!ELEMENT part EMPTY>
+<!ELEMENT pin EMPTY>
+<!ATTLIST part
+  arch   CDATA #REQUIRED
+  device CDATA #REQUIRED
+  spg    CDATA #REQUIRED
+  pkg    CDATA #REQUIRED>
+<!ATTLIST pin
+  nm     CDATA #REQUIRED
+  no     CDATA #REQUIRED
+  iostd  (LVTTL|SSTL3_I|LVCMOS33|LVCMOS25|SSTL2_I|LVCMOS18|LVCMOS15|HSTL_I|NA) "NA"
+  sr     (SLOW|FAST|slow|fast) "SLOW"
+  dir    (BIDIR|bidir|INPUT|input|OUTPUT|output) "BIDIR">
+]>
+<ibis><part arch="xbr" device="XC2C256" pkg="PQ208" spg="-7"/><pin dir="input" iostd="LVCMOS18" nm="CLK" no="55"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;0&gt;" no="50"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;3&gt;" no="47"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;1&gt;" no="49"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;2&gt;" no="48"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;4&gt;" no="45"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;5&gt;" no="43"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;6&gt;" no="41"/><pin dir="input" iostd="LVCMOS18" nm="SW&lt;7&gt;" no="40"/><pin dir="input" iostd="LVCMOS18" nm="PB0" no="127"/><pin dir="input" iostd="LVCMOS18" nm="PB1" no="126"/><pin dir="output" iostd="LVCMOS18" nm="HA1" no="27" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="HA2" no="28" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="HA3" no="29" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="HA4" no="30" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;0&gt;" no="185" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;1&gt;" no="184" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;2&gt;" no="183" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;3&gt;" no="182" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;4&gt;" no="180" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;5&gt;" no="179" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;6&gt;" no="178" sr="fast"/><pin dir="output" iostd="LVCMOS18" nm="LEDS&lt;7&gt;" no="175" sr="fast"/></ibis>

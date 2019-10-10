@@ -1,0 +1,129 @@
+Release 8.1i - Fit L.33
+Copyright(c) 1995-2003 Xilinx Inc. All rights reserved
+
+ 9- 3-2013 10:16AM
+
+NOTE: This file is designed to be imported into a spreadsheet program
+such as Microsoft Excel for viewing, printing and sorting. The comma ','
+character is used as the data field separator.
+This file is also designed to support parsing.
+
+Input file:  Point4_Lambert_PLD_Project_revC.ngd
+output file: Point4_Lambert_PLD_Project_revC_pad.csv
+Part type:   xcr3128xl
+Speed grade: -10
+Package:     vq100
+
+Pinout by Pin Number:
+
+-----,-----,-----,-----,-----,-----,-----,-----,-----,-----,
+Pin Number,Signal Name,Pin Usage,Pin Name,Direction,IO Standard,IO Bank Number,{blank},Slew Rate,Termination,{blank},Voltage,Constraint,
+P1,WPU,,I/O,,,,,,,,,,
+P2,WPU,,I/O,,,,,,,,,,
+P3,VCC,,VCC,,,,,,,,,,
+P4,TDI,,I/O/TDI,,,,,,,,,,
+P5,WPU,,I/O,,,,,,,,,,
+P6,WPU,,I/O,,,,,,,,,,
+P7,WPU,,I/O,,,,,,,,,,
+P8,WPU,,I/O,,,,,,,,,,
+P9,WPU,,I/O,,,,,,,,,,
+P10,WPU,,I/O,,,,,,,,,,
+P11,PE,,PORT_EN,,,,,,,,,,
+P12,WPU,,I/O,,,,,,,,,,
+P13,WPU,,I/O,,,,,,,,,,
+P14,WPU,,I/O,,,,,,,,,,
+P15,TMS,,I/O/TMS,,,,,,,,,,
+P16,WPU,,I/O,,,,,,,,,,
+P17,WPU,,I/O,,,,,,,,,,
+P18,VCC,,VCC,,,,,,,,,,
+P19,WPU,,I/O,,,,,,,,,,
+P20,WPU,,I/O,,,,,,,,,,
+P21,WPU,,I/O,,,,,,,,,,
+P22,WPU,,I/O,,,,,,,,,,
+P23,WPU,,I/O,,,,,,,,,,
+P24,WPU,,I/O,,,,,,,,,,
+P25,DEC_AXIS_OK,I,I/O,INPUT,,,,,,,,,
+P26,GND,,GND,,,,,,,,,,
+P27,WPU,,I/O,,,,,,,,,,
+P28,WPU,,I/O,,,,,,,,,,
+P29,WPU,,I/O,,,,,,,,,,
+P30,WPU,,I/O,,,,,,,,,,
+P31,X_RA_AXIS_OK,I,I/O,INPUT,,,,,,,,,
+P32,WPU,,I/O,,,,,,,,,,
+P33,WPU,,I/O,,,,,,,,,,
+P34,VCC,,VCC,,,,,,,,,,
+P35,WPU,,I/O,,,,,,,,,,
+P36,WPU,,I/O,,,,,,,,,,
+P37,WPU,,I/O,,,,,,,,,,
+P38,GND,,GND,,,,,,,,,,
+P39,VCC,,VCC,,,,,,,,,,
+P40,WPU,,I/O,,,,,,,,,,
+P41,WPU,,I/O,,,,,,,,,,
+P42,WPU,,I/O,,,,,,,,,,
+P43,GND,,GND,,,,,,,,,,
+P44,WPU,,I/O,,,,,,,,,,
+P45,OK_TO_MOVE,O,I/O,OUTPUT,,,,,,,,,
+P46,X_DC_START,I,I/O,INPUT,,,,,,,,,
+P47,DC_DIRECTION,I,I/O,INPUT,,,,,,,,,
+P48,X_PWM_UV_EN,I,I/O,INPUT,,,,,,,,,
+P49,PWM_D<6>,I,I/O,INPUT,,,,,,,,,
+P50,X_PWM_WHT_EN,I,I/O,INPUT,,,,,,,,,
+P51,VCC,,VCC,,,,,,,,,,
+P52,PWM_D<7>,I,I/O,INPUT,,,,,,,,,
+P53,PWM_D<5>,I,I/O,INPUT,,,,,,,,,
+P54,PWM_D<4>,I,I/O,INPUT,,,,,,,,,
+P55,PWM_D<3>,I,I/O,INPUT,,,,,,,,,
+P56,X_PWM_IR_EN,I,I/O,INPUT,,,,,,,,,
+P57,PWM_D<1>,I,I/O,INPUT,,,,,,,,,
+P58,PWM_D<2>,I,I/O,INPUT,,,,,,,,,
+P59,GND,,GND,,,,,,,,,,
+P60,PWM_D<0>,I,I/O,INPUT,,,,,,,,,
+P61,PWM_WHT_LOAD,I,I/O,INPUT,,,,,,,,,
+P62,TCK,,I/O/TCK,,,,,,,,,,
+P63,UV_STRIP,I,I/O,INPUT,,,,,,,,,
+P64,STOWED_1,I,I/O,INPUT,,,,,,,,,
+P65,PWM_UV_LOAD,I,I/O,INPUT,,,,,,,,,
+P66,VCC,,VCC,,,,,,,,,,
+P67,WPU,,I/O,,,,,,,,,,
+P68,WPU,,I/O,,,,,,,,,,
+P69,PWM_IR_LOAD,I,I/O,INPUT,,,,,,,,,
+P70,DEPLOYED_1,I,I/O,INPUT,,,,,,,,,
+P71,WPU,,I/O,,,,,,,,,,
+P72,WPU,,I/O,,,,,,,,,,
+P73,TDO,,I/O/TDO,,,,,,,,,,
+P74,GND,,GND,,,,,,,,,,
+P75,X_HOME,O,I/O,OUTPUT,,,,,,,,,
+P76,IN1,O,I/O,OUTPUT,,,,,,,,,
+P77,IN2,O,I/O,OUTPUT,,,,,,,,,
+P78,PWM_UV_OUT,O,I/O,OUTPUT,,,,,,,,,
+P79,WPU,,I/O,,,,,,,,,,
+P80,WPU,,I/O,,,,,,,,,,
+P81,WPU,,I/O,,,,,,,,,,
+P82,VCC,,VCC,,,,,,,,,,
+P83,WPU,,I/O,,,,,,,,,,
+P84,WPU,,I/O,,,,,,,,,,
+P85,PWM_IR_OUT,O,I/O,OUTPUT,,,,,,,,,
+P86,GND,,GND,,,,,,,,,,
+P87,CLK_20MHZ,GCK,IN3/GCK3,,,,,,,,,,
+P88,WPU,,IN2/GCK2,,,,,,,,,,
+P89,WPU,,IN1/GCK1,,,,,,,,,,
+P90,WPU,,IN0/GCK0,,,,,,,,,,
+P91,VCC,,VCC,,,,,,,,,,
+P92,WPU,,I/O,,,,,,,,,,
+P93,WPU,,I/O,,,,,,,,,,
+P94,IR_STRIP,O,I/O,OUTPUT,,,,,,,,,
+P95,GND,,GND,,,,,,,,,,
+P96,WPU,,I/O,,,,,,,,,,
+P97,WPU,,I/O,,,,,,,,,,
+P98,WPU,,I/O,,,,,,,,,,
+P99,LIGHTBARMINUS,I,I/O,INPUT,,,,,,,,,
+P100,PWM_WHT_OUT,O,I/O,OUTPUT,,,,,,,,,
+
+To preserve the pinout above for future design iterations in
+Project Navigator simply execute the (Lock Pins) process
+located under the (Implement Design) process in a toolbox named
+(Optional Implementation Tools) or invoke PIN2UCF from the
+command line. The location constraints will be written into your
+specified UCF file
+
+

@@ -1,0 +1,345 @@
+.model Point4_Lambert_PLD_Project_revC
+.inputs CLK_20MHZ
+.inputs DC_DIRECTION
+.inputs DEC_AXIS_OK
+.inputs DEPLOYED_1
+.outputs IN1
+.outputs IN2
+.outputs IR_STRIP
+.inputs LIGHTBARMINUS
+.outputs OK_TO_MOVE
+.inputs PWM_D<7>
+.inputs PWM_D<6>
+.inputs PWM_D<5>
+.inputs PWM_D<4>
+.inputs PWM_D<3>
+.inputs PWM_D<2>
+.inputs PWM_D<1>
+.inputs PWM_D<0>
+.inputs PWM_IR_LOAD
+.outputs PWM_IR_OUT
+.inputs PWM_UV_LOAD
+.outputs PWM_UV_OUT
+.inputs PWM_WHT_LOAD
+.outputs PWM_WHT_OUT
+.inputs STOWED_1
+.inputs TCK
+.inputs TDI
+.inputs TDO_PLD
+.inputs TMS
+.inputs UV_STRIP
+.inputs X_DC_START
+.outputs X_HOME
+.inputs X_PWM_IR_EN
+.inputs X_PWM_UV_EN
+.inputs X_PWM_WHT_EN
+.inputs X_RA_AXIS_OK
+.names PowerSignal_GND
+.names PowerSignal_VCC
+1
+.loc Point4_Lambert_PLD_Schematic.VHD 207
+.subckt INV U35 I=-U35/I O=+PinSignal_U35_O
+.names X_DC_START U35/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 214
+.subckt INV U34 I=-U34/I O=+PinSignal_U34_O
+.names X_PWM_WHT_EN U34/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 221
+.subckt INV U33 I=-U33/I O=+PinSignal_U33_O
+.names X_PWM_UV_EN U33/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 228
+.subckt INV U32 I=-U32/I O=+PinSignal_U32_O
+.names X_PWM_IR_EN U32/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 235
+.subckt AND2S U31 I0=-U31/I0 I1=-U31/I1 O=+PinSignal_U31_O
+.names PinSignal_U30_O U31/I0
+1 1
+.names PinSignal_U33_O U31/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 243
+.subckt XOR2S U30 I0=-U30/I0 I1=-U30/I1 O=+PinSignal_U30_O
+.names PinSignal_U32_O U30/I0
+1 1
+.names PinSignal_U33_O U30/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 251
+.subckt AND2S U29 I0=-U29/I0 I1=-U29/I1 O=+PinSignal_U29_O
+.names PinSignal_U32_O U29/I0
+1 1
+.names PinSignal_U30_O U29/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 259
+.subckt INV U28 I=-U28/I O=+PinSignal_U28_O
+.names PinSignal_U34_O U28/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 266
+.subckt LDC U27 CLR=-U27/CLR D=-U27/D G=-U27/G Q=+PWM_WHT_OUT
+.names PinSignal_U28_O U27/CLR
+1 1
+.names PinSignal_U11_Q U27/D
+1 1
+.names PowerSignal_VCC U27/G
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 275
+.subckt INV U26 I=-U26/I O=+PinSignal_U26_O
+.names PinSignal_U31_O U26/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 282
+.subckt LDC U25 CLR=-U25/CLR D=-U25/D G=-U25/G Q=+PWM_UV_OUT
+.names PinSignal_U26_O U25/CLR
+1 1
+.names PinSignal_U8_Q U25/D
+1 1
+.names PowerSignal_VCC U25/G
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 291
+.subckt INV U24 I=-U24/I O=+PinSignal_U24_O
+.names PinSignal_U29_O U24/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 298
+.subckt LDC U23 CLR=-U23/CLR D=-U23/D G=-U23/G Q=+PWM_IR_OUT
+.names PinSignal_U24_O U23/CLR
+1 1
+.names PinSignal_U1_Q U23/D
+1 1
+.names PowerSignal_VCC U23/G
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 307
+.subckt INV U22 I=-U22/I O=+IR_STRIP
+.names UV_STRIP U22/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 314
+.subckt INV U21 I=-U21/I O=+X_HOME
+.names LIGHTBARMINUS U21/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 321
+.subckt AND2S u20 I0=-u20/I0 I1=-u20/I1 O=+PinSignal_u20_O
+.names DEPLOYED_1 u20/I0
+1 1
+.names IN2 u20/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 329
+.subckt OR2S U19 I0=-U19/I0 I1=-U19/I1 O=+PinSignal_U19_O
+.names PinSignal_u20_O U19/I0
+1 1
+.names PinSignal_U18_O U19/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 337
+.subckt AND2S U18 I0=-U18/I0 I1=-U18/I1 O=+PinSignal_U18_O
+.names STOWED_1 U18/I0
+1 1
+.names IN1 U18/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 345
+.subckt AND2S U17 I0=-U17/I0 I1=-U17/I1 O=+OK_TO_MOVE
+.names PinSignal_U16_O U17/I0
+1 1
+.names DEC_AXIS_OK U17/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 353
+.subckt INV U16 I=-U16/I O=+PinSignal_U16_O
+.names X_RA_AXIS_OK U16/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 360
+.subckt AND2S U15 I0=-U15/I0 I1=-U15/I1 O=+PinSignal_U15_O
+.names PinSignal_U35_O U15/I0
+1 1
+.names OK_TO_MOVE U15/I1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 368
+.subckt FD2CS U14 C=-U14/C CLR=-U14/CLR D0=-U14/D0 D1=-U14/D1 Q0=+IN1 Q1=+IN2
+.names PinSignal_U15_O U14/C
+1 1
+.names PinSignal_U19_O U14/CLR
+1 1
+.names PinSignal_U13_O U14/D0
+1 1
+.names DC_DIRECTION U14/D1
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 379
+.subckt INV U13 I=-U13/I O=+PinSignal_U13_O
+.names DC_DIRECTION U13/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 386
+.subckt CB8CLEDB U12 C=-U12/C CE=-U12/CE CEO=+$$COND0 CLR=-U12/CLR D<7>=-U12/D<7> D<6>=-U12/D<6> D<5>=-U12/D<5> D<4>=-U12/D<4> D<3>=-U12/D<3> D<2>=-U12/D<2> D<1>=-U12/D<1> D<0>=-U12/D<0> L=-U12/L Q<7>=+$$COND1 Q<6>=+$$COND2 Q<5>=+$$COND3 Q<4>=+$$COND4 Q<3>=+$$COND5 Q<2>=+$$COND6 Q<1>=+$$COND7 Q<0>=+$$COND8 TC=+PinSignal_U12_TC UP=-U12/UP
+.names PinSignal_U2_CLKDV U12/C
+1 1
+.names PinSignal_U34_O U12/CE
+1 1
+.names PowerSignal_GND U12/CLR
+1 1
+.names PinSignal_U10_Q<7> U12/D<7>
+1 1
+.names PinSignal_U10_Q<6> U12/D<6>
+1 1
+.names PinSignal_U10_Q<5> U12/D<5>
+1 1
+.names PinSignal_U10_Q<4> U12/D<4>
+1 1
+.names PinSignal_U10_Q<3> U12/D<3>
+1 1
+.names PinSignal_U10_Q<2> U12/D<2>
+1 1
+.names PinSignal_U10_Q<1> U12/D<1>
+1 1
+.names PinSignal_U10_Q<0> U12/D<0>
+1 1
+.names PinSignal_U3_CLKDV U12/L
+1 1
+.names PowerSignal_GND U12/UP
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 398
+.subckt FDC U11 C=-U11/C CLR=-U11/CLR D=-U11/D Q=+PinSignal_U11_Q
+.names PinSignal_U4_O U11/C
+1 1
+.names PinSignal_U12_TC U11/CLR
+1 1
+.names PowerSignal_VCC U11/D
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 407
+.subckt FD8B U10 C=-U10/C D<7>=-U10/D<7> D<6>=-U10/D<6> D<5>=-U10/D<5> D<4>=-U10/D<4> D<3>=-U10/D<3> D<2>=-U10/D<2> D<1>=-U10/D<1> D<0>=-U10/D<0> Q<7>=+PinSignal_U10_Q<7> Q<6>=+PinSignal_U10_Q<6> Q<5>=+PinSignal_U10_Q<5> Q<4>=+PinSignal_U10_Q<4> Q<3>=+PinSignal_U10_Q<3> Q<2>=+PinSignal_U10_Q<2> Q<1>=+PinSignal_U10_Q<1> Q<0>=+PinSignal_U10_Q<0>
+.names PWM_WHT_LOAD U10/C
+1 1
+.names PWM_D<7> U10/D<7>
+1 1
+.names PWM_D<6> U10/D<6>
+1 1
+.names PWM_D<5> U10/D<5>
+1 1
+.names PWM_D<4> U10/D<4>
+1 1
+.names PWM_D<3> U10/D<3>
+1 1
+.names PWM_D<2> U10/D<2>
+1 1
+.names PWM_D<1> U10/D<1>
+1 1
+.names PWM_D<0> U10/D<0>
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 415
+.subckt CB8CLEDB U9 C=-U9/C CE=-U9/CE CEO=+$$COND9 CLR=-U9/CLR D<7>=-U9/D<7> D<6>=-U9/D<6> D<5>=-U9/D<5> D<4>=-U9/D<4> D<3>=-U9/D<3> D<2>=-U9/D<2> D<1>=-U9/D<1> D<0>=-U9/D<0> L=-U9/L Q<7>=+$$COND10 Q<6>=+$$COND11 Q<5>=+$$COND12 Q<4>=+$$COND13 Q<3>=+$$COND14 Q<2>=+$$COND15 Q<1>=+$$COND16 Q<0>=+$$COND17 TC=+PinSignal_U9_TC UP=-U9/UP
+.names PinSignal_U2_CLKDV U9/C
+1 1
+.names PinSignal_U31_O U9/CE
+1 1
+.names PowerSignal_GND U9/CLR
+1 1
+.names PinSignal_U7_Q<7> U9/D<7>
+1 1
+.names PinSignal_U7_Q<6> U9/D<6>
+1 1
+.names PinSignal_U7_Q<5> U9/D<5>
+1 1
+.names PinSignal_U7_Q<4> U9/D<4>
+1 1
+.names PinSignal_U7_Q<3> U9/D<3>
+1 1
+.names PinSignal_U7_Q<2> U9/D<2>
+1 1
+.names PinSignal_U7_Q<1> U9/D<1>
+1 1
+.names PinSignal_U7_Q<0> U9/D<0>
+1 1
+.names PinSignal_U3_CLKDV U9/L
+1 1
+.names PowerSignal_GND U9/UP
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 427
+.subckt FDC U8 C=-U8/C CLR=-U8/CLR D=-U8/D Q=+PinSignal_U8_Q
+.names PinSignal_U4_O U8/C
+1 1
+.names PinSignal_U9_TC U8/CLR
+1 1
+.names PowerSignal_VCC U8/D
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 436
+.subckt FD8B U7 C=-U7/C D<7>=-U7/D<7> D<6>=-U7/D<6> D<5>=-U7/D<5> D<4>=-U7/D<4> D<3>=-U7/D<3> D<2>=-U7/D<2> D<1>=-U7/D<1> D<0>=-U7/D<0> Q<7>=+PinSignal_U7_Q<7> Q<6>=+PinSignal_U7_Q<6> Q<5>=+PinSignal_U7_Q<5> Q<4>=+PinSignal_U7_Q<4> Q<3>=+PinSignal_U7_Q<3> Q<2>=+PinSignal_U7_Q<2> Q<1>=+PinSignal_U7_Q<1> Q<0>=+PinSignal_U7_Q<0>
+.names PWM_UV_LOAD U7/C
+1 1
+.names PWM_D<7> U7/D<7>
+1 1
+.names PWM_D<6> U7/D<6>
+1 1
+.names PWM_D<5> U7/D<5>
+1 1
+.names PWM_D<4> U7/D<4>
+1 1
+.names PWM_D<3> U7/D<3>
+1 1
+.names PWM_D<2> U7/D<2>
+1 1
+.names PWM_D<1> U7/D<1>
+1 1
+.names PWM_D<0> U7/D<0>
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 444
+.subckt FD8B U6 C=-U6/C D<7>=-U6/D<7> D<6>=-U6/D<6> D<5>=-U6/D<5> D<4>=-U6/D<4> D<3>=-U6/D<3> D<2>=-U6/D<2> D<1>=-U6/D<1> D<0>=-U6/D<0> Q<7>=+PinSignal_U6_Q<7> Q<6>=+PinSignal_U6_Q<6> Q<5>=+PinSignal_U6_Q<5> Q<4>=+PinSignal_U6_Q<4> Q<3>=+PinSignal_U6_Q<3> Q<2>=+PinSignal_U6_Q<2> Q<1>=+PinSignal_U6_Q<1> Q<0>=+PinSignal_U6_Q<0>
+.names PWM_IR_LOAD U6/C
+1 1
+.names PWM_D<7> U6/D<7>
+1 1
+.names PWM_D<6> U6/D<6>
+1 1
+.names PWM_D<5> U6/D<5>
+1 1
+.names PWM_D<4> U6/D<4>
+1 1
+.names PWM_D<3> U6/D<3>
+1 1
+.names PWM_D<2> U6/D<2>
+1 1
+.names PWM_D<1> U6/D<1>
+1 1
+.names PWM_D<0> U6/D<0>
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 452
+.subckt CB8CLEDB U5 C=-U5/C CE=-U5/CE CEO=+$$COND18 CLR=-U5/CLR D<7>=-U5/D<7> D<6>=-U5/D<6> D<5>=-U5/D<5> D<4>=-U5/D<4> D<3>=-U5/D<3> D<2>=-U5/D<2> D<1>=-U5/D<1> D<0>=-U5/D<0> L=-U5/L Q<7>=+$$COND19 Q<6>=+$$COND20 Q<5>=+$$COND21 Q<4>=+$$COND22 Q<3>=+$$COND23 Q<2>=+$$COND24 Q<1>=+$$COND25 Q<0>=+$$COND26 TC=+PinSignal_U5_TC UP=-U5/UP
+.names PinSignal_U2_CLKDV U5/C
+1 1
+.names PinSignal_U29_O U5/CE
+1 1
+.names PowerSignal_GND U5/CLR
+1 1
+.names PinSignal_U6_Q<7> U5/D<7>
+1 1
+.names PinSignal_U6_Q<6> U5/D<6>
+1 1
+.names PinSignal_U6_Q<5> U5/D<5>
+1 1
+.names PinSignal_U6_Q<4> U5/D<4>
+1 1
+.names PinSignal_U6_Q<3> U5/D<3>
+1 1
+.names PinSignal_U6_Q<2> U5/D<2>
+1 1
+.names PinSignal_U6_Q<1> U5/D<1>
+1 1
+.names PinSignal_U6_Q<0> U5/D<0>
+1 1
+.names PinSignal_U3_CLKDV U5/L
+1 1
+.names PowerSignal_GND U5/UP
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 464
+.subckt INV U4 I=-U4/I O=+PinSignal_U4_O
+.names PinSignal_U3_CLKDV U4/I
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 471
+.subckt CDIV256 U3 CLKDV=+PinSignal_U3_CLKDV CLKIN=-U3/CLKIN
+.names PinSignal_U2_CLKDV U3/CLKIN
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 478
+.subckt CDIV128DC50 U2 CLKDV=+PinSignal_U2_CLKDV CLKIN=-U2/CLKIN
+.names CLK_20MHZ U2/CLKIN
+1 1
+.loc Point4_Lambert_PLD_Schematic.VHD 485
+.subckt FDC U1 C=-U1/C CLR=-U1/CLR D=-U1/D Q=+PinSignal_U1_Q
+.names PinSignal_U4_O U1/C
+1 1
+.names PinSignal_U5_TC U1/CLR
+1 1
+.names PowerSignal_VCC U1/D
+1 1

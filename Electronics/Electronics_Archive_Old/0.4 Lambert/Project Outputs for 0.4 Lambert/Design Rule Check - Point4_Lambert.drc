@@ -1,0 +1,91 @@
+Protel Design System Design Rule Check
+PCB File : \\Files\users\rlobdill\Altum Projects\0.4 Lambert\Point4_Lambert.PcbDoc
+Date     : 10/22/2009
+Time     : 11:25:16 AM
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=2mil) (All),(All)
+   Violation between Track (3808.331mil,2480.559mil)(3808.331mil,2606.543mil)  Bottom Overlay and 
+                     Pad H1-0(3837mil,2662mil)  Multi-Layer
+Rule Violations :1
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 2.6E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 2.6E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 2.4E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1.7E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1.7E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1.7E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Dead copper detected. Copper area is : 1E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 36 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 31 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on GND. Copper island connected to pads/vias detected. Copper area is : 0.085 sq. mils
+Rule Violations :18
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=50mil) ((InNet('+5') OR InNet('D')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) ((HasFootprint('TQFP48_m') or HasFootprint('RM-8'))),(All)
+Rule Violations :0
+
+Processing Rule : Room BlackFin --> CPLD/Stepper Motor Drive (Bounding Region = (1654mil, 1780mil, 5688mil, 3380mil) (InComponentClass('BlackFin --> CPLD/Stepper Motor Drive'))
+Rule Violations :0
+
+Processing Rule : Room LED Drive (Bounding Region = (1550mil, 4078mil, 3617mil, 5390mil) (InComponentClass('LED Drive'))
+Rule Violations :0
+
+Processing Rule : Room Power Supplies (Bounding Region = (1477mil, 1783mil, 5333mil, 5335mil) (InComponentClass('Power Supplies'))
+Rule Violations :0
+
+Processing Rule : Room Schematic for PLD program (Bounding Region = (2038.614mil, 2457.976mil, 2737.591mil, 3156.953mil) (InComponentClass('Schematic for PLD program'))
+Rule Violations :0
+
+Processing Rule : Room Stepper Motor Driver IC (Bounding Region = (1739mil, 3023mil, 3367mil, 4242mil) (InComponentClass('Stepper Motor Driver IC'))
+Rule Violations :0
+
+Processing Rule : Room Top_Level_IO (Bounding Region = (417mil, 1719mil, 5800mil, 5360mil) (InComponentClass('Top_Level_IO'))
+Rule Violations :0
+
+
+Violations Detected : 19
+Time Elapsed        : 00:00:06

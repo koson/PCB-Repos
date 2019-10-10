@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [175-00065revB - PCB, Sinistro Camera Controller Extension.PcbDoc]
+   Generated File[175-00065revB - PCB, Sinistro Camera Controller Extension-Plated.TXT]
+   Generated File[175-00065revB - PCB, Sinistro Camera Controller Extension-NonPlated.TXT]
+   Generated File[175-00065revB - PCB, Sinistro Camera Controller Extension.DRL]
+   Generated File[175-00065revB - PCB, Sinistro Camera Controller Extension.LDP]
+   Generated File[175-00065revB - PCB, Sinistro Camera Controller Extension.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 23:46:25 On 2016-08-30

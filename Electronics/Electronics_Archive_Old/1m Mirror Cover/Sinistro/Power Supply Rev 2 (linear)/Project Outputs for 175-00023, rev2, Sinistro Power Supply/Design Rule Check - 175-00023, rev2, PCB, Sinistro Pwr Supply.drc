@@ -1,0 +1,26 @@
+Protel Design System Design Rule Check
+PCB File : U:\Altum Projects\Sinistro\Power Supply\Power Supply Rev 2 (linear)\175-00023, rev2, PCB, Sinistro Pwr Supply.PcbDoc
+Date     : 12/6/2012
+Time     : 5:55:48 PM
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((HasFootprint('LEMO SIZE 3 18-PIN PCB') OR HasFootprint('TO-252(D-PAK)  PowerPAD')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=120mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01

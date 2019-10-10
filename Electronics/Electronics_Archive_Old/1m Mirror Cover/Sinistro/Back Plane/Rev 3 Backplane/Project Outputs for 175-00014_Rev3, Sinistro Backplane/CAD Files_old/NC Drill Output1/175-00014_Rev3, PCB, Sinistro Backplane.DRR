@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00014_Rev3, PCB, Sinistro Backplane.PcbDoc   12/20/2012  11:35:53 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (*.GTL) to Bottom Layer (*.GBL)
+ASCII Plated RoundHoles File : 175-00014_Rev3, PCB, Sinistro Backplane-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00014_Rev3, PCB, Sinistro Backplane-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          389              102.36 Inch (2600.06 mm)
+T2        25mil (0.635mm)          Round          32               16.52 Inch (419.59 mm)
+T3        35mil (0.889mm)          Round          52               25.21 Inch (640.30 mm)
+T4        39mil (0.9906mm)         Round          18               2.22 Inch (56.48 mm)
+T5        40mil (1.016mm)          Round          4                0.35 Inch (9.00 mm)
+T6        70mil (1.778mm)          Round          41               6.05 Inch (153.63 mm)
+T7        134mil (3.4036mm)        Round          11               40.83 Inch (1037.20 mm)
+T8        40mil (1.016mm)          Round          2         NPTH   0.35 Inch (9.00 mm)
+---------------------------------------------------------------------------
+Totals                                            549              193.91 Inch (4925.26 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

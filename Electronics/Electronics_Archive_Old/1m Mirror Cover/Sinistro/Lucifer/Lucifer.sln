@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sinistro", "..\Sinistro\Sinistro.vcproj", "{FA99C821-4F9D-44D9-A64F-669603188394}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lucifer", "Lucifer.vcproj", "{CA9BE7A8-EBF7-41CF-A11F-FD78D022F65E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FA99C821-4F9D-44D9-A64F-669603188394}.Debug.ActiveCfg = Debug|Win32
+		{FA99C821-4F9D-44D9-A64F-669603188394}.Debug.Build.0 = Debug|Win32
+		{FA99C821-4F9D-44D9-A64F-669603188394}.Release.ActiveCfg = Release|Win32
+		{FA99C821-4F9D-44D9-A64F-669603188394}.Release.Build.0 = Release|Win32
+		{CA9BE7A8-EBF7-41CF-A11F-FD78D022F65E}.Debug.ActiveCfg = Debug|Win32
+		{CA9BE7A8-EBF7-41CF-A11F-FD78D022F65E}.Debug.Build.0 = Debug|Win32
+		{CA9BE7A8-EBF7-41CF-A11F-FD78D022F65E}.Release.ActiveCfg = Release|Win32
+		{CA9BE7A8-EBF7-41CF-A11F-FD78D022F65E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

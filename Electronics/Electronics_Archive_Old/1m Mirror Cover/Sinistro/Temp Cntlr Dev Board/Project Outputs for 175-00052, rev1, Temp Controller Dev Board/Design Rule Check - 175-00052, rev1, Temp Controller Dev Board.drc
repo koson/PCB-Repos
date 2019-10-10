@@ -1,0 +1,74 @@
+Protel Design System Design Rule Check
+PCB File : U:\Altum Projects\Sinistro\Temp Cntlr Dev Board\175-00052, rev1, Temp Controller Dev Board.PcbDoc
+Date     : 10/1/2012
+Time     : 9:15:15 AM
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InNet('D') AND HasFootprint('TSSOP28 Exposed Pad')))
+Rule Violations :0
+
+Processing Rule : Room TECCHAN2 (Bounding Region = (41614.173mil, 26889.764mil, 45511.811mil, 28070.866mil) (InComponentClass('TECCHAN2'))
+Rule Violations :0
+
+Processing Rule : Room TECCHAN1 (Bounding Region = (41653.543mil, 28070.866mil, 45511.811mil, 29212.598mil) (InComponentClass('TECCHAN1'))
+Rule Violations :0
+
+Processing Rule : Room HEATCHAN2 (Bounding Region = (43864.819mil, 29130.937mil, 45487.819mil, 30131.937mil) (InComponentClass('HEATCHAN2'))
+Rule Violations :0
+
+Processing Rule : Room HEATCHAN1 (Bounding Region = (43864.819mil, 30295.032mil, 45487.819mil, 31296.032mil) (InComponentClass('HEATCHAN1'))
+Rule Violations :0
+
+Processing Rule : Room 780-00050, rev1, Pg1, SCH, Temp Controller Dev Board (Bounding Region = (41618mil, 26667mil, 44565mil, 31518mil) (InComponentClass('780-00050, rev1, Pg1, SCH, Temp Controller Dev Board'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room ADCMON1 (Bounding Region = (42465.921mil, 28497.78mil, 43945.921mil, 28869.78mil) (InComponentClass('ADCMON1'))
+Rule Violations :0
+
+Processing Rule : Room ADCMON2 (Bounding Region = (42456.512mil, 28087.173mil, 43936.512mil, 28459.173mil) (InComponentClass('ADCMON2'))
+Rule Violations :0
+
+Processing Rule : Room ADCMON3 (Bounding Region = (42456.512mil, 27698.15mil, 43936.512mil, 28070.15mil) (InComponentClass('ADCMON3'))
+Rule Violations :0
+
+Processing Rule : Room ADCMON4 (Bounding Region = (42456.772mil, 27325.04mil, 43936.772mil, 27697.04mil) (InComponentClass('ADCMON4'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:02

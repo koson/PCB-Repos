@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: U:\Altum Projects\Sinistro\Power Supply\Power Supply Rev 2 (linear)\175-00023, rev2, PCB, Sinistro Pwr Supply.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=175-00023, rev2, pcb, sinistro pwr supply-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=175-00023, rev2, pcb, sinistro pwr supply-nonplated.txt|LayerPairs=gtl,gbl

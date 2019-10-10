@@ -1,0 +1,100 @@
+Release 9.1i ngdbuild J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx91i\bin\nt\NGDBuild.Exe -p XC2C256-7PQ208 -dd
+c:\documents and settings\rlobdill\my documents\altium briefcase\altum
+projects\0.4 lambert\projectoutputs\pwm generator\_ngo -aul -uc C:\Documents and
+Settings\rlobdill\My Documents\Altium Briefcase\Altum Projects\0.4
+Lambert\ProjectOutputs\PWM generator\PWM_generator.ucf -nt on -a
+pwm_generator.edf pwm_generator.ngd
+
+Executing edif2ngd -a -aul "pwm_generator.edf" "c:\documents and
+settings\rlobdill\my documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\pwm generator\_ngo\pwm_generator.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Adding pads to all top level port signals...
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/pwm
+generator/_ngo/pwm_generator.ngo"...
+Reading NGO file "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/pwm
+generator/_ngo/pwm_generator.ngo" ...
+Executing edif2ngd -noa -aul "CDIV8DC50.edn" "c:\documents and
+settings\rlobdill\my documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\pwm generator\_ngo\CDIV8DC50.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/pwm
+generator/_ngo/CDIV8DC50.ngo"...
+Loading design module "c:\documents and settings\rlobdill\my documents\altium
+briefcase\altum projects\0.4 lambert\projectoutputs\pwm
+generator\_ngo\CDIV8DC50.ngo"...
+Executing edif2ngd -noa -aul "CDIV256.edn" "c:\documents and
+settings\rlobdill\my documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\pwm generator\_ngo\CDIV256.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/pwm
+generator/_ngo/CDIV256.ngo"...
+Loading design module "c:\documents and settings\rlobdill\my documents\altium
+briefcase\altum projects\0.4 lambert\projectoutputs\pwm
+generator\_ngo\CDIV256.ngo"...
+Executing edif2ngd -noa -aul "CDIV10DC50.edn" "c:\documents and
+settings\rlobdill\my documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\pwm generator\_ngo\CDIV10DC50.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/pwm
+generator/_ngo/CDIV10DC50.ngo"...
+Loading design module "c:\documents and settings\rlobdill\my documents\altium
+briefcase\altum projects\0.4 lambert\projectoutputs\pwm
+generator\_ngo\CDIV10DC50.ngo"...
+Executing edif2ngd -noa -aul "CB8CLEDB.edn" "c:\documents and
+settings\rlobdill\my documents\altium briefcase\altum projects\0.4
+lambert\projectoutputs\pwm generator\_ngo\CB8CLEDB.ngo"
+Release 9.1i - edif2ngd J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+INFO:NgdBuild - Release 9.1i edif2ngd J.30
+INFO:NgdBuild - Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+Writing module to "c:/documents and settings/rlobdill/my documents/altium
+briefcase/altum projects/0.4 lambert/projectoutputs/pwm
+generator/_ngo/CB8CLEDB.ngo"...
+Loading design module "c:\documents and settings\rlobdill\my documents\altium
+briefcase\altum projects\0.4 lambert\projectoutputs\pwm
+generator\_ngo\CB8CLEDB.ngo"...
+
+Applying constraints in "C:/Documents and Settings/rlobdill/My Documents/Altium
+Briefcase/Altum Projects/0.4 Lambert/ProjectOutputs/PWM
+generator/PWM_generator.ucf" to the design...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 64724 kilobytes
+
+Writing NGD file "pwm_generator.ngd" ...
+
+Writing NGDBUILD log file "pwm_generator.bld"...

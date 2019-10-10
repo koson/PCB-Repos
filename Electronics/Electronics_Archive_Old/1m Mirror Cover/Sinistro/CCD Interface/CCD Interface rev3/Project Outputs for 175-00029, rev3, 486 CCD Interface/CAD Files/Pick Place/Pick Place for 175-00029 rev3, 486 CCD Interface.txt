@@ -1,0 +1,47 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator TARGET_MECHANICAL_5  -19931.85mil -15140.078mil       3367mil       3231mil  -19931.85mil -15140.078mil  B        180.00 Comment        
+Designator TARGET_MECHANICAL_5  -19931.85mil -15140.078mil       -919mil       3247mil  -19931.85mil -15140.078mil  B        180.00 Comment        
+Designator TARGET_MECHANICAL_5  -19931.85mil -15140.078mil       -755mil      -1738mil  -19931.85mil -15140.078mil  B        180.00 Comment        
+R13        SMD_0805               168mil       1137mil        168mil       1137mil        123mil       1137mil  B        360.00 Res 0805       
+R12        SMD_0805               175mil       1452mil        175mil       1452mil        130mil       1452mil  B        360.00 Res 0805       
+R10        SMD_0805              2263mil       1099mil       2263mil       1099mil       2308mil       1099mil  B        180.00 Res 0805       
+R9         SMD_0805              2263mil       1444mil       2263mil       1444mil       2308mil       1444mil  B        180.00 Res 0805       
+Q2         TO-71              219.689mil     1299.5mil        220mil       1300mil        300mil       1301mil  B        180.00 IFN860         
+Q1         TO-71             2216.689mil     1272.5mil       2217mil       1273mil       2297mil       1274mil  B        180.00 IFN860         
+RTD4       RTD_1x15mm        1284.822mil    1827.54mil   1549.291mil   1563.071mil   1201.306mil   1744.023mil  B        315.00                
+RTD3       RTD_1x15mm         627.185mil   1298.602mil    891.654mil   1563.071mil    710.701mil   1215.085mil  B         45.00                
+RTD2       RTD_1x15mm        1156.123mil    640.964mil    891.654mil    905.433mil   1239.639mil    724.481mil  B        135.00                
+RTD1       RTD_1x15mm         1813.76mil   1169.902mil   1549.291mil    905.433mil   1730.244mil   1253.419mil  B        225.00                
+R8         AXIAL-0.5         1450.394mil   1465.945mil   1450.394mil   1465.945mil    1627.17mil   1289.168mil  T        135.00                
+R7         AXIAL-0.5         1450.394mil   1006.496mil   1450.394mil   1006.496mil    1627.17mil   1183.273mil  T        225.00                
+R6         AXIAL-0.5          990.748mil   1466.142mil    990.748mil   1466.142mil   1167.525mil   1642.919mil  T        225.00                
+R5         AXIAL-0.5          990.551mil   1006.496mil    990.551mil   1006.496mil   1167.328mil    829.719mil  T        135.00                
+R4         SMD_0805          1180.473mil   1954.252mil   1180.473mil   1954.252mil   1135.473mil   1954.252mil  B        360.00                
+R3         SMD_0805           475.473mil   1224.252mil    475.473mil   1224.252mil    475.473mil   1179.252mil  B         90.00                
+R2         SMD_0805          1240.473mil    534.252mil   1240.473mil    534.252mil   1285.473mil    534.252mil  B        180.00                
+R1         SMD_0805          1940.473mil   1234.252mil   1940.473mil   1234.252mil   1940.473mil   1279.252mil  B        270.00                
+CCD1       Fairchild_486      1220.49mil    1236.22mil     220.49mil    2136.22mil     220.49mil     236.22mil  T        270.00                
+C1         SMD_0805           520.472mil    114.252mil    520.472mil    114.252mil    520.472mil     69.252mil  B         90.00                
+C2         SMD_0805          1920.473mil    114.252mil   1920.473mil    114.252mil   1920.473mil     69.252mil  B         90.00                
+C3         SMD_0805              1974mil       2364mil       1974mil       2364mil       1974mil       2409mil  B        270.00                
+C4         SMD_0805           500.473mil   2364.252mil    500.473mil   2364.252mil    500.473mil   2409.252mil  B        270.00                
+C5         SMD_0805           620.472mil    114.252mil    620.472mil    114.252mil    620.472mil     69.252mil  B         90.00                
+C6         SMD_0805          1820.473mil    114.252mil   1820.473mil    114.252mil   1820.473mil     69.252mil  B         90.00                
+C7         SMD_0805          1770.473mil   2364.252mil   1770.473mil   2364.252mil   1770.473mil   2409.252mil  B        270.00                
+C9         SMD_0805           520.472mil    464.252mil    520.472mil    464.252mil    520.472mil    509.252mil  B        270.00                
+C10        SMD_0805          1920.473mil    464.252mil   1920.473mil    464.252mil   1920.473mil    509.252mil  B        270.00                
+C11        SMD_0805          1920.473mil   2014.252mil   1920.473mil   2014.252mil   1920.473mil   1969.252mil  B         90.00                
+P1                            1215.63mil   2429.134mil   1625.079mil   2429.134mil   1540.433mil   2541.338mil  B        180.00                
+C8         SMD_0805           670.472mil   2364.252mil    670.472mil   2364.252mil    670.472mil   2409.252mil  B        270.00                
+C12        SMD_0805               520mil       2011mil        520mil       2011mil        520mil       1966mil  B         90.00                
+C13        SMD_CAP_3216           360mil        130mil        360mil        130mil        415mil        130mil  B        360.00 35V            
+C14        SMD_CAP_3216          2070mil        160mil       2070mil        160mil       2015mil        160mil  B        180.00 35V            
+C15        SMD_CAP_3216          2120mil       2320mil       2120mil       2320mil       2065mil       2320mil  B        180.00 35V            
+C16        SMD_CAP_3216           360mil       2320mil        360mil       2320mil        415mil       2320mil  B        360.00 35V            
+C17        SMD_CAP_3216           450mil        480mil        450mil        480mil        450mil        425mil  B        270.00 35V            
+C18        SMD_CAP_3216          2070mil        420mil       2070mil        420mil       2015mil        420mil  B        180.00 35V            
+C19        SMD_CAP_3216          2070mil       2060mil       2070mil       2060mil       2015mil       2060mil  B        180.00 35V            
+C20        SMD_CAP_3216           370mil       2060mil        370mil       2060mil        425mil       2060mil  B        360.00 35V            
+R11        SMD_0805               467mil       1879mil        467mil       1879mil        512mil       1879mil  B        180.00 Res 0805       
+

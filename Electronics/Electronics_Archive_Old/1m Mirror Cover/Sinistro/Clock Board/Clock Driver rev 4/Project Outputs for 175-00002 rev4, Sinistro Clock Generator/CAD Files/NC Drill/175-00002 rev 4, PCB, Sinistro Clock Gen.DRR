@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00002 rev 4, PCB, Sinistro Clock Gen.PcbDoc   1/2/2013  5:04:22 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer (.GTL) to Bottom Layer (.GBL)
+ASCII Plated RoundHoles File : 175-00002 rev 4, PCB, Sinistro Clock Gen-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          1008             142.04 Inch (3607.69 mm)
+T2        13mil (0.3302mm)         Round          50               3.09 Inch (78.39 mm)
+T3        25mil (0.635mm)          Round          31               5.20 Inch (132.00 mm)
+T4        35mil (0.889mm)          Round          36               7.23 Inch (183.76 mm)
+T5        118mil (2.9972mm)        Round          2                0.79 Inch (20.00 mm)
+---------------------------------------------------------------------------
+Totals                                            1127             158.34 Inch (4021.84 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

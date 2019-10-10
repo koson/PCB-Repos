@@ -1,0 +1,168 @@
+*************************************************************
+FileName = Flex_Circuit.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer (*.GTL)
+      File : Flex_Circuit.GTL
+
+    Adding Layer      : Top Layer (*.GTL)
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1 (*.G1)
+      File : Flex_Circuit.G1
+
+    Adding Layer      : Mid-Layer 1 (*.G1)
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 2 (*.G2)
+      File : Flex_Circuit.G2
+
+    Adding Layer      : Mid-Layer 2 (*.G2)
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 3 (*.G3)
+      File : Flex_Circuit.G3
+
+    Adding Layer      : Mid-Layer 3 (*.G3)
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 4 (*.G4)
+      File : Flex_Circuit.G4
+
+    Adding Layer      : Mid-Layer 4 (*.G4)
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer (*.GBL)
+      File : Flex_Circuit.GBL
+
+    Adding Layer      : Bottom Layer (*.GBL)
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D28
+*************************************************************
+

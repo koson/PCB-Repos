@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 175-00023, rev2, PCB, Sinistro Pwr Supply.PcbDoc   12/18/2012  2:00:41 PM
+---------------------------------------------------------------------------
+
+Layer Pair : TopLayer (*.GTL) to BottomLayer (*GBL)
+ASCII Plated RoundHoles File : 175-00023, rev2, PCB, Sinistro Pwr Supply-Plated.TXT
+ASCII Non-Plated RoundHoles File : 175-00023, rev2, PCB, Sinistro Pwr Supply-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          117              32.31 Inch (820.55 mm)
+T2        28mil (0.7112mm)         Round          36               22.86 Inch (580.73 mm)
+T3        35mil (0.889mm)          Round          4                0.91 Inch (23.01 mm)
+T4        39mil (0.9906mm)         Round          18               1.82 Inch (46.32 mm)
+T5        40mil (1.016mm)          Round          30               8.92 Inch (226.59 mm)
+T6        47mil (1.1938mm)         Round          14               9.36 Inch (237.76 mm)
+T7        52mil (1.3208mm)         Round          46               26.26 Inch (666.96 mm)
+T8        60mil (1.524mm)          Round          44               23.75 Inch (603.15 mm)
+T9        70mil (1.778mm)          Round          8                1.09 Inch (27.74 mm)
+T10       71mil (1.8034mm)         Round          4                1.10 Inch (27.94 mm)
+T11       150mil (3.81mm)          Round          2         NPTH   1.75 Inch (44.45 mm)
+T12       166mil (4.2164mm)        Round          2         NPTH   3.50 Inch (88.90 mm)
+---------------------------------------------------------------------------
+Totals                                            325              133.63 Inch (3394.10 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
