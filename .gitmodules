@@ -125,3 +125,126 @@
 [submodule "stm32/WPT_RX"]
 	path = stm32/WPT_RX
 	url = https://github.com/LoganHorowitz/WPT_RX.git
+[submodule "PCB-multi-layer/FrontLimeAssembly"]
+	path = PCB-multi-layer/FrontLimeAssembly
+	url = https://github.com/2ftg/FrontLimeAssembly.git
+[submodule "PCB-multi-layer/LimeSDR-USB"]
+	path = PCB-multi-layer/LimeSDR-USB
+	url = https://github.com/myriadrf/LimeSDR-USB
+[submodule "PCB-multi-layer/AX5243_module"]
+	path = PCB-multi-layer/AX5243_module
+	url = https://github.com/2ftg/AX5243_module
+[submodule "PCB-multi-layer/micromicroUSBuart"]
+	path = PCB-multi-layer/micromicroUSBuart
+	url = https://github.com/2ftg/micromicroUSBuart
+[submodule "PCB-multi-layer/2GHz_TDD_Driver"]
+	path = PCB-multi-layer/2GHz_TDD_Driver
+	url = https://github.com/2ftg/2GHz_TDD_Driver
+[submodule "PCB-multi-layer/solenshardware"]
+	path = PCB-multi-layer/solenshardware
+	url = https://github.com/fluffylogiccu/solenshardware
+[submodule "PCB-multi-layer/Light-Sensor-Node-Hardware"]
+	path = PCB-multi-layer/Light-Sensor-Node-Hardware
+	url = https://github.com/MegaFatGray/Light-Sensor-Node-Hardware
+[submodule "PCB-multi-layer/103091_B0"]
+	path = PCB-multi-layer/103091_B0
+	url = https://github.com/dhahaj/103091_B0
+[submodule "PCB-multi-layer/DIN-Rails-Mounts"]
+	path = PCB-multi-layer/DIN-Rails-Mounts
+	url = https://github.com/dhahaj/DIN-Rails-Mounts
+[submodule "PCB-multi-layer/pywtl"]
+	path = PCB-multi-layer/pywtl
+	url = https://github.com/adamjohngilbert/pywtl
+[submodule "PCB-multi-layer/Telit-GPS-SL871-Module"]
+	path = PCB-multi-layer/Telit-GPS-SL871-Module
+	url = https://github.com/ugurozkan52/Telit-GPS-SL871-Module
+[submodule "PCB-multi-layer/Raspberry-Pi-3-Altium-Template"]
+	path = PCB-multi-layer/Raspberry-Pi-3-Altium-Template
+	url = https://github.com/NilsMinor/Raspberry-Pi-3-Altium-Template
+[submodule "PCB-multi-layer/Raspberry-Pi-3-Arduino-Altium-Shield"]
+	path = PCB-multi-layer/Raspberry-Pi-3-Arduino-Altium-Shield
+	url = https://github.com/NilsMinor/Raspberry-Pi-3-Arduino-Altium-Shield
+[submodule "PCB-multi-layer/main_pcb"]
+	path = PCB-multi-layer/main_pcb
+	url = https://github.com/kocsislaci/main_pcb
+[submodule "PCB-multi-layer/signal_gen"]
+	path = PCB-multi-layer/signal_gen
+	url = https://github.com/Pinwino/signal_gen
+[submodule "PCB-multi-layer/Altium-Github-Repo-beaud082"]
+	path = PCB-multi-layer/Altium-Github-Repo-beaud082
+	url = https://github.com/beaud082/Altium-Github-Repo-beaud082
+[submodule "PCB-multi-layer/Altium-Project"]
+	path = PCB-multi-layer/Altium-Project
+	url = https://github.com/LuongTanDat/Altium-Project
+[submodule "PCB-multi-layer/MMP8266"]
+	path = PCB-multi-layer/MMP8266
+	url = https://github.com/lanzhou2333/MMP8266
+[submodule "PCB-multi-layer/ebug2014-pcb"]
+	path = PCB-multi-layer/ebug2014-pcb
+	url = https://github.com/monash-wsrn/ebug2014-pcb
+[submodule "PCB-multi-layer/ebug2014-parallella-carrier-v-pcb"]
+	path = PCB-multi-layer/ebug2014-parallella-carrier-v-pcb
+	url = https://github.com/monash-wsrn/ebug2014-parallella-carrier-v-pcb
+[submodule "PCB-multi-layer/ebug2014-parallella-carrier-h-pcb"]
+	path = PCB-multi-layer/ebug2014-parallella-carrier-h-pcb
+	url = https://github.com/monash-wsrn/ebug2014-parallella-carrier-h-pcb
+[submodule "PCB-multi-layer/ebug2014-camera-array-pcb"]
+	path = PCB-multi-layer/ebug2014-camera-array-pcb
+	url = https://github.com/monash-wsrn/ebug2014-camera-array-pcb
+[submodule "PCB-multi-layer/TTAmp"]
+	path = PCB-multi-layer/TTAmp
+	url = https://github.com/CannaCardo/TTAmp
+[submodule "PCB-multi-layer/JBC-Soldering-Controller"]
+	path = PCB-multi-layer/JBC-Soldering-Controller
+	url = https://github.com/timothyjager/JBC-Soldering-Controller
+[submodule "PCB-multi-layer/CubeSatPCB"]
+	path = PCB-multi-layer/CubeSatPCB
+	url = https://github.com/bluesat/CubeSatPCB
+[submodule "PCB-multi-layer/ConnectMedical"]
+	path = PCB-multi-layer/ConnectMedical
+	url = https://github.com/Engineer1234/ConnectMedical
+[submodule "PCB-multi-layer/mitosis_with_case"]
+	path = PCB-multi-layer/mitosis_with_case
+	url = https://github.com/nhou7/mitosis_with_case
+[submodule "PCB-multi-layer/OALCT-LX100"]
+	path = PCB-multi-layer/OALCT-LX100
+	url = https://github.com/andrewpeck/OALCT-LX100
+[submodule "PCB-multi-layer/rf-19-can-module"]
+	path = PCB-multi-layer/rf-19-can-module
+	url = https://github.com/tzai/rf-19-can-module
+[submodule "PCB-multi-layer/electronics-thymio2-rf"]
+	path = PCB-multi-layer/electronics-thymio2-rf
+	url = https://github.com/Mobsya/electronics-thymio2-rf
+[submodule "PCB-multi-layer/-Embedded-systems-"]
+	path = PCB-multi-layer/-Embedded-systems-
+	url = https://github.com/bendelathouwer/-Embedded-systems-
+[submodule "PCB-multi-layer/Altium-Projects"]
+	path = PCB-multi-layer/Altium-Projects
+	url = https://github.com/robbiesm/Altium-Projects
+[submodule "PCB-multi-layer/Altuim-Projecs"]
+	path = PCB-multi-layer/Altuim-Projecs
+	url = https://github.com/robbiesm/Altuim-Projecs
+[submodule "PCB-multi-layer/BTS"]
+	path = PCB-multi-layer/BTS
+	url = https://github.com/ngoquytuan/BTS
+[submodule "PCB-multi-layer/altiumlib"]
+	path = PCB-multi-layer/altiumlib
+	url = https://github.com/ngoquytuan/altiumlib
+[submodule "PCB-multi-layer/thesis"]
+	path = PCB-multi-layer/thesis
+	url = https://github.com/TuanHungVU1202/thesis
+[submodule "PCB-multi-layer/DenDaChien"]
+	path = PCB-multi-layer/DenDaChien
+	url = https://github.com/ngoquytuan/DenDaChien
+[submodule "PCB-multi-layer/Electronic_project"]
+	path = PCB-multi-layer/Electronic_project
+	url = https://github.com/fherbine/Electronic_project
+[submodule "PCB-multi-layer/AIO-Shield"]
+	path = PCB-multi-layer/AIO-Shield
+	url = https://github.com/AIO-Javeriana/AIO-Shield
+[submodule "PCB-multi-layer/Altium-Workspace"]
+	path = PCB-multi-layer/Altium-Workspace
+	url = https://github.com/samuelwilliams413/Altium-Workspace
+[submodule "PCB-multi-layer/tvws_pcb_projects"]
+	path = PCB-multi-layer/tvws_pcb_projects
+	url = https://github.com/RyanEGuerra/tvws_pcb_projects
