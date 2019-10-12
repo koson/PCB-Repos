@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:49:56 PM On 28-May-18
+
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [NixieSocket.CSPcbDoc]
+   Generated File[NixieSocket.TXT]
+   Generated File[NixieSocket.LDP]
+   Generated File[NixieSocket.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:49:56 PM On 28-May-18

@@ -1,0 +1,124 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\FxSlava\Documents\Laser-LED-STM-Board-Project\LaserControlBoard\LaserControlBoard (extended).PcbDoc
+Date     : 3/27/2017
+Time     : 12:56:03 PM
+
+WARNING: 17 Net Ties failed verification
+   SMT Small Component J19-Jumper (165.1mm,162.56mm) on Top Layer, SMT Small Component J19-Jumper (165.1mm,162.56mm) on Top Layer, has isolated copper
+   SMT Small Component J18-Jumper (148.59mm,162.56mm) on Top Layer, SMT Small Component J18-Jumper (148.59mm,162.56mm) on Top Layer, has isolated copper
+   SMT Small Component J17-Jumper (164.465mm,46.99mm) on Top Layer, SMT Small Component J17-Jumper (164.465mm,46.99mm) on Top Layer, has isolated copper
+   SMT Small Component J16-Jumper (164.592mm,50.165mm) on Top Layer, SMT Small Component J16-Jumper (164.592mm,50.165mm) on Top Layer, has isolated copper
+   SMT Small Component J15-Jumper (144.145mm,48.387mm) on Top Layer, SMT Small Component J15-Jumper (144.145mm,48.387mm) on Top Layer, has isolated copper
+   SMT Small Component J14-Jumper (144.145mm,50.165mm) on Top Layer, SMT Small Component J14-Jumper (144.145mm,50.165mm) on Top Layer, has isolated copper
+   SMT Small Component J13-Jumper (114.935mm,46.99mm) on Top Layer, SMT Small Component J13-Jumper (114.935mm,46.99mm) on Top Layer, has isolated copper
+   SMT Small Component J12-Jumper (112.395mm,46.99mm) on Top Layer, SMT Small Component J12-Jumper (112.395mm,46.99mm) on Top Layer, has isolated copper
+   SMT Small Component J11-Jumper (109.855mm,46.99mm) on Top Layer, SMT Small Component J11-Jumper (109.855mm,46.99mm) on Top Layer, has isolated copper
+   SMT Small Component J10-Jumper (107.315mm,46.99mm) on Top Layer, SMT Small Component J10-Jumper (107.315mm,46.99mm) on Top Layer, has isolated copper
+   SMT Small Component J1-12V Jumper (106.68mm,146.685mm) on Bottom Layer, SMT Small Component J1-12V Jumper (106.68mm,146.685mm) on Bottom Layer, has isolated copper
+   SMT Small Component J2 (59.055mm,166.116mm) on Bottom Layer, SMT Small Component J2 (59.055mm,166.116mm) on Bottom Layer, has isolated copper
+   SMT Small Component J3 (71.12mm,165.989mm) on Bottom Layer, SMT Small Component J3 (71.12mm,165.989mm) on Bottom Layer, has isolated copper
+   SMT Small Component J4-Jumper (72.39mm,108.585mm) on Top Layer, SMT Small Component J4-Jumper (72.39mm,108.585mm) on Top Layer, has isolated copper
+   SMT Small Component J5-Jumper (82.042mm,108.585mm) on Top Layer, SMT Small Component J5-Jumper (82.042mm,108.585mm) on Top Layer, has isolated copper
+   SMT Small Component J6-Jumper (218.059mm,80.01mm) on Top Layer, SMT Small Component J6-Jumper (218.059mm,80.01mm) on Top Layer, has isolated copper
+   SMT Small Component J7-Jumper (218.059mm,88.519mm) on Top Layer, SMT Small Component J7-Jumper (218.059mm,88.519mm) on Top Layer, has isolated copper
+
+Processing Rule : Room MCU (Bounding Region = (84.455mm, 93.345mm, 177.8mm, 182.245mm) (InComponentClass('MCU'))
+Rule Violations :0
+
+Processing Rule : Room Peltier (Bounding Region = (169.545mm, 101.727mm, 244.475mm, 182.245mm) (InComponentClass('Peltier'))
+Rule Violations :0
+
+Processing Rule : Room LaserInterface (Bounding Region = (169.545mm, 66.675mm, 244.475mm, 166.37mm) (InComponentClass('LaserInterface'))
+Rule Violations :0
+
+Processing Rule : Room Power (Bounding Region = (52.705mm, 28.575mm, 93.98mm, 135.89mm) (InComponentClass('Power'))
+Rule Violations :0
+
+Processing Rule : Room MISC (Bounding Region = (91.44mm, 0mm, 181.864mm, 99.06mm) (InComponentClass('MISC'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net DWIN_TX Between Pad U47-6(78.74mm,110.985mm) on Top Layer And Track (78.232mm,107.95mm)(78.994mm,107.95mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DWIN_TX Between Pad J4-1(72.39mm,109.835mm) on Top Layer And Pad U47-6(78.74mm,110.985mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DWIN_TX Between Pad U47-6(78.74mm,110.985mm) on Top Layer And Track (84.902mm,118.056mm)(125.803mm,118.056mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DWIN_RX Between Pad U47-7(77.47mm,110.985mm) on Top Layer And Pad J5-1(82.042mm,109.835mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DWIN_RX Between Pad J5-1(82.042mm,109.835mm) on Top Layer And Track (85.09mm,117.602mm)(125.991mm,117.602mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net RS232_DWIN_RX Between Pad U47-2(77.47mm,106.185mm) on Top Layer And Track (79.616mm,103.264mm)(83.185mm,99.695mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net RS232_DWIN_RX Between Pad U47-2(77.47mm,106.185mm) on Top Layer And Pad J5-0(82.042mm,107.335mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net RS232_DWIN_TX Between Track (72.39mm,107.335mm)(73.045mm,106.68mm) on Top Layer And Pad U47-3(78.74mm,106.185mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net RS232_DWIN_TX Between Pad U47-3(78.74mm,106.185mm) on Top Layer And Track (80.645mm,93.345mm)(80.645mm,99.695mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (77.164mm,103.525mm)(79.629mm,103.525mm) on Bottom Layer And Pad U47-4(80.01mm,106.185mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U47-4(80.01mm,106.185mm) on Top Layer And Pad U47-5(80.01mm,110.985mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad U47-8(76.2mm,110.985mm) on Top Layer And Pad C13-2(77.089mm,111.22mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDC Between Pad U47-1(76.2mm,106.185mm) on Top Layer And Pad C25-2(77.089mm,105.95mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDC Between Track (75.605mm,137.795mm)(97.409mm,137.795mm) on Bottom Layer And Pad U47-1(76.2mm,106.185mm) on Top Layer 
+Rule Violations :14
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (InNetClass('SignalNets'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.4mm) (Max=8mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (85.09mm,117.602mm)(125.991mm,117.602mm) on Top Layer 
+   Violation between Net Antennae: Track (84.902mm,118.056mm)(125.803mm,118.056mm) on Top Layer 
+   Violation between Net Antennae: Track (80.645mm,93.345mm)(80.645mm,99.695mm) on Top Layer 
+   Violation between Net Antennae: Track (79.616mm,103.264mm)(83.185mm,99.695mm) on Top Layer 
+   Violation between Net Antennae: Track (78.232mm,107.95mm)(78.994mm,107.95mm) on Bottom Layer 
+   Violation between Net Antennae: Track (75.692mm,109.855mm)(76.327mm,109.22mm) on Bottom Layer 
+   Violation between Net Antennae: Track (77.164mm,103.525mm)(79.629mm,103.525mm) on Bottom Layer 
+   Violation between Net Antennae: Track (79.629mm,106.025mm)(81.788mm,106.025mm) on Bottom Layer 
+Rule Violations :8
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2mm) (Preferred=1mm) (InNetClass('PowerNet'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.128mm) (Max=1.016mm) (Preferred=0.508mm) (InNetClass('AnalogPowerNet'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Room WiFi (Bounding Region = (108.585mm, 146.05mm, 144.145mm, 182.245mm) (InComponentClass('WiFi'))
+Rule Violations :0
+
+Processing Rule : Room Audio (Bounding Region = (52.578mm, 135.89mm, 108.585mm, 182.245mm) (InComponentClass('Audio'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('All Pads'))
+Rule Violations :0
+
+Processing Rule : Room LAMP (Bounding Region = (149.479mm, 66.675mm, 201.93mm, 123.825mm) (InComponentClass('LAMP'))
+Rule Violations :0
+
+
+Violations Detected : 22
+Time Elapsed        : 00:00:06

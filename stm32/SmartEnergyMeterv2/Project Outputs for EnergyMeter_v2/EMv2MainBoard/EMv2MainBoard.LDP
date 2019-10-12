@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Panj\Desktop\EnergyMeter_v2\EMv2MainBoard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=emv2mainboard-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=emv2mainboard-slotholes.txt|DrillLayers=gtl,gbl

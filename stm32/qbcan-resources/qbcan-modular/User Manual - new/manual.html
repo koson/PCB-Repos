@@ -1,0 +1,1180 @@
+<h1 id="qbcan-user-manual">&quot;QBcan User Manual&quot;</h1>
+<h1 id="open-cosmos-ltd">&quot;Open Cosmos Ltd&quot;</h1>
+<div class="layout Title">
+<p>qbcan User Manual</p>
+<h1 id="qbcan-user-manual-1">qbcan User Manual</h1>
+</div>
+<div class="layout Standard">
+<p><img src="Images/QBcan_Logo.png" height="25%"></p>
+</div>
+<div class="layout Standard">
+
+</div>
+<div class="layout Standard">
+<p>LatexCommand tableofcontents</p>
+<pre><code>{{toc}}</code></pre>
+</div>
+<div class="layout Standard">
+<p>Cover logo created by Claire Jones from the Noun Project</p>
+</div>
+<div class="layout Standard">
+
+</div>
+<div class="layout Part">
+<p>System description</p>
+</div>
+<div class="layout Standard">
+<p>qbcan is a versatile, easy-to-use and high performance CanSat bus. The qbcan bus is provides all the required capabilities of a minimalistic CanSat: communications, a temperature and pressure sensor, and a computing platform with wide range of interfaces. The user can then add extra functionality (adding sensors and actuators via the provided interfaces) and develop more complex The main components of qbcan are:</p>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Arduino Pro Micro microcontroller.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>RFM69HW 433MHz transceiver.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>BMP180 temperature and pressure sensor.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Software library that interfaces with the transceiver and the pressure and temperature sensor for rapid development.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>9V Battery.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>2 M2 mounting holes.</li>
+</ul>
+</div>
+<div class="layout Standard">
+<p>The small qbcan footprint, the exposed Arduino Pro Micro pins and its mounting holes allow qbcan to be flexible with respect its mounting location, allowing CanSat developers to mount it wherever is more convenient.</p>
+</div>
+<div class="layout Standard">
+<p>qbcan (hardware and software) is open-source and the users are encouraged to modify it and re-distribute their work.</p>
+</div>
+<div class="layout Section">
+<p>Microcontroller</p>
+<h3 id="microcontroller">Microcontroller</h3>
+</div>
+<div class="layout Standard">
+<p>The core of qbcan is an Arduino Pro Micro microcontroller. The microcontroller provides the required computing power to the CanSat. The wide range of interfaces provided by the the Arduino Pro Micro allows the user to develop more complex CanSat mission by integrating additional peripherals. The main features of the Arduino Pro Micro are:</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/ProMicro.png" width="50%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Arduino Pro Micro pinout. LatexCommand label name &quot;fig:ProMicro&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>ATmega32U4 running at 5V/16MHz.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Easy to program using the Arduino Integrated development environment.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>On-Board micro-USB connector for programming.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>I2C, SPI and UART serial communication ports.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>4 channels to read analogue signals using a 10-bit analogue to digital converter.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>5 Pulse Width Modulated output pins.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>12 Digital Input Output pins.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Tiny footprint mm.</li>
+</ul>
+</div>
+<div class="layout Standard">
+<p>The pinout of the Arduino Pro Micro can be seen in Fig.</p>
+<p>LatexCommand ref reference &quot;fig:ProMicro&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>. All these pins and communication interfaces are available to the user except pin 7 and 10 which are used to communicate by the transceiver (the SPI and I2C interfaces are shared with the transceiver and the pressure and temperature sensor but are also available to the user).</p>
+</div>
+<div class="layout Section">
+<p>Transceiver</p>
+<h3 id="transceiver">Transceiver</h3>
+</div>
+<div class="layout Standard">
+<p>A RFM69HW 433 MHz transceiver is included to provide long range communications capabilities to qbcan. The main features of the transceiver are:</p>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>+20 dBm - 100 mW power output capability.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>High sensitivity: down to -120 dBm at 1.2 kbps.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Programmable output power: -18 to +20 dBm in 1dB steps.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Fully integrated synthesiser with a resolution of 61 Hz.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Frequency selectable by software over 256 different channels.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>255 possible nodes in every channel.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>FSK, GFSK, MSK, GMSK and OOK modulations.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Hardware 128bit AES encryption.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Over 400+ meters range using whip antennas and several km range using a Yagi antenna on the receiving end.</li>
+</ul>
+</div>
+<div class="layout Standard">
+<p>The transceiver communicates with the Arduino over the SPI interface and uses the pin 10 of the Arduino as the Slave Select (that is why this pin is reserved). The transceiver software, included with qbcan, is interrupt driven (asynchronou s response to incoming communications), using the Arduino pin 7 to provide this interrupt and thus pin 7 is also not available to the user. The antenna of the transceiver is a simple quarter wavelength monopole antenna.</p>
+</div>
+<div class="layout Standard">
+<p>Using this transceiver a qbacn can be used a CanSat while another qbcan can be used as a ground station , receiving telemetry from the CanSat (and sending to a PC via the USB port) and sending commands to the CanSat.</p>
+</div>
+<div class="layout Section">
+<p>Temperature and pressure sensor</p>
+<h3 id="temperature-and-pressure-sensor">Temperature and pressure sensor</h3>
+</div>
+<div class="layout Standard">
+<p>qbcan includes a BMP180 barometric pressure and temperature sensor. This sensor communicates over I2C and provides:</p>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Pressure sensing range: 300-1100 hPa (9000m to -500m above sea level).</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Up to 0.02hPa / 0.17m altitude resolution.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>-40 to +85°C operational range, +-2°C temperature accuracy.</li>
+</ul>
+</div>
+<div class="layout Section">
+<p>Power</p>
+<h3 id="power">Power</h3>
+</div>
+<div class="layout Standard">
+<p>qbcan is powered by an included 9V battery. The connector to the battery is included and by using the available Arduino pins the user is able to access the raw 9V from the battery - from the Arduino Raw pin - and 5V regulated power - from the Arduino VCC pin status open</p>
+<div class="layout Plain Layout">
+<p>A 3.3V output is planned for the final qbcan version.</p>
+</div>
+</div>
+<p>.</p>
+<p>If you plan to use more than 500 mA from the 5V line it is recommended</p>
+<p>that you use the raw battery voltage and use your own voltage regulator.</p>
+<div class="layout Section">
+<p>Library</p>
+<h3 id="library">Library</h3>
+</div>
+<div class="layout Standard">
+<p>A software library is included providing an easy-to-use interface with the transceiver and pressure sensor. Example code is provided to speed up development of the CanSat mission. The library includes a CanSat example and a ground station example.</p>
+</div>
+<div class="layout Standard">
+
+</div>
+<div class="layout Part">
+<p>Getting started</p>
+</div>
+<div class="layout Standard">
+<p>The qbcan bus comes as a kit and needs to be assembled. Also to make develop software for the Arduino Pro Micro and use the provided library the development computer needs to be configured appropriately. Section LatexCommand ref reference &quot;sec:Assembly&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>covers the physical assembly of qbcan and Sec.</p>
+<p>LatexCommand ref reference &quot;sec:Software_Installation&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>provides a step by step guide to get the development environment up and running.</p>
+</div>
+<div class="layout Standard">
+<p>To complete the software installation you will require an assembled qbcan but steps LatexCommand ref reference &quot;sec:Software_Installation&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<ul>
+<li><p>LatexCommand ref reference &quot;sub:Check_IDE&quot;</p>
+<p>{{ref}}</p></li>
+</ul>
+<p>only require the Arduino Pro Micro on its own so you can do them before starting the assembly.</p>
+</div>
+<div class="layout Section">
+<p>Assembly</p>
+<h3 id="assembly">Assembly</h3>
+<p>LatexCommand label name &quot;sec:Assembly&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+<div class="layout Standard">
+<p>The assembly of qbcan is simple and only requires basic soldering skills. If you don't have any experience soldering then it will probably take you around 2 hours (less than 1 hour if you have soldering experience). Also, the tools required to assemble qbcan are those required for soldering hobby electronics. We recommend you to have the following equipment:</p>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Pliers and/or tweezers.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Soldering iron and solder. It is important that the solder comes with a flux core (this will facilitate soldering).</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Optional but recommended - Flux remover (to clean flux residue). It is important to use a remover for you specific flux formulation. Some flux formulations do not require to clean the residue afterwards. If you don't have a specific flux remover at hand, Isopropyl alcohol or acetone could help remove most of the residue.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Optional - A third hand (see Fig. LatexCommand ref reference &quot;fig:Third_Hand&quot; ) it is very convenient when you are alone when doing the assembly.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Optional - Solder Wick remover in case you make any mistake and want to desolder some components.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>Optional - Extra flux (e.g. in a pen dispenser). This element is optional but can help solder the voltage regulator (that is surface mounted).</li>
+</ul>
+</div>
+<div class="layout Standard">
+<p>If you don't have any experience with soldering hobby electronic components we recommend you to watch the excellent EEVblog soldering tutorial.</p>
+<p>LatexCommand href name &quot;Part 1&quot; target &quot;https://youtu.be/J5Sb21qbpEQ&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>covers the equipment, LatexCommand href name &quot;Part 2&quot; target &quot;https://youtu.be/fYz5nIHH0iY&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>covers through hole soldering techniques and LatexCommand href name &quot;Part 3&quot; target &quot;https://youtu.be/b9FC9fAlfQE&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>covers surface mount soldering (required to solder the voltage regulator).</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/Third_Hand.jpg" width="50%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Example of a what is known as a third hand. LatexCommand label name &quot;fig:Third_Hand&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Plain Layout">
+
+</div>
+<div class="layout Standard">
+<p>To assemble the qbcan board you just need to follow these steps:</p>
+</div>
+<div class="layout Subsection">
+<p>Clean the board</p>
+<h4 id="clean-the-board">Clean the board</h4>
+</div>
+<div class="layout Standard">
+<p>With a pair of pliers remove any imperfection from the board (bits leftover from the fabrication process) status open</p>
+<div class="layout Plain Layout">
+<p>This imperfections where specific to the fabrication process used for the prototype so in the final product this may not exist.</p>
+</div>
+</div>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/Clean_Board.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Removing manufacturing leftovers from the board.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Plain Layout">
+
+</div>
+<div class="layout Subsection">
+<p>Solder the headers onto the Logic Level Converter and the BMP180.</p>
+<h4 id="solder-the-headers-onto-the-logic-level-converter-and-the-bmp180.">Solder the headers onto the Logic Level Converter and the BMP180.</h4>
+</div>
+<div class="layout Standard">
+<p>The first soldering will be an easy one. We will be soldering the headers onto the Logic Level converter and the BMP180. Use the short 0.1'' (2.54 mm) pitch headers for this (it does not mater in which orientation you solder the headers). Make sure that the headers are straight and not at an angle with the board. The final result for the Logic Level Converter is shown in Fig.</p>
+<p>LatexCommand ref reference &quot;fig:LLC_Headers&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/LLC_Headers.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Logic Level Converter with the headers soldered. LatexCommand label name &quot;fig:LLC_Headers&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Plain Layout">
+
+</div>
+<div class="layout Standard">
+<p>As we will be using the same headers for the BMP180 but the BMP180 board has one connector less (5 instead of 6) we need, with the help of the pliers, to break away one of the pins from the headers (see Fig.</p>
+<p>LatexCommand ref reference &quot;fig:Headers_Break&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>).</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/Headers_Break.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Break one of the pins in the header so it has only 5 pins. LatexCommand label name &quot;fig:Headers_Break&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Standard">
+<p>When that is done you can solder the header into the BMP180 board. The final result is shown in Fig.</p>
+<p>LatexCommand ref reference &quot;fig:BMP180_Headers&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/BPM180_Headers.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Pressure and temperature BMP180 sensors with headers. LatexCommand label name &quot;fig:BMP180_Headers&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Standard">
+<p>When that is inspect the solder and make sure that you have good quality connections, also before continuing remove any flux residue.</p>
+</div>
+<div class="layout Subsection">
+<p>Solder Arduino Pro Micro headers.</p>
+<h4 id="solder-arduino-pro-micro-headers.">Solder Arduino Pro Micro headers.</h4>
+</div>
+<div class="layout Standard">
+<p>Now that you have some practice in soldering headers we will solder the headers of the Arduino Pro Micro. The procedure is exactly the same but using the long 0.1'' (2.54 mm) picth headers. Leave the long pins on the top side of the Arduino. The final results should look like Fig.</p>
+<p>LatexCommand ref reference &quot;fig:ARD_Headers&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/ARD_Headers.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Arduino Pro Micro with headers. Note how the long pins are located on the top of the board.. LatexCommand label name &quot;fig:ARD_Headers&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Standard">
+<p>The long pins will enable your peripherals (GPS, actuators or other sensors) to connect to any pins of the Arduino by using female headers or female jumper wires (see Fig.</p>
+<p>LatexCommand ref reference &quot;fig:Female_Connectors&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>).</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/Female_Headers.jpg" width="35%"></p>
+<p><img src="Images/Female_Jumper.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Left - Female headers. Left - Female jumper wires. LatexCommand label name &quot;fig:Female_Connectors&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Standard">
+<p>Again, before continuing inspect the connections and clean any flux residue.</p>
+</div>
+<div class="layout Subsection">
+<p>Solder voltage regulator</p>
+<h4 id="solder-voltage-regulator">Solder voltage regulator</h4>
+</div>
+<div class="layout Standard">
+<p>This first component that we will solder on the qbcan board is the voltage regulator. This one is one of the difficult parts to solder into the board given how small the component is, so be patient and don't rush it. Familiarise yourself with surface mount soldering (SMD) before attempting to solder this component (check the suggested tutorials) and use a fine pair of pliers (or tweezers better) to place the component in the correct position. The final result is shown in Fig.</p>
+<p>LatexCommand ref reference &quot;fig:VREG&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/VREG.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Voltage regulator soldered onto the board. LatexCommand label name &quot;fig:VREG&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>status open</p>
+<div class="layout Plain Layout">
+<p>Add a more detailed explanation on how to solder the VREG.</p>
+</div>
+<div class="layout Subsection">
+<p>Solder the battery connector</p>
+<h4 id="solder-the-battery-connector">Solder the battery connector</h4>
+</div>
+<div class="layout Standard">
+<p>Next on the board we will solder the battery connector. This is also a tricky component to solder as the hole in the board is larger than the metal conductor of the battery connector. Use a third hand (or ask somebody to help you) so that you are able to get everything in position and solder (be careful not to burn your assistant with the soldering iron!). It is also important that you solder the red wire to the + terminal and the black wire to the - terminal (are marked in the board). After soldering you will have something similar to Fig.</p>
+<p>LatexCommand ref reference &quot;fig:BATT&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/Power.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Battery connector just soldered. LatexCommand label name &quot;fig:BATT&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>.</p>
+<p>Note that the wire can protrude significantly (as in Fig</p>
+<p>LatexCommand ref reference &quot;fig:BATT&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>), if that is the case, cut the protruding edges (see Fig.</p>
+<p>).</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/Power_Cut.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Cut any wire remaining that is protruding. LatexCommand label name &quot;fig:VREG-1&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Standard">
+<p>After finishing the soldering clean the connection, plug the 9V battery and with a multimeter check that the voltages that come out of the voltage regulator are as expected (check the LatexCommand nameref reference &quot;sec:Schematic&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>and the LatexCommand nameref reference &quot;sec:Board_Layout&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>).</p>
+</div>
+<div class="layout Subsection">
+<p>Solder the Logic Level Converter and the BMP180 into the board</p>
+<h4 id="solder-the-logic-level-converter-and-the-bmp180-into-the-board">Solder the Logic Level Converter and the BMP180 into the board</h4>
+</div>
+<div class="layout Standard">
+<p>When the the connections of the battery and the voltage regulator have been verified it is time to solder the Logic Level Converter and the BMP180 into the board. This is an easy step but make sure that you solder this two components in the correct orientation. For the Logic Level Converter check that the High Voltage (HV) and Low Voltage (LV) sides are oriented correctly (look at the board markings). The BMP180 needs to fit inside the board (see the board marking for the outline of where the BMP180 should go). The final result after this step is shown in Fig.</p>
+<p>LatexCommand ref reference &quot;fig:LLC_BMP180_Board&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/BMP180_Board.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Logic Level Converter and BMP180 solder into the board. LatexCommand label name &quot;fig:LLC_BMP180_Board&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Subsection">
+<p>Solder the RFM69 headers into the board.</p>
+<h4 id="solder-the-rfm69-headers-into-the-board.">Solder the RFM69 headers into the board.</h4>
+</div>
+<div class="layout Standard">
+<p>Next we will solder the RFM69 headers into the board ( don't solder the RFM69 to the headers yet! ). The headers in this case have 2 mm pitch (are different than the ones used before).</p>
+</div>
+<div class="layout Standard">
+<p>Again, the orientation of the headers does not matter - just make sure that the spacer is located on the correct side of the board (the one with the RFM69 markings). Also it is very important that you do not solder the antenna pin!</p>
+</div>
+<div class="layout Standard">
+<p>With the pliers remove the antenna pin from the header. In the board the antenna location is marked with ANA . After this step you board should look as in Fig.</p>
+<p>LatexCommand ref reference &quot;fig:RFM69_Headers&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/RFM69_Headers.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<div class="layout Plain Layout">
+<p>Headers of the RFM69 soldered into the board, note how the antenna pin has not been included. LatexCommand label name &quot;fig:RFM69_Headers&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Subsection">
+<p>Solder the Arduino to the board.</p>
+<h4 id="solder-the-arduino-to-the-board.">Solder the Arduino to the board.</h4>
+</div>
+<div class="layout Standard">
+<p>The next step is to solder the Arduino the board. This should not be very difficult. Refer to the marking on the board to know how the Arduino is oriented in the board. Figure LatexCommand ref reference &quot;fig:ARD_Board&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>shoes how the board looks like after completing this step.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/ARD_Board.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<p>Arduino soldered into the qbcan board. LatexCommand label name &quot;fig:ARD_Board&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Plain Layout">
+
+</div>
+<div class="layout Subsection">
+<p>Solder the antenna to the RFM69</p>
+<h4 id="solder-the-antenna-to-the-rfm69">Solder the antenna to the RFM69</h4>
+</div>
+<div class="layout Standard">
+<p>The RFM69 is a 433 MHz transceiver and we will use a wire monopole antenna. This is the simplest type of antenna consisting of a piece of wire that is a quarter of the wavelength . For a frequency of 433 MHz the length of the antenna can be easily computed using Eq.</p>
+<p>LatexCommand ref reference &quot;eq:Antenna_length&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>. The speed of light is represented by the term . For 433 MHz .</p>
+</div>
+<div class="layout Standard">
+<p>l== Cut a wire to the specified length and the solder it to the RFM69 transceiver. The antenna wire should stick out from the top side of the RFM69. The result should look like Fig.</p>
+<p>LatexCommand ref reference &quot;fig:RFM69_Antenna&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>.</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/RFM69_ANT.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<p>RFM69 with 17.3 cm wire antenna. LatexCommand label name &quot;fig:RFM69_Antenna&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Plain Layout">
+
+</div>
+<div class="layout Standard">
+<p>It is important for the antenna to be as straight as possible. If it is curved or bend the performance and the range will decrease.</p>
+</div>
+<div class="layout Subsection">
+<p>Solder the RFM69 into the board</p>
+<h4 id="solder-the-rfm69-into-the-board">Solder the RFM69 into the board</h4>
+</div>
+<div class="layout Standard">
+<p>Finally you can solder the RFM69 into the board (using the headers previously soldered). Once done you will have something like Fig.</p>
+<p>LatexCommand ref reference &quot;fig:RFM69_Board&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>and the electronics of your qbcan will be completely assembled!</p>
+<div class="figure float">
+<p>wide false sideways false status collapsed</p>
+<div class="layout Plain Layout">
+<p><img src="Images/RFM69_Board.jpg" width="35%"></p>
+<div class="layout Plain Layout">
+<p>RFM69 soldered into the qbcan. LatexCommand label name &quot;fig:RFM69_Board&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="layout Plain Layout">
+
+</div>
+<div class="layout Section">
+<p>Software Installation</p>
+<h3 id="software-installation">Software Installation</h3>
+<p>LatexCommand label name &quot;sec:Software_Installation&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+<div class="layout Standard">
+<p>The Arduino Pro Micro microcontroller is the core of the qbcan but it will need to software in order to execute its mission. In this section you will learn to set-up a development PC where you can develop and upload code to your qbcan. The following steps will guide through the whole process.</p>
+</div>
+<div class="layout Subsection">
+<p>Install the Arduino IDE</p>
+<h4 id="install-the-arduino-ide">Install the Arduino IDE</h4>
+<p>LatexCommand label name &quot;sub:Arduino_IDE&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+<div class="layout Standard">
+<p>The core of QBcan is an Arduino Pro Micro.</p>
+<p>LatexCommand href name &quot;Arduinos&quot; target &quot;https://www.arduino.cc/&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>are a family of open-source microcontroller boards. In order to program the Arduino we need to install its Integrated Development Environment (IDE).</p>
+</div>
+<div class="layout Standard">
+<p>At the Arduino LatexCommand href name &quot;software page&quot; target &quot;https://www.arduino.cc/en/Main/Software&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>you can find the latest IDE. Download the version for your platform and install it. Arduinos are programmed in C and using this IDE you will be able to compile the code and upload it to the Arduino. The Arduinos are very popular a lots of tutorials and forums exist online. If you don't have any experience in programming C or Arduinos we would recommend you to watch some of the LatexCommand href name &quot;Jeremy Blum Arduino tutorials&quot; target &quot;https://www.youtube.com/watch?v=fCxzA9_kg6s&amp;list=PLA567CE235D39FA84&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>.</p>
+</div>
+<div class="layout Subsection">
+<p>Install the Pro Micro drivers</p>
+<h4 id="install-the-pro-micro-drivers">Install the Pro Micro drivers</h4>
+</div>
+<div class="layout Standard">
+<p>The Arduino IDE works out-of the box with most of the Arduino boards but not with the Pro micro. To make it work additional drivers need to be installed.</p>
+</div>
+<div class="layout Standard">
+<p>Follow LatexCommand href name &quot;this guide&quot; target &quot;https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/installing-windows&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>to install the drivers for Windows, or LatexCommand href name &quot;this guide&quot; target &quot;https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/installing-mac--linux&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>to install the drivers for Mac/Linux. As the Arduino Pro Micro is very similar to the Arduino Fio in some instances selecting the Arduino Fio board (in Tools &gt; Board ) will work. So if you are having trouble installing the drivers try this option instead (it might just work fine!).</p>
+</div>
+<div class="layout Subsection">
+<p>Check your installation</p>
+<h4 id="check-your-installation">Check your installation</h4>
+<p>LatexCommand label name &quot;sub:Check_IDE&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+<div class="layout Standard">
+<p>Now you should be ready to start programming the Pro Micro and it is now a good time to check that everything is installed correctly.</p>
+</div>
+<div class="layout Standard">
+<p>To test the installation you don't need to have qbcan assembled. Just pick the Pro Micro and plug it to your computer using a micro USB device.</p>
+</div>
+<div class="layout Standard">
+<p>Using the Arduino IDE you can upload LatexCommand href name &quot;this sketch&quot; target &quot;https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/example-1-blinkies&quot;</p>
+<pre><code>{{href}}</code></pre>
+<p>to check that the whole set-up is working (you will see two LEDs blinking). If that works then you are ready to start using qbcan as your CanSat bus</p>
+</div>
+<div class="layout Subsection">
+<p>Install the qbcan Arduino Library.</p>
+<h4 id="install-the-qbcan-arduino-library.">Install the qbcan Arduino Library.</h4>
+</div>
+<div class="layout Standard">
+<p>qbcan comes with an Arduino Library that helps you interface with the transceive r and the pressure and temperature sensor. To install the library just go into the Arduino IDE and click to the Sketch menu and then Include Library &gt; Manage Libraries . At the top of the drop down list, select the option Add .ZIP Library . Then browse to QBcan_Library.zip .</p>
+</div>
+<div class="layout Standard">
+<p>Then you will need to close and start again the Arduino IDE for the library to be loaded. To check that the library has been correctly installed you should be able to see the qbcan examples in File &gt; Examples .</p>
+</div>
+<div class="layout Subsection">
+<p>Test qbcan using the qbcan Library examples.</p>
+<h4 id="test-qbcan-using-the-qbcan-library-examples.">Test qbcan using the qbcan Library examples.</h4>
+</div>
+<div class="layout Standard">
+<p>The qbcan Library comes with examples you can use to check that the whole system works. To get the examples in the Arduino IDE click on File &gt; Examples . You have a CanSat examples that measures temperature and pressure and transmits it. The Ground _Station example receives this data (open the serial monitor in Tools &gt; Serial Monitor to view the received data.) . If you run them on two different qbcan you should be able to send and receive data and test the</p>
+</div>
+<div class="layout Standard">
+<p>To test this examples you will need a completely assembled qbcan. Also we encourage you to use this examples as the starting point for your projects.</p>
+</div>
+<div class="layout Part">
+<p>Library</p>
+</div>
+<div class="layout Standard">
+<p>An very important part of qbcan is its library. This library provide an easy-to-use interface to the transceiver and the pressure and temperature sensor. In Sec.</p>
+<p>LatexCommand ref reference &quot;sec:Software_Installation&quot;</p>
+<pre><code>{{ref}}</code></pre>
+<p>a step-by-step guide on how to install the qbcan library can be found.</p>
+</div>
+<div class="layout Section">
+<p>Library basics</p>
+<h3 id="library-basics">Library basics</h3>
+</div>
+<div class="layout Standard">
+<p>To use the library at the top of your sketch you will need to include the qbcan library and the SPI.h and Wire.h libraries (so that we have access to the SPI and I2C buses).</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ //Include the required libraries
+ 
+ 
+ #include <QBcan.h> //Core qbcan library
+ 
+ 
+ #include <Wire.h> //I2C bus library
+ 
+ 
+ #include <SPI.h> //SPI bus library
+ 
+ 
+ 
+
+
+</pre>
+<p></code></p>
+</div>
+<div class="layout Standard">
+<p>The SPI.h and Wire.h libraries are part of the Arduino IDE and thus no installation is required.</p>
+</div>
+<div class="layout Standard">
+<p>The library #include have to be placed at the top of the sketch.</p>
+</div>
+<div class="layout Section">
+<p>Using the BMP180 pressure and temperature sensor</p>
+<h3 id="using-the-bmp180-pressure-and-temperature-sensor">Using the BMP180 pressure and temperature sensor</h3>
+</div>
+<div class="layout Standard">
+<p>The qbcan library provides a class to interface with the BMP180 pressure. To create the sensor object use the following snippet.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ //Create the pressure and temperature sensor object 
+ 
+ 
+ BMP180 bmp;
+ 
+
+
+</pre>
+<p></code></p>
+<p>Use this piece of code just after the library #include . This will create the sensor object.</p>
+</div>
+<div class="layout Standard">
+<p>On the setup() function you will need to initialise the sensor. You can do this as follows.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ void setup() 
+ 
+ 
+ {   
+ 
+ 
+ 
+ 
+    //Initialize serial connection for debugging  
+ 
+ 
+    Serial.begin(9600);
+ 
+ 
+ 
+ 
+    // Initialize pressure sensor.
+ 
+ 
+    if (bmp.begin())
+ 
+ 
+        Serial.println("BMP180 init success");   
+ 
+ 
+    else
+ 
+ 
+    {
+ 
+ 
+        //In case of error let user know of the problem    
+ 
+ 
+        Serial.println("BMP180 init fail (disconnected?)
+ \backslash
+ n
+ \backslash
+ n");
+ 
+ 
+        while(1); // Pause forever.
+    
+ 
+ 
+    }
+ 
+ 
+ 
+ 
+ }
+ 
+
+
+</pre>
+<p></code></p>
+<p>After initialising the sensor it is ready to measure. To measure temperature and pressure just do the following.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ //Declare temperature and pressure variables
+ 
+ 
+ double T,P;
+ 
+ 
+ 
+ 
+ // Get a new temperature and pressure reading
+ 
+ 
+ bmp.GetData(T,P)
+ 
+
+
+</pre>
+<p></code></p>
+<p>The temperature is measured in degrees Celsius and the pressure in mbar.</p>
+</div>
+<div class="layout Standard">
+<p>After you take the measurement you can send the data to the serial port to display it in your PC serial monitor as follows.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ //Display data
+ 
+ 
+ Serial.print("Absolute pressure: ");
+ 
+ 
+ Serial.print(P,2);
+ 
+ 
+ Serial.println(" mb.");
+ 
+ 
+ Serial.print("Temperature: ");
+ 
+ 
+ Serial.print(T,2);
+ 
+ 
+ Serial.println(" deg C.");
+ 
+
+
+</pre>
+<p></code></p>
+</div>
+<div class="layout Section">
+<p>Using the RFM69 transceiver</p>
+<h3 id="using-the-rfm69-transceiver">Using the RFM69 transceiver</h3>
+</div>
+<div class="layout Standard">
+<p>The library also provides a class to interface with the transceiver. You can create the object as follows.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ //Radio object
+ 
+ 
+ RFM69 radio;
+ 
+
+
+</pre>
+<p></code></p>
+<p>Before initialising the RFM69 object on the setup() function it is useful to define some of the transceiver parameters status open</p>
+<div class="layout Plain Layout">
+<p>Some extra parameters will be included in the final version (as bitrate). Currently other configuration parameters are buried inside the library and so they are not so apparent to the user (although they can be easily changed in the library). There is a bit of work to do to decide which are the parameters that users will use the most. The RFM69HW has quite a few registers.</p>
+</div>
+</div>
+<p>.</p>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ //Radio Parameters
+ 
+ 
+ #define NODEID        2    //unique for each node on same network 
+ 
+ 
+ #define NETWORKID     100  //the same on all nodes that talk to each other
+  
+ 
+ 
+ #define GATEWAYID     1    //Receiving node 
+ 
+ 
+ 
+ 
+ #define ENCRYPTKEY    "sampleEncryptKey" //The same on all nodes!
+ 
+
+
+</pre>
+<p></code></p>
+<p>The NETWORKID can be set from 0 to 255 and that changes the physical channel (i.e. the frequency). Although in this guide the NETWORKID is considered a parameter it can be changed during runtime (you just need to re-initialise the library).</p>
+</div>
+<div class="layout Standard">
+<p>The NODEID is just the node in a particular challenge and that can be set from 1 to 255. Therefore we can have up to 255 qbcan operating in the same frequency, although they can not transmit at the same time. Messages are generally send to a specific node and that is the GATEWAYID . So if you are configuring a transmitter/receiver make sure that you are transmitting to the correct node. Also a receiver can sniff all the packets in a network, thus receiving all traffic in that network independently if the messages where addressed to that particular node.</p>
+</div>
+<div class="layout Standard">
+<p>To configure the radio on the setup you can just use the following code.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ void setup() {   
+ 
+ 
+ 
+ 
+    //Initialize serial connection for debugging  
+ 
+ 
+    Serial.begin(9600);
+ 
+ 
+ 
+ 
+    //Initialize radio   
+ 
+ 
+    radio.initialize(FREQUENCY,NODEID,NETWORKID);
+ 
+ 
+    radio.setHighPower(); //Use the high power capabilities of the RFM69HW
+ 
+ 
+    radio.encrypt(ENCRYPTKEY);   
+ 
+ 
+    Serial.println("Transmitting at 433 Mhz");
+ 
+ 
+ 
+ 
+ }
+ 
+
+
+</pre>
+<p></code></p>
+<p>To send data through the network.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ //Send Data
+ 
+ 
+ char payload[50];
+ 
+ 
+ sprintf(payload,"T: %d C, P: %d mb.",(int)T,(int)P);   Serial.print(payload);
+ 
+ 
+ radio.send(GATEWAYID, payload, 50);
+ 
+ 
+ Serial.println("Send complete");
+ 
+
+
+</pre>
+<p></code></p>
+<p>On the radio.send() the last argument is the length of the message to transmit. In the example above the the message payload is 50 bytes long and we are sending it in full although the actual message is not that long (so it could be optimised).</p>
+</div>
+<div class="layout Standard">
+<p>To receive data from a network.</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ if (radio.receiveDone())
+ 
+ 
+ {
+ 
+ 
+    for (byte i = 0; i < radio.DATALEN; i++)  
+ 
+ 
+    Serial.print((char)radio.DATA[i]);
+ 
+ 
+ }
+ 
+
+
+</pre>
+<p></code></p>
+<p>If you want to sniff al the packets of the network use:</p>
+</div>
+<div class="layout Standard">
+<code class="listings">
+<pre>
+
+ inline false
+ status open
+ 
+ 
+ radio.promiscuous(true);
+ 
+
+
+</pre>
+<p></code></p>
+<p>There are also some other functions that you may find useful when receiving messages:</p>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>radio.SENDERID - returns the sender node id.</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>radio.TARGETID - returns the message target node id (in case you are sniffing all the packets in the network).</li>
+</ul>
+</div>
+<div class="layout Itemize">
+<ul>
+<li>radio.RSSI - returns the received signal strength (RSSI).</li>
+</ul>
+</div>
+<div class="layout Section">
+<p>Examples</p>
+<h3 id="examples">Examples</h3>
+</div>
+<div class="layout Standard">
+<p>The provided library contains examples that can help you get started. The examples can be found in the Arduino IDE by clicking on File &gt; Examples &gt; qbcan_Library .</p>
+</div>
+<div class="layout Standard">
+<p>There is one example, labelled as CanSat that transmits data and another one labelled as GroundStation that will receive it.</p>
+</div>
+<div class="layout Standard">
+
+</div>
+<div class="layout Part*">
+<p>Appendices status open</p>
+<div class="layout Plain Layout">
+<p>addcontentsline{toc}{part}{Appendices}</p>
+</div>
+</div>
+<div class="layout Section*">
+<p>Schematic</p>
+<h3 id="schematic">Schematic</h3>
+<p>LatexCommand label name &quot;sec:Schematic&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+<div class="layout Standard">
+<p><img src="Images/Schematic_v1_0.png" width="80%"></p>
+</div>
+<div class="layout Section*">
+<p>Board Layout</p>
+<h3 id="board-layout">Board Layout</h3>
+<p>LatexCommand label name &quot;sec:Board_Layout&quot;</p>
+<pre><code>{{label}}</code></pre>
+</div>
+<div class="layout Standard">
+<p><img src="Images/Top_PCB_v1_0.png" width="80%"></p>
+</div>
+<div class="layout Standard">
+<p><img src="Images/Bottom_PCB_v1_0.png" width="80%"></p>
+</div>

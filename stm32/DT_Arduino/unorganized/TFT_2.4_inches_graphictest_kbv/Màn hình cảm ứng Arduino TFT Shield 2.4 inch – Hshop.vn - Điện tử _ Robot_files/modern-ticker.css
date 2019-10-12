@@ -1,0 +1,94 @@
+.str1,
+.str2,
+.str3,
+.str3-2,
+.str4,
+.str5,
+.str6,
+.str9{ margin:0 0 0px 0;}
+.str4,
+.str5,
+.str6,
+.str8 {
+	width:49% !important;
+	display:inline-block;
+	//display:inline;
+	//zoom:1;
+	vertical-align:top;
+}
+
+.str_wrap p {
+	padding:10px 0;
+	margin:0;
+}
+.str_vertical p {
+	padding:10px;
+}
+h3,
+p { text-align:left;}
+h3 { font-weight:700; color:#000}
+/*Plugin CSS*/
+.str_wrap {
+	overflow:hidden;
+	//zoom:1;
+	width:93%;
+	font-size:14px;
+	line-height:24px;
+	position:relative;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	user-select: none;  
+	background:none;
+	white-space:nowrap;
+	min-height: 30px;
+	float: left;
+}
+
+.str_wrap.str_active {
+	background:#f1f1f1;
+}
+.str_move { 
+	white-space:nowrap;
+	position:absolute; 
+	top:0; 
+	left:0;
+	cursor:move;
+	z-index: 99999
+}
+.str_move_clone {
+	display:inline-block;
+	//display:inline;
+	//zoom:1;
+	vertical-align:top;
+	position:absolute; 
+	left:100%;
+	top:0;
+}
+.str_vertical .str_move_clone {
+	left:0;
+	top:100%;
+}
+.str_down .str_move_clone {
+	left:0;
+	bottom:100%;
+}
+.str_vertical .str_move,
+.str_down .str_move {
+	white-space:normal;
+	width:100%;
+}
+.str_static .str_move,
+.no_drag .str_move,
+.noStop .str_move{
+	cursor:inherit;
+}
+@media screen and (max-width: 768px){
+	.str_wrap{
+		width: 89%;
+	}
+}
+@media screen and (max-width: 480px){
+	.str_wrap{
+		width: 80%;
+	}
+}

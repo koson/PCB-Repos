@@ -1,0 +1,21 @@
+##### Altium
+History
+__Previews
+*.PrjPCBStructure
+*.PrjPcbStructure
+
+*.SchDocPreview
+*.PcbDocPreview
+Project Outputs for *
+Project Logs for *
+Outputs/
+Default Configuration/
+
+# PCB
+# *.IntLib
+# *.LOG
+Logs/
+
+*.CSPcbDoc
+*.htm
+

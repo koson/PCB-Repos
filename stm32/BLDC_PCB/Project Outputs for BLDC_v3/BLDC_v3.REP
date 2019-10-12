@@ -1,0 +1,382 @@
+*************************************************************
+FileName = BLDC_v3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : BLDC_v3.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : BLDC_v3.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D21
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D35
+    D36
+    D38
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : BLDC_v3.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D33
+    D35
+    D36
+    D38
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : BLDC_v3.GBL
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BLDC_v3.GPB
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BLDC_v3.GPT
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BLDC_v3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D26
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : BLDC_v3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BLDC_v3.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BLDC_v3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BLDC_v3.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BLDC_v3.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer, Board
+      File : BLDC_v3.GKO
+
+    Adding Layer      : Keep-Out Layer, Board
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1, Top Assy
+      File : BLDC_v3.GM1
+
+    Adding Layer      : Mechanical 1, Top Assy
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2, Bot Assy
+      File : BLDC_v3.GM2
+
+    Adding Layer      : Mechanical 2, Bot Assy
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : BLDC_v3.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D26
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : BLDC_v3.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D26
+    D68
+*************************************************************
+

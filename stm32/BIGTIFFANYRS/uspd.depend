@@ -1,0 +1,2991 @@
+# depslib dependency file v1.0
+1494520840 source:c:\its\amr\software\axem\uspd\src\axradio\config_united.c
+	"easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"nbfi.h"
+	"rf.h"
+	"application.h"
+	"hal.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\axradio\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\axradio\axradio.h
+	<libmftypes.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\ax8052f143.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\axcompiler.h
+	<stdbool.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfcrc.h
+	"libmftypes.h"
+
+1496221412 c:\its\amr\software\axem\uspd\src\nbfi\nbfi.h
+	"defines.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	"easyax5043.h"
+	"axradio.h"
+	"misc.h"
+
+1497352931 c:\its\amr\software\axem\uspd\src\defines.h
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfradio.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfwtimer.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\axradio\misc.h
+	<libmftypes.h>
+	"axradio.h"
+
+1494500113 c:\its\amr\software\axem\uspd\src\nbfi\rf.h
+	"nbfi.h"
+
+1477386823 c:\its\amr\software\axem\uspd\src\application.h
+	"defines.h"
+
+1497343654 c:\its\amr\software\axem\uspd\src\hal\hal.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfuart.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfuart1.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\axradio\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfdbglink.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\axradio\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	"misc.h"
+	"axradio.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\ax8052.h
+	<axcompiler.h>
+
+1487599694 source:c:\its\amr\software\axem\uspd\src\gui.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	<libmfadc.h>
+	"misc.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"time.h"
+	"waviotdvk.h"
+	"gui.h"
+	"glcd.h"
+	"fonts.h"
+	"nbfi_config.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfflash.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\include\libmfadc.h
+	"libmftypes.h"
+
+1497349961 c:\its\amr\software\axem\uspd\src\nbfi\nbfi_config.h
+	"defines.h"
+
+1496223460 c:\its\amr\software\axem\uspd\src\misc\slip.h
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\misc\time.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"stdio.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\hal\waviotdvk.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+
+1478608677 c:\its\amr\software\axem\uspd\src\gui.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\lcd\glcd.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"application.h"
+	"fonts.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\lcd\fonts.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1497343654 source:c:\its\amr\software\axem\uspd\src\hal\hal.c
+	"hal.h"
+
+1477934144 source:c:\its\amr\software\axem\uspd\src\hal\waviotdvk.c
+	"waviotdvk.h"
+	"hal.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\lcd\fonts.c
+	"fonts.h"
+	"arial_8pt.c"
+
+1475739403 c:\its\amr\software\axem\uspd\src\lcd\fonts\arial_8pt.c
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\lcd\glcd.c
+	<stdlib.h>
+	<string.h>
+	"easyax5043.h"
+	"glcd.h"
+	"stlcd.h"
+	"fonts.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\lcd\stlcd.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\lcd\spi.c
+	"spi.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\lcd\spi.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1487601410 source:c:\its\amr\software\axem\uspd\src\lcd\stlcd.c
+	<stdlib.h>
+	<libmfwtimer.h>
+	"stlcd.h"
+	"spi.h"
+	"fonts.h"
+	"misc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\crc32ansi.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\crc32ansib.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\crc32ansimsb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\crc32ansimsbb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\crc8ccittmsbb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\crc8onewireb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\crc8onewiremsbb.c
+	"libmfcrc.h"
+
+1494937661 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1init.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1rx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1rxbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1stop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1tx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1txbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1wrstr.c
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1wru16.c
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\builtsource\uart1wru32.c
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adccal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\ax8052.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfadc.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adccalg.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adccalt.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adcseoffs00.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adcseoffs01.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adcseoffs10.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adctemp.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\adcuncal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\ax5043rclkdis.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\ax8052f143.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfradio.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\ax5043rclkena.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\bch3121dec.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfbch.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\bch3121decp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\bch3121enc.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\bch3121encp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\bch3121stab.c
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\bch3121syn.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\chksgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\chksgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc32msbtable.c
+	"libmfcrc.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfcrc.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc32table.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc8.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc8b.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc8ccitt.c
+	"ax8052.h"
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc8ccittmsbtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc8ccitttable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crc8msb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crcccittmsbtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\crcccitttable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\deepsleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\delay.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\flashcal.c
+	"ax8052.h"
+	"libmf.h"
+	"libmfflash.h"
+	"libmfcrc.h"
+	"libmfcalsector.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmf.h
+	"libmftypes.h"
+	"libmfdbglink.h"
+	"libmfcrc.h"
+	"libmfflash.h"
+	"libmfuart.h"
+	"libmfadc.h"
+	"libmfbch.h"
+	"libmfcalsector.h"
+	"libmfradio.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfdbglink.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfflash.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfuart.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfcalsector.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\flashlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\flashpgerase.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\flashread.c
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\flashunlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\flashwait.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\flashwrite.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\fmemcpy.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\fmemset.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\graydec8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\grayenc8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\hweight16.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\hweight32.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\hweight8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iorx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfuart0.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfuart1.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iorxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iotx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libaxlcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iotxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowrhex16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\wrnum.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmflcd.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowrhex32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowrhexu16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowrhexu32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowrnum16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowrnum32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowrstr.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowru16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\iowru32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdclear.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdclrdisp.c
+	"libmflcd.h"
+
+1476789783 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdinit.c
+	"ax8052.h"
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdsetpos.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdwrhexu16.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdwrhexu32.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdwrstr.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdwru16.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\lcdwru32.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\offlpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfosc.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\offxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn15adv.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn15advtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn15out.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn15outtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn9.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn9bit.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn9bits.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn9buf.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn9byte.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\pn9table.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiocomminit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\radiodefs.h
+	"ax8052f131.h"
+	"ax8052f142.h"
+	"ax8052f143.h"
+	"ax8052f151.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\ax8052f131.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\ax8052f142.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\ax8052f151.h
+	<axcompiler.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiocommslpexit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiodeepsleep.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiodswakecore.c
+	"libmftypes.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiord16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiord24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiord32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiordfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radioreset.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiowr16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiowr24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiowr32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\radiowrfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\random.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\resetcpu.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\rev8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\setupcal.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\setuplpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\setupxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\sgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\sgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\signext12.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\signext16.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\signext20.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\signext24.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\sleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\sleepcont.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\standby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\uartinit.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\uartstop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\uarttimer.c
+	"ax8052.h"
+	"libmfuart.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\wrnum16.c
+	"wrnum.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\wrnum32.c
+	"wrnum.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt01rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\wtimer.h
+	"libmfwtimer.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\libmf\source\libmfwtimer.h
+	"libmftypes.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt0adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt0addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt0curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt0rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt0setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt1adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt1addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt1curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt1rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\wt1setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wtcbadd.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\uspd\src\libmf\source\wtcbrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1484435874 source:c:\its\amr\software\axem\uspd\src\libmf\source\wtimer.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\wtrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\libmf\source\wtstdby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1495197549 source:c:\its\amr\software\axem\uspd\src\main.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<string.h>
+	"misc.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"m200.h"
+
+1496223460 source:c:\its\amr\software\axem\uspd\src\misc\slip.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"hal.h"
+	"easyax5043.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	<stdlib.h>
+	"rf.h"
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\misc\time.c
+	<time.h>
+	"hal.h"
+	<libmfwtimer.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\misc\vsprintf.c
+	<stdarg.h>
+	<string.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1494238899 source:c:\its\amr\software\axem\uspd\src\misc\xtea.c
+	"xtea.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\misc\xtea.h
+	<libmftypes.h>
+
+1475739403 source:c:\its\amr\software\axem\uspd\src\misc\zigzag.c
+	"zigzag.h"
+
+1475739403 c:\its\amr\software\axem\uspd\src\misc\zigzag.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1497357093 source:c:\its\amr\software\axem\uspd\src\nbfi\nbfi.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"slip.h"
+	"hal.h"
+	<stdlib.h>
+	<libmfadc.h>
+
+1494238899 source:c:\its\amr\software\axem\uspd\src\nbfi\nbfi_misc.c
+	"nbfi.h"
+	"nbfi_config.h"
+	<stdlib.h>
+	"hal.h"
+	"slip.h"
+
+1497026546 source:c:\its\amr\software\axem\uspd\src\nbfi\nbfi_phy.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<stdlib.h>
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"zigzag.h"
+	"hal.h"
+
+1497353561 source:c:\its\amr\software\axem\uspd\src\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"defines.h"
+	"nbfi.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"waviotdvk.h"
+	"gui.h"
+	"glcd.h"
+	"fonts.h"
+	"time.h"
+	"nbfi_config.h"
+	"m200.h"
+
+1494587828 source:c:\its\amr\software\axem\uspd\src\nbfi\rf.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"hal.h"
+	"misc.h"
+	"waviotdvk.h"
+	<libmfwtimer.h>
+
+1497356159 source:c:\its\amr\software\axem\uspd\src\nbfi\nbfi_config.c
+	"libmfflash.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"slip.h"
+	"hal.h"
+	"rf.h"
+
+1497355278 c:\its\amr\software\axem\uspd\src\m200.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1497355278 source:c:\its\amr\software\axem\uspd\src\m200.c
+	<libmfwtimer.h>
+	"m200.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	<time.h>
+	<libmfflash.h>
+
+1508000256 source:c:\its\amr\software\axem\sputnik\src\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"defines.h"
+	"nbfi.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"waviotdvk.h"
+	"gui.h"
+	"glcd.h"
+	"fonts.h"
+	"time.h"
+	"nbfi_config.h"
+	"m200.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\ax8052f143.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\axcompiler.h
+	<stdbool.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfradio.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfflash.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfwtimer.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfcrc.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\axradio\misc.h
+	<libmftypes.h>
+	"axradio.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\axradio\axradio.h
+	<libmftypes.h>
+
+1497352931 c:\its\amr\software\axem\sputnik\src\defines.h
+
+1496221412 c:\its\amr\software\axem\sputnik\src\nbfi\nbfi.h
+	"defines.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	"easyax5043.h"
+	"axradio.h"
+	"misc.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\axradio\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1477386823 c:\its\amr\software\axem\sputnik\src\application.h
+	"defines.h"
+
+1496223460 c:\its\amr\software\axem\sputnik\src\misc\slip.h
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfuart.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfuart1.h
+	"libmftypes.h"
+
+1497537343 c:\its\amr\software\axem\sputnik\src\hal\hal.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\hal\waviotdvk.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+
+1478608677 c:\its\amr\software\axem\sputnik\src\gui.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\lcd\glcd.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"application.h"
+	"fonts.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\lcd\fonts.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\misc\time.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"stdio.h"
+
+1497537343 c:\its\amr\software\axem\sputnik\src\nbfi\nbfi_config.h
+	"defines.h"
+
+1507886907 c:\its\amr\software\axem\sputnik\src\m200.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"m200_serial.h"
+
+1494520840 source:c:\its\amr\software\axem\sputnik\src\axradio\config_united.c
+	"easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"nbfi.h"
+	"rf.h"
+	"application.h"
+	"hal.h"
+
+1494500113 c:\its\amr\software\axem\sputnik\src\nbfi\rf.h
+	"nbfi.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\axradio\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfdbglink.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\axradio\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	"misc.h"
+	"axradio.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\ax8052.h
+	<axcompiler.h>
+
+1487599694 source:c:\its\amr\software\axem\sputnik\src\gui.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	<libmfadc.h>
+	"misc.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"time.h"
+	"waviotdvk.h"
+	"gui.h"
+	"glcd.h"
+	"fonts.h"
+	"nbfi_config.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\include\libmfadc.h
+	"libmftypes.h"
+
+1497343654 source:c:\its\amr\software\axem\sputnik\src\hal\hal.c
+	"hal.h"
+
+1477934144 source:c:\its\amr\software\axem\sputnik\src\hal\waviotdvk.c
+	"waviotdvk.h"
+	"hal.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\lcd\fonts.c
+	"fonts.h"
+	"arial_8pt.c"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\lcd\fonts\arial_8pt.c
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\lcd\glcd.c
+	<stdlib.h>
+	<string.h>
+	"easyax5043.h"
+	"glcd.h"
+	"stlcd.h"
+	"fonts.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\lcd\stlcd.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\lcd\spi.c
+	"spi.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\lcd\spi.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1487601410 source:c:\its\amr\software\axem\sputnik\src\lcd\stlcd.c
+	<stdlib.h>
+	<libmfwtimer.h>
+	"stlcd.h"
+	"spi.h"
+	"fonts.h"
+	"misc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\crc32ansi.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\crc32ansib.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\crc32ansimsb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\crc32ansimsbb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\crc8ccittmsbb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\crc8onewireb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\crc8onewiremsbb.c
+	"libmfcrc.h"
+
+1494937661 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1init.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1rx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1rxbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1stop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1tx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1txbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1wrstr.c
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1wru16.c
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\builtsource\uart1wru32.c
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adccal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\ax8052.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfadc.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adccalg.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adccalt.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adcseoffs00.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adcseoffs01.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adcseoffs10.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adctemp.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\adcuncal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\ax5043rclkdis.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\ax8052f143.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfradio.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\ax5043rclkena.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\bch3121dec.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfbch.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\bch3121decp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\bch3121enc.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\bch3121encp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\bch3121stab.c
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\bch3121syn.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\chksgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\chksgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc32msbtable.c
+	"libmfcrc.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfcrc.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc32table.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc8.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc8b.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc8ccitt.c
+	"ax8052.h"
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc8ccittmsbtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc8ccitttable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crc8msb.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crcccittmsbtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\crcccitttable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\deepsleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\delay.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\flashcal.c
+	"ax8052.h"
+	"libmf.h"
+	"libmfflash.h"
+	"libmfcrc.h"
+	"libmfcalsector.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmf.h
+	"libmftypes.h"
+	"libmfdbglink.h"
+	"libmfcrc.h"
+	"libmfflash.h"
+	"libmfuart.h"
+	"libmfadc.h"
+	"libmfbch.h"
+	"libmfcalsector.h"
+	"libmfradio.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfdbglink.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfflash.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfuart.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfcalsector.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\flashlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\flashpgerase.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\flashread.c
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\flashunlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\flashwait.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\flashwrite.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\fmemcpy.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\fmemset.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\graydec8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\grayenc8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\hweight16.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\hweight32.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\hweight8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iorx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfuart0.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfuart1.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iorxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iotx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libaxlcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iotxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowrhex16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\wrnum.h
+	"libmftypes.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmflcd.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowrhex32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowrhexu16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowrhexu32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowrnum16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowrnum32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowrstr.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowru16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\iowru32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdclear.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdclrdisp.c
+	"libmflcd.h"
+
+1476789783 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdinit.c
+	"ax8052.h"
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdsetpos.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdwrhexu16.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdwrhexu32.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdwrstr.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdwru16.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\lcdwru32.c
+	"libmflcd.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\offlpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfosc.h
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\offxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn15adv.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn15advtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn15out.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn15outtable.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn9.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn9bit.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn9bits.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn9buf.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn9byte.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\pn9table.c
+	"libmfcrc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiocomminit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\radiodefs.h
+	"ax8052f131.h"
+	"ax8052f142.h"
+	"ax8052f143.h"
+	"ax8052f151.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\ax8052f131.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\ax8052f142.h
+	<axcompiler.h>
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\ax8052f151.h
+	<axcompiler.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiocommslpexit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiodeepsleep.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiodswakecore.c
+	"libmftypes.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiord16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiord24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiord32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiordfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radioreset.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiowr16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiowr24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiowr32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\radiowrfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\random.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\resetcpu.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\rev8.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\setupcal.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\setuplpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\setupxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\sgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\sgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\signext12.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\signext16.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\signext20.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\signext24.c
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\sleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\sleepcont.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\standby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\uartinit.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\uartstop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\uarttimer.c
+	"ax8052.h"
+	"libmfuart.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wrnum16.c
+	"wrnum.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wrnum32.c
+	"wrnum.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt01rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\wtimer.h
+	"libmfwtimer.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\libmf\source\libmfwtimer.h
+	"libmftypes.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt0adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt0addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt0curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt0rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt0setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt1adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt1addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt1curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt1rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wt1setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wtcbadd.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475742814 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wtcbrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1484435874 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wtimer.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wtrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\libmf\source\wtstdby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1505219856 source:c:\its\amr\software\axem\sputnik\src\main.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<string.h>
+	"misc.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"m200.h"
+
+1496223460 source:c:\its\amr\software\axem\sputnik\src\misc\slip.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"hal.h"
+	"easyax5043.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	<stdlib.h>
+	"rf.h"
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\misc\time.c
+	<time.h>
+	"hal.h"
+	<libmfwtimer.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\misc\vsprintf.c
+	<stdarg.h>
+	<string.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1494238899 source:c:\its\amr\software\axem\sputnik\src\misc\xtea.c
+	"xtea.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\misc\xtea.h
+	<libmftypes.h>
+
+1475739403 source:c:\its\amr\software\axem\sputnik\src\misc\zigzag.c
+	"zigzag.h"
+
+1475739403 c:\its\amr\software\axem\sputnik\src\misc\zigzag.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507999857 source:c:\its\amr\software\axem\sputnik\src\nbfi\nbfi_misc.c
+	"nbfi.h"
+	"nbfi_config.h"
+	<stdlib.h>
+	"hal.h"
+	"slip.h"
+
+1508000364 source:c:\its\amr\software\axem\sputnik\src\nbfi\nbfi.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"slip.h"
+	"hal.h"
+	<stdlib.h>
+	<libmfadc.h>
+
+1507912289 source:c:\its\amr\software\axem\sputnik\src\nbfi\nbfi_config.c
+	"libmfflash.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"slip.h"
+	"hal.h"
+	"rf.h"
+
+1497537343 source:c:\its\amr\software\axem\sputnik\src\nbfi\nbfi_phy.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<stdlib.h>
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"zigzag.h"
+	"hal.h"
+
+1497532325 source:c:\its\amr\software\axem\sputnik\src\nbfi\rf.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"hal.h"
+	"misc.h"
+	"waviotdvk.h"
+	<libmfwtimer.h>
+
+1502815586 c:\its\amr\software\axem\sputnik\src\m200_serial.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"m200_settings.h"
+
+1508000256 source:c:\its\amr\software\axem\sputnik\src\m200.c
+	<libmfwtimer.h>
+	"m200.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	<time.h>
+
+1507884933 c:\its\amr\software\axem\sputnik\src\m200_settings.h
+	<libmftypes.h>
+
+1505377556 source:c:\its\amr\software\axem\sputnik\src\m200_serial.c
+	<libmfwtimer.h>
+	"hal.h"
+	"m200_serial.h"
+	"nbfi.h"
+	"nbfi_config.h"
+
+1507885105 source:c:\its\amr\software\axem\sputnik\src\m200_settings.c
+	"m200_settings.h"
+	<libmfflash.h>
+
+1519042218 source:d:\waviot\sputnik\src\axradio\config_united.c
+	"easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"nbfi.h"
+	"rf.h"
+	"application.h"
+	"hal.h"
+
+1519042218 d:\waviot\sputnik\src\axradio\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1519042218 d:\waviot\sputnik\src\axradio\axradio.h
+	<libmftypes.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\include\ax8052f143.h
+	<axcompiler.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\include\axcompiler.h
+	<stdbool.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfcrc.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\nbfi\nbfi.h
+	"defines.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	"easyax5043.h"
+	"axradio.h"
+	"misc.h"
+
+1540997230 d:\waviot\sputnik\src\defines.h
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfradio.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfwtimer.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\axradio\misc.h
+	<libmftypes.h>
+	"axradio.h"
+
+1519042218 d:\waviot\sputnik\src\nbfi\rf.h
+	"nbfi.h"
+
+1540801955 d:\waviot\sputnik\src\application.h
+	"defines.h"
+
+1540801567 d:\waviot\sputnik\src\hal\hal.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfuart.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfuart1.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\axradio\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfdbglink.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\axradio\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	"misc.h"
+	"axradio.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\include\ax8052.h
+	<axcompiler.h>
+
+1519042218 source:d:\waviot\sputnik\src\gui.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	<libmfadc.h>
+	"misc.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"time.h"
+	"waviotdvk.h"
+	"gui.h"
+	"glcd.h"
+	"fonts.h"
+	"nbfi_config.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfflash.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\include\libmfadc.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\nbfi\nbfi_config.h
+	"defines.h"
+
+1519042218 d:\waviot\sputnik\src\misc\slip.h
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1519042218 d:\waviot\sputnik\src\misc\time.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"stdio.h"
+
+1519042218 d:\waviot\sputnik\src\hal\waviotdvk.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+
+1519042218 d:\waviot\sputnik\src\gui.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1519042218 d:\waviot\sputnik\src\lcd\glcd.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"application.h"
+	"fonts.h"
+
+1519042218 d:\waviot\sputnik\src\lcd\fonts.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1519042218 source:d:\waviot\sputnik\src\hal\hal.c
+	"hal.h"
+
+1519042218 source:d:\waviot\sputnik\src\hal\waviotdvk.c
+	"waviotdvk.h"
+	"hal.h"
+
+1519042218 source:d:\waviot\sputnik\src\lcd\fonts.c
+	"fonts.h"
+	"arial_8pt.c"
+
+1519042218 d:\waviot\sputnik\src\lcd\fonts\arial_8pt.c
+
+1519042218 source:d:\waviot\sputnik\src\lcd\glcd.c
+	<stdlib.h>
+	<string.h>
+	"easyax5043.h"
+	"glcd.h"
+	"stlcd.h"
+	"fonts.h"
+
+1519042218 d:\waviot\sputnik\src\lcd\stlcd.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1519042218 source:d:\waviot\sputnik\src\lcd\spi.c
+	"spi.h"
+
+1519042218 d:\waviot\sputnik\src\lcd\spi.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1519042218 source:d:\waviot\sputnik\src\lcd\stlcd.c
+	<stdlib.h>
+	<libmfwtimer.h>
+	"stlcd.h"
+	"spi.h"
+	"fonts.h"
+	"misc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\crc32ansi.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\crc32ansib.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\crc32ansimsb.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\crc32ansimsbb.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\crc8ccittmsbb.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\crc8onewireb.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\crc8onewiremsbb.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1init.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1rx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1rxbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1stop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1tx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1txbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1wrstr.c
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1wru16.c
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\builtsource\uart1wru32.c
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adccal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\ax8052.h
+	<axcompiler.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfadc.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adccalg.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adccalt.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adcseoffs00.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adcseoffs01.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adcseoffs10.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adctemp.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\adcuncal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\ax5043rclkdis.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\ax8052f143.h
+	<axcompiler.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfradio.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\ax5043rclkena.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\bch3121dec.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfbch.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\bch3121decp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\bch3121enc.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\bch3121encp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\bch3121stab.c
+	"libmfbch.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\bch3121syn.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\chksgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\chksgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc32msbtable.c
+	"libmfcrc.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfcrc.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc32table.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc8.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc8b.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc8ccitt.c
+	"ax8052.h"
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc8ccittmsbtable.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc8ccitttable.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crc8msb.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crcccittmsbtable.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\crcccitttable.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\deepsleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\delay.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\flashcal.c
+	"ax8052.h"
+	"libmf.h"
+	"libmfflash.h"
+	"libmfcrc.h"
+	"libmfcalsector.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmf.h
+	"libmftypes.h"
+	"libmfdbglink.h"
+	"libmfcrc.h"
+	"libmfflash.h"
+	"libmfuart.h"
+	"libmfadc.h"
+	"libmfbch.h"
+	"libmfcalsector.h"
+	"libmfradio.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfdbglink.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfflash.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfuart.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfcalsector.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\flashlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\flashpgerase.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\flashread.c
+	"libmfflash.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\flashunlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\flashwait.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\flashwrite.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\fmemcpy.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\fmemset.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\graydec8.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\grayenc8.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\hweight16.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\hweight32.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\hweight8.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iorx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfuart0.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfuart1.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iorxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iotx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libaxlcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iotxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowrhex16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\wrnum.h
+	"libmftypes.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmflcd.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowrhex32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowrhexu16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowrhexu32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowrnum16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowrnum32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowrstr.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowru16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\iowru32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdclear.c
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdclrdisp.c
+	"libmflcd.h"
+
+1540802721 source:d:\waviot\sputnik\src\libmf\source\lcdinit.c
+	"ax8052.h"
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdsetpos.c
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdwrhexu16.c
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdwrhexu32.c
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdwrstr.c
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdwru16.c
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\lcdwru32.c
+	"libmflcd.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\offlpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfosc.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\offxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn15adv.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn15advtable.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn15out.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn15outtable.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn9.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn9bit.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn9bits.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn9buf.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn9byte.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\pn9table.c
+	"libmfcrc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiocomminit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\radiodefs.h
+	"ax8052f131.h"
+	"ax8052f142.h"
+	"ax8052f143.h"
+	"ax8052f151.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\ax8052f131.h
+	<axcompiler.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\source\ax8052f142.h
+	<axcompiler.h>
+
+1519042218 d:\waviot\sputnik\src\libmf\source\ax8052f151.h
+	<axcompiler.h>
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiocommslpexit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiodeepsleep.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiodswakecore.c
+	"libmftypes.h"
+	"radiodefs.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiord16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiord24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiord32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiordfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radioreset.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiowr16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiowr24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiowr32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\radiowrfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\random.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\resetcpu.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\rev8.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\setupcal.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\setuplpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\setupxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\sgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\sgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\signext12.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\signext16.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\signext20.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\signext24.c
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\sleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\sleepcont.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\standby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\uartinit.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\uartstop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\uarttimer.c
+	"ax8052.h"
+	"libmfuart.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wrnum16.c
+	"wrnum.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wrnum32.c
+	"wrnum.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt01rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\wtimer.h
+	"libmfwtimer.h"
+
+1519042218 d:\waviot\sputnik\src\libmf\source\libmfwtimer.h
+	"libmftypes.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt0adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt0addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt0curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt0rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt0setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt1adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt1addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt1curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt1rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wt1setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wtcbadd.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wtcbrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wtimer.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wtrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1519042218 source:d:\waviot\sputnik\src\libmf\source\wtstdby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1540975592 source:d:\waviot\sputnik\src\m200_serial.c
+	<libmfwtimer.h>
+	"hal.h"
+	"m200_serial.h"
+	"nbfi.h"
+	"nbfi_config.h"
+
+1540804526 d:\waviot\sputnik\src\m200_serial.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"m200_settings.h"
+
+1519137947 d:\waviot\sputnik\src\m200_settings.h
+	<libmftypes.h>
+
+1519898152 source:d:\waviot\sputnik\src\m200_settings.c
+	"m200_settings.h"
+	<libmfflash.h>
+
+1519042218 source:d:\waviot\sputnik\src\main.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<string.h>
+	"misc.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"m200.h"
+
+1540979801 d:\waviot\sputnik\src\m200.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"m200_serial.h"
+
+1519042218 source:d:\waviot\sputnik\src\misc\slip.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"hal.h"
+	"easyax5043.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	<stdlib.h>
+	"rf.h"
+
+1519042218 source:d:\waviot\sputnik\src\misc\time.c
+	<time.h>
+	"hal.h"
+	<libmfwtimer.h>
+
+1519042218 source:d:\waviot\sputnik\src\misc\vsprintf.c
+	<stdarg.h>
+	<string.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1519042218 source:d:\waviot\sputnik\src\misc\xtea.c
+	"xtea.h"
+
+1519042218 d:\waviot\sputnik\src\misc\xtea.h
+	<libmftypes.h>
+
+1519042218 source:d:\waviot\sputnik\src\misc\zigzag.c
+	"zigzag.h"
+
+1519042218 d:\waviot\sputnik\src\misc\zigzag.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1519042218 source:d:\waviot\sputnik\src\nbfi\nbfi_config.c
+	"libmfflash.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"slip.h"
+	"hal.h"
+	"rf.h"
+
+1519042218 source:d:\waviot\sputnik\src\nbfi\nbfi_misc.c
+	"nbfi.h"
+	"nbfi_config.h"
+	<stdlib.h>
+	"hal.h"
+	"slip.h"
+
+1519042218 source:d:\waviot\sputnik\src\nbfi\nbfi_phy.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<stdlib.h>
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"zigzag.h"
+	"hal.h"
+
+1519042218 source:d:\waviot\sputnik\src\nbfi\rf.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"hal.h"
+	"misc.h"
+	"waviotdvk.h"
+	<libmfwtimer.h>
+
+1541061018 source:d:\waviot\sputnik\src\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"defines.h"
+	"nbfi.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"waviotdvk.h"
+	"time.h"
+	"nbfi_config.h"
+	"m200.h"
+
+1541077019 source:d:\waviot\sputnik\src\m200.c
+	<libmfwtimer.h>
+	"m200.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	<time.h>
+
+1540550817 source:d:\waviot\sputnik\src\nbfi\nbfi.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"slip.h"
+	"hal.h"
+	<stdlib.h>
+	<libmfadc.h>
+

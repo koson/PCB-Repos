@@ -1,0 +1,311 @@
+.order-button-container {
+	float: right;
+	margin: 10px 0px;
+	text-align: right;
+	width: 460px;
+}
+.clear {
+	overflow: hidden;
+	width: 100%;
+}
+.order-button-container a.button {
+	background: transparent url('/images/orderbutton/bg_button_a.gif') no-repeat scroll top right;
+	text-decoration: none;
+}
+.order-button-container a.button {
+	color: #444;
+	display: block;
+	float: right;
+	font: normal 12px arial, sans-serif;
+	height: 24px;
+	margin-right: 6px;
+	padding-right: 12px;
+}
+.order-button-container a.button span {
+	background: transparent url('/images/orderbutton/bg_button_span.gif') no-repeat;
+	display: block;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 14px;
+	padding: 5px 0 5px 12px;
+	white-space: nowrap;
+}
+.order-button-container a.button:active {
+	background-position: bottom right;
+	color: #000;
+	outline: none;
+}
+.order-button-container a.button:active span {
+	background-position: bottom left;
+	padding: 6px 0 4px 12px;
+}
+.popup-cart {
+	background-color: #FFFFFF;
+	display: none;
+	height: 530px;
+	overflow: hidden;
+	padding: 4px;
+}
+.fancybox-inner {
+	background-color: #FFF;
+}
+.NormalRed, .required {
+	color: #F00;
+}
+#AllRatingBar.TabNav, #AllRatingBarForm.TabNav {
+	border-bottom: 1px solid #d3d3d3;
+}
+.ReviewAdvanceContent {
+	border: 1px solid #d3d3d3;
+	border-top: none;
+	padding: 10px 10px 20px 10px;
+}
+#AllRatingBar.TabNav li.Active a, #AllRatingBarForm.TabNav li.Active a {
+	border: solid 1px #d3d3d3;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.ui-widget-header select {
+    padding: 2px !important;
+    height: 30px;
+    margin: 0 !important;
+    margin-top: -1px !important;
+}
+.ui-datepicker.ui-widget-content {
+    background: none !important;
+    background-color: #eee !important;
+}
+.ui-datepicker .ui-widget-header {
+    background: none !important;
+    background-color: #ccc !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    height: 28px;
+}
+.ui-widget-header .ui-datepicker-next,
+.ui-widget-header .ui-datepicker-prev {
+    margin: 2px 2px 2px 2px;
+}
+.ui-widget-header .ui-state-hover,
+.ui-widget-header .ui-state-active {
+    border-color: #F2F2F2 !important;
+    background-image: none !important;
+}
+.ui-datepicker .ui-datepicker-title {
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+    font-size: 14px !important;
+    color: #333;
+}
+.ui-datepicker .ui-datepicker-title span {
+    display: inline-block;
+    padding-top: 2px;
+}
+.ui-datepicker .ui-datepicker-calendar thead span {
+    font-weight: 300 !important;
+    font-size: 13px !important;
+    text-transform: uppercase !important;
+    color: #333 !important;
+}
+.ui-datepicker .ui-datepicker-week-col {
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    text-transform: uppercase !important;
+    color: #333 !important;
+}
+.ui-datepicker tbody .ui-datepicker-week-col {
+    text-align: center;
+}
+.ui-datepicker .ui-datepicker-calendar .ui-state-default {
+    font-weight: 300 !important;
+    font-size: 13px !important;
+    text-transform: uppercase !important;
+    color: #333 !important;
+    border-color:#DEDEDE;
+    background-color: #DEDEDE !important;
+}
+.ui-datepicker .ui-datepicker-calendar .ui-state-active,
+.ui-datepicker .ui-datepicker-calendar .ui-state-hover {
+    background-image: none !important;
+    border-color:#A5D16C;
+    background-color: #A5D16C !important;
+}
+.ui-datepicker .ui-datepicker-calendar .ui-state-highlight {
+    background-image: none !important;
+    background-color: #cefb81 !important;
+    border-color:#A5D16C;
+}
+.ui-datepicker .ui-datepicker-calendar .ui-state-active {
+    background-image: none !important;
+    background-color: #A5D16C !important;
+    border-color:#A5D16C;
+}
+.ui-datepicker button.ui-state-default {
+    background-image: none !important;
+    background-color: #22C0CB !important;
+    border-color: #22C0CB !important;
+    color: #fff;
+}
+.ui-datepicker button.ui-state-hover {
+    border-color: #22C0CB !important;
+    background-color: #22C0CB !important;
+    color: #fff !important;
+
+}
+.ui-datepicker button.ui-state-default.ui-priority-secondary {
+    font-weight: 300 !important;
+    font-size: 13px !important;
+}
+.ui-datepicker button.ui-state-default.ui-priority-primary {
+    font-weight: 300 !important;
+    font-size: 13px !important;
+}
+.ui-datepicker-trigger {
+    margin-left: 2px;
+}
+.colorpicker {
+    font-family: inherit;
+    font-size: inherit;
+}
+.colorpicker input[type='text'] {
+    padding: 0;
+}
+
+.table-row {
+    margin-bottom: 10px;
+}
+.table-row .key {
+    float: left;
+    width: 140px;
+}
+.table-row .key span {
+    display: inline-block;
+    padding-top: 4px;
+}
+.table-row .value {
+    float: left;
+}
+.table-row .key input[type='text'] {
+    width: 80%;
+    border: solid 1px transparent;
+    background-color: transparent;
+    color: inherit;
+}
+.table-row .fl {
+    float: left;
+}
+.table-row label {
+    position: relative;
+    margin: 0 10px 4px 0;
+}
+.table-row input[type='text'], 
+.table-row textarea, 
+.table-row select {
+    font-family: inherit;
+    font-size: inherit;
+    padding: 4px;
+}
+.table-row label input[type='radio'], 
+.table-row label input[type='checkbox'] {
+    left: 0;
+    top: 2px;
+    position: absolute;
+}
+.table-row label span {
+    display: inline-block;
+    margin-left: 20px;
+}
+.table-row input[type='button'], 
+.table-row input[type='submit'], 
+.table-row input[type='reset'] {
+    border: solid 1px #000;
+    background-color: #fff;
+    font-family: inherit;
+    font-size: inherit;
+    padding: 5px;
+    min-width: 80px;
+    cursor: pointer;
+}
+.table-row input[type='button']:hover, 
+.table-row input[type='submit']:hover, 
+.table-row input[type='reset']:hover {
+    background-color: #5710f0;
+    color: #fff;
+}
+
+.OptionProductPrevious, .OptionProductNext,
+[class*="OptionProductPrevious"], [class*="OptionProductNext"] {
+    background: url(/images/LeftArrow.png) no-repeat ;
+    position:absolute;
+    left:0;
+    z-index:1000;
+    cursor:pointer;
+    border: none;
+    display: none;
+    height: 20px;
+    text-indent: -9999px;
+    width: 20px;
+    top: 45%;
+}
+.OptionProductNext, [class*="OptionProductNext"] {
+    background: url(/images/RightArrow.png) no-repeat;
+    left: auto;
+    right: 0;
+}
+
+.SocialNetworkLogin {
+    margin-left: 80px;
+    padding: 10px 0;
+}
+.FBAccountLogin, .GGAccountLogin {
+    margin: 10px 0;
+}
+.fb-login-button{
+    background: url(/images/FBButton.png) no-repeat;
+    height: 45px;
+    display: block;
+    text-indent: -9999px;
+    width: 241px;
+}
+.gg-login-button{
+    background: url(/images/GGButton.png) no-repeat;
+    height: 45px;
+    display: block;
+    text-indent: -9999px;
+    width: 239px;
+}
+
+.AffiliateInfo {
+    position: relative;
+}
+.AffiliateInfo .Row {
+    margin-bottom: 4px;
+}
+.AffiliateInfo .Row .Copy {
+    display: inline-block; 
+    margin-left: 20px;
+}
+.AffiliateInfo .ChangePoint {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.AffiliateInfo input[type='text'], .OrderInfo input[type='text'] {
+    padding: 2px 4px;
+    font-family: inherit;
+    font-size: larger;
+}
+.OrderInfo .filter-table td {
+    padding: 2px 0;
+}
+.OrderInfo .orders-table {
+    margin-top: 10px;
+}
+.OrderInfo .orders-table th, .OrderInfo .orders-table td {
+    padding: 6px;
+    text-align: left;
+}
+
+.ProductList .ProductActionAdd a.QuickPayment {
+    display: none;
+}

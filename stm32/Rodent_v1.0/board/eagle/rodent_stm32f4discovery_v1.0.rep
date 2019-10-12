@@ -1,0 +1,356 @@
+Data Exported from: C:/Users/osk/Documents/eagle/micromouse/rodent_stm32f4discovery_v1.0/rodent_stm32f4discovery_v1.0.brd
+with: C:/EAGLE-7.2.0/ulp/statistic-brd.ulp Version 1.3.9
+at: 5/4/2015 8:26:13 PM
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+all Values in mm
+max. Board length (Layer 20)
+X = 100.72
+Y = 83.60
+Outline contour = 367.02
+
+used layers 2
+
+ 1 Top
+16 Bottom
+_________________________
+
+774   	 Wire(s) incl. Arc(s)
+6     	 Polygon(s)
+_________________________
+21    	 SMD(s) top
+0     	 SMD(s) bottom
+===================
+21    	 SMD(s) total
+
+188   	 PAD(s)
+_________________________
+80    	 Via
+2     	 Hole
+===================
+270   	 Drills total
+_________________________
+21	 tCream
+0	 bCream
+_________________________
+Routing Info: 
+51    	 Signal(s) 
+209   	 PAD/SMD total
+===================
+136   	 PAD/SMD on Signal
+_________________________
+Packages used area:
+~ 5234.10 mm² (0.523 dm²)
+_________________________
+
+
+============================
+
+============================
+27 Elements: 0 locked / 27 unlocked
+0 Testpoints (TP)
+
+----------------------------
+LAYER
+Nb.	Name	Used
+  1	Top	1
+  2	Route2	0
+  3	Route3	0
+  4	Route4	0
+  5	Route5	0
+  6	Route6	0
+  7	Route7	0
+  8	Route8	0
+  9	Route9	0
+ 10	Route10	0
+ 11	Route11	0
+ 12	Route12	0
+ 13	Route13	0
+ 14	Route14	0
+ 15	Route15	0
+ 16	Bottom	1
+ 17	Pads	1
+ 18	Vias	1
+ 19	Unrouted	0
+ 20	Dimension	1
+ 21	tPlace	1
+ 22	bPlace	0
+ 23	tOrigins	1
+ 24	bOrigins	0
+ 25	tNames	1
+ 26	bNames	0
+ 27	tValues	1
+ 28	bValues	0
+ 29	tStop	1
+ 30	bStop	1
+ 31	tCream	1
+ 32	bCream	0
+ 33	tFinish	0
+ 34	bFinish	0
+ 35	tGlue	0
+ 36	bGlue	0
+ 37	tTest	0
+ 38	bTest	0
+ 39	tKeepout	0
+ 40	bKeepout	0
+ 41	tRestrict	0
+ 42	bRestrict	0
+ 43	vRestrict	0
+ 44	Drills	1
+ 45	Holes	1
+ 46	Milling	0
+ 47	Measures	0
+ 48	Document	0
+ 49	Reference	0
+ 50	dxf	0
+ 51	tDocu	1
+ 52	bDocu	0
+ 53	tGND_GNDA	0
+ 54	bGND_GNDA	0
+ 56	wert	0
+100	Muster	0
+101	Patch_Top	0
+102	Vscore	0
+103	Custom	0
+104	Name	0
+105	tPlate	0
+106	bPlate	0
+107	Crop	0
+108	fp8	0
+109	fp9	0
+110	fp0	0
+116	Patch_BOT	0
+121	_tsilk	0
+122	_bsilk	0
+123	tTestmark	0
+124	bTestmark	0
+125	_tNames	0
+131	tAdjust	0
+132	bAdjust	0
+144	Drill_legend	0
+151	HeatSink	0
+199	Contour	0
+200	200bmp	0
+201	201bmp	0
+202	202bmp	0
+203	203bmp	0
+204	204bmp	0
+205	205bmp	0
+206	206bmp	0
+207	207bmp	0
+208	208bmp	0
+209	209bmp	0
+210	210bmp	0
+211	211bmp	0
+212	212bmp	0
+213	213bmp	0
+214	214bmp	0
+215	215bmp	0
+216	216bmp	0
+217	217bmp	0
+218	218bmp	0
+219	219bmp	0
+220	220bmp	0
+221	221bmp	0
+222	222bmp	0
+223	223bmp	0
+224	224bmp	0
+250	Descript	0
+251	SMDround	0
+254	cooling	0
+
+----------------------------
+CLASS
+# 	Name	min. Width	Clearance	min. Drill	Used
+0	default	0.3048 	0.3048 	0.0000 	51  
+
+----------------------------
+WIDTH
+WIRE	Q.
+0.4064 	680 
+0.8128 	94  
+
+ARC	Q.
+ * Wire width are saved in 0.2 micron resolution.
+
+POLY. width	Q.
+0.4064 	6   
+
+POLY. Isol.	Q.
+0.4064 	6   
+
+Polygon
+Type	Name	Layer	Rank	Width
+Signal	GND	16	1	0.406
+Signal	GND	1	1	0.406
+Signal	WHELLLB	16	1	0.406
+Signal	WHELLLT	1	1	0.406
+Signal	WHELLRB	16	1	0.406
+Signal	WHELLRT	1	1	0.406
+ * Wire width are saved in 0.2 micron resolution.
+
+----------------------------
+CIRCLE (width)	Q.
+
+CIRCLE diam.	Q.
+
+----------------------------
+TEXT (w)	Q.
+0.0762 	6   
+
+TEXT (s)	Q.
+0.8128 	6   
+
+----------------------------
+SMD x	SMD y	Roundn.	Q.
+2.0000 	1.6000 	0%	6   
+1.2700 	2.5400 	0%	15  
+
+PAD tDiam	Q.
+1.6256 	66  
+1.7780 	16  
+1.5240 	6   
+1.4096 	100 
+
+PAD bDiam	Q.
+1.6256 	66  
+1.7780 	16  
+1.5240 	6   
+1.4096 	100 
+
+PAD tRestring	Q.
+0.3048 	172 
+0.3890 	16  
+
+PAD bRestring	Q.
+0.3048 	172 
+0.3890 	16  
+
+PAD iDiam	Q.
+1.6256 	66  
+1.6096 	16  
+1.5240 	6   
+1.4096 	100 
+
+PAD iRestring	Q.
+0.3048 	188 
+
+VIA Outer-Diam	Q.
+1.2096 	80  
+
+VIA Outer-Restring 	Q.
+0.3048 	80  
+
+VIA Inner-Diam.	Q.
+1.2096 	80  
+
+VIA Inner-Restring	Q.
+0.3048 	80  
+
+VIA drill	Q.
+0.6000 	80  
+
+VIA Stack	Q.
+01-16	80  
+01-16-PAD	188 
+
+PAD drill	Q.
+1.0160 	66  
+1.0000 	16  
+0.9144 	6   
+0.8000 	100 
+
+----------------------------
+HOLE drill	Q.
+3.2000 	2   
+
+RACK
+T01   0.6
+T02   0.8
+T03   0.9
+T04   1.0
+T05   3.2
+
+----------------------------
+LIBRARY	Q.
+con-lstb	15  
+TB6612FNG	1   
+jumper	7   
+switch-tact	3   
+STM32F4-DISCOVERY	1   
+
+PACKAGE	Q.
+MA03-1	7   
+MODUL_POLOLU	1   
+JP2	2   
+MA08-1	2   
+MA06-1	2   
+MA04-1	3   
+MA05-1	1   
+DTSM-3	3   
+SJ_2W	5   
+STM32F4-DISCOVERY	1   
+
+VALUE	PAC	Q.	Top	Bot
+~/-empty-/~BAT	MA03-1	1	1	0
+MODUL_POLOLU	MODUL_POLOLU	1	1	0
+~/-empty-/~JP1	JP2	1	1	0
+~/-empty-/~JP2	JP2	1	1	0
+~/-empty-/~LCD	MA08-1	1	1	0
+~/-empty-/~MA	MA06-1	1	1	0
+~/-empty-/~MB	MA06-1	1	1	0
+~/-empty-/~MPU	MA08-1	1	1	0
+~/-empty-/~P_5V	MA04-1	1	1	0
+~/-empty-/~P_MA	MA04-1	1	1	0
+~/-empty-/~P_MB	MA04-1	1	1	0
+~/-empty-/~RTC	MA05-1	1	1	0
+DTSM-3	DTSM-3	3	3	0
+~/-empty-/~SE1	MA03-1	1	1	0
+~/-empty-/~SE2	MA03-1	1	1	0
+~/-empty-/~SE3	MA03-1	1	1	0
+~/-empty-/~SE4	MA03-1	1	1	0
+~/-empty-/~SJ1	SJ_2W	1	1	0
+~/-empty-/~SJ2	SJ_2W	1	1	0
+~/-empty-/~SJ4	SJ_2W	1	1	0
+~/-empty-/~SJ5	SJ_2W	1	1	0
+~/-empty-/~SJ6	SJ_2W	1	1	0
+~/-empty-/~SV3	MA03-1	1	1	0
+~/-empty-/~SV4	MA03-1	1	1	0
+STM32F4-DISCOVERY	STM32F4-DISCOVERY	1	1	0
+
+----------------------------
+RECT x	RECT y	Q.
+0 RECT (copper)
+
+----------------------------
+RECT Layer	Q.
+
+----------------------------
+TEXT (s)	Q.
+0.8128 	6   
+1 TEXT size (copper)
+
+TEXT (w)	Q.
+0.0762 	6   
+1 TEXT wire width (copper)
+
+TEXT 	Q.
+1.2700 	51  
+1.0160 	2   
+0.9906 	6   
+3 TEXT size (place)
+3 TEXT wire width (place)
+
+CIRCLE diam.	Q.
+0 CIRCLE (copper)
+
+
+Rudimentarily signal name(s):
+WIRE 'N$12' (-2.4732 -1.2032) (-3.4732 -1.2032);DELETE (-2.4732 -1.2032);
+WIRE 'N$13' (-2.4732 -1.2032) (-3.4732 -1.2032);DELETE (-2.4732 -1.2032);
+WIRE 'WHELLLB' (-2.4732 -1.2032) (-3.4732 -1.2032);DELETE (-2.4732 -1.2032);
+WIRE 'WHELLLT' (-2.4732 -1.2032) (-3.4732 -1.2032);DELETE (-2.4732 -1.2032);
+WIRE 'WHELLRB' (-2.4732 -1.2032) (-3.4732 -1.2032);DELETE (-2.4732 -1.2032);
+WIRE 'WHELLRT' (-2.4732 -1.2032) (-3.4732 -1.2032);DELETE (-2.4732 -1.2032);
+
+End report

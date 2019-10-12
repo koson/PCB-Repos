@@ -1,0 +1,12 @@
+[submodule "mbed"]
+	path = mbed
+	url = https://github.com/istarc/mbed
+[submodule "freertos"]
+	path = freertos
+	url = https://github.com/istarc/freertos.git
+[submodule "cpputest"]
+	path = cpputest
+	url = https://github.com/istarc/cpputest.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/istarc/googletest.git

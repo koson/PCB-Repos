@@ -1,0 +1,28 @@
+Please find below a description of the concept design for the releaser v2. Attached you can find some images to support the description as well as a 3d pdf where you can rotate, zoom in/out and hide/show parts. Adobe acrobat pdf reader is recommended to be used for this file.
+
+The Cansat releaser consists of a tube with electronics and release mechanism where the Cansat is integrated vertically and drops by gravity when the door opens. The design has been improved to make it more robust, controlable and with better finish.
+
+All the parts of the releaser have been designed to be 3D printed. The main tube can also be procured buying off the shelf acrylic transparent tube. The dimensions take into account the ESA Cansat dimensional guidelines with some extra clearance both on diameter and height.
+The internal surface of the tube is a smooth surface without any screws, tape or any parts protruding into it to allow a successful deployment of the Cansat. 
+
+The door hinge contains a spring to clear the door as quickly as possible and once its opened, stow it on a position close to the tube wall in order to minimize possible damage to the door in case of landing hitting the sides of the releaser.
+
+The mechanism and electronics are enclosed in a box which provides protection against light rain, dust and robustness. This box contains different volumes in order to fulfil the requirements of every component. For instance, it gives structural support to the servo and latch mechanism to avoid the weight of the Cansat loading the servo laterally.
+
+The opening mechanism consists of a servo controlled by an Arduino and powered by a 9V battery. The latch mechanism rotates 180 degrees to clear the door overhang and to retract itself back into the electronics box for added protection in case of a side landing. Only 12º of rotation are needed to let the door open, the rest are just to retract it within the protection box.
+
+The electronics and mechanism are assembled into the box unmounted from the releaser and then it is placed within the primary structure container which is part of the main tube of the releaser. The electronics box is attached via 3 M3 fasteners securing it and allowing some height adjustment of the mechanism to take into account manufacturing tolerances. 
+
+By removing the 3x M3 screws, the user has immediate access to all the components. For example, to change the battery, reprogram the Arduino...
+
+The door hinge support on the tube can be either 3D printed with the tube or if tube is acrylic, chemically bond it to the tube also using acrylic for these 2 parts. The same applies for the door.
+
+At one side of the box, two mechanical switches will be present (not shown in the CAD):
+- ON/OFF
+- OPEN/CLOSE
+
+ON/OFF switch will power on or off the system. The OPEN/CLOSE switch is a manual override to open or close the mechanism manually, for example when loading the Cansat.
+Once the Arduino is powered on and the latch is closed, the timer countdown would start. When the countdown is finished, the servo would rotate the latch to the open position.
+This countdown can be aborted at any time by flicking the OPEN/CLOSE switch to the OPEN position. The releaser will work with a timer as you suggested with no computer needed to operate it. 
+
+The releaser would be attached to the drone with cables in a similar fashion to the existing releaser since there is no space to attach it to the drone physically without compromising the camera or the drone performance. These cables would be tied at the top of the tube (not present in the current CAD).

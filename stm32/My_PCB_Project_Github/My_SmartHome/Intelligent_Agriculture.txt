@@ -1,0 +1,34 @@
+Field=Comment~String~Comment~74|Field=Description~String~Description~148|Field=Designator~String~Designator~469|Field=Value~String~Value~482|Field=Footprint~String~Footprint~114|Field=Quantity~Integer~Quantity~68|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Intelligent_Agriculture.PrjPCB|ReportField=ProjectFullPath~D:\Desktop\Intelligent_Agriculture\PCB\PCB_v1.2\Intelligent_Agriculture.PrjPCB|ReportField=Title~Bill of Materials For Project [Intelligent_Agriculture.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~69|ReportField=ReportTime~16:58:38|ReportField=ReportDate~2015/7/3 星期五|ReportField=ReportDateTime~2015/7/3 星期五 16:58:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/7/3 星期五|ReportField=CurrentTime~16:57:09|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Desktop\Intelligent_Agriculture\PCB\PCB_v1.2\Intelligent_Agriculture.SchDoc|ReportField=DocumentName~Intelligent_Agriculture.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/6/17 星期三|ReportField=Organization~|ReportField=ProjectName~Intelligent_Agriculture.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Intelligent_Agriculture.PrjPCB|ReportField=DataSourceFullPath~D:\Desktop\Intelligent_Agriculture\PCB\PCB_v1.2\Intelligent_Agriculture.PrjPCB
+XTAL_SM|圆柱晶振|Y1|32768Hz|X-TC15_B|1
+XTAL|晶振|Y2|8M|X-HC49U|1
+SW-DOWN|微动开关|S7||SW_PB4_B1|1
+SW-ESC|微动开关|S9||SW_PB4_B1|1
+SW-LEFT|微动开关|S2||SW_PB4_B1|1
+SW-OK|微动开关|S6||SW_PB4_B1|1
+SW-PB4|微动开关|S1||SW_PB4_B1|1
+SW-RIGHT|微动开关|S4||SW_PB4_B1|1
+SW-SET|微动开关|S8||SW_PB4_B1|1
+SW-SMART|微动开关|S10||SW_PB4_B1|1
+SW-UP|微动开关|S3||SW_PB4_B1|1
+SW-WAIT|微动开关|S5||SW_PB4_B1|1
+STM32F103C|STM32单片机48引脚|U1||LQFP-48_M|1
+AMS1117-3.3|3.3V稳压芯片|U2||SOT-223|1
+Res1|贴片电阻|R1, R2, R4, R7, R20, R23, R24, R25, R26, R27, R28|10K, 1K, 1M, 10K, 50k, 100, 12k, 4.7k, 50k, 50k, 2.2k|0805-1|11
+Res1|贴片电阻|R29|200|1206|1
+LM78M05||U3||TO-252|1
+LED0|发光二极管|LED1||LED_A2|1
+LCD_CON20||CON1||FPC0.5-20P-A|1
+LCDLEDAK||P6||LCD_JLX12864G-1504|1
+HS0038B|红外接收器|U4||HS0038B|1
+Header 5|接插件|P1||HDR5_A1|1
+Header 4|接插件|P7||HDR4X1_B1|1
+Header 3|接插件|P2||HDR3X1_A|1
+Header 2|接插件|JMP0||HDR2X1_A|1
+Header 2|接插件|P0, P3, P4, P5||HDR2X1_B1|4
+DS18B20|温度传感器|U5||HDR3X1_B1|1
+Diode|二极管|D01, D02, D3, D4||DIODE-1206|4
+Cap Pol1|Polarized Capacitor (Radial)|C2|100uF|C-RB-2.54|1
+Cap Pol|极性电解电容|C3, C6, C17|10uF, 10uF, 4.7uF|CAP-3528|3
+Cap|无极性电容|C1, C1_lcd, C2_lcd, C4, C5, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C18, C19, C20, C21|104, 2.2uF, 2.2uF, 104, 104, 104, 104, 20p, 20p, 20p, 20p, 104, 104, 104, 104, 104, 104, 104, 104|C-RAD-0805|19
+S8050|NPN三极管|Q6||SOT-23|1
+Battery|备份电池|BT1||CR1220|1

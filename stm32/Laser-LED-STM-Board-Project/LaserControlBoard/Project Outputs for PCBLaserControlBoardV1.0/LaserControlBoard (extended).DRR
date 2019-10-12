@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LaserControlBoard (extended).PcbDoc   12/6/2016  4:05:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : LaserControlBoard (extended)-Plated.TXT
+ASCII Non-Plated RoundHoles File : LaserControlBoard (extended)-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             1606      PTH        6348.66mm (249.95inch)
+T2      0.762mm (30mil)                                           Round             50        PTH        107.97mm (4.25inch)
+T3      0.8mm (31mil)                                             Round             2         PTH        4.88mm (0.19inch)
+T4      0.9mm (35mil)                                             Round             92        PTH        383.36mm (15.09inch)
+T5      1mm (39mil)                                               Round             42        PTH        500.69mm (19.71inch)
+T6      1.1mm (43mil)                                             Round             8         PTH        85.60mm (3.37inch)
+T7      1.2mm (47mil)                                             Round             8         PTH        83.16mm (3.27inch)
+T8      1.3mm (51mil)                                             Round             18        PTH        288.49mm (11.36inch)
+T9      1.6mm (63mil)                                             Round             20        PTH        589.55mm (23.21inch)
+T10     2mm (79mil)                                               Round             2         PTH        20.02mm (0.79inch)
+T11     3mm (118mil)                                              Round             4         PTH        591.14mm (23.27inch)
+T12     4.29mm (169mil)                                           Round             2         NPTH       74.90mm (2.95inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1854
+
+Total Processing Time (hh:mm:ss) : 00:00:00

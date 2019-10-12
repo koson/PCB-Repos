@@ -1,0 +1,4 @@
+# Get CI Token Files
+getcitoken.rb*
+getcitoken.log
+config.yml

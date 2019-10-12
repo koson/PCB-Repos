@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BLDC_v3.PcbDoc   18.05.2018  3:07:11
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : BLDC_v3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             95        PTH        26.66inch (677.06mm)
+T2      31mil (0.787mm)                                           Round             22        PTH        12.54inch (318.62mm)
+T3      32mil (0.813mm)                                           Round             3         PTH        0.15inch (3.81mm)
+T4      35mil (0.889mm)                                           Round             3         PTH        4.20inch (106.68mm)
+T5      38mil (0.965mm)                                           Round             295       PTH        55.77inch (1416.47mm)
+T6      43mil (1.092mm)                                           Round             18        PTH        11.08inch (281.41mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        12.35inch (313.65mm)
+T8      138mil (3.505mm)                                          Round             2         PTH        1.23inch (31.13mm)
+T9      177mil (4.496mm)                                          Round             2         PTH        0.39inch (10.01mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              444
+
+Total Processing Time (hh:mm:ss) : 00:00:01

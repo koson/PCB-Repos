@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EMv2MainBoard.PcbDoc   29.11.2018.  17:45:37
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EMv2MainBoard-RoundHoles.TXT
+ASCII SlotHoles File : EMv2MainBoard-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.35mm (14mil)                                            Round             95        PTH        548.10mm (21.58inch)
+T2      0.6mm (24mil)                                             Slot              5         PTH        38.95mm (1.53inch)
+T3      0.9mm (35mil)                                             Round             51        PTH        362.94mm (14.29inch)
+T4      1.2mm (47mil)                                             Round             5         NPTH       19.14mm (0.75inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              156
+
+Total Processing Time (hh:mm:ss) : 00:00:00

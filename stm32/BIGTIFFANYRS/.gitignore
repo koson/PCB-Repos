@@ -1,0 +1,7 @@
+bin/
+doc/
+obj/
+src/axradio/config_united_fsk.c
+src/axradio/config_united_old.c
+src/axradio/config_united_psk.c
+src/axradio/config_united_psk_no_fec_diff.c

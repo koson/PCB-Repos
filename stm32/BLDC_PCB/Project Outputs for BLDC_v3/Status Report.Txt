@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BLDC_v3.PrjPcb]
+   Generated File[BLDC_v3.TXT]
+   Generated File[BLDC_v3.LDP]
+   Generated File[BLDC_v3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:07:12 On 18.05.2018

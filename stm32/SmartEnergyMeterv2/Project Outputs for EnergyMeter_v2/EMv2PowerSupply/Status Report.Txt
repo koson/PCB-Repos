@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EnergyMeter_v2.PrjPCB]
+   Generated File[EMv2PowerSupply.TXT]
+   Generated File[EMv2PowerSupply.LDP]
+   Generated File[EMv2PowerSupply.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:38:11 On 29.11.2018.

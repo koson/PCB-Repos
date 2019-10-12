@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="uspd" />
+		<Option pch_mode="2" />
+		<Option compiler="iar8051" />
+		<Build>
+			<Target title="USPD">
+				<Option output="bin/uspd.ubr" prefix_auto="1" extension_auto="0" />
+				<Option object_output="obj/" />
+				<Option type="1" />
+				<Option compiler="iar8051" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="--debug" />
+					<Add option="-DUSPD" />
+					<Add directory="C:/Program Files (x86)/AXSEM/AXSDB/libmf/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-l bin\uspd.map" />
+					<Add option="-Ointel-extended,(CODE)=.hex" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="--dptr=xor" />
+			<Add option="--dptr=separate" />
+			<Add option="--dptr=1" />
+			<Add option="--dptr=16" />
+			<Add option="--core=plain" />
+			<Add option="--place_constants=code" />
+			<Add option="--data_model=large" />
+			<Add option="--code_model=near" />
+			<Add option="--clib" />
+			<Add option="-e" />
+			<Add option="--calling_convention=xdata_reentrant" />
+			<Add option="-Oh" />
+			<Add option="-DRADIO=5043" />
+			<Add option="-D__DATA_MODEL__=2" />
+			<Add option="-D__CALLING_CONVENTION__=4" />
+			<Add directory="src" />
+			<Add directory="src/axradio" />
+			<Add directory="src/hal" />
+			<Add directory="src/libmf/include" />
+			<Add directory="src/misc" />
+			<Add directory="src/nbfi" />
+			<Add directory="src/lcd" />
+			<Add directory="src/lcd/fonts" />
+		</Compiler>
+		<Linker>
+			<Add option="-Fubrof" />
+			<Add option="-D_PDATA_STACK_SIZE=0x80" />
+			<Add option="-D_XDATA_STACK_SIZE=0x4FF" />
+			<Add option="-D_IDATA_STACK_SIZE=0x80" />
+			<Add option="-D_EXTENDED_STACK_START=0x00" />
+			<Add option="-D_EXTENDED_STACK_END=0x00" />
+			<Add option="-D_EXTENDED_STACK_SIZE=0x00" />
+			<Add option="-D_NR_OF_VIRTUAL_REGISTERS=8" />
+			<Add option="-D_CODEBANK_START=0" />
+			<Add option="-D_CODEBANK_END=0" />
+			<Add option="-D_XDATA_HEAP_SIZE=0xcff" />
+			<Add option="-D_FAR_HEAP_SIZE=0xfff" />
+			<Add option="-D_HUGE_HEAP_SIZE=0xfff" />
+			<Add option="-D_FAR22_HEAP_SIZE=0xfff" />
+			<Add option="-D?PBANK=0xD9" />
+			<Add option="-s __program_start" />
+			<Add option="-xe" />
+			<Add option="-xm" />
+			<Add option="-xs" />
+			<Add option="-xo" />
+			<Add option='-f &quot;$(TARGET_COMPILER_DIR)\config\devices\AXSEM\lnk51ew_AX8052F143.xcl&quot;' />
+			<Add library="lib/cl-pli-nlxc-1e16x01.r51" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="src/application.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/application.h" />
+		<Unit filename="src/axradio/axradio.h" />
+		<Unit filename="src/axradio/config_united.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/axradio/easyax5043.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/axradio/easyax5043.h" />
+		<Unit filename="src/axradio/misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/axradio/misc.h" />
+		<Unit filename="src/defines.h" />
+		<Unit filename="src/hal/hal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/hal/hal.h" />
+		<Unit filename="src/hal/waviotdvk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/hal/waviotdvk.h" />
+		<Unit filename="src/libmf/builtsource/crc32ansi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/crc32ansib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/crc32ansimsb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/crc32ansimsbb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/crc8ccittmsbb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/crc8onewireb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/crc8onewiremsbb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1rx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1rxbuf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1stop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1tx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1txbuf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1wrstr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1wru16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/builtsource/uart1wru32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adccal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adccalg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adccalt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adcseoffs00.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adcseoffs01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adcseoffs10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adctemp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/adcuncal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/ax5043rclkdis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/ax5043rclkena.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/ax8052.h" />
+		<Unit filename="src/libmf/source/ax8052f143.h" />
+		<Unit filename="src/libmf/source/ax8052regaddr.h" />
+		<Unit filename="src/libmf/source/axcompiler.h" />
+		<Unit filename="src/libmf/source/bch3121dec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/bch3121decp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/bch3121enc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/bch3121encp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/bch3121stab.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/bch3121syn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/chksgnlim16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/chksgnlim32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc32msbtable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc32table.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc8b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc8ccitt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc8ccittmsbtable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc8ccitttable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crc8msb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crcccittmsbtable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/crcccitttable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/deepsleep.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/delay.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/flashcal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/flashlock.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/flashpgerase.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/flashread.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/flashunlock.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/flashwait.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/flashwrite.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/fmemcpy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/fmemcpyiar.s51" />
+		<Unit filename="src/libmf/source/fmemset.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/fmemsetiar.s51" />
+		<Unit filename="src/libmf/source/graydec8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/grayenc8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/hweight16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/hweight32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/hweight8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iorx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iorxbuf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iotx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iotxbuf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowrhex16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowrhex32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowrhexu16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowrhexu32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowrnum16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowrnum32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowrstr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowru16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/iowru32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdclear.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdclrdisp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdinit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdsetpos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdwrhexu16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdwrhexu32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdwrstr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdwru16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/lcdwru32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/libmf.h" />
+		<Unit filename="src/libmf/source/libmfadc.h" />
+		<Unit filename="src/libmf/source/libmfbch.h" />
+		<Unit filename="src/libmf/source/libmfcalsector.h" />
+		<Unit filename="src/libmf/source/libmfcrc.h" />
+		<Unit filename="src/libmf/source/libmfdbglink.h" />
+		<Unit filename="src/libmf/source/libmfflash.h" />
+		<Unit filename="src/libmf/source/libmflcd.h" />
+		<Unit filename="src/libmf/source/libmfosc.h" />
+		<Unit filename="src/libmf/source/libmfradio.h" />
+		<Unit filename="src/libmf/source/libmftypes.h" />
+		<Unit filename="src/libmf/source/libmfuart.h" />
+		<Unit filename="src/libmf/source/libmfuart0.h" />
+		<Unit filename="src/libmf/source/libmfuart1.h" />
+		<Unit filename="src/libmf/source/libmfwtimer.h" />
+		<Unit filename="src/libmf/source/offlpxosc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/offxosc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn15adv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn15advtable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn15out.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn15outtable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn9bit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn9bits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn9buf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn9byte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/pn9table.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiocomminit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiocommslpexit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiodeepsleep.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiodefs.h" />
+		<Unit filename="src/libmf/source/radiodswakecore.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiord16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiord24.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiord32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiordfifo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radioreset.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiowr16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiowr24.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiowr32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/radiowrfifo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/random.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/resetcpu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/rev8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/setupcal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/setuplpxosc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/setupxosc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/sgnlim16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/sgnlim32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/signext12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/signext16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/signext20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/signext24.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/sleep.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/sleepcont.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/standby.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/uartinit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/uartstop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/uarttimer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wrnum.h" />
+		<Unit filename="src/libmf/source/wrnum16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wrnum32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt01rem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt0adda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt0addr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt0curt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt0rem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt0setcfg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt1adda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt1addr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt1curt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt1rem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wt1setcfg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wtcbadd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wtcbrem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wtimer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wtimer.h" />
+		<Unit filename="src/libmf/source/wtrem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/libmf/source/wtstdby.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/m200.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/m200.h" />
+		<Unit filename="src/m200_serial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/m200_serial.h" />
+		<Unit filename="src/m200_settings.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/m200_settings.h" />
+		<Unit filename="src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/misc/XTEA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/misc/XTEA.h" />
+		<Unit filename="src/misc/logger.h" />
+		<Unit filename="src/misc/slip.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/misc/slip.h" />
+		<Unit filename="src/misc/time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/misc/time.h" />
+		<Unit filename="src/misc/vsprintf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/misc/zigzag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/misc/zigzag.h" />
+		<Unit filename="src/nbfi/nbfi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/nbfi/nbfi.h" />
+		<Unit filename="src/nbfi/nbfi_config.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/nbfi/nbfi_config.h" />
+		<Unit filename="src/nbfi/nbfi_misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/nbfi/nbfi_phy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/nbfi/rf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/nbfi/rf.h" />
+		<Extensions>
+			<code_completion />
+			<debuggeraxs>
+				<advanced target="USPD">
+					<options key="0011223344556677" />
+				</advanced>
+			</debuggeraxs>
+			<envvars />
+			<DoxyBlocks>
+				<comment_style block="4" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
