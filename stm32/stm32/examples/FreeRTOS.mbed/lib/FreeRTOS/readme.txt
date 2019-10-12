@@ -1,1 +1,0 @@
-../../../../freertos/FreeRTOS/readme.txt

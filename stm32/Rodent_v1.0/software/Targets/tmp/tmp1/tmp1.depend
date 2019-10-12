@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1431379461 source:d:\next\electronics\stm32\examples\micromouse_prototype\stm32f429-master\micromouse_v1.0\tmp\tmp1\main.c
-	<stdio.h>
-	<stdlib.h>
-
