@@ -17,6 +17,7 @@ git submodule add https://github.com/crazy-calypso/QUT_EGB220
 git submodule add https://github.com/crazy-calypso/QUT_EGH456
 git submodule add https://github.com/Q7Gp6U/0156_PSU
 git submodule add https://github.com/Q7Gp6U/0014_Library
+
 git submodule add https://github.com/newaetech/phywhispererusb
 git submodule add https://github.com/pablo0722/audio_interface
 git submodule add https://github.com/abc123yuanrui/Digital-Storage-Oscilloscope-2018
