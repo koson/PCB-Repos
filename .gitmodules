@@ -831,3 +831,24 @@
 [submodule "PCB-multi-layer/Modem"]
 	path = PCB-multi-layer/Modem
 	url = https://github.com/ruslan-robotics/Modem
+[submodule "PCB-multi-layer/ESP8266_WebRadio"]
+	path = PCB-multi-layer/ESP8266_WebRadio
+	url = https://github.com/icebabycool/ESP8266_WebRadio
+[submodule "PCB-multi-layer/handpose-detect"]
+	path = PCB-multi-layer/handpose-detect
+	url = https://github.com/handdectet-hitsz/handpose-detect
+[submodule "PCB-multi-layer/FreeRTOS_STM_HAL_UART_example"]
+	path = PCB-multi-layer/FreeRTOS_STM_HAL_UART_example
+	url = https://github.com/jubeormk1/FreeRTOS_STM_HAL_UART_example
+[submodule "PCB-multi-layer/quasar_arm_pcb"]
+	path = PCB-multi-layer/quasar_arm_pcb
+	url = https://github.com/mrKuzmich/quasar_arm_pcb
+[submodule "PCB-multi-layer/harmonic-analyzer-pcb-r002"]
+	path = PCB-multi-layer/harmonic-analyzer-pcb-r002
+	url = https://github.com/andrii-bublyk/harmonic-analyzer-pcb-r002
+[submodule "PCB-multi-layer/CeeibisMCU"]
+	path = PCB-multi-layer/CeeibisMCU
+	url = https://github.com/jcmaeso/CeeibisMCU
+[submodule "PCB-multi-layer/Owl-Round-Delay"]
+	path = PCB-multi-layer/Owl-Round-Delay
+	url = https://github.com/D1sconnected/Owl-Round-Delay
