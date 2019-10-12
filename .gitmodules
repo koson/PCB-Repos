@@ -786,3 +786,48 @@
 [submodule "PCB-multi-layer/syncbox"]
 	path = PCB-multi-layer/syncbox
 	url = https://github.com/altaybrusan/syncbox
+[submodule "POWER_BALANCE"]
+	path = POWER_BALANCE
+	url = https://github.com/aramy139com/POWER_BALANCE
+[submodule "Project-Alpha"]
+	path = Project-Alpha
+	url = https://github.com/kdumontnu/Project-Alpha
+[submodule "PCB-multi-layer/POWER_BALANCE"]
+	path = PCB-multi-layer/POWER_BALANCE
+	url = https://github.com/aramy139com/POWER_BALANCE
+[submodule "PCB-multi-layer/Project-Alpha"]
+	path = PCB-multi-layer/Project-Alpha
+	url = https://github.com/kdumontnu/Project-Alpha
+[submodule "PCB-multi-layer/iot-soil-sensor"]
+	path = PCB-multi-layer/iot-soil-sensor
+	url = https://github.com/Hgerner/iot-soil-sensor
+[submodule "PCB-multi-layer/MotorControlBoard"]
+	path = PCB-multi-layer/MotorControlBoard
+	url = https://github.com/Nordic-Energy/MotorControlBoard
+[submodule "PCB-multi-layer/bootleg-stewart-platform"]
+	path = PCB-multi-layer/bootleg-stewart-platform
+	url = https://github.com/ntaocui/bootleg-stewart-platform
+[submodule "PCB-multi-layer/PersonalProjects"]
+	path = PCB-multi-layer/PersonalProjects
+	url = https://github.com/Jbruslind/PersonalProjects
+[submodule "PCB-multi-layer/PE-1100_Elreg_Sender"]
+	path = PCB-multi-layer/PE-1100_Elreg_Sender
+	url = https://github.com/ElregS/PE-1100_Elreg_Sender
+[submodule "PCB-multi-layer/ZYNQ-IPMC-HW"]
+	path = PCB-multi-layer/ZYNQ-IPMC-HW
+	url = https://github.com/uwcms/ZYNQ-IPMC-HW
+[submodule "PCB-multi-layer/Zillion"]
+	path = PCB-multi-layer/Zillion
+	url = https://github.com/francescosacco/Zillion
+[submodule "PCB-multi-layer/pong-board"]
+	path = PCB-multi-layer/pong-board
+	url = https://github.com/imricardoramos/pong-board
+[submodule "PCB-multi-layer/Bluetooth_Sentinel"]
+	path = PCB-multi-layer/Bluetooth_Sentinel
+	url = https://github.com/altium-apac/Bluetooth_Sentinel
+[submodule "PCB-multi-layer/Video-commutation-block"]
+	path = PCB-multi-layer/Video-commutation-block
+	url = https://github.com/ruslan-robotics/Video-commutation-block
+[submodule "PCB-multi-layer/Modem"]
+	path = PCB-multi-layer/Modem
+	url = https://github.com/ruslan-robotics/Modem
