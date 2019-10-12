@@ -1,3 +1,0 @@
-http://www.avislab.com/blog/stm32-bldc_ru/
-
-b0 - bit направления
