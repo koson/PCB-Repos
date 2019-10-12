@@ -753,3 +753,6 @@
 	path = PCB-multi-layer/Mircod_TEST
 	url = https://github.com/FailMukhametzyanov/Mircod_TEST
  
+[submodule "PCB-multi-layer/bldcmoter"]
+	path = PCB-multi-layer/bldcmoter
+	url = https://github.com/niravdesai712/bldcmoter.git
