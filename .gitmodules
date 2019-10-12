@@ -254,3 +254,69 @@
 [submodule "stm32/Kiwino"]
 	path = stm32/Kiwino
 	url = https://github.com/LoganHorowitz/Kiwino.git
+[submodule "PCB-multi-layer/GNC_Project"]
+	path = PCB-multi-layer/GNC_Project
+	url = https://github.com/ugurozkan52/GNC_Project.git
+[submodule "PCB-multi-layer/Metlino"]
+	path = PCB-multi-layer/Metlino
+	url = https://github.com/sinara-hw/Metlino.git
+[submodule "PCB-multi-layer/Thermostat"]
+	path = PCB-multi-layer/Thermostat
+	url = https://github.com/sinara-hw/Thermostat.git
+[submodule "PCB-multi-layer/thermostat_thorlabs"]
+	path = PCB-multi-layer/thermostat_thorlabs
+	url = https://github.com/sinara-hw/thermostat_thorlabs.git
+[submodule "PCB-multi-layer/Banker_EDGE_2_BNC"]
+	path = PCB-multi-layer/Banker_EDGE_2_BNC
+	url = https://github.com/sinara-hw/Banker_EDGE_2_BNC.git
+[submodule "PCB-multi-layer/Banker_EDGE_2_SMA"]
+	path = PCB-multi-layer/Banker_EDGE_2_SMA
+	url = https://github.com/sinara-hw/Banker_EDGE_2_SMA.git
+[submodule "PCB-multi-layer/Banker_VHDCI_2_EDGE"]
+	path = PCB-multi-layer/Banker_VHDCI_2_EDGE
+	url = https://github.com/sinara-hw/Banker_VHDCI_2_EDGE.git
+[submodule "PCB-multi-layer/Banker_VHDCI_2_EDGE_Buffered"]
+	path = PCB-multi-layer/Banker_VHDCI_2_EDGE_Buffered
+	url = https://github.com/sinara-hw/Banker_VHDCI_2_EDGE_Buffered.git
+[submodule "PCB-multi-layer/DIO_BNC"]
+	path = PCB-multi-layer/DIO_BNC
+	url = https://github.com/sinara-hw/DIO_BNC.git
+[submodule "PCB-multi-layer/Grabber"]
+	path = PCB-multi-layer/Grabber
+	url = https://github.com/sinara-hw/Grabber.git
+[submodule "PCB-multi-layer/BNC_IDC"]
+	path = PCB-multi-layer/BNC_IDC
+	url = https://github.com/sinara-hw/BNC_IDC.git
+[submodule "PCB-multi-layer/DIO_SMA"]
+	path = PCB-multi-layer/DIO_SMA
+	url = https://github.com/sinara-hw/DIO_SMA.git
+[submodule "PCB-multi-layer/DIO_RJ45"]
+	path = PCB-multi-layer/DIO_RJ45
+	url = https://github.com/sinara-hw/DIO_RJ45.git
+[submodule "PCB-multi-layer/Clocker"]
+	path = PCB-multi-layer/Clocker
+	url = https://github.com/sinara-hw/Clocker.git
+[submodule "PCB-multi-layer/AFCZ"]
+	path = PCB-multi-layer/AFCZ
+	url = https://github.com/elhep/AFCZ.git
+[submodule "PCB-multi-layer/SpaceVPX_FMC_Carrier_3U"]
+	path = PCB-multi-layer/SpaceVPX_FMC_Carrier_3U
+	url = https://github.com/elhep/SpaceVPX_FMC_Carrier_3U.git
+[submodule "PCB-multi-layer/SpaceVPX_FMC_Carrier_6U"]
+	path = PCB-multi-layer/SpaceVPX_FMC_Carrier_6U
+	url = https://github.com/elhep/SpaceVPX_FMC_Carrier_6U.git
+[submodule "PCB-multi-layer/SiPM_AFE"]
+	path = PCB-multi-layer/SiPM_AFE
+	url = https://github.com/elhep/SiPM_AFE.git
+[submodule "PCB-multi-layer/XMC_ZynQ"]
+	path = PCB-multi-layer/XMC_ZynQ
+	url = https://github.com/elhep/XMC_ZynQ.git
+[submodule "PCB-multi-layer/FMC_ADC100M_10B_TDC_16cha"]
+	path = PCB-multi-layer/FMC_ADC100M_10B_TDC_16cha
+	url = https://github.com/elhep/FMC_ADC100M_10B_TDC_16cha.git
+[submodule "PCB-multi-layer/MCORD_HUB"]
+	path = PCB-multi-layer/MCORD_HUB
+	url = https://github.com/elhep/MCORD_HUB
+[submodule "PCB-multi-layer/RTM_4SFP_3QSFP"]
+	path = PCB-multi-layer/RTM_4SFP_3QSFP
+	url = https://github.com/elhep/RTM_4SFP_3QSFP
