@@ -852,3 +852,42 @@
 [submodule "PCB-multi-layer/Owl-Round-Delay"]
 	path = PCB-multi-layer/Owl-Round-Delay
 	url = https://github.com/D1sconnected/Owl-Round-Delay
+[submodule "PCB-multi-layer/STMCUBE"]
+	path = PCB-multi-layer/STMCUBE
+	url = https://github.com/Laiwxn/STMCUBE
+[submodule "PCB-multi-layer/STM32F302VC-EVM"]
+	path = PCB-multi-layer/STM32F302VC-EVM
+	url = https://github.com/OKMCU/STM32F302VC-EVM
+[submodule "PCB-multi-layer/Lights-Controller-Hardware"]
+	path = PCB-multi-layer/Lights-Controller-Hardware
+	url = https://github.com/UCSolarCarTeam/Lights-Controller-Hardware
+[submodule "PCB-multi-layer/ARAGOSAT1-OBC"]
+	path = PCB-multi-layer/ARAGOSAT1-OBC
+	url = https://github.com/ipsaone/ARAGOSAT1-OBC
+[submodule "PCB-multi-layer/RNG_RPI"]
+	path = PCB-multi-layer/RNG_RPI
+	url = https://github.com/gkasprow/RNG_RPI
+[submodule "PCB-multi-layer/RxTx-block"]
+	path = PCB-multi-layer/RxTx-block
+	url = https://github.com/ruslan-robotics/RxTx-block
+[submodule "PCB-multi-layer/esp32485"]
+	path = PCB-multi-layer/esp32485
+	url = https://github.com/hzhsohn/esp32485
+[submodule "PCB-multi-layer/changingMelodies"]
+	path = PCB-multi-layer/changingMelodies
+	url = https://github.com/protospacenl/changingMelodies
+[submodule "PCB-multi-layer/suda-morris-FreeECAT"]
+	path = PCB-multi-layer/suda-morris-FreeECAT
+	url = https://github.com/cxj16888/suda-morris-FreeECAT
+[submodule "PCB-multi-layer/ChargeControllerWithMPPT"]
+	path = PCB-multi-layer/ChargeControllerWithMPPT
+	url = https://github.com/Nordic-Energy/ChargeControllerWithMPPT
+[submodule "PCB-multi-layer/mouse"]
+	path = PCB-multi-layer/mouse
+	url = https://github.com/ploopyco/mouse
+[submodule "PCB-multi-layer/Steezy60-ALPS"]
+	path = PCB-multi-layer/Steezy60-ALPS
+	url = https://github.com/4pplet/Steezy60-ALPS
+[submodule "PCB-multi-layer/gpa-mgs-485"]
+	path = PCB-multi-layer/gpa-mgs-485
+	url = https://github.com/Atmelfan/gpa-mgs-485
