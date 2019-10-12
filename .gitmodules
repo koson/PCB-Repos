@@ -320,3 +320,84 @@
 [submodule "PCB-multi-layer/RTM_4SFP_3QSFP"]
 	path = PCB-multi-layer/RTM_4SFP_3QSFP
 	url = https://github.com/elhep/RTM_4SFP_3QSFP
+[submodule "PCB-multi-layer/FMC_SDR"]
+	path = PCB-multi-layer/FMC_SDR
+	url = https://github.com/elhep/FMC_SDR
+[submodule "PCB-multi-layer/FMC_ADC_4CHA_1G_12B"]
+	path = PCB-multi-layer/FMC_ADC_4CHA_1G_12B
+	url = https://github.com/elhep/FMC_ADC_4CHA_1G_12B
+[submodule "PCB-multi-layer/MicroTCA-chassis"]
+	path = PCB-multi-layer/MicroTCA-chassis
+	url = https://github.com/elhep/MicroTCA-chassis
+[submodule "PCB-multi-layer/RFID_reader"]
+	path = PCB-multi-layer/RFID_reader
+	url = https://github.com/elhep/RFID_reader
+[submodule "PCB-multi-layer/CMOS_Camera"]
+	path = PCB-multi-layer/CMOS_Camera
+	url = https://github.com/elhep/CMOS_Camera
+[submodule "PCB-multi-layer/Crativity-House"]
+	path = PCB-multi-layer/Crativity-House
+	url = https://github.com/Ehsan2754/Crativity-House
+[submodule "PCB-multi-layer/rendszerterv"]
+	path = PCB-multi-layer/rendszerterv
+	url = https://github.com/kocsislaci/rendszerterv
+[submodule "PCB-multi-layer/BREAD-MACHINE-II"]
+	path = PCB-multi-layer/BREAD-MACHINE-II
+	url = https://github.com/RAKKOUCHE/BREAD-MACHINE-II
+[submodule "PCB-multi-layer/ATMB"]
+	path = PCB-multi-layer/ATMB
+	url = https://github.com/RAKKOUCHE/ATMB
+[submodule "PCB-multi-layer/Altium-Designs"]
+	path = PCB-multi-layer/Altium-Designs
+	url = https://github.com/CalPolyFSAE/Altium-Designs
+[submodule "PCB-multi-layer/altlib19"]
+	path = PCB-multi-layer/altlib19
+	url = https://github.com/CalPolyFSAE/altlib19
+[submodule "PCB-multi-layer/CalPolyFSAE-Altium-Library"]
+	path = PCB-multi-layer/CalPolyFSAE-Altium-Library
+	url = https://github.com/CalPolyFSAE/Altium-Library
+[submodule "PCB-multi-layer/SmartLED"]
+	path = PCB-multi-layer/SmartLED
+	url = https://github.com/RLews/SmartLED
+[submodule "PCB-multi-layer/SMP"]
+	path = PCB-multi-layer/SMP
+	url = https://github.com/nhamtung/SMP
+[submodule "PCB-multi-layer/Sayma_AMC"]
+	path = PCB-multi-layer/Sayma_AMC
+	url = https://github.com/sinara-hw/Sayma_AMC
+[submodule "PCB-multi-layer/Shuttler"]
+	path = PCB-multi-layer/Shuttler
+	url = https://github.com/sinara-hw/Shuttler
+[submodule "PCB-multi-layer/Humpback"]
+	path = PCB-multi-layer/Humpback
+	url = https://github.com/sinara-hw/Humpback
+[submodule "PCB-multi-layer/SMA_IDC_Adapter"]
+	path = PCB-multi-layer/SMA_IDC_Adapter
+	url = https://github.com/sinara-hw/SMA_IDC_Adapter
+[submodule "PCB-multi-layer/Banker_EDGE_2_DSUB"]
+	path = PCB-multi-layer/Banker_EDGE_2_DSUB
+	url = https://github.com/sinara-hw/Banker_EDGE_2_DSUB
+[submodule "PCB-multi-layer/SafeTech"]
+	path = PCB-multi-layer/SafeTech
+	url = https://github.com/UrbanSmartGrid/SafeTech
+[submodule "PCB-multi-layer/3u-module"]
+	path = PCB-multi-layer/3u-module
+	url = https://github.com/ashandore/3u-module
+[submodule "PCB-multi-layer/AD_LIB"]
+	path = PCB-multi-layer/AD_LIB
+	url = https://github.com/UrbanSmartGrid/AD_LIB
+[submodule "PCB-multi-layer/hwlibs-svn-test"]
+	path = PCB-multi-layer/hwlibs-svn-test
+	url = https://github.com/ashandore/hwlibs-svn-test
+[submodule "PCB-multi-layer/eva01"]
+	path = PCB-multi-layer/eva01
+	url = https://github.com/DevelBoard/eva01
+[submodule "PCB-multi-layer/ADS129x"]
+	path = PCB-multi-layer/ADS129x
+	url = https://github.com/boichonoc/ADS129x
+[submodule "PCB-multi-layer/Industerial-Design"]
+	path = PCB-multi-layer/Industerial-Design
+	url = https://github.com/Ehsan2754/Industerial-Design
+[submodule "PCB-multi-layer/Stabilizer"]
+	path = PCB-multi-layer/Stabilizer
+	url = https://github.com/sinara-hw/Stabilizer
