@@ -756,3 +756,30 @@
 [submodule "PCB-multi-layer/bldcmoter"]
 	path = PCB-multi-layer/bldcmoter
 	url = https://github.com/niravdesai712/bldcmoter.git
+[submodule "QUTMS_BrakeLight"]
+	path = QUTMS_BrakeLight
+	url = https://github.com/QUT-Motorsport/QUTMS_BrakeLight
+[submodule "QUTMS_TSAL_V2"]
+	path = QUTMS_TSAL_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_TSAL_V2
+[submodule "QUTMS_ChassisController"]
+	path = QUTMS_ChassisController
+	url = https://github.com/QUT-Motorsport/QUTMS_ChassisController
+[submodule "QUTMS_PDM"]
+	path = QUTMS_PDM
+	url = https://github.com/QUT-Motorsport/QUTMS_PDM
+[submodule "QUTMS_CANLogger"]
+	path = QUTMS_CANLogger
+	url = https://github.com/QUT-Motorsport/QUTMS_CANLogger
+[submodule "QUTMS_ChassisController_V2"]
+	path = QUTMS_ChassisController_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_ChassisController_V2
+[submodule "QUTMS_PCB_Ruler"]
+	path = QUTMS_PCB_Ruler
+	url = https://github.com/QUT-Motorsport/QUTMS_PCB_Ruler
+[submodule "QUTMS_Altium_Resources"]
+	path = QUTMS_Altium_Resources
+	url = https://github.com/QUT-Motorsport/QUTMS_Altium_Resources
+[submodule "QUTMS_PDM_V2"]
+	path = QUTMS_PDM_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_PDM_V2
