@@ -401,3 +401,354 @@
 [submodule "PCB-multi-layer/Stabilizer"]
 	path = PCB-multi-layer/Stabilizer
 	url = https://github.com/sinara-hw/Stabilizer
+[submodule "PCB-multi-layer/PDU-UV19"]
+	path = PCB-multi-layer/PDU-UV19
+	url = https://github.com/eldinmiller/PDU-UV19
+[submodule "PCB-multi-layer/old-uscauv-pcb"]
+	path = PCB-multi-layer/old-uscauv-pcb
+	url = https://github.com/uscauv-legacy/old-uscauv-pcb
+[submodule "PCB-multi-layer/hardware"]
+	path = PCB-multi-layer/hardware
+	url = https://github.com/uw-midsun/hardware
+[submodule "PCB-multi-layer/si446x"]
+	path = PCB-multi-layer/si446x
+	url = https://github.com/sixtemesseven/si446x
+[submodule "PCB-multi-layer/VIO_Camera_module"]
+	path = PCB-multi-layer/VIO_Camera_module
+	url = https://github.com/aras-cdrpm-projects/VIO_Camera_module
+[submodule "PCB-multi-layer/orient"]
+	path = PCB-multi-layer/orient
+	url = https://github.com/dmwo/orient
+[submodule "PCB-multi-layer/stm32f103x"]
+	path = PCB-multi-layer/stm32f103x
+	url = https://github.com/Hongranl/stm32f103x
+[submodule "PCB-multi-layer/BLDCBot"]
+	path = PCB-multi-layer/BLDCBot
+	url = https://github.com/VasiliyPodlesniy/BLDCBot
+[submodule "PCB-multi-layer/CutMonitor"]
+	path = PCB-multi-layer/CutMonitor
+	url = https://github.com/VasiliyPodlesniy/CutMonitor
+[submodule "PCB-multi-layer/BLDCi2cBot"]
+	path = PCB-multi-layer/BLDCi2cBot
+	url = https://github.com/VasiliyPodlesniy/BLDCi2cBot
+[submodule "PCB-multi-layer/AmplifierDclass"]
+	path = PCB-multi-layer/AmplifierDclass
+	url = https://github.com/VasiliyPodlesniy/AmplifierDclass
+[submodule "PCB-multi-layer/ServoBoard"]
+	path = PCB-multi-layer/ServoBoard
+	url = https://github.com/VasiliyPodlesniy/ServoBoard
+[submodule "PCB-multi-layer/PowerBoard"]
+	path = PCB-multi-layer/PowerBoard
+	url = https://github.com/VasiliyPodlesniy/PowerBoard
+[submodule "PCB-multi-layer/InterfaceBoard"]
+	path = PCB-multi-layer/InterfaceBoard
+	url = https://github.com/VasiliyPodlesniy/InterfaceBoard
+[submodule "PCB-multi-layer/BLDCSuperBot"]
+	path = PCB-multi-layer/BLDCSuperBot
+	url = https://github.com/VasiliyPodlesniy/BLDCSuperBot
+[submodule "PCB-multi-layer/WirelessHeadphone"]
+	path = PCB-multi-layer/WirelessHeadphone
+	url = https://github.com/VasiliyPodlesniy/WirelessHeadphone
+[submodule "PCB-multi-layer/HallCommutator"]
+	path = PCB-multi-layer/HallCommutator
+	url = https://github.com/VasiliyPodlesniy/HallCommutator
+[submodule "PCB-multi-layer/ADCduinoModule"]
+	path = PCB-multi-layer/ADCduinoModule
+	url = https://github.com/VasiliyPodlesniy/ADCduinoModule
+[submodule "PCB-multi-layer/GeneRduinoModule"]
+	path = PCB-multi-layer/GeneRduinoModule
+	url = https://github.com/VasiliyPodlesniy/GeneRduinoModule
+[submodule "PCB-multi-layer/HallduinoModule"]
+	path = PCB-multi-layer/HallduinoModule
+	url = https://github.com/VasiliyPodlesniy/HallduinoModule
+[submodule "PCB-multi-layer/RemoteControllerSchool"]
+	path = PCB-multi-layer/RemoteControllerSchool
+	url = https://github.com/VasiliyPodlesniy/RemoteControllerSchool
+[submodule "PCB-multi-layer/USBINFRTransiever"]
+	path = PCB-multi-layer/USBINFRTransiever
+	url = https://github.com/VasiliyPodlesniy/USBINFRTransiever
+[submodule "PCB-multi-layer/EduBot"]
+	path = PCB-multi-layer/EduBot
+	url = https://github.com/VasiliyPodlesniy/EduBot
+[submodule "PCB-multi-layer/CupRTCGift"]
+	path = PCB-multi-layer/CupRTCGift
+	url = https://github.com/VasiliyPodlesniy/CupRTCGift
+[submodule "PCB-multi-layer/DevBoardStmF105"]
+	path = PCB-multi-layer/DevBoardStmF105
+	url = https://github.com/VasiliyPodlesniy/DevBoardStmF105
+[submodule "PCB-multi-layer/PoligonController"]
+	path = PCB-multi-layer/PoligonController
+	url = https://github.com/VasiliyPodlesniy/PoligonController
+[submodule "PCB-multi-layer/AgroBot"]
+	path = PCB-multi-layer/AgroBot
+	url = https://github.com/VasiliyPodlesniy/AgroBot
+[submodule "PCB-multi-layer/AgroBot_Manufacture"]
+	path = PCB-multi-layer/AgroBot_Manufacture
+	url = https://github.com/VasiliyPodlesniy/AgroBot_Manufacture
+[submodule "PCB-multi-layer/DSPlabwork"]
+	path = PCB-multi-layer/DSPlabwork
+	url = https://github.com/VasiliyPodlesniy/DSPlabwork
+[submodule "PCB-multi-layer/JohnyMotorDriver"]
+	path = PCB-multi-layer/JohnyMotorDriver
+	url = https://github.com/VasiliyPodlesniy/JohnyMotorDriver
+[submodule "PCB-multi-layer/ServoBot"]
+	path = PCB-multi-layer/ServoBot
+	url = https://github.com/VasiliyPodlesniy/ServoBot
+[submodule "PCB-multi-layer/DisplayReceiver"]
+	path = PCB-multi-layer/DisplayReceiver
+	url = https://github.com/VasiliyPodlesniy/DisplayReceiver
+[submodule "PCB-multi-layer/RemoteControllerRTC"]
+	path = PCB-multi-layer/RemoteControllerRTC
+	url = https://github.com/VasiliyPodlesniy/RemoteControllerRTC
+[submodule "PCB-multi-layer/PainRegister"]
+	path = PCB-multi-layer/PainRegister
+	url = https://github.com/VasiliyPodlesniy/PainRegister
+[submodule "PCB-multi-layer/Motor-driver-high-power"]
+	path = PCB-multi-layer/Motor-driver-high-power
+	url = https://github.com/zhangxin0518/Motor-driver-high-power
+[submodule "PCB-multi-layer/DSO"]
+	path = PCB-multi-layer/DSO
+	url = https://github.com/BillYJT/DSO
+[submodule "PCB-multi-layer/micro_card"]
+	path = PCB-multi-layer/micro_card
+	url = https://github.com/MUEEC/micro_card
+[submodule "PCB-multi-layer/Motor-driver-low-power"]
+	path = PCB-multi-layer/Motor-driver-low-power
+	url = https://github.com/zhangxin0518/Motor-driver-low-power
+[submodule "PCB-multi-layer/AD_library"]
+	path = PCB-multi-layer/AD_library
+	url = https://github.com/SerhiiBond/AD_library
+[submodule "PCB-multi-layer/R100_BOARDS"]
+	path = PCB-multi-layer/R100_BOARDS
+	url = https://github.com/SerhiiBond/R100_BOARDS
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-HW-Thyristor-2019"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-HW-Thyristor-2019
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-HW-Thyristor-2019
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-HW-Inverter-2016"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-HW-Inverter-2016
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-HW-Inverter-2016
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-SW-CurrentControlLoop-2018"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-SW-CurrentControlLoop-2018
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-SW-CurrentControlLoop-2018
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-HW-OpticalInterface-2018"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-HW-OpticalInterface-2018
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-HW-OpticalInterface-2018
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-HW-VoltageSensor-2018"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-HW-VoltageSensor-2018
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-HW-VoltageSensor-2018
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-SW-Inverter-UserInterface-2017"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-SW-Inverter-UserInterface-2017
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-SW-Inverter-UserInterface-2017
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-SW-Tests-2018"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-SW-Tests-2018
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-SW-Tests-2018
+[submodule "PCB-multi-layer/OpenSourcePowerElectronics-HW-Filter-2018"]
+	path = PCB-multi-layer/OpenSourcePowerElectronics-HW-Filter-2018
+	url = https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-HW-Filter-2018
+[submodule "PCB-multi-layer/Tegra_TX1_Dual_Camera"]
+	path = PCB-multi-layer/Tegra_TX1_Dual_Camera
+	url = https://github.com/MRazgunas/Tegra_TX1_Dual_Camera
+[submodule "PCB-multi-layer/Expansion-Board-WaRP7"]
+	path = PCB-multi-layer/Expansion-Board-WaRP7
+	url = https://github.com/jorisoffouga/Expansion-Board-WaRP7
+[submodule "PCB-multi-layer/QT_STM32_Oscilloscope"]
+	path = PCB-multi-layer/QT_STM32_Oscilloscope
+	url = https://github.com/aloismiclo/QT_STM32_Oscilloscope
+[submodule "PCB-multi-layer/HRI-hand-firmware"]
+	path = PCB-multi-layer/HRI-hand-firmware
+	url = https://github.com/MrLacquer/HRI-hand-firmware
+[submodule "PCB-multi-layer/IMX7S_Design"]
+	path = PCB-multi-layer/IMX7S_Design
+	url = https://github.com/aloismiclo/IMX7S_Design
+[submodule "PCB-multi-layer/3D-printer-board"]
+	path = PCB-multi-layer/3D-printer-board
+	url = https://github.com/louiscklaw/3D-printer-board
+[submodule "PCB-multi-layer/Schematic"]
+	path = PCB-multi-layer/Schematic
+	url = https://github.com/zhangcaocao/Schematic
+[submodule "PCB-multi-layer/SmartBlood_PCB"]
+	path = PCB-multi-layer/SmartBlood_PCB
+	url = https://github.com/danielmonleonguerrero/SmartBlood_PCB
+[submodule "PCB-multi-layer/2017-designs"]
+	path = PCB-multi-layer/2017-designs
+	url = https://github.com/glocklueng/2017-designs
+[submodule "PCB-multi-layer/ME218Projects"]
+	path = PCB-multi-layer/ME218Projects
+	url = https://github.com/navjot95/ME218Projects
+[submodule "PCB-multi-layer/Matrix"]
+	path = PCB-multi-layer/Matrix
+	url = https://github.com/Che1012/Matrix
+[submodule "PCB-multi-layer/Electrical"]
+	path = PCB-multi-layer/Electrical
+	url = https://github.com/UBC-Thunderbots/Electrical
+[submodule "PCB-multi-layer/EnvControl-Hardware"]
+	path = PCB-multi-layer/EnvControl-Hardware
+	url = https://github.com/ly0koS/EnvControl-Hardware
+[submodule "PCB-multi-layer/EnvControl-Software"]
+	path = PCB-multi-layer/EnvControl-Software
+	url = https://github.com/ly0koS/EnvControl-Software
+[submodule "PCB-multi-layer/Esperto-Labs"]
+	path = PCB-multi-layer/Esperto-Labs
+	url = https://github.com/danieldeesousa/Esperto-Labs
+[submodule "PCB-multi-layer/MINI_SCADA_PCB"]
+	path = PCB-multi-layer/MINI_SCADA_PCB
+	url = https://github.com/ARoozitalab/MINI_SCADA_PCB
+[submodule "PCB-multi-layer/STM32F4-Eval-board"]
+	path = PCB-multi-layer/STM32F4-Eval-board
+	url = https://github.com/ARoozitalab/STM32F4-Eval-board
+[submodule "PCB-multi-layer/STPM01-STPM10_PCB"]
+	path = PCB-multi-layer/STPM01-STPM10_PCB
+	url = https://github.com/ARoozitalab/STPM01-STPM10_PCB
+[submodule "PCB-multi-layer/Desktop-H743-Feedback"]
+	path = PCB-multi-layer/Desktop-H743-Feedback
+	url = https://github.com/jackw2050/Desktop-H743-Feedback
+[submodule "PCB-multi-layer/DSO2019"]
+	path = PCB-multi-layer/DSO2019
+	url = https://github.com/relientm96/DSO2019
+[submodule "PCB-multi-layer/QUTMS_ShutdownBoard_V2"]
+	path = PCB-multi-layer/QUTMS_ShutdownBoard_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_ShutdownBoard_V2
+[submodule "PCB-multi-layer/QUTMS_HVBoard"]
+	path = PCB-multi-layer/QUTMS_HVBoard
+	url = https://github.com/QUT-Motorsport/QUTMS_HVBoard
+[submodule "PCB-multi-layer/QUTMS_RadioPod"]
+	path = PCB-multi-layer/QUTMS_RadioPod
+	url = https://github.com/QUT-Motorsport/QUTMS_RadioPod
+[submodule "PCB-multi-layer/QUTMS_SteeringWheel"]
+	path = PCB-multi-layer/QUTMS_SteeringWheel
+	url = https://github.com/QUT-Motorsport/QUTMS_SteeringWheel
+[submodule "PCB-multi-layer/QUTMS_AMU_V2"]
+	path = PCB-multi-layer/QUTMS_AMU_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_AMU_V2
+[submodule "PCB-multi-layer/QUTMS_BatteryCharger"]
+	path = PCB-multi-layer/QUTMS_BatteryCharger
+	url = https://github.com/QUT-Motorsport/QUTMS_BatteryCharger
+[submodule "PCB-multi-layer/QUTMS_BMS"]
+	path = PCB-multi-layer/QUTMS_BMS
+	url = https://github.com/QUT-Motorsport/QUTMS_BMS
+[submodule "PCB-multi-layer/QUTMS_RadioPod_V2"]
+	path = PCB-multi-layer/QUTMS_RadioPod_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_RadioPod_V2
+[submodule "PCB-multi-layer/QUTMS_BrakeLight"]
+	path = PCB-multi-layer/QUTMS_BrakeLight
+	url = https://github.com/QUT-Motorsport/QUTMS_BrakeLight
+[submodule "PCB-multi-layer/QUTMS_TSAL_V2"]
+	path = PCB-multi-layer/QUTMS_TSAL_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_TSAL_V2
+[submodule "PCB-multi-layer/QUTMS_ChassisController"]
+	path = PCB-multi-layer/QUTMS_ChassisController
+	url = https://github.com/QUT-Motorsport/QUTMS_ChassisController
+[submodule "PCB-multi-layer/QUTMS_PDM"]
+	path = PCB-multi-layer/QUTMS_PDM
+	url = https://github.com/QUT-Motorsport/QUTMS_PDM
+[submodule "PCB-multi-layer/QUTMS_CANLogger"]
+	path = PCB-multi-layer/QUTMS_CANLogger
+	url = https://github.com/QUT-Motorsport/QUTMS_CANLogger
+[submodule "PCB-multi-layer/QUTMS_OzanneDataCollection"]
+	path = PCB-multi-layer/QUTMS_OzanneDataCollection
+	url = https://github.com/QUT-Motorsport/QUTMS_OzanneDataCollection
+[submodule "PCB-multi-layer/QUTMS_Master"]
+	path = PCB-multi-layer/QUTMS_Master
+	url = https://github.com/QUT-Motorsport/QUTMS_Master
+[submodule "PCB-multi-layer/QUTMS_Windows_V1"]
+	path = PCB-multi-layer/QUTMS_Windows_V1
+	url = https://github.com/QUT-Motorsport/QUTMS_Windows_V1
+[submodule "PCB-multi-layer/egh456_3-phase-motor"]
+	path = PCB-multi-layer/egh456_3-phase-motor
+	url = https://github.com/azoz158/egh456_3-phase-motor
+[submodule "PCB-multi-layer/QUT_EGB220"]
+	path = PCB-multi-layer/QUT_EGB220
+	url = https://github.com/crazy-calypso/QUT_EGB220
+[submodule "PCB-multi-layer/QUT_EGH456"]
+	path = PCB-multi-layer/QUT_EGH456
+	url = https://github.com/crazy-calypso/QUT_EGH456
+[submodule "PCB-multi-layer/0156_PSU"]
+	path = PCB-multi-layer/0156_PSU
+	url = https://github.com/Q7Gp6U/0156_PSU
+[submodule "PCB-multi-layer/0014_Library"]
+	path = PCB-multi-layer/0014_Library
+	url = https://github.com/Q7Gp6U/0014_Library
+[submodule "PCB-multi-layer/phywhispererusb"]
+	path = PCB-multi-layer/phywhispererusb
+	url = https://github.com/newaetech/phywhispererusb
+[submodule "PCB-multi-layer/QUTMS_ChassisController_V2"]
+	path = PCB-multi-layer/QUTMS_ChassisController_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_ChassisController_V2
+[submodule "PCB-multi-layer/QUTMS_PCB_Ruler"]
+	path = PCB-multi-layer/QUTMS_PCB_Ruler
+	url = https://github.com/QUT-Motorsport/QUTMS_PCB_Ruler
+[submodule "PCB-multi-layer/audio_interface"]
+	path = PCB-multi-layer/audio_interface
+	url = https://github.com/pablo0722/audio_interface
+[submodule "PCB-multi-layer/QUTMS_Altium_Resources"]
+	path = PCB-multi-layer/QUTMS_Altium_Resources
+	url = https://github.com/QUT-Motorsport/QUTMS_Altium_Resources
+[submodule "PCB-multi-layer/QUTMS_PDM_V2"]
+	path = PCB-multi-layer/QUTMS_PDM_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_PDM_V2
+[submodule "PCB-multi-layer/Digital-Storage-Oscilloscope-2018"]
+	path = PCB-multi-layer/Digital-Storage-Oscilloscope-2018
+	url = https://github.com/abc123yuanrui/Digital-Storage-Oscilloscope-2018
+[submodule "PCB-multi-layer/SHKB"]
+	path = PCB-multi-layer/SHKB
+	url = https://github.com/4pplet/SHKB
+[submodule "PCB-multi-layer/Desk-Digital-Clock"]
+	path = PCB-multi-layer/Desk-Digital-Clock
+	url = https://github.com/teregulov/Desk-Digital-Clock
+[submodule "PCB-multi-layer/OpenSpeechPlatform-UCSD"]
+	path = PCB-multi-layer/OpenSpeechPlatform-UCSD
+	url = https://github.com/nihospr01/OpenSpeechPlatform-UCSD
+[submodule "PCB-multi-layer/Tesis-SDR-LAPAC-Open-Source"]
+	path = PCB-multi-layer/Tesis-SDR-LAPAC-Open-Source
+	url = https://github.com/OmarLopezCabrera/Tesis-SDR-LAPAC-Open-Source
+[submodule "PCB-multi-layer/DoorLock_ESP8266"]
+	path = PCB-multi-layer/DoorLock_ESP8266
+	url = https://github.com/dungmv6/DoorLock_ESP8266
+[submodule "PCB-multi-layer/PRM_RA_PCB"]
+	path = PCB-multi-layer/PRM_RA_PCB
+	url = https://github.com/whutddk/PRM_RA_PCB
+[submodule "PCB-multi-layer/QUTMS_Inverter_V2"]
+	path = PCB-multi-layer/QUTMS_Inverter_V2
+	url = https://github.com/QUT-Motorsport/QUTMS_Inverter_V2
+[submodule "PCB-multi-layer/HW_Design_SUP"]
+	path = PCB-multi-layer/HW_Design_SUP
+	url = https://github.com/RockONthefeel/HW_Design_SUP
+[submodule "PCB-multi-layer/SDRdrum"]
+	path = PCB-multi-layer/SDRdrum
+	url = https://github.com/darrylring/SDRdrum
+[submodule "PCB-multi-layer/CANwheel"]
+	path = PCB-multi-layer/CANwheel
+	url = https://github.com/UVicFormulaMotorsport/CANwheel
+[submodule "PCB-multi-layer/Remote-control-block"]
+	path = PCB-multi-layer/Remote-control-block
+	url = https://github.com/ruslan-robotics/Remote-control-block
+[submodule "PCB-multi-layer/My-Little-Friend"]
+	path = PCB-multi-layer/My-Little-Friend
+	url = https://github.com/myjtag/My-Little-Friend
+[submodule "PCB-multi-layer/PacBot"]
+	path = PCB-multi-layer/PacBot
+	url = https://github.com/TheGuardianWolf/PacBot
+[submodule "PCB-multi-layer/RFCU-GTU-Rocket-Team"]
+	path = PCB-multi-layer/RFCU-GTU-Rocket-Team
+	url = https://github.com/megazi/RFCU-GTU-Rocket-Team
+[submodule "PCB-multi-layer/MS_1_MainBoard"]
+	path = PCB-multi-layer/MS_1_MainBoard
+	url = https://github.com/jmnich/MS_1_MainBoard
+[submodule "PCB-multi-layer/Embedded-Controller-ESE2"]
+	path = PCB-multi-layer/Embedded-Controller-ESE2
+	url = https://github.com/Hengy/Embedded-Controller-ESE2
+[submodule "PCB-multi-layer/sensornet"]
+	path = PCB-multi-layer/sensornet
+	url = https://github.com/Hengy/sensornet
+[submodule "PCB-multi-layer/Overhead-60W-LED-Wireless"]
+	path = PCB-multi-layer/Overhead-60W-LED-Wireless
+	url = https://github.com/Hengy/Overhead-60W-LED-Wireless
+[submodule "PCB-multi-layer/PCB-Designs"]
+	path = PCB-multi-layer/PCB-Designs
+	url = https://github.com/Hengy/PCB-Designs
+[submodule "PCB-multi-layer/SensorNet2"]
+	path = PCB-multi-layer/SensorNet2
+	url = https://github.com/Hengy/SensorNet2
+[submodule "PCB-multi-layer/Mircod_TEST"]
+	path = PCB-multi-layer/Mircod_TEST
+	url = https://github.com/FailMukhametzyanov/Mircod_TEST
