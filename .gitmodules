@@ -783,3 +783,6 @@
 [submodule "QUTMS_PDM_V2"]
 	path = QUTMS_PDM_V2
 	url = https://github.com/QUT-Motorsport/QUTMS_PDM_V2
+[submodule "PCB-multi-layer/syncbox"]
+	path = PCB-multi-layer/syncbox
+	url = https://github.com/altaybrusan/syncbox
