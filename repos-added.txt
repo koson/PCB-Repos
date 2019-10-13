@@ -149,4 +149,28 @@ git submodule add https://github.com/uwrobotics/MarsRover2020-PCB
 git submodule add https://github.com/benjaminshewan/2019-Animal-Collars
 git submodule add https://github.com/Przenioslo/UsbConBoard
 git submodule add https://github.com/VasiliyPodlesniy/ADCduinoModule
+git submodule add https://github.com/pabsfdez/WB-AV-4500
+git submodule add https://github.com/Edmilson1Clss/Hardware_Projects
+git submodule add https://github.com/cwruRobotics/HardwareController2019-20
+git submodule add https://github.com/grupo-tc-volcan/TP2
+git submodule add https://github.com/turing-lab/BionicGalileoHand
+git submodule add https://github.com/newaetech/chipwhisperer-target-cw308t
+git submodule add https://github.com/alirezaahmadi/AUT-Spherical-Robot
+git submodule add https://github.com/jackw2050/Desktop-H743-Feedback
+git submodule add https://github.com/pal73/FAT93
+git submodule add https://github.com/alexandercote/Camera_Gimbal_Control_Board
+git submodule add https://github.com/irongu/LA421
+git submodule add https://github.com/afonsus1997/Pixels-Camp-PCB-Badge
+git submodule add https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller
+git submodule add https://github.com/billhowland/PiCapstone
+git submodule add https://github.com/Walkline80/Iot-Platform-PCB
+git submodule add https://github.com/purin-tavilsup/home-automation
+git submodule add https://github.com/t2t-sonbui/ESP32IOT
+git submodule add https://github.com/hh997y/Nixie_Clock
+git submodule add https://github.com/glocklueng/2017-designs
+git submodule add https://github.com/jackw2050/H743-Levels
+git submodule add https://github.com/jackw2050/H743-ADC-Beam
+git submodule add https://github.com/niravdesai712/bldcmoter
+
+
 

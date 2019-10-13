@@ -755,7 +755,7 @@
  
 [submodule "PCB-multi-layer/bldcmoter"]
 	path = PCB-multi-layer/bldcmoter
-	url = https://github.com/niravdesai712/bldcmoter.git
+	url = https://github.com/niravdesai712/bldcmoter
 [submodule "QUTMS_BrakeLight"]
 	path = QUTMS_BrakeLight
 	url = https://github.com/QUT-Motorsport/QUTMS_BrakeLight
@@ -1077,3 +1077,60 @@
 [submodule "PCB-multi-layer/UsbConBoard"]
 	path = PCB-multi-layer/UsbConBoard
 	url = https://github.com/Przenioslo/UsbConBoard
+[submodule "PCB-multi-layer/WB-AV-4500"]
+	path = PCB-multi-layer/WB-AV-4500
+	url = https://github.com/pabsfdez/WB-AV-4500
+[submodule "PCB-multi-layer/Hardware_Projects"]
+	path = PCB-multi-layer/Hardware_Projects
+	url = https://github.com/Edmilson1Clss/Hardware_Projects
+[submodule "PCB-multi-layer/HardwareController2019-20"]
+	path = PCB-multi-layer/HardwareController2019-20
+	url = https://github.com/cwruRobotics/HardwareController2019-20
+[submodule "PCB-multi-layer/TP2"]
+	path = PCB-multi-layer/TP2
+	url = https://github.com/grupo-tc-volcan/TP2
+[submodule "PCB-multi-layer/BionicGalileoHand"]
+	path = PCB-multi-layer/BionicGalileoHand
+	url = https://github.com/turing-lab/BionicGalileoHand
+[submodule "PCB-multi-layer/chipwhisperer-target-cw308t"]
+	path = PCB-multi-layer/chipwhisperer-target-cw308t
+	url = https://github.com/newaetech/chipwhisperer-target-cw308t
+[submodule "PCB-multi-layer/AUT-Spherical-Robot"]
+	path = PCB-multi-layer/AUT-Spherical-Robot
+	url = https://github.com/alirezaahmadi/AUT-Spherical-Robot
+[submodule "PCB-multi-layer/FAT93"]
+	path = PCB-multi-layer/FAT93
+	url = https://github.com/pal73/FAT93
+[submodule "PCB-multi-layer/Camera_Gimbal_Control_Board"]
+	path = PCB-multi-layer/Camera_Gimbal_Control_Board
+	url = https://github.com/alexandercote/Camera_Gimbal_Control_Board
+[submodule "PCB-multi-layer/LA421"]
+	path = PCB-multi-layer/LA421
+	url = https://github.com/irongu/LA421
+[submodule "PCB-multi-layer/Pixels-Camp-PCB-Badge"]
+	path = PCB-multi-layer/Pixels-Camp-PCB-Badge
+	url = https://github.com/afonsus1997/Pixels-Camp-PCB-Badge
+[submodule "PCB-multi-layer/A-Digital-Wireless-Voice-Remote-Controller"]
+	path = PCB-multi-layer/A-Digital-Wireless-Voice-Remote-Controller
+	url = https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller
+[submodule "PCB-multi-layer/PiCapstone"]
+	path = PCB-multi-layer/PiCapstone
+	url = https://github.com/billhowland/PiCapstone
+[submodule "PCB-multi-layer/Iot-Platform-PCB"]
+	path = PCB-multi-layer/Iot-Platform-PCB
+	url = https://github.com/Walkline80/Iot-Platform-PCB
+[submodule "PCB-multi-layer/home-automation"]
+	path = PCB-multi-layer/home-automation
+	url = https://github.com/purin-tavilsup/home-automation
+[submodule "PCB-multi-layer/ESP32IOT"]
+	path = PCB-multi-layer/ESP32IOT
+	url = https://github.com/t2t-sonbui/ESP32IOT
+[submodule "PCB-multi-layer/Nixie_Clock"]
+	path = PCB-multi-layer/Nixie_Clock
+	url = https://github.com/hh997y/Nixie_Clock
+[submodule "PCB-multi-layer/H743-Levels"]
+	path = PCB-multi-layer/H743-Levels
+	url = https://github.com/jackw2050/H743-Levels
+[submodule "PCB-multi-layer/H743-ADC-Beam"]
+	path = PCB-multi-layer/H743-ADC-Beam
+	url = https://github.com/jackw2050/H743-ADC-Beam
