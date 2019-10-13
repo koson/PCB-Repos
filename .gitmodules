@@ -1026,3 +1026,15 @@
 [submodule "PCB-multi-layer/LINEAR_LED_STRIP_DRIVER"]
 	path = PCB-multi-layer/LINEAR_LED_STRIP_DRIVER
 	url = https://github.com/pawelstraszak/LINEAR_LED_STRIP_DRIVER
+[submodule "PCB-multi-layer/trillium_v0.4_hardware"]
+	path = PCB-multi-layer/trillium_v0.4_hardware
+	url = https://github.com/andradazoltan/trillium_v0.4_hardware
+[submodule "PCB-multi-layer/TAUV-Hardware"]
+	path = PCB-multi-layer/TAUV-Hardware
+	url = https://github.com/Tartan-AUV/TAUV-Hardware
+[submodule "PCB-multi-layer/Tesla"]
+	path = PCB-multi-layer/Tesla
+	url = https://github.com/AlexeySinushkin/Tesla
+[submodule "PCB-multi-layer/Mega2560"]
+	path = PCB-multi-layer/Mega2560
+	url = https://github.com/GooseCapital/Mega2560

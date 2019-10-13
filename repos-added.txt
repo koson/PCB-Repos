@@ -129,4 +129,9 @@ git submodule add https://github.com/4pplet/SteezyBLE
 git submodule add https://github.com/webskorpio/MegaD-328
 git submodule add https://github.com/microsoft/pxt-arcade-hardware-designs
 git submodule add https://github.com/pawelstraszak/LINEAR_LED_STRIP_DRIVER
+git submodule add https://github.com/andradazoltan/trillium_v0.4_hardware
+git submodule add https://github.com/Tartan-AUV/TAUV-Hardware
+git submodule add https://github.com/VasiliyPodlesniy/WirelessHeadphone
+git submodule add https://github.com/AlexeySinushkin/Tesla
+git submodule add https://github.com/GooseCapital/Mega2560
 
