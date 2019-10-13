@@ -76,24 +76,3 @@ git submodule add https://github.com/benjamin0906/SolarCharger
 git submodule add https://github.com/lichangche/libre_pilot_uavtalk
 git submodule add https://github.com/lichangche/libre_pilot_uavtalk
 git submodule add https://github.com/tonykolomeytsev/voxl
-git submodule add https://github.com/AlexanderMarinsek/Anemo-Counter-Circuit
-git submodule add https://github.com/VasiliyPodlesniy/AccelBoard
-git submodule add https://github.com/bogdan-tirzioru/Powersupply
-git submodule add https://github.com/zwxwill/Ros
-git submodule add https://github.com/will-rigby/Workstation-Controls
-git submodule add https://github.com/Brenocq/LightPositionEstimation
-git submodule add https://github.com/balena-io-playground/balena-fin-examples-hw
-git submodule add https://github.com/nhamtung/SMP
-git submodule add https://github.com/Tracisran/Altium-Designer-Files
-git submodule add https://github.com/mhaghighi/posedge_one
-git submodule add https://github.com/saurex83/Senocore
-git submodule add https://github.com/giver0/Rocket-logger
-git submodule add https://github.com/alenl2/ArduinoWifi-ReactNative-Tests
-git submodule add https://github.com/skywoodsz/curriculum-design
-git submodule add https://github.com/ftkalcevic/opentx_nucleo_f412zg
-git submodule add https://github.com/sudaozhen/Elevator_Voice_Reminder
-git submodule add https://github.com/sakalaka8/tag-connect-stm-nucleo-adapter
-git submodule add https://github.com/dhahaj/atmega1284p-breakout
-
-
-

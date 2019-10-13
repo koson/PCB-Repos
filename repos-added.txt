@@ -202,6 +202,16 @@ git submodule add https://github.com/Riconec/Gestus
 git submodule add https://github.com/IllNate/frolf-led
 git submodule add https://github.com/JassyL/DAP-Link-TypeC
 git submodule add https://github.com/taomasgonzalez/E2-TP2
+git submodule add https://github.com/AlexanderMarinsek/Anemo-Counter-Circuit
+git submodule add https://github.com/VasiliyPodlesniy/AccelBoard
+git submodule add https://github.com/bogdan-tirzioru/Powersupply
+git submodule add https://github.com/zwxwill/Ros
+git submodule add https://github.com/will-rigby/Workstation-Controls
+git submodule add https://github.com/Brenocq/LightPositionEstimation
+git submodule add https://github.com/balena-io-playground/balena-fin-examples-hw
+git submodule add https://github.com/nhamtung/SMP
+git submodule add https://github.com/Tracisran/Altium-Designer-Files
+
 
 
 

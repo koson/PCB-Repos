@@ -1215,3 +1215,54 @@
 [submodule "PCB-multi-layer/E2-TP2"]
 	path = PCB-multi-layer/E2-TP2
 	url = https://github.com/taomasgonzalez/E2-TP2
+[submodule "PCB-multi-layer/posedge_one"]
+	path = PCB-multi-layer/posedge_one
+	url = https://github.com/mhaghighi/posedge_one
+[submodule "PCB-multi-layer/Senocore"]
+	path = PCB-multi-layer/Senocore
+	url = https://github.com/saurex83/Senocore
+[submodule "PCB-multi-layer/Rocket-logger"]
+	path = PCB-multi-layer/Rocket-logger
+	url = https://github.com/giver0/Rocket-logger
+[submodule "PCB-multi-layer/ArduinoWifi-ReactNative-Tests"]
+	path = PCB-multi-layer/ArduinoWifi-ReactNative-Tests
+	url = https://github.com/alenl2/ArduinoWifi-ReactNative-Tests
+[submodule "PCB-multi-layer/curriculum-design"]
+	path = PCB-multi-layer/curriculum-design
+	url = https://github.com/skywoodsz/curriculum-design
+[submodule "PCB-multi-layer/opentx_nucleo_f412zg"]
+	path = PCB-multi-layer/opentx_nucleo_f412zg
+	url = https://github.com/ftkalcevic/opentx_nucleo_f412zg
+[submodule "PCB-multi-layer/Elevator_Voice_Reminder"]
+	path = PCB-multi-layer/Elevator_Voice_Reminder
+	url = https://github.com/sudaozhen/Elevator_Voice_Reminder
+[submodule "PCB-multi-layer/tag-connect-stm-nucleo-adapter"]
+	path = PCB-multi-layer/tag-connect-stm-nucleo-adapter
+	url = https://github.com/sakalaka8/tag-connect-stm-nucleo-adapter
+[submodule "PCB-multi-layer/atmega1284p-breakout"]
+	path = PCB-multi-layer/atmega1284p-breakout
+	url = https://github.com/dhahaj/atmega1284p-breakout
+[submodule "PCB-multi-layer/Anemo-Counter-Circuit"]
+	path = PCB-multi-layer/Anemo-Counter-Circuit
+	url = https://github.com/AlexanderMarinsek/Anemo-Counter-Circuit
+[submodule "PCB-multi-layer/AccelBoard"]
+	path = PCB-multi-layer/AccelBoard
+	url = https://github.com/VasiliyPodlesniy/AccelBoard
+[submodule "PCB-multi-layer/Powersupply"]
+	path = PCB-multi-layer/Powersupply
+	url = https://github.com/bogdan-tirzioru/Powersupply
+[submodule "PCB-multi-layer/Ros"]
+	path = PCB-multi-layer/Ros
+	url = https://github.com/zwxwill/Ros
+[submodule "PCB-multi-layer/Workstation-Controls"]
+	path = PCB-multi-layer/Workstation-Controls
+	url = https://github.com/will-rigby/Workstation-Controls
+[submodule "PCB-multi-layer/LightPositionEstimation"]
+	path = PCB-multi-layer/LightPositionEstimation
+	url = https://github.com/Brenocq/LightPositionEstimation
+[submodule "PCB-multi-layer/balena-fin-examples-hw"]
+	path = PCB-multi-layer/balena-fin-examples-hw
+	url = https://github.com/balena-io-playground/balena-fin-examples-hw
+[submodule "PCB-multi-layer/Altium-Designer-Files"]
+	path = PCB-multi-layer/Altium-Designer-Files
+	url = https://github.com/Tracisran/Altium-Designer-Files
