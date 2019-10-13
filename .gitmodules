@@ -215,9 +215,6 @@
 [submodule "PCB-multi-layer/electronics-thymio2-rf"]
 	path = PCB-multi-layer/electronics-thymio2-rf
 	url = https://github.com/Mobsya/electronics-thymio2-rf
-[submodule "PCB-multi-layer/-Embedded-systems-"]
-	path = PCB-multi-layer/-Embedded-systems-
-	url = https://github.com/bendelathouwer/-Embedded-systems-
 [submodule "PCB-multi-layer/Altium-Projects"]
 	path = PCB-multi-layer/Altium-Projects
 	url = https://github.com/robbiesm/Altium-Projects
@@ -662,9 +659,6 @@
 [submodule "PCB-multi-layer/QUT_EGH456"]
 	path = PCB-multi-layer/QUT_EGH456
 	url = https://github.com/crazy-calypso/QUT_EGH456
-[submodule "PCB-multi-layer/0156_PSU"]
-	path = PCB-multi-layer/0156_PSU
-	url = https://github.com/Q7Gp6U/0156_PSU
 [submodule "PCB-multi-layer/phywhispererusb"]
 	path = PCB-multi-layer/phywhispererusb
 	url = https://github.com/newaetech/phywhispererusb
@@ -1314,9 +1308,6 @@
 [submodule "PCB-multi-layer/stepper_tester"]
 	path = PCB-multi-layer/stepper_tester
 	url = https://github.com/lellasone/stepper_tester
-[submodule "PCB-multi-layer/0140_EMV_PCI_Testing"]
-	path = PCB-multi-layer/0140_EMV_PCI_Testing
-	url = https://github.com/Q7Gp6U/0140_EMV_PCI_Testing
 [submodule "PCB-multi-layer/Analog_Equalizer"]
 	path = PCB-multi-layer/Analog_Equalizer
 	url = https://github.com/techguy10k/Analog_Equalizer
