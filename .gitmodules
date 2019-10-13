@@ -891,3 +891,33 @@
 [submodule "PCB-multi-layer/gpa-mgs-485"]
 	path = PCB-multi-layer/gpa-mgs-485
 	url = https://github.com/Atmelfan/gpa-mgs-485
+[submodule "PCB-multi-layer/PowerSwitch-block"]
+	path = PCB-multi-layer/PowerSwitch-block
+	url = https://github.com/ruslan-robotics/PowerSwitch-block
+[submodule "PCB-multi-layer/Probe-Scope-PCB"]
+	path = PCB-multi-layer/Probe-Scope-PCB
+	url = https://github.com/probe-scope/Probe-Scope-PCB
+[submodule "PCB-multi-layer/MCU_DebugLink"]
+	path = PCB-multi-layer/MCU_DebugLink
+	url = https://github.com/shuimogezi/MCU_DebugLink
+[submodule "PCB-multi-layer/IE309X"]
+	path = PCB-multi-layer/IE309X
+	url = https://github.com/jpaulovf/IE309X
+[submodule "PCB-multi-layer/ANTON-TRSV-PWR"]
+	path = PCB-multi-layer/ANTON-TRSV-PWR
+	url = https://github.com/curtisgnesbitt/ANTON-TRSV-PWR
+[submodule "PCB-multi-layer/CAD-EDA"]
+	path = PCB-multi-layer/CAD-EDA
+	url = https://github.com/MMelka/CAD-EDA
+[submodule "PCB-multi-layer/GW_LoRAWAN_PCIe"]
+	path = PCB-multi-layer/GW_LoRAWAN_PCIe
+	url = https://github.com/dungmv6/GW_LoRAWAN_PCIe
+[submodule "PCB-multi-layer/HV_module"]
+	path = PCB-multi-layer/HV_module
+	url = https://github.com/michalgaska/HV_module
+[submodule "PCB-multi-layer/shine-nano"]
+	path = PCB-multi-layer/shine-nano
+	url = https://github.com/bjornbrodtkorb/shine-nano
+[submodule "PCB-multi-layer/Steezy60-SMK"]
+	path = PCB-multi-layer/Steezy60-SMK
+	url = https://github.com/4pplet/Steezy60-SMK
