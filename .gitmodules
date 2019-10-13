@@ -1038,3 +1038,18 @@
 [submodule "PCB-multi-layer/Mega2560"]
 	path = PCB-multi-layer/Mega2560
 	url = https://github.com/GooseCapital/Mega2560
+[submodule "PCB-multi-layer/W7500x-Serial-to-Ethernet-device"]
+	path = PCB-multi-layer/W7500x-Serial-to-Ethernet-device
+	url = https://github.com/ai22ai22/W7500x-Serial-to-Ethernet-device
+[submodule "PCB-multi-layer/DIO_MCX"]
+	path = PCB-multi-layer/DIO_MCX
+	url = https://github.com/sinara-hw/DIO_MCX
+[submodule "PCB-multi-layer/PowerManagementSystem2019-20"]
+	path = PCB-multi-layer/PowerManagementSystem2019-20
+	url = https://github.com/cwruRobotics/PowerManagementSystem2019-20
+[submodule "PCB-multi-layer/BoloPi_PCB"]
+	path = PCB-multi-layer/BoloPi_PCB
+	url = https://github.com/VeiLiang/BoloPi_PCB
+[submodule "PCB-multi-layer/position"]
+	path = PCB-multi-layer/position
+	url = https://github.com/liuda1455975355/position

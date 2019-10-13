@@ -134,4 +134,9 @@ git submodule add https://github.com/Tartan-AUV/TAUV-Hardware
 git submodule add https://github.com/VasiliyPodlesniy/WirelessHeadphone
 git submodule add https://github.com/AlexeySinushkin/Tesla
 git submodule add https://github.com/GooseCapital/Mega2560
+git submodule add https://github.com/ai22ai22/W7500x-Serial-to-Ethernet-device
+git submodule add https://github.com/sinara-hw/DIO_MCX
+git submodule add https://github.com/cwruRobotics/PowerManagementSystem2019-20
+git submodule add https://github.com/VeiLiang/BoloPi_PCB
+git submodule add https://github.com/liuda1455975355/position
 
