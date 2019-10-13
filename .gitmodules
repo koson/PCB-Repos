@@ -921,3 +921,78 @@
 [submodule "PCB-multi-layer/Steezy60-SMK"]
 	path = PCB-multi-layer/Steezy60-SMK
 	url = https://github.com/4pplet/Steezy60-SMK
+[submodule "PCB-multi-layer/smartparks-elephant-lora-hardware"]
+	path = PCB-multi-layer/smartparks-elephant-lora-hardware
+	url = https://github.com/IRNAS/smartparks-elephant-lora-hardware
+[submodule "PCB-multi-layer/smartparks-rhino-tracker-hardware"]
+	path = PCB-multi-layer/smartparks-rhino-tracker-hardware
+	url = https://github.com/IRNAS/smartparks-rhino-tracker-hardware
+[submodule "PCB-multi-layer/PE-1000_NMEA_Tester"]
+	path = PCB-multi-layer/PE-1000_NMEA_Tester
+	url = https://github.com/ElregS/PE-1000_NMEA_Tester
+[submodule "PCB-multi-layer/Project-Cansat-2.0"]
+	path = PCB-multi-layer/Project-Cansat-2.0
+	url = https://github.com/adragott/Project-Cansat-2.0
+[submodule "PCB-multi-layer/Airzai-Hardware"]
+	path = PCB-multi-layer/Airzai-Hardware
+	url = https://github.com/kashifaftab/Airzai-Hardware
+[submodule "PCB-multi-layer/Senior_PCBDesigns"]
+	path = PCB-multi-layer/Senior_PCBDesigns
+	url = https://github.com/uncommoncrazy/Senior_PCBDesigns
+[submodule "PCB-multi-layer/TFG"]
+	path = PCB-multi-layer/TFG
+	url = https://github.com/nuriaparra/TFG
+[submodule "PCB-multi-layer/esp-grow"]
+	path = PCB-multi-layer/esp-grow
+	url = https://github.com/Elipsit/esp-grow
+[submodule "PCB-multi-layer/scaffold"]
+	path = PCB-multi-layer/scaffold
+	url = https://github.com/LedgerHQ/scaffold
+[submodule "PCB-multi-layer/Hobby"]
+	path = PCB-multi-layer/Hobby
+	url = https://github.com/mz8023flyme/Hobby
+[submodule "PCB-multi-layer/Urukul"]
+	path = PCB-multi-layer/Urukul
+	url = https://github.com/sinara-hw/Urukul
+[submodule "PCB-multi-layer/BPD"]
+	path = PCB-multi-layer/BPD
+	url = https://github.com/emorell96/BPD
+[submodule "PCB-multi-layer/Oscilloscope"]
+	path = PCB-multi-layer/Oscilloscope
+	url = https://github.com/19greg96/Oscilloscope
+[submodule "PCB-multi-layer/vhs-door-nfc"]
+	path = PCB-multi-layer/vhs-door-nfc
+	url = https://github.com/vhs/vhs-door-nfc
+[submodule "PCB-multi-layer/MarsRover2020-PCB"]
+	path = PCB-multi-layer/MarsRover2020-PCB
+	url = https://github.com/uwrobotics/MarsRover2020-PCB
+[submodule "PCB-multi-layer/Holtek-Cup-for-MCU-Competition"]
+	path = PCB-multi-layer/Holtek-Cup-for-MCU-Competition
+	url = https://github.com/zengwangfa/Holtek-Cup-for-MCU-Competition
+[submodule "PCB-multi-layer/SencoreLC102"]
+	path = PCB-multi-layer/SencoreLC102
+	url = https://github.com/pigrew/SencoreLC102
+[submodule "PCB-multi-layer/GND_Studio_Project"]
+	path = PCB-multi-layer/GND_Studio_Project
+	url = https://github.com/RiceChen/GND_Studio_Project
+[submodule "PCB-multi-layer/PCB_SOIL_MOISTURE_3IN"]
+	path = PCB-multi-layer/PCB_SOIL_MOISTURE_3IN
+	url = https://github.com/OngToan/PCB_SOIL_MOISTURE_3IN
+[submodule "PCB-multi-layer/MAX2870-PLL-board"]
+	path = PCB-multi-layer/MAX2870-PLL-board
+	url = https://github.com/nuclearrambo/MAX2870-PLL-board
+[submodule "PCB-multi-layer/Art"]
+	path = PCB-multi-layer/Art
+	url = https://github.com/su782710477/Art
+[submodule "PCB-multi-layer/BLKQCL-AltiumLibraries"]
+	path = PCB-multi-layer/BLKQCL-AltiumLibraries
+	url = https://github.com/BlockEngineering/BLKQCL-AltiumLibraries
+[submodule "PCB-multi-layer/IDCI"]
+	path = PCB-multi-layer/IDCI
+	url = https://github.com/CastroGerman/IDCI
+[submodule "PCB-multi-layer/BLP"]
+	path = PCB-multi-layer/BLP
+	url = https://github.com/BaiLiping/BLP
+[submodule "PCB-multi-layer/denchop"]
+	path = PCB-multi-layer/denchop
+	url = https://github.com/ngoquytuan/denchop

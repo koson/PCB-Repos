@@ -1,3 +1,16 @@
+
+
+git submodule add https://github.com/Atmelfan/gpa-mgs-485
+git submodule add https://github.com/ruslan-robotics/PowerSwitch-block
+git submodule add https://github.com/probe-scope/Probe-Scope-PCB
+git submodule add https://github.com/shuimogezi/MCU_DebugLink
+git submodule add https://github.com/jpaulovf/IE309X
+git submodule add https://github.com/curtisgnesbitt/ANTON-TRSV-PWR
+git submodule add https://github.com/MMelka/CAD-EDA
+git submodule add https://github.com/dungmv6/GW_LoRAWAN_PCIe
+git submodule add https://github.com/michalgaska/HV_module
+git submodule add https://github.com/bjornbrodtkorb/shine-nano
+git submodule add https://github.com/4pplet/Steezy60-SMK
 git submodule add https://github.com/QUT-Motorsport/QUTMS_BrakeLight
 git submodule add https://github.com/QUT-Motorsport/QUTMS_TSAL_V2
 git submodule add https://github.com/QUT-Motorsport/QUTMS_ChassisController
@@ -54,8 +67,6 @@ git submodule add https://github.com/imricardoramos/pong-board
 git submodule add https://github.com/altium-apac/Bluetooth_Sentinel
 git submodule add https://github.com/ruslan-robotics/Video-commutation-block
 git submodule add https://github.com/ruslan-robotics/Modem
-
-
 git submodule add https://github.com/icebabycool/ESP8266_WebRadio
 git submodule add https://github.com/handdectet-hitsz/handpose-detect
 git submodule add https://github.com/jubeormk1/FreeRTOS_STM_HAL_UART_example
@@ -78,15 +89,34 @@ git submodule add https://github.com/cxj16888/suda-morris-FreeECAT
 git submodule add https://github.com/Nordic-Energy/ChargeControllerWithMPPT
 git submodule add https://github.com/ploopyco/mouse
 git submodule add https://github.com/4pplet/Steezy60-ALPS
-git submodule add https://github.com/Atmelfan/gpa-mgs-485
-git submodule add https://github.com/ruslan-robotics/PowerSwitch-block
-git submodule add https://github.com/probe-scope/Probe-Scope-PCB
-git submodule add https://github.com/shuimogezi/MCU_DebugLink
-git submodule add https://github.com/jpaulovf/IE309X
-git submodule add https://github.com/curtisgnesbitt/ANTON-TRSV-PWR
-git submodule add https://github.com/MMelka/CAD-EDA
-git submodule add https://github.com/dungmv6/GW_LoRAWAN_PCIe
-git submodule add https://github.com/michalgaska/HV_module
-git submodule add https://github.com/bjornbrodtkorb/shine-nano
-git submodule add https://github.com/4pplet/Steezy60-SMK
+git submodule add https://github.com/UBC-Thunderbots/Electrical
+git submodule add https://github.com/IRNAS/smartparks-elephant-lora-hardware
+git submodule add https://github.com/IRNAS/smartparks-rhino-tracker-hardware
+git submodule add https://github.com/VasiliyPodlesniy/AmplifierDclass
+git submodule add https://github.com/ElregS/PE-1000_NMEA_Tester
+git submodule add https://github.com/adragott/Project-Cansat-2.0
+git submodule add https://github.com/DevelBoard/eva01
+git submodule add https://github.com/kashifaftab/Airzai-Hardware
+git submodule add https://github.com/uncommoncrazy/Senior_PCBDesigns
+git submodule add https://github.com/nuriaparra/TFG
+git submodule add https://github.com/Elipsit/esp-grow
+git submodule add https://github.com/LedgerHQ/scaffold
+git submodule add https://github.com/Ledger-Donjon/scaffold
+git submodule add https://github.com/mz8023flyme/Hobby
+git submodule add https://github.com/sinara-hw/Urukul
+git submodule add https://github.com/emorell96/BPD
+git submodule add https://github.com/19greg96/Oscilloscope
+git submodule add https://github.com/vhs/vhs-door-nfc
+git submodule add https://github.com/uwrobotics/MarsRover2020-PCB
+git submodule add https://github.com/zengwangfa/Holtek-Cup-for-MCU-Competition
+git submodule add https://github.com/pigrew/SencoreLC102
+git submodule add https://github.com/RiceChen/GND_Studio_Project
+git submodule add https://github.com/OngToan/PCB_SOIL_MOISTURE_3IN
+git submodule add https://github.com/nuclearrambo/MAX2870-PLL-board
+git submodule add https://github.com/su782710477/Art
+git submodule add https://github.com/kocsislaci/main_pcb
+git submodule add https://github.com/BlockEngineering/BLKQCL-AltiumLibraries
+git submodule add https://github.com/CastroGerman/IDCI
+git submodule add https://github.com/BaiLiping/BLP
+git submodule add https://github.com/ngoquytuan/denchop
 
