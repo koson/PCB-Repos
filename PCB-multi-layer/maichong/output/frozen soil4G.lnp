@@ -1,0 +1,12 @@
+--cpu Cortex-M3
+".\output\stm32f10x.o"
+".\output\main.o"
+".\output\stm32f10x_it.o"
+".\output\textcmd.o"
+".\output\ad5245.o"
+"C:\Keil\ARM\RV31\LIB\ST\STM32F10xR.LIB"
+"C:\Keil\ARM\RV31\LIB\ST\STM32F10xD.LIB"
+--library_type=microlib --strict --scatter ".\output\frozen soil4G.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\output\frozen soil4G.map" -o ".\output\frozen soil4G.axf"

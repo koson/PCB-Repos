@@ -1134,3 +1134,21 @@
 [submodule "PCB-multi-layer/H743-ADC-Beam"]
 	path = PCB-multi-layer/H743-ADC-Beam
 	url = https://github.com/jackw2050/H743-ADC-Beam
+[submodule "Yun75TH"]
+	path = Yun75TH
+	url = https://github.com/EvaSerr/Yun75TH
+[submodule "maichong"]
+	path = maichong
+	url = https://github.com/barbossa-yang/maichong
+[submodule "imx8m-devmodule"]
+	path = imx8m-devmodule
+	url = https://github.com/streamx3/imx8m-devmodule
+[submodule "as5047breakout"]
+	path = as5047breakout
+	url = https://github.com/JustinOng/as5047breakout
+[submodule "PCB-multi-layer/Yun75TH"]
+	path = PCB-multi-layer/Yun75TH
+	url = https://github.com/EvaSerr/Yun75TH
+[submodule "PCB-multi-layer/maichong"]
+	path = PCB-multi-layer/maichong
+	url = https://github.com/barbossa-yang/maichong

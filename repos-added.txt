@@ -171,6 +171,11 @@ git submodule add https://github.com/glocklueng/2017-designs
 git submodule add https://github.com/jackw2050/H743-Levels
 git submodule add https://github.com/jackw2050/H743-ADC-Beam
 git submodule add https://github.com/niravdesai712/bldcmoter
+git submodule add https://github.com/EvaSerr/Yun75TH
+git submodule add https://github.com/barbossa-yang/maichong
+git submodule add https://github.com/streamx3/imx8m-devmodule
+git submodule add https://github.com/JustinOng/as5047breakout
+git submodule add https://github.com/rurewa/know
 
 
 

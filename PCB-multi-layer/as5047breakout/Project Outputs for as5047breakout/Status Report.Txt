@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [as5047breakout.PrjPCB]
+   Generated File[as5047breakout.TXT]
+   Generated File[as5047breakout.LDP]
+   Generated File[as5047breakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:13:49 AM On 23/9/2019
