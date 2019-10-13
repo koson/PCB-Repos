@@ -1452,3 +1452,9 @@
 [submodule "PCB-multi-layer/0156_PSU"]
 	path = PCB-multi-layer/0156_PSU
 	url = https://github.com/Q7Gp6U/0156_PSU
+[submodule "PCB-multi-layer/FrontLimeAssembly"]
+	path = PCB-multi-layer/FrontLimeAssembly
+	url = https://github.com/2ftg/FrontLimeAssembly
+[submodule "PCB-multi-layer/LED_Panel"]
+	path = PCB-multi-layer/LED_Panel
+	url = https://github.com/mo10/LED_Panel
