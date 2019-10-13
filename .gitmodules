@@ -665,9 +665,6 @@
 [submodule "PCB-multi-layer/0156_PSU"]
 	path = PCB-multi-layer/0156_PSU
 	url = https://github.com/Q7Gp6U/0156_PSU
-[submodule "PCB-multi-layer/0014_Library"]
-	path = PCB-multi-layer/0014_Library
-	url = https://github.com/Q7Gp6U/0014_Library
 [submodule "PCB-multi-layer/phywhispererusb"]
 	path = PCB-multi-layer/phywhispererusb
 	url = https://github.com/newaetech/phywhispererusb
