@@ -125,9 +125,6 @@
 [submodule "stm32/WPT_RX"]
 	path = stm32/WPT_RX
 	url = https://github.com/LoganHorowitz/WPT_RX.git
-[submodule "PCB-multi-layer/FrontLimeAssembly"]
-	path = PCB-multi-layer/FrontLimeAssembly
-	url = https://github.com/2ftg/FrontLimeAssembly.git
 [submodule "PCB-multi-layer/LimeSDR-USB"]
 	path = PCB-multi-layer/LimeSDR-USB
 	url = https://github.com/myriadrf/LimeSDR-USB
@@ -1416,9 +1413,6 @@
 [submodule "PCB-multi-layer/Analog-Line-Follower"]
 	path = PCB-multi-layer/Analog-Line-Follower
 	url = https://github.com/AmilaChinthaka97/Analog-Line-Follower
-[submodule "PCB-multi-layer/altusmetrum"]
-	path = PCB-multi-layer/altusmetrum
-	url = https://github.com/keith-packard/altusmetrum
 [submodule "PCB-multi-layer/CompactPCISerial_EEM_Adapter"]
 	path = PCB-multi-layer/CompactPCISerial_EEM_Adapter
 	url = https://github.com/sinara-hw/CompactPCISerial_EEM_Adapter
