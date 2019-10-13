@@ -1266,3 +1266,21 @@
 [submodule "PCB-multi-layer/Altium-Designer-Files"]
 	path = PCB-multi-layer/Altium-Designer-Files
 	url = https://github.com/Tracisran/Altium-Designer-Files
+[submodule "PCB-multi-layer/EduBot_v2"]
+	path = PCB-multi-layer/EduBot_v2
+	url = https://github.com/VasiliyPodlesniy/EduBot_v2
+[submodule "PCB-multi-layer/mule"]
+	path = PCB-multi-layer/mule
+	url = https://github.com/nopilot-ai/mule
+[submodule "PCB-multi-layer/Arriquitaun_hw"]
+	path = PCB-multi-layer/Arriquitaun_hw
+	url = https://github.com/JCCopyrights/Arriquitaun_hw
+[submodule "PCB-multi-layer/SolarCharger"]
+	path = PCB-multi-layer/SolarCharger
+	url = https://github.com/benjamin0906/SolarCharger
+[submodule "PCB-multi-layer/libre_pilot_uavtalk"]
+	path = PCB-multi-layer/libre_pilot_uavtalk
+	url = https://github.com/lichangche/libre_pilot_uavtalk
+[submodule "PCB-multi-layer/voxl"]
+	path = PCB-multi-layer/voxl
+	url = https://github.com/tonykolomeytsev/voxl
