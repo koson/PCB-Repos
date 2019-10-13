@@ -1434,3 +1434,15 @@
 [submodule "PCB-multi-layer/hexiwear"]
 	path = PCB-multi-layer/hexiwear
 	url = https://github.com/iperformance/hexiwear
+[submodule "PCB-multi-layer/LimeSDR-USB"]
+	path = PCB-multi-layer/LimeSDR-USB
+	url = https://github.com/myriadrf/LimeSDR-USB
+[submodule "PCB-multi-layer/LimeSDR-Mini"]
+	path = PCB-multi-layer/LimeSDR-Mini
+	url = https://github.com/myriadrf/LimeSDR-Mini
+[submodule "PCB-multi-layer/LimeSDR-QPCIe"]
+	path = PCB-multi-layer/LimeSDR-QPCIe
+	url = https://github.com/myriadrf/LimeSDR-QPCIe
+[submodule "PCB-multi-layer/0014_Library"]
+	path = PCB-multi-layer/0014_Library
+	url = https://github.com/Q7Gp6U/0014_Library
