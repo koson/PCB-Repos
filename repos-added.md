@@ -1,281 +1,281 @@
 # URLs
-https://github.com/Atmelfan/gpa-mgs-485
-https://github.com/ruslan-robotics/PowerSwitch-block
-https://github.com/probe-scope/Probe-Scope-PCB
-https://github.com/shuimogezi/MCU_DebugLink
-https://github.com/jpaulovf/IE309X
-https://github.com/curtisgnesbitt/ANTON-TRSV-PWR
-https://github.com/MMelka/CAD-EDA
-https://github.com/dungmv6/GW_LoRAWAN_PCIe
-https://github.com/michalgaska/HV_module
-https://github.com/bjornbrodtkorb/shine-nano
-https://github.com/4pplet/Steezy60-SMK
-https://github.com/QUT-Motorsport/QUTMS_BrakeLight
-https://github.com/QUT-Motorsport/QUTMS_TSAL_V2
-https://github.com/QUT-Motorsport/QUTMS_ChassisController
-https://github.com/QUT-Motorsport/QUTMS_PDM
-https://github.com/QUT-Motorsport/QUTMS_CANLogger
-https://github.com/QUT-Motorsport/QUTMS_ChassisController_V2
-https://github.com/QUT-Motorsport/QUTMS_PCB_Ruler
-https://github.com/QUT-Motorsport/QUTMS_Altium_Resources
-https://github.com/QUT-Motorsport/QUTMS_PDM_V2
-https://github.com/QUT-Motorsport/QUTMS_Inverter_V2
-https://github.com/QUT-Motorsport/QUTMS_OzanneDataCollection
-https://github.com/QUT-Motorsport/QUTMS_Master
-https://github.com/QUT-Motorsport/QUTMS_Windows_V1
-https://github.com/azoz158/egh456_3-phase-motor
-https://github.com/crazy-calypso/QUT_EGB220
-https://github.com/crazy-calypso/QUT_EGH456
-https://github.com/Q7Gp6U/0156_PSU
-https://github.com/Q7Gp6U/0014_Library
-https://github.com/newaetech/phywhispererusb
-https://github.com/pablo0722/audio_interface
-https://github.com/abc123yuanrui/Digital-Storage-Oscilloscope-2018
-https://github.com/4pplet/SHKB
-https://github.com/altaybrusan/syncbox
-https://github.com/teregulov/Desk-Digital-Clock
-https://github.com/elhep/MCORD_HUB
-https://github.com/nihospr01/OpenSpeechPlatform-UCSD
-https://github.com/OmarLopezCabrera/Tesis-SDR-LAPAC-Open-Source
-https://github.com/dungmv6/DoorLock_ESP8266
-https://github.com/whutddk/PRM_RA_PCB
-https://github.com/RockONthefeel/HW_Design_SUP
-https://github.com/darrylring/SDRdrum
-https://github.com/UVicFormulaMotorsport/CANwheel
-https://github.com/ruslan-robotics/Remote-control-block
-https://github.com/myjtag/My-Little-Friend
-https://github.com/TheGuardianWolf/PacBot
-https://github.com/megazi/RFCU-GTU-Rocket-Team
-https://github.com/jmnich/MS_1_MainBoard
-https://github.com/Hengy/Embedded-Controller-ESE2
-https://github.com/Hengy/sensornet
-https://github.com/Hengy/Overhead-60W-LED-Wireless
-https://github.com/Hengy/PCB-Designs
-https://github.com/Hengy/SensorNet2
-https://github.com/FailMukhametzyanov/Mircod_TEST
-https://github.com/aramy139com/POWER_BALANCE
-https://github.com/kdumontnu/Project-Alpha
-https://github.com/Hgerner/iot-soil-sensor
-https://github.com/Nordic-Energy/MotorControlBoard
-https://github.com/ntaocui/bootleg-stewart-platform
-https://github.com/Jbruslind/PersonalProjects
-https://github.com/ElregS/PE-1100_Elreg_Sender
-https://github.com/uwcms/ZYNQ-IPMC-HW
-https://github.com/francescosacco/Zillion
-https://github.com/imricardoramos/pong-board
-https://github.com/altium-apac/Bluetooth_Sentinel
-https://github.com/ruslan-robotics/Video-commutation-block
-https://github.com/ruslan-robotics/Modem
-https://github.com/icebabycool/ESP8266_WebRadio
-https://github.com/handdectet-hitsz/handpose-detect
-https://github.com/jubeormk1/FreeRTOS_STM_HAL_UART_example
-https://github.com/mrKuzmich/quasar_arm_pcb
-https://github.com/andrii-bublyk/harmonic-analyzer-pcb-r002
-https://github.com/jcmaeso/CeeibisMCU
-https://github.com/Laiwxn/STMCUBE
-https://github.com/D1sconnected/Owl-Round-Delay
-https://github.com/VasiliyPodlesniy/PowerBoard
-https://github.com/OKMCU/STM32F302VC-EVM
-https://github.com/UCSolarCarTeam/Lights-Controller-Hardware
-https://github.com/ipsaone/ARAGOSAT1-OBC
-https://github.com/ipsaone/ARAGOSAT1-OBC
-https://github.com/gkasprow/RNG_RPI
-https://github.com/ruslan-robotics/RxTx-block
-https://github.com/hzhsohn/esp32485
-https://github.com/protospacenl/changingMelodies
-https://github.com/VasiliyPodlesniy/BLDCSuperBot
-https://github.com/cxj16888/suda-morris-FreeECAT
-https://github.com/Nordic-Energy/ChargeControllerWithMPPT
-https://github.com/ploopyco/mouse
-https://github.com/4pplet/Steezy60-ALPS
-https://github.com/UBC-Thunderbots/Electrical
-https://github.com/IRNAS/smartparks-elephant-lora-hardware
-https://github.com/IRNAS/smartparks-rhino-tracker-hardware
-https://github.com/VasiliyPodlesniy/AmplifierDclass
-https://github.com/ElregS/PE-1000_NMEA_Tester
-https://github.com/adragott/Project-Cansat-2.0
-https://github.com/DevelBoard/eva01
-https://github.com/kashifaftab/Airzai-Hardware
-https://github.com/uncommoncrazy/Senior_PCBDesigns
-https://github.com/nuriaparra/TFG
-https://github.com/Elipsit/esp-grow
-https://github.com/LedgerHQ/scaffold
-https://github.com/Ledger-Donjon/scaffold
-https://github.com/mz8023flyme/Hobby
-https://github.com/sinara-hw/Urukul
-https://github.com/emorell96/BPD
-https://github.com/19greg96/Oscilloscope
-https://github.com/vhs/vhs-door-nfc
-https://github.com/uwrobotics/MarsRover2020-PCB
-https://github.com/zengwangfa/Holtek-Cup-for-MCU-Competition
-https://github.com/pigrew/SencoreLC102
-https://github.com/RiceChen/GND_Studio_Project
-https://github.com/OngToan/PCB_SOIL_MOISTURE_3IN
-https://github.com/nuclearrambo/MAX2870-PLL-board
-https://github.com/su782710477/Art
-https://github.com/kocsislaci/main_pcb
-https://github.com/BlockEngineering/BLKQCL-AltiumLibraries
-https://github.com/CastroGerman/IDCI
-https://github.com/BaiLiping/BLP
-https://github.com/ngoquytuan/denchop
-https://github.com/mo10/LED_Panel
-https://github.com/alisoam/esp8266_relay_controller_pcb
-https://github.com/tivanis/MicroInverter
-https://github.com/bbloss/OverTheTOP
-https://github.com/M3ne/rfDOMOTIC
-https://github.com/badgerloop-software/podiv-altium
-https://github.com/4pplet/SteezyBLE
-https://github.com/webskorpio/MegaD-328
-https://github.com/microsoft/pxt-arcade-hardware-designs
-https://github.com/pawelstraszak/LINEAR_LED_STRIP_DRIVER
-https://github.com/andradazoltan/trillium_v0.4_hardware
-https://github.com/Tartan-AUV/TAUV-Hardware
-https://github.com/VasiliyPodlesniy/WirelessHeadphone
-https://github.com/AlexeySinushkin/Tesla
-https://github.com/GooseCapital/Mega2560
-https://github.com/ai22ai22/W7500x-Serial-to-Ethernet-device
-https://github.com/sinara-hw/DIO_MCX
-https://github.com/cwruRobotics/PowerManagementSystem2019-20
-https://github.com/VeiLiang/BoloPi_PCB
-https://github.com/liuda1455975355/position
-https://github.com/VasiliyPodlesniy/HallADCModule
-https://github.com/pablogs9/RocketFPGA
-https://github.com/francescosacco/OpenEepromProgrammer
-https://github.com/Yifei-Li/GuitarPreamp
-https://github.com/loggerhead-instruments/LHC
-https://github.com/ilusta/DOT.RoboCup2020-electronics
-https://github.com/uwrobotics/MarsRover2020-PCB
-https://github.com/benjaminshewan/2019-Animal-Collars
-https://github.com/Przenioslo/UsbConBoard
-https://github.com/VasiliyPodlesniy/ADCduinoModule
-https://github.com/pabsfdez/WB-AV-4500
-https://github.com/Edmilson1Clss/Hardware_Projects
-https://github.com/cwruRobotics/HardwareController2019-20
-https://github.com/grupo-tc-volcan/TP2
-https://github.com/turing-lab/BionicGalileoHand
-https://github.com/newaetech/chipwhisperer-target-cw308t
-https://github.com/alirezaahmadi/AUT-Spherical-Robot
-https://github.com/jackw2050/Desktop-H743-Feedback
-https://github.com/pal73/FAT93
-https://github.com/alexandercote/Camera_Gimbal_Control_Board
-https://github.com/irongu/LA421
-https://github.com/afonsus1997/Pixels-Camp-PCB-Badge
-https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller
-https://github.com/billhowland/PiCapstone
-https://github.com/Walkline80/Iot-Platform-PCB
-https://github.com/purin-tavilsup/home-automation
-https://github.com/t2t-sonbui/ESP32IOT
-https://github.com/hh997y/Nixie_Clock
-https://github.com/glocklueng/2017-designs
-https://github.com/jackw2050/H743-Levels
-https://github.com/jackw2050/H743-ADC-Beam
-https://github.com/niravdesai712/bldcmoter
-https://github.com/EvaSerr/Yun75TH
-https://github.com/barbossa-yang/maichong
-https://github.com/streamx3/imx8m-devmodule
-https://github.com/JustinOng/as5047breakout
-https://github.com/rurewa/know
-https://github.com/electrocifiligrama/CONTROL_TP2
-https://github.com/SamuelHuet/SerreAutonome
-https://github.com/Ehsan2754/Crativity-House
-https://github.com/navjot95/ME218Projects
-https://github.com/ghaith99/PCB-CarSensorBoard
-https://github.com/Arrogantyunya/Solenoid_valve_-July8
-https://github.com/benjamin0906/LaptopCharger
-https://github.com/benjamin0906/LaptopCharger
-https://github.com/IllNate/frolf-led
-https://github.com/deathgod88844/arduino-8-32-clock
-https://github.com/glambertucci/TC
-https://github.com/0x00-pl/PCB_Project1
-https://github.com/scottmcdaid/sunswift.mpptng
-https://github.com/tekinyasin02/stmpcb
-https://github.com/suleymankim/PIC18f2550
-https://github.com/wangnan31415926/nrf5-sdk-15.3.0
-https://github.com/niravdesai712/bldcmoter
-https://github.com/mananrg/FMCB
-https://github.com/naxisinc/feeder
-https://github.com/Azure/azure-sphere-hardware-designs
-https://github.com/witek117/ESP32DevBoard
-https://github.com/arturoEE/Propulsion-Ignition-2019
-https://github.com/Riconec/Gestus
-https://github.com/IllNate/frolf-led
-https://github.com/JassyL/DAP-Link-TypeC
-https://github.com/taomasgonzalez/E2-TP2
-https://github.com/AlexanderMarinsek/Anemo-Counter-Circuit
-https://github.com/VasiliyPodlesniy/AccelBoard
-https://github.com/bogdan-tirzioru/Powersupply
-https://github.com/zwxwill/Ros
-https://github.com/will-rigby/Workstation-Controls
-https://github.com/Brenocq/LightPositionEstimation
-https://github.com/balena-io-playground/balena-fin-examples-hw
-https://github.com/nhamtung/SMP
-https://github.com/Tracisran/Altium-Designer-Files
-https://github.com/bbloss/IsoCore
-https://github.com/mattpro/SmartFlowerPot
-https://github.com/Alejo2313/LoRa_TFG
-https://github.com/Tekt-Industries/CodeOfConscience
-https://github.com/ngoquytuan/pcbwiz55stm32
-https://github.com/amirphl/Temperautre-Threshold-Controller
-https://github.com/Heng-W/share
-https://github.com/ufgatorloop/raptor
-https://github.com/evaaan/nixie-backplane
-https://github.com/209-lab/IoT_Parking
-https://github.com/loggerhead-instruments/TMTGP
-https://github.com/uwrobotics/MarsRover2020-PCB
-https://github.com/lellasone/stepper_tester
-https://github.com/Q7Gp6U/0140_EMV_PCI_Testing
-https://github.com/techguy10k/Analog_Equalizer
-https://github.com/tihonov-e/STM32F4-DISCOVERY-SHIELD
-https://github.com/728528678/STM32_RFID_RC522
-https://github.com/ilusta/DOT.RoboCup2020-electronics
-https://github.com/dung1998123/Do_AN_2
-https://github.com/alexandercote/Camera_Gimbal_Control_Board_Prototype
-https://github.com/wangnan31415926/ZhiNengZhangTong
-https://github.com/Young19961022/RoboMaster_2015Standard
-https://github.com/nhamtung/MyEmbed
-https://github.com/juniorya/Altium_proj
-https://github.com/AlexanderNielsen/CobraControlCenterAddOn
-https://github.com/kattemjau/Murata-NRF52
-https://github.com/QUT-Motorsport/QUTMS_TSAL_V2
-https://github.com/zengwangfa/Holtek-Cup-for-MCU-Competition
-https://github.com/nmori613/Motor-Driver-2019-2020-Project
-https://github.com/DigiMaxIO/ESP32-Sense-Kit-Altium-Files
-https://github.com/Hongranl/stm32f103x
-https://github.com/NilsMinor/AltiumDesignerResource
-https://github.com/zengwangfa/Underwater-Vehicle
-https://github.com/CVZehn/Electronic-Load
-https://github.com/itba-electro3-2019/tp2-grupo-3
-https://github.com/itba-electro3-2019/tp2-grupo-3
-https://github.com/dsparikh/Power-Supply-PCB
-https://github.com/iamlvshijie/Wikiduino
-https://github.com/CannaCardo/Teho
-https://github.com/microsoft/pxt-arcade-hardware-designs
-https://github.com/lichangche/libre_pilot_uavtalk
-https://github.com/xpuav/XP-Hardv
-https://github.com/zengwangfa/Smart-Hive
-https://github.com/loggerhead-instruments/snap
-https://github.com/AkhilBach/Visible-Light-Communication
-https://github.com/eboxmaker/z11s
-https://github.com/niu3niu/mar2_re
-https://github.com/157technology/trythis
-https://github.com/webskorpio/MegaD-7IO
-https://github.com/bauman-robotics/BMRS-PCB.001.01_PUMA_Motor_Driver
-https://github.com/albertlis/Praca-inzynierska
-https://github.com/ries-lab/LaserEngine
-https://github.com/hgraves/MagControl
-https://github.com/probe-scope/Analog-Test-Board
-https://github.com/Z-TIANQI/Code-for-NUEDC
-https://github.com/newaetech/chipwhisperer-target-cw308t
-https://github.com/newaetech/chipwhisperer-target-cw308t
-https://github.com/iakanoe/Waffle
-https://github.com/AmilaChinthaka97/Analog-Line-Follower
-https://github.com/keith-packard/altusmetrum
-https://github.com/sinara-hw/CompactPCISerial_EEM_Adapter
-https://github.com/krobot-projects/ARAS_Universal_Loadcell_Amplifier
-https://github.com/utri092/Compsys301_PCB
-https://github.com/JacksonRussett/UTAT_flightsystems
-https://github.com/Hyf338/Marine-Craft
-https://github.com/len3421/UpDown
-https://github.com/ghztomash/ersa-module
-https://github.com/157technology/JustHaveFun
-https://github.com/iperformance/hexiwear
+- https://github.com/Atmelfan/gpa-mgs-485
+- https://github.com/ruslan-robotics/PowerSwitch-block
+- https://github.com/probe-scope/Probe-Scope-PCB
+- https://github.com/shuimogezi/MCU_DebugLink
+- https://github.com/jpaulovf/IE309X
+- https://github.com/curtisgnesbitt/ANTON-TRSV-PWR
+- https://github.com/MMelka/CAD-EDA
+- https://github.com/dungmv6/GW_LoRAWAN_PCIe
+- https://github.com/michalgaska/HV_module
+- https://github.com/bjornbrodtkorb/shine-nano
+- https://github.com/4pplet/Steezy60-SMK
+- https://github.com/QUT-Motorsport/QUTMS_BrakeLight
+- https://github.com/QUT-Motorsport/QUTMS_TSAL_V2
+- https://github.com/QUT-Motorsport/QUTMS_ChassisController
+- https://github.com/QUT-Motorsport/QUTMS_PDM
+- https://github.com/QUT-Motorsport/QUTMS_CANLogger
+- https://github.com/QUT-Motorsport/QUTMS_ChassisController_V2
+- https://github.com/QUT-Motorsport/QUTMS_PCB_Ruler
+- https://github.com/QUT-Motorsport/QUTMS_Altium_Resources
+- https://github.com/QUT-Motorsport/QUTMS_PDM_V2
+- https://github.com/QUT-Motorsport/QUTMS_Inverter_V2
+- https://github.com/QUT-Motorsport/QUTMS_OzanneDataCollection
+- https://github.com/QUT-Motorsport/QUTMS_Master
+- https://github.com/QUT-Motorsport/QUTMS_Windows_V1
+- https://github.com/azoz158/egh456_3-phase-motor
+- https://github.com/crazy-calypso/QUT_EGB220
+- https://github.com/crazy-calypso/QUT_EGH456
+- https://github.com/Q7Gp6U/0156_PSU
+- https://github.com/Q7Gp6U/0014_Library
+- https://github.com/newaetech/phywhispererusb
+- https://github.com/pablo0722/audio_interface
+- https://github.com/abc123yuanrui/Digital-Storage-Oscilloscope-2018
+- https://github.com/4pplet/SHKB
+- https://github.com/altaybrusan/syncbox
+- https://github.com/teregulov/Desk-Digital-Clock
+- https://github.com/elhep/MCORD_HUB
+- https://github.com/nihospr01/OpenSpeechPlatform-UCSD
+- https://github.com/OmarLopezCabrera/Tesis-SDR-LAPAC-Open-Source
+- https://github.com/dungmv6/DoorLock_ESP8266
+- https://github.com/whutddk/PRM_RA_PCB
+- https://github.com/RockONthefeel/HW_Design_SUP
+- https://github.com/darrylring/SDRdrum
+- https://github.com/UVicFormulaMotorsport/CANwheel
+- https://github.com/ruslan-robotics/Remote-control-block
+- https://github.com/myjtag/My-Little-Friend
+- https://github.com/TheGuardianWolf/PacBot
+- https://github.com/megazi/RFCU-GTU-Rocket-Team
+- https://github.com/jmnich/MS_1_MainBoard
+- https://github.com/Hengy/Embedded-Controller-ESE2
+- https://github.com/Hengy/sensornet
+- https://github.com/Hengy/Overhead-60W-LED-Wireless
+- https://github.com/Hengy/PCB-Designs
+- https://github.com/Hengy/SensorNet2
+- https://github.com/FailMukhametzyanov/Mircod_TEST
+- https://github.com/aramy139com/POWER_BALANCE
+- https://github.com/kdumontnu/Project-Alpha
+- https://github.com/Hgerner/iot-soil-sensor
+- https://github.com/Nordic-Energy/MotorControlBoard
+- https://github.com/ntaocui/bootleg-stewart-platform
+- https://github.com/Jbruslind/PersonalProjects
+- https://github.com/ElregS/PE-1100_Elreg_Sender
+- https://github.com/uwcms/ZYNQ-IPMC-HW
+- https://github.com/francescosacco/Zillion
+- https://github.com/imricardoramos/pong-board
+- https://github.com/altium-apac/Bluetooth_Sentinel
+- https://github.com/ruslan-robotics/Video-commutation-block
+- https://github.com/ruslan-robotics/Modem
+- https://github.com/icebabycool/ESP8266_WebRadio
+- https://github.com/handdectet-hitsz/handpose-detect
+- https://github.com/jubeormk1/FreeRTOS_STM_HAL_UART_example
+- https://github.com/mrKuzmich/quasar_arm_pcb
+- https://github.com/andrii-bublyk/harmonic-analyzer-pcb-r002
+- https://github.com/jcmaeso/CeeibisMCU
+- https://github.com/Laiwxn/STMCUBE
+- https://github.com/D1sconnected/Owl-Round-Delay
+- https://github.com/VasiliyPodlesniy/PowerBoard
+- https://github.com/OKMCU/STM32F302VC-EVM
+- https://github.com/UCSolarCarTeam/Lights-Controller-Hardware
+- https://github.com/ipsaone/ARAGOSAT1-OBC
+- https://github.com/ipsaone/ARAGOSAT1-OBC
+- https://github.com/gkasprow/RNG_RPI
+- https://github.com/ruslan-robotics/RxTx-block
+- https://github.com/hzhsohn/esp32485
+- https://github.com/protospacenl/changingMelodies
+- https://github.com/VasiliyPodlesniy/BLDCSuperBot
+- https://github.com/cxj16888/suda-morris-FreeECAT
+- https://github.com/Nordic-Energy/ChargeControllerWithMPPT
+- https://github.com/ploopyco/mouse
+- https://github.com/4pplet/Steezy60-ALPS
+- https://github.com/UBC-Thunderbots/Electrical
+- https://github.com/IRNAS/smartparks-elephant-lora-hardware
+- https://github.com/IRNAS/smartparks-rhino-tracker-hardware
+- https://github.com/VasiliyPodlesniy/AmplifierDclass
+- https://github.com/ElregS/PE-1000_NMEA_Tester
+- https://github.com/adragott/Project-Cansat-2.0
+- https://github.com/DevelBoard/eva01
+- https://github.com/kashifaftab/Airzai-Hardware
+- https://github.com/uncommoncrazy/Senior_PCBDesigns
+- https://github.com/nuriaparra/TFG
+- https://github.com/Elipsit/esp-grow
+- https://github.com/LedgerHQ/scaffold
+- https://github.com/Ledger-Donjon/scaffold
+- https://github.com/mz8023flyme/Hobby
+- https://github.com/sinara-hw/Urukul
+- https://github.com/emorell96/BPD
+- https://github.com/19greg96/Oscilloscope
+- https://github.com/vhs/vhs-door-nfc
+- https://github.com/uwrobotics/MarsRover2020-PCB
+- https://github.com/zengwangfa/Holtek-Cup-for-MCU-Competition
+- https://github.com/pigrew/SencoreLC102
+- https://github.com/RiceChen/GND_Studio_Project
+- https://github.com/OngToan/PCB_SOIL_MOISTURE_3IN
+- https://github.com/nuclearrambo/MAX2870-PLL-board
+- https://github.com/su782710477/Art
+- https://github.com/kocsislaci/main_pcb
+- https://github.com/BlockEngineering/BLKQCL-AltiumLibraries
+- https://github.com/CastroGerman/IDCI
+- https://github.com/BaiLiping/BLP
+- https://github.com/ngoquytuan/denchop
+- https://github.com/mo10/LED_Panel
+- https://github.com/alisoam/esp8266_relay_controller_pcb
+- https://github.com/tivanis/MicroInverter
+- https://github.com/bbloss/OverTheTOP
+- https://github.com/M3ne/rfDOMOTIC
+- https://github.com/badgerloop-software/podiv-altium
+- https://github.com/4pplet/SteezyBLE
+- https://github.com/webskorpio/MegaD-328
+- https://github.com/microsoft/pxt-arcade-hardware-designs
+- https://github.com/pawelstraszak/LINEAR_LED_STRIP_DRIVER
+- https://github.com/andradazoltan/trillium_v0.4_hardware
+- https://github.com/Tartan-AUV/TAUV-Hardware
+- https://github.com/VasiliyPodlesniy/WirelessHeadphone
+- https://github.com/AlexeySinushkin/Tesla
+- https://github.com/GooseCapital/Mega2560
+- https://github.com/ai22ai22/W7500x-Serial-to-Ethernet-device
+- https://github.com/sinara-hw/DIO_MCX
+- https://github.com/cwruRobotics/PowerManagementSystem2019-20
+- https://github.com/VeiLiang/BoloPi_PCB
+- https://github.com/liuda1455975355/position
+- https://github.com/VasiliyPodlesniy/HallADCModule
+- https://github.com/pablogs9/RocketFPGA
+- https://github.com/francescosacco/OpenEepromProgrammer
+- https://github.com/Yifei-Li/GuitarPreamp
+- https://github.com/loggerhead-instruments/LHC
+- https://github.com/ilusta/DOT.RoboCup2020-electronics
+- https://github.com/uwrobotics/MarsRover2020-PCB
+- https://github.com/benjaminshewan/2019-Animal-Collars
+- https://github.com/Przenioslo/UsbConBoard
+- https://github.com/VasiliyPodlesniy/ADCduinoModule
+- https://github.com/pabsfdez/WB-AV-4500
+- https://github.com/Edmilson1Clss/Hardware_Projects
+- https://github.com/cwruRobotics/HardwareController2019-20
+- https://github.com/grupo-tc-volcan/TP2
+- https://github.com/turing-lab/BionicGalileoHand
+- https://github.com/newaetech/chipwhisperer-target-cw308t
+- https://github.com/alirezaahmadi/AUT-Spherical-Robot
+- https://github.com/jackw2050/Desktop-H743-Feedback
+- https://github.com/pal73/FAT93
+- https://github.com/alexandercote/Camera_Gimbal_Control_Board
+- https://github.com/irongu/LA421
+- https://github.com/afonsus1997/Pixels-Camp-PCB-Badge
+- https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller
+- https://github.com/billhowland/PiCapstone
+- https://github.com/Walkline80/Iot-Platform-PCB
+- https://github.com/purin-tavilsup/home-automation
+- https://github.com/t2t-sonbui/ESP32IOT
+- https://github.com/hh997y/Nixie_Clock
+- https://github.com/glocklueng/2017-designs
+- https://github.com/jackw2050/H743-Levels
+- https://github.com/jackw2050/H743-ADC-Beam
+- https://github.com/niravdesai712/bldcmoter
+- https://github.com/EvaSerr/Yun75TH
+- https://github.com/barbossa-yang/maichong
+- https://github.com/streamx3/imx8m-devmodule
+- https://github.com/JustinOng/as5047breakout
+- https://github.com/rurewa/know
+- https://github.com/electrocifiligrama/CONTROL_TP2
+- https://github.com/SamuelHuet/SerreAutonome
+- https://github.com/Ehsan2754/Crativity-House
+- https://github.com/navjot95/ME218Projects
+- https://github.com/ghaith99/PCB-CarSensorBoard
+- https://github.com/Arrogantyunya/Solenoid_valve_-July8
+- https://github.com/benjamin0906/LaptopCharger
+- https://github.com/benjamin0906/LaptopCharger
+- https://github.com/IllNate/frolf-led
+- https://github.com/deathgod88844/arduino-8-32-clock
+- https://github.com/glambertucci/TC
+- https://github.com/0x00-pl/PCB_Project1
+- https://github.com/scottmcdaid/sunswift.mpptng
+- https://github.com/tekinyasin02/stmpcb
+- https://github.com/suleymankim/PIC18f2550
+- https://github.com/wangnan31415926/nrf5-sdk-15.3.0
+- https://github.com/niravdesai712/bldcmoter
+- https://github.com/mananrg/FMCB
+- https://github.com/naxisinc/feeder
+- https://github.com/Azure/azure-sphere-hardware-designs
+- https://github.com/witek117/ESP32DevBoard
+- https://github.com/arturoEE/Propulsion-Ignition-2019
+- https://github.com/Riconec/Gestus
+- https://github.com/IllNate/frolf-led
+- https://github.com/JassyL/DAP-Link-TypeC
+- https://github.com/taomasgonzalez/E2-TP2
+- https://github.com/AlexanderMarinsek/Anemo-Counter-Circuit
+- https://github.com/VasiliyPodlesniy/AccelBoard
+- https://github.com/bogdan-tirzioru/Powersupply
+- https://github.com/zwxwill/Ros
+- https://github.com/will-rigby/Workstation-Controls
+- https://github.com/Brenocq/LightPositionEstimation
+- https://github.com/balena-io-playground/balena-fin-examples-hw
+- https://github.com/nhamtung/SMP
+- https://github.com/Tracisran/Altium-Designer-Files
+- https://github.com/bbloss/IsoCore
+- https://github.com/mattpro/SmartFlowerPot
+- https://github.com/Alejo2313/LoRa_TFG
+- https://github.com/Tekt-Industries/CodeOfConscience
+- https://github.com/ngoquytuan/pcbwiz55stm32
+- https://github.com/amirphl/Temperautre-Threshold-Controller
+- https://github.com/Heng-W/share
+- https://github.com/ufgatorloop/raptor
+- https://github.com/evaaan/nixie-backplane
+- https://github.com/209-lab/IoT_Parking
+- https://github.com/loggerhead-instruments/TMTGP
+- https://github.com/uwrobotics/MarsRover2020-PCB
+- https://github.com/lellasone/stepper_tester
+- https://github.com/Q7Gp6U/0140_EMV_PCI_Testing
+- https://github.com/techguy10k/Analog_Equalizer
+- https://github.com/tihonov-e/STM32F4-DISCOVERY-SHIELD
+- https://github.com/728528678/STM32_RFID_RC522
+- https://github.com/ilusta/DOT.RoboCup2020-electronics
+- https://github.com/dung1998123/Do_AN_2
+- https://github.com/alexandercote/Camera_Gimbal_Control_Board_Prototype
+- https://github.com/wangnan31415926/ZhiNengZhangTong
+- https://github.com/Young19961022/RoboMaster_2015Standard
+- https://github.com/nhamtung/MyEmbed
+- https://github.com/juniorya/Altium_proj
+- https://github.com/AlexanderNielsen/CobraControlCenterAddOn
+- https://github.com/kattemjau/Murata-NRF52
+- https://github.com/QUT-Motorsport/QUTMS_TSAL_V2
+- https://github.com/zengwangfa/Holtek-Cup-for-MCU-Competition
+- https://github.com/nmori613/Motor-Driver-2019-2020-Project
+- https://github.com/DigiMaxIO/ESP32-Sense-Kit-Altium-Files
+- https://github.com/Hongranl/stm32f103x
+- https://github.com/NilsMinor/AltiumDesignerResource
+- https://github.com/zengwangfa/Underwater-Vehicle
+- https://github.com/CVZehn/Electronic-Load
+- https://github.com/itba-electro3-2019/tp2-grupo-3
+- https://github.com/itba-electro3-2019/tp2-grupo-3
+- https://github.com/dsparikh/Power-Supply-PCB
+- https://github.com/iamlvshijie/Wikiduino
+- https://github.com/CannaCardo/Teho
+- https://github.com/microsoft/pxt-arcade-hardware-designs
+- https://github.com/lichangche/libre_pilot_uavtalk
+- https://github.com/xpuav/XP-Hardv
+- https://github.com/zengwangfa/Smart-Hive
+- https://github.com/loggerhead-instruments/snap
+- https://github.com/AkhilBach/Visible-Light-Communication
+- https://github.com/eboxmaker/z11s
+- https://github.com/niu3niu/mar2_re
+- https://github.com/157technology/trythis
+- https://github.com/webskorpio/MegaD-7IO
+- https://github.com/bauman-robotics/BMRS-PCB.001.01_PUMA_Motor_Driver
+- https://github.com/albertlis/Praca-inzynierska
+- https://github.com/ries-lab/LaserEngine
+- https://github.com/hgraves/MagControl
+- https://github.com/probe-scope/Analog-Test-Board
+- https://github.com/Z-TIANQI/Code-for-NUEDC
+- https://github.com/newaetech/chipwhisperer-target-cw308t
+- https://github.com/newaetech/chipwhisperer-target-cw308t
+- https://github.com/iakanoe/Waffle
+- https://github.com/AmilaChinthaka97/Analog-Line-Follower
+- https://github.com/keith-packard/altusmetrum
+- https://github.com/sinara-hw/CompactPCISerial_EEM_Adapter
+- https://github.com/krobot-projects/ARAS_Universal_Loadcell_Amplifier
+- https://github.com/utri092/Compsys301_PCB
+- https://github.com/JacksonRussett/UTAT_flightsystems
+- https://github.com/Hyf338/Marine-Craft
+- https://github.com/len3421/UpDown
+- https://github.com/ghztomash/ersa-module
+- https://github.com/157technology/JustHaveFun
+- https://github.com/iperformance/hexiwear
