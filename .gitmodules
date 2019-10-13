@@ -1152,3 +1152,42 @@
 [submodule "PCB-multi-layer/maichong"]
 	path = PCB-multi-layer/maichong
 	url = https://github.com/barbossa-yang/maichong
+[submodule "PCB-multi-layer/CONTROL_TP2"]
+	path = PCB-multi-layer/CONTROL_TP2
+	url = https://github.com/electrocifiligrama/CONTROL_TP2
+[submodule "PCB-multi-layer/SerreAutonome"]
+	path = PCB-multi-layer/SerreAutonome
+	url = https://github.com/SamuelHuet/SerreAutonome
+[submodule "PCB-multi-layer/PCB-CarSensorBoard"]
+	path = PCB-multi-layer/PCB-CarSensorBoard
+	url = https://github.com/ghaith99/PCB-CarSensorBoard
+[submodule "PCB-multi-layer/Solenoid_valve_-July8"]
+	path = PCB-multi-layer/Solenoid_valve_-July8
+	url = https://github.com/Arrogantyunya/Solenoid_valve_-July8
+[submodule "PCB-multi-layer/LaptopCharger"]
+	path = PCB-multi-layer/LaptopCharger
+	url = https://github.com/benjamin0906/LaptopCharger
+[submodule "PCB-multi-layer/frolf-led"]
+	path = PCB-multi-layer/frolf-led
+	url = https://github.com/IllNate/frolf-led
+[submodule "PCB-multi-layer/arduino-8-32-clock"]
+	path = PCB-multi-layer/arduino-8-32-clock
+	url = https://github.com/deathgod88844/arduino-8-32-clock
+[submodule "PCB-multi-layer/TC"]
+	path = PCB-multi-layer/TC
+	url = https://github.com/glambertucci/TC
+[submodule "PCB-multi-layer/PCB_Project1"]
+	path = PCB-multi-layer/PCB_Project1
+	url = https://github.com/0x00-pl/PCB_Project1
+[submodule "PCB-multi-layer/sunswift.mpptng"]
+	path = PCB-multi-layer/sunswift.mpptng
+	url = https://github.com/scottmcdaid/sunswift.mpptng
+[submodule "PCB-multi-layer/stmpcb"]
+	path = PCB-multi-layer/stmpcb
+	url = https://github.com/tekinyasin02/stmpcb
+[submodule "PCB-multi-layer/PIC18f2550"]
+	path = PCB-multi-layer/PIC18f2550
+	url = https://github.com/suleymankim/PIC18f2550
+[submodule "PCB-multi-layer/nrf5-sdk-15.3.0"]
+	path = PCB-multi-layer/nrf5-sdk-15.3.0
+	url = https://github.com/wangnan31415926/nrf5-sdk-15.3.0

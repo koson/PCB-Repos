@@ -104,26 +104,6 @@ git submodule add https://github.com/Riconec/Gestus
 git submodule add https://github.com/IllNate/frolf-led
 git submodule add https://github.com/JassyL/DAP-Link-TypeC
 git submodule add https://github.com/taomasgonzalez/E2-TP2
-git submodule add https://github.com/IllNate/frolf-led
-git submodule add https://github.com/deathgod88844/arduino-8-32-clock
-git submodule add https://github.com/glambertucci/TC
-git submodule add https://github.com/0x00-pl/PCB_Project1
-git submodule add https://github.com/scottmcdaid/sunswift.mpptng
-git submodule add https://github.com/tekinyasin02/stmpcb
-git submodule add https://github.com/suleymankim/PIC18f2550
-git submodule add https://github.com/wangnan31415926/nrf5-sdk-15.3.0
-git submodule add https://github.com/electrocifiligrama/CONTROL_TP2
-git submodule add https://github.com/SamuelHuet/SerreAutonome
-git submodule add https://github.com/Ehsan2754/Crativity-House
-git submodule add https://github.com/navjot95/ME218Projects
-git submodule add https://github.com/ghaith99/PCB-CarSensorBoard
-git submodule add https://github.com/Arrogantyunya/Solenoid_valve_-July8
-git submodule add https://github.com/benjamin0906/LaptopCharger
-git submodule add https://github.com/benjamin0906/LaptopCharger
-
-
-
-
 
 
 
