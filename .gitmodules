@@ -1053,3 +1053,27 @@
 [submodule "PCB-multi-layer/position"]
 	path = PCB-multi-layer/position
 	url = https://github.com/liuda1455975355/position
+[submodule "PCB-multi-layer/HallADCModule"]
+	path = PCB-multi-layer/HallADCModule
+	url = https://github.com/VasiliyPodlesniy/HallADCModule
+[submodule "PCB-multi-layer/RocketFPGA"]
+	path = PCB-multi-layer/RocketFPGA
+	url = https://github.com/pablogs9/RocketFPGA
+[submodule "PCB-multi-layer/OpenEepromProgrammer"]
+	path = PCB-multi-layer/OpenEepromProgrammer
+	url = https://github.com/francescosacco/OpenEepromProgrammer
+[submodule "PCB-multi-layer/GuitarPreamp"]
+	path = PCB-multi-layer/GuitarPreamp
+	url = https://github.com/Yifei-Li/GuitarPreamp
+[submodule "PCB-multi-layer/LHC"]
+	path = PCB-multi-layer/LHC
+	url = https://github.com/loggerhead-instruments/LHC
+[submodule "PCB-multi-layer/DOT.RoboCup2020-electronics"]
+	path = PCB-multi-layer/DOT.RoboCup2020-electronics
+	url = https://github.com/ilusta/DOT.RoboCup2020-electronics
+[submodule "PCB-multi-layer/2019-Animal-Collars"]
+	path = PCB-multi-layer/2019-Animal-Collars
+	url = https://github.com/benjaminshewan/2019-Animal-Collars
+[submodule "PCB-multi-layer/UsbConBoard"]
+	path = PCB-multi-layer/UsbConBoard
+	url = https://github.com/Przenioslo/UsbConBoard

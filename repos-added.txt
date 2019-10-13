@@ -139,4 +139,14 @@ git submodule add https://github.com/sinara-hw/DIO_MCX
 git submodule add https://github.com/cwruRobotics/PowerManagementSystem2019-20
 git submodule add https://github.com/VeiLiang/BoloPi_PCB
 git submodule add https://github.com/liuda1455975355/position
+git submodule add https://github.com/VasiliyPodlesniy/HallADCModule
+git submodule add https://github.com/pablogs9/RocketFPGA
+git submodule add https://github.com/francescosacco/OpenEepromProgrammer
+git submodule add https://github.com/Yifei-Li/GuitarPreamp
+git submodule add https://github.com/loggerhead-instruments/LHC
+git submodule add https://github.com/ilusta/DOT.RoboCup2020-electronics
+git submodule add https://github.com/uwrobotics/MarsRover2020-PCB
+git submodule add https://github.com/benjaminshewan/2019-Animal-Collars
+git submodule add https://github.com/Przenioslo/UsbConBoard
+git submodule add https://github.com/VasiliyPodlesniy/ADCduinoModule
 
