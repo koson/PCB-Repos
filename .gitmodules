@@ -996,3 +996,33 @@
 [submodule "PCB-multi-layer/denchop"]
 	path = PCB-multi-layer/denchop
 	url = https://github.com/ngoquytuan/denchop
+[submodule "PCB-multi-layer/LED_Panel"]
+	path = PCB-multi-layer/LED_Panel
+	url = https://github.com/mo10/LED_Panel
+[submodule "PCB-multi-layer/esp8266_relay_controller_pcb"]
+	path = PCB-multi-layer/esp8266_relay_controller_pcb
+	url = https://github.com/alisoam/esp8266_relay_controller_pcb
+[submodule "PCB-multi-layer/MicroInverter"]
+	path = PCB-multi-layer/MicroInverter
+	url = https://github.com/tivanis/MicroInverter
+[submodule "PCB-multi-layer/OverTheTOP"]
+	path = PCB-multi-layer/OverTheTOP
+	url = https://github.com/bbloss/OverTheTOP
+[submodule "PCB-multi-layer/rfDOMOTIC"]
+	path = PCB-multi-layer/rfDOMOTIC
+	url = https://github.com/M3ne/rfDOMOTIC
+[submodule "PCB-multi-layer/podiv-altium"]
+	path = PCB-multi-layer/podiv-altium
+	url = https://github.com/badgerloop-software/podiv-altium
+[submodule "PCB-multi-layer/SteezyBLE"]
+	path = PCB-multi-layer/SteezyBLE
+	url = https://github.com/4pplet/SteezyBLE
+[submodule "PCB-multi-layer/MegaD-328"]
+	path = PCB-multi-layer/MegaD-328
+	url = https://github.com/webskorpio/MegaD-328
+[submodule "PCB-multi-layer/pxt-arcade-hardware-designs"]
+	path = PCB-multi-layer/pxt-arcade-hardware-designs
+	url = https://github.com/microsoft/pxt-arcade-hardware-designs
+[submodule "PCB-multi-layer/LINEAR_LED_STRIP_DRIVER"]
+	path = PCB-multi-layer/LINEAR_LED_STRIP_DRIVER
+	url = https://github.com/pawelstraszak/LINEAR_LED_STRIP_DRIVER

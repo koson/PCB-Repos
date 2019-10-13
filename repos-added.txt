@@ -119,4 +119,14 @@ git submodule add https://github.com/BlockEngineering/BLKQCL-AltiumLibraries
 git submodule add https://github.com/CastroGerman/IDCI
 git submodule add https://github.com/BaiLiping/BLP
 git submodule add https://github.com/ngoquytuan/denchop
+git submodule add https://github.com/mo10/LED_Panel
+git submodule add https://github.com/alisoam/esp8266_relay_controller_pcb
+git submodule add https://github.com/tivanis/MicroInverter
+git submodule add https://github.com/bbloss/OverTheTOP
+git submodule add https://github.com/M3ne/rfDOMOTIC
+git submodule add https://github.com/badgerloop-software/podiv-altium
+git submodule add https://github.com/4pplet/SteezyBLE
+git submodule add https://github.com/webskorpio/MegaD-328
+git submodule add https://github.com/microsoft/pxt-arcade-hardware-designs
+git submodule add https://github.com/pawelstraszak/LINEAR_LED_STRIP_DRIVER
 
