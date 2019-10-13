@@ -993,9 +993,6 @@
 [submodule "PCB-multi-layer/denchop"]
 	path = PCB-multi-layer/denchop
 	url = https://github.com/ngoquytuan/denchop
-[submodule "PCB-multi-layer/LED_Panel"]
-	path = PCB-multi-layer/LED_Panel
-	url = https://github.com/mo10/LED_Panel
 [submodule "PCB-multi-layer/esp8266_relay_controller_pcb"]
 	path = PCB-multi-layer/esp8266_relay_controller_pcb
 	url = https://github.com/alisoam/esp8266_relay_controller_pcb
