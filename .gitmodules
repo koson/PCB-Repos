@@ -125,9 +125,6 @@
 [submodule "stm32/WPT_RX"]
 	path = stm32/WPT_RX
 	url = https://github.com/LoganHorowitz/WPT_RX.git
-[submodule "PCB-multi-layer/LimeSDR-USB"]
-	path = PCB-multi-layer/LimeSDR-USB
-	url = https://github.com/myriadrf/LimeSDR-USB
 [submodule "PCB-multi-layer/AX5243_module"]
 	path = PCB-multi-layer/AX5243_module
 	url = https://github.com/2ftg/AX5243_module
@@ -221,9 +218,6 @@
 [submodule "PCB-multi-layer/BTS"]
 	path = PCB-multi-layer/BTS
 	url = https://github.com/ngoquytuan/BTS
-[submodule "PCB-multi-layer/altiumlib"]
-	path = PCB-multi-layer/altiumlib
-	url = https://github.com/ngoquytuan/altiumlib
 [submodule "PCB-multi-layer/thesis"]
 	path = PCB-multi-layer/thesis
 	url = https://github.com/TuanHungVU1202/thesis
