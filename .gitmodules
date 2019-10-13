@@ -1446,3 +1446,9 @@
 [submodule "PCB-multi-layer/0014_Library"]
 	path = PCB-multi-layer/0014_Library
 	url = https://github.com/Q7Gp6U/0014_Library
+[submodule "PCB-multi-layer/0140_EMV_PCI_Testing"]
+	path = PCB-multi-layer/0140_EMV_PCI_Testing
+	url = https://github.com/Q7Gp6U/0140_EMV_PCI_Testing
+[submodule "PCB-multi-layer/0156_PSU"]
+	path = PCB-multi-layer/0156_PSU
+	url = https://github.com/Q7Gp6U/0156_PSU
