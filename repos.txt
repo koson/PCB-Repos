@@ -94,18 +94,6 @@ git submodule add https://github.com/ftkalcevic/opentx_nucleo_f412zg
 git submodule add https://github.com/sudaozhen/Elevator_Voice_Reminder
 git submodule add https://github.com/sakalaka8/tag-connect-stm-nucleo-adapter
 git submodule add https://github.com/dhahaj/atmega1284p-breakout
-git submodule add https://github.com/niravdesai712/bldcmoter
-git submodule add https://github.com/mananrg/FMCB
-git submodule add https://github.com/naxisinc/feeder
-git submodule add https://github.com/Azure/azure-sphere-hardware-designs
-git submodule add https://github.com/witek117/ESP32DevBoard
-git submodule add https://github.com/arturoEE/Propulsion-Ignition-2019
-git submodule add https://github.com/Riconec/Gestus
-git submodule add https://github.com/IllNate/frolf-led
-git submodule add https://github.com/JassyL/DAP-Link-TypeC
-git submodule add https://github.com/taomasgonzalez/E2-TP2
-
-
 
 
 

@@ -1191,3 +1191,27 @@
 [submodule "PCB-multi-layer/nrf5-sdk-15.3.0"]
 	path = PCB-multi-layer/nrf5-sdk-15.3.0
 	url = https://github.com/wangnan31415926/nrf5-sdk-15.3.0
+[submodule "PCB-multi-layer/FMCB"]
+	path = PCB-multi-layer/FMCB
+	url = https://github.com/mananrg/FMCB
+[submodule "PCB-multi-layer/feeder"]
+	path = PCB-multi-layer/feeder
+	url = https://github.com/naxisinc/feeder
+[submodule "PCB-multi-layer/azure-sphere-hardware-designs"]
+	path = PCB-multi-layer/azure-sphere-hardware-designs
+	url = https://github.com/Azure/azure-sphere-hardware-designs
+[submodule "PCB-multi-layer/ESP32DevBoard"]
+	path = PCB-multi-layer/ESP32DevBoard
+	url = https://github.com/witek117/ESP32DevBoard
+[submodule "PCB-multi-layer/Propulsion-Ignition-2019"]
+	path = PCB-multi-layer/Propulsion-Ignition-2019
+	url = https://github.com/arturoEE/Propulsion-Ignition-2019
+[submodule "PCB-multi-layer/Gestus"]
+	path = PCB-multi-layer/Gestus
+	url = https://github.com/Riconec/Gestus
+[submodule "PCB-multi-layer/DAP-Link-TypeC"]
+	path = PCB-multi-layer/DAP-Link-TypeC
+	url = https://github.com/JassyL/DAP-Link-TypeC
+[submodule "PCB-multi-layer/E2-TP2"]
+	path = PCB-multi-layer/E2-TP2
+	url = https://github.com/taomasgonzalez/E2-TP2

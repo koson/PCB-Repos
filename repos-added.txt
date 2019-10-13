@@ -192,6 +192,18 @@ git submodule add https://github.com/scottmcdaid/sunswift.mpptng
 git submodule add https://github.com/tekinyasin02/stmpcb
 git submodule add https://github.com/suleymankim/PIC18f2550
 git submodule add https://github.com/wangnan31415926/nrf5-sdk-15.3.0
+git submodule add https://github.com/niravdesai712/bldcmoter
+git submodule add https://github.com/mananrg/FMCB
+git submodule add https://github.com/naxisinc/feeder
+git submodule add https://github.com/Azure/azure-sphere-hardware-designs
+git submodule add https://github.com/witek117/ESP32DevBoard
+git submodule add https://github.com/arturoEE/Propulsion-Ignition-2019
+git submodule add https://github.com/Riconec/Gestus
+git submodule add https://github.com/IllNate/frolf-led
+git submodule add https://github.com/JassyL/DAP-Link-TypeC
+git submodule add https://github.com/taomasgonzalez/E2-TP2
+
+
 
 
 
