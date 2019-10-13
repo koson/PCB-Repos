@@ -1284,3 +1284,180 @@
 [submodule "PCB-multi-layer/voxl"]
 	path = PCB-multi-layer/voxl
 	url = https://github.com/tonykolomeytsev/voxl
+[submodule "PCB-multi-layer/IsoCore"]
+	path = PCB-multi-layer/IsoCore
+	url = https://github.com/bbloss/IsoCore
+[submodule "PCB-multi-layer/SmartFlowerPot"]
+	path = PCB-multi-layer/SmartFlowerPot
+	url = https://github.com/mattpro/SmartFlowerPot
+[submodule "PCB-multi-layer/LoRa_TFG"]
+	path = PCB-multi-layer/LoRa_TFG
+	url = https://github.com/Alejo2313/LoRa_TFG
+[submodule "PCB-multi-layer/CodeOfConscience"]
+	path = PCB-multi-layer/CodeOfConscience
+	url = https://github.com/Tekt-Industries/CodeOfConscience
+[submodule "PCB-multi-layer/pcbwiz55stm32"]
+	path = PCB-multi-layer/pcbwiz55stm32
+	url = https://github.com/ngoquytuan/pcbwiz55stm32
+[submodule "PCB-multi-layer/Temperautre-Threshold-Controller"]
+	path = PCB-multi-layer/Temperautre-Threshold-Controller
+	url = https://github.com/amirphl/Temperautre-Threshold-Controller
+[submodule "PCB-multi-layer/share"]
+	path = PCB-multi-layer/share
+	url = https://github.com/Heng-W/share
+[submodule "PCB-multi-layer/raptor"]
+	path = PCB-multi-layer/raptor
+	url = https://github.com/ufgatorloop/raptor
+[submodule "PCB-multi-layer/nixie-backplane"]
+	path = PCB-multi-layer/nixie-backplane
+	url = https://github.com/evaaan/nixie-backplane
+[submodule "PCB-multi-layer/IoT_Parking"]
+	path = PCB-multi-layer/IoT_Parking
+	url = https://github.com/209-lab/IoT_Parking
+[submodule "PCB-multi-layer/TMTGP"]
+	path = PCB-multi-layer/TMTGP
+	url = https://github.com/loggerhead-instruments/TMTGP
+[submodule "PCB-multi-layer/stepper_tester"]
+	path = PCB-multi-layer/stepper_tester
+	url = https://github.com/lellasone/stepper_tester
+[submodule "PCB-multi-layer/0140_EMV_PCI_Testing"]
+	path = PCB-multi-layer/0140_EMV_PCI_Testing
+	url = https://github.com/Q7Gp6U/0140_EMV_PCI_Testing
+[submodule "PCB-multi-layer/Analog_Equalizer"]
+	path = PCB-multi-layer/Analog_Equalizer
+	url = https://github.com/techguy10k/Analog_Equalizer
+[submodule "PCB-multi-layer/STM32F4-DISCOVERY-SHIELD"]
+	path = PCB-multi-layer/STM32F4-DISCOVERY-SHIELD
+	url = https://github.com/tihonov-e/STM32F4-DISCOVERY-SHIELD
+[submodule "PCB-multi-layer/STM32_RFID_RC522"]
+	path = PCB-multi-layer/STM32_RFID_RC522
+	url = https://github.com/728528678/STM32_RFID_RC522
+[submodule "PCB-multi-layer/Do_AN_2"]
+	path = PCB-multi-layer/Do_AN_2
+	url = https://github.com/dung1998123/Do_AN_2
+[submodule "PCB-multi-layer/Camera_Gimbal_Control_Board_Prototype"]
+	path = PCB-multi-layer/Camera_Gimbal_Control_Board_Prototype
+	url = https://github.com/alexandercote/Camera_Gimbal_Control_Board_Prototype
+[submodule "PCB-multi-layer/ZhiNengZhangTong"]
+	path = PCB-multi-layer/ZhiNengZhangTong
+	url = https://github.com/wangnan31415926/ZhiNengZhangTong
+[submodule "PCB-multi-layer/RoboMaster_2015Standard"]
+	path = PCB-multi-layer/RoboMaster_2015Standard
+	url = https://github.com/Young19961022/RoboMaster_2015Standard
+[submodule "PCB-multi-layer/MyEmbed"]
+	path = PCB-multi-layer/MyEmbed
+	url = https://github.com/nhamtung/MyEmbed
+[submodule "PCB-multi-layer/Altium_proj"]
+	path = PCB-multi-layer/Altium_proj
+	url = https://github.com/juniorya/Altium_proj
+[submodule "PCB-multi-layer/CobraControlCenterAddOn"]
+	path = PCB-multi-layer/CobraControlCenterAddOn
+	url = https://github.com/AlexanderNielsen/CobraControlCenterAddOn
+[submodule "PCB-multi-layer/Murata-NRF52"]
+	path = PCB-multi-layer/Murata-NRF52
+	url = https://github.com/kattemjau/Murata-NRF52
+[submodule "PCB-multi-layer/Motor-Driver-2019-2020-Project"]
+	path = PCB-multi-layer/Motor-Driver-2019-2020-Project
+	url = https://github.com/nmori613/Motor-Driver-2019-2020-Project
+[submodule "PCB-multi-layer/ESP32-Sense-Kit-Altium-Files"]
+	path = PCB-multi-layer/ESP32-Sense-Kit-Altium-Files
+	url = https://github.com/DigiMaxIO/ESP32-Sense-Kit-Altium-Files
+[submodule "PCB-multi-layer/AltiumDesignerResource"]
+	path = PCB-multi-layer/AltiumDesignerResource
+	url = https://github.com/NilsMinor/AltiumDesignerResource
+[submodule "PCB-multi-layer/Underwater-Vehicle"]
+	path = PCB-multi-layer/Underwater-Vehicle
+	url = https://github.com/zengwangfa/Underwater-Vehicle
+[submodule "PCB-multi-layer/Electronic-Load"]
+	path = PCB-multi-layer/Electronic-Load
+	url = https://github.com/CVZehn/Electronic-Load
+[submodule "PCB-multi-layer/tp2-grupo-3"]
+	path = PCB-multi-layer/tp2-grupo-3
+	url = https://github.com/itba-electro3-2019/tp2-grupo-3
+[submodule "PCB-multi-layer/Power-Supply-PCB"]
+	path = PCB-multi-layer/Power-Supply-PCB
+	url = https://github.com/dsparikh/Power-Supply-PCB
+[submodule "PCB-multi-layer/Wikiduino"]
+	path = PCB-multi-layer/Wikiduino
+	url = https://github.com/iamlvshijie/Wikiduino
+[submodule "PCB-multi-layer/Teho"]
+	path = PCB-multi-layer/Teho
+	url = https://github.com/CannaCardo/Teho
+[submodule "PCB-multi-layer/XP-Hardv"]
+	path = PCB-multi-layer/XP-Hardv
+	url = https://github.com/xpuav/XP-Hardv
+[submodule "PCB-multi-layer/Smart-Hive"]
+	path = PCB-multi-layer/Smart-Hive
+	url = https://github.com/zengwangfa/Smart-Hive
+[submodule "PCB-multi-layer/snap"]
+	path = PCB-multi-layer/snap
+	url = https://github.com/loggerhead-instruments/snap
+[submodule "PCB-multi-layer/Visible-Light-Communication"]
+	path = PCB-multi-layer/Visible-Light-Communication
+	url = https://github.com/AkhilBach/Visible-Light-Communication
+[submodule "PCB-multi-layer/z11s"]
+	path = PCB-multi-layer/z11s
+	url = https://github.com/eboxmaker/z11s
+[submodule "PCB-multi-layer/mar2_re"]
+	path = PCB-multi-layer/mar2_re
+	url = https://github.com/niu3niu/mar2_re
+[submodule "PCB-multi-layer/trythis"]
+	path = PCB-multi-layer/trythis
+	url = https://github.com/157technology/trythis
+[submodule "PCB-multi-layer/MegaD-7IO"]
+	path = PCB-multi-layer/MegaD-7IO
+	url = https://github.com/webskorpio/MegaD-7IO
+[submodule "PCB-multi-layer/BMRS-PCB.001.01_PUMA_Motor_Driver"]
+	path = PCB-multi-layer/BMRS-PCB.001.01_PUMA_Motor_Driver
+	url = https://github.com/bauman-robotics/BMRS-PCB.001.01_PUMA_Motor_Driver
+[submodule "PCB-multi-layer/Praca-inzynierska"]
+	path = PCB-multi-layer/Praca-inzynierska
+	url = https://github.com/albertlis/Praca-inzynierska
+[submodule "PCB-multi-layer/LaserEngine"]
+	path = PCB-multi-layer/LaserEngine
+	url = https://github.com/ries-lab/LaserEngine
+[submodule "PCB-multi-layer/MagControl"]
+	path = PCB-multi-layer/MagControl
+	url = https://github.com/hgraves/MagControl
+[submodule "PCB-multi-layer/Analog-Test-Board"]
+	path = PCB-multi-layer/Analog-Test-Board
+	url = https://github.com/probe-scope/Analog-Test-Board
+[submodule "PCB-multi-layer/Code-for-NUEDC"]
+	path = PCB-multi-layer/Code-for-NUEDC
+	url = https://github.com/Z-TIANQI/Code-for-NUEDC
+[submodule "PCB-multi-layer/Waffle"]
+	path = PCB-multi-layer/Waffle
+	url = https://github.com/iakanoe/Waffle
+[submodule "PCB-multi-layer/Analog-Line-Follower"]
+	path = PCB-multi-layer/Analog-Line-Follower
+	url = https://github.com/AmilaChinthaka97/Analog-Line-Follower
+[submodule "PCB-multi-layer/altusmetrum"]
+	path = PCB-multi-layer/altusmetrum
+	url = https://github.com/keith-packard/altusmetrum
+[submodule "PCB-multi-layer/CompactPCISerial_EEM_Adapter"]
+	path = PCB-multi-layer/CompactPCISerial_EEM_Adapter
+	url = https://github.com/sinara-hw/CompactPCISerial_EEM_Adapter
+[submodule "PCB-multi-layer/ARAS_Universal_Loadcell_Amplifier"]
+	path = PCB-multi-layer/ARAS_Universal_Loadcell_Amplifier
+	url = https://github.com/krobot-projects/ARAS_Universal_Loadcell_Amplifier
+[submodule "PCB-multi-layer/Compsys301_PCB"]
+	path = PCB-multi-layer/Compsys301_PCB
+	url = https://github.com/utri092/Compsys301_PCB
+[submodule "PCB-multi-layer/UTAT_flightsystems"]
+	path = PCB-multi-layer/UTAT_flightsystems
+	url = https://github.com/JacksonRussett/UTAT_flightsystems
+[submodule "PCB-multi-layer/Marine-Craft"]
+	path = PCB-multi-layer/Marine-Craft
+	url = https://github.com/Hyf338/Marine-Craft
+[submodule "PCB-multi-layer/UpDown"]
+	path = PCB-multi-layer/UpDown
+	url = https://github.com/len3421/UpDown
+[submodule "PCB-multi-layer/ersa-module"]
+	path = PCB-multi-layer/ersa-module
+	url = https://github.com/ghztomash/ersa-module
+[submodule "PCB-multi-layer/JustHaveFun"]
+	path = PCB-multi-layer/JustHaveFun
+	url = https://github.com/157technology/JustHaveFun
+[submodule "PCB-multi-layer/hexiwear"]
+	path = PCB-multi-layer/hexiwear
+	url = https://github.com/iperformance/hexiwear
