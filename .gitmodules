@@ -1458,3 +1458,18 @@
 [submodule "PCB-multi-layer/LED_Panel"]
 	path = PCB-multi-layer/LED_Panel
 	url = https://github.com/mo10/LED_Panel
+[submodule "PCB-multi-layer/chili-epfl-altium-libs"]
+	path = PCB-multi-layer/chili-epfl-altium-libs
+	url = https://github.com/chili-epfl/altium-libs
+[submodule "PCB-multi-layer/Pryzmat-Termometr-Altium"]
+	path = PCB-multi-layer/Pryzmat-Termometr-Altium
+	url = https://github.com/glocklueng/Pryzmat-Termometr-Altium
+[submodule "PCB-multi-layer/10A-LinearPowerSupply"]
+	path = PCB-multi-layer/10A-LinearPowerSupply
+	url = https://github.com/vazeri/10A-LinearPowerSupply
+[submodule "PCB-multi-layer/ADC-DAC-PCB"]
+	path = PCB-multi-layer/ADC-DAC-PCB
+	url = https://github.com/vazeri/ADC-DAC-PCB
+[submodule "PCB-multi-layer/altium-custom-libraries"]
+	path = PCB-multi-layer/altium-custom-libraries
+	url = https://github.com/ReikoR/altium-custom-libraries
