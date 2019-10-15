@@ -1473,3 +1473,24 @@
 [submodule "PCB-multi-layer/altium-custom-libraries"]
 	path = PCB-multi-layer/altium-custom-libraries
 	url = https://github.com/ReikoR/altium-custom-libraries
+[submodule "PCB-multi-layer/Stepper_Motor"]
+	path = PCB-multi-layer/Stepper_Motor
+	url = https://github.com/li77leprince/Stepper_Motor
+[submodule "PCB-multi-layer/SmartIMU"]
+	path = PCB-multi-layer/SmartIMU
+	url = https://github.com/KitSprout/SmartIMU
+[submodule "PCB-multi-layer/Stlink_V2.1_PCB"]
+	path = PCB-multi-layer/Stlink_V2.1_PCB
+	url = https://github.com/leiyitan/Stlink_V2.1_PCB
+[submodule "PCB-multi-layer/20-Channel-High-Side-NMOS-Driver-Board"]
+	path = PCB-multi-layer/20-Channel-High-Side-NMOS-Driver-Board
+	url = https://github.com/leiyitan/20-Channel-High-Side-NMOS-Driver-Board
+[submodule "PCB-multi-layer/Wireless-remote-control-16-relay-16-DI-4-AI-industrial-control-board"]
+	path = PCB-multi-layer/Wireless-remote-control-16-relay-16-DI-4-AI-industrial-control-board
+	url = https://github.com/leiyitan/Wireless-remote-control-16-relay-16-DI-4-AI-industrial-control-board
+[submodule "PCB-multi-layer/1AA-nickel-hydrogen-lithium-battery-5V-boost-USB-TYPE-C"]
+	path = PCB-multi-layer/1AA-nickel-hydrogen-lithium-battery-5V-boost-USB-TYPE-C
+	url = https://github.com/leiyitan/1AA-nickel-hydrogen-lithium-battery-5V-boost-USB-TYPE-C
+[submodule "PCB-multi-layer/A-Ultra-High-Audio-Compression-Rate-Coding-and-Decoding-Module-Based-on-MA2400_P2"]
+	path = PCB-multi-layer/A-Ultra-High-Audio-Compression-Rate-Coding-and-Decoding-Module-Based-on-MA2400_P2
+	url = https://github.com/leiyitan/A-Ultra-High-Audio-Compression-Rate-Coding-and-Decoding-Module-Based-on-MA2400_P2
