@@ -1494,3 +1494,6 @@
 [submodule "PCB-multi-layer/A-Ultra-High-Audio-Compression-Rate-Coding-and-Decoding-Module-Based-on-MA2400_P2"]
 	path = PCB-multi-layer/A-Ultra-High-Audio-Compression-Rate-Coding-and-Decoding-Module-Based-on-MA2400_P2
 	url = https://github.com/leiyitan/A-Ultra-High-Audio-Compression-Rate-Coding-and-Decoding-Module-Based-on-MA2400_P2
+[submodule "PCB-multi-layer/dangerous-prototypes-open-hardware"]
+	path = PCB-multi-layer/dangerous-prototypes-open-hardware
+	url = https://github.com/mikef5410/dangerous-prototypes-open-hardware
