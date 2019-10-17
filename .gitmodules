@@ -738,6 +738,7 @@
 [submodule "PCB-multi-layer/bldcmoter"]
 	path = PCB-multi-layer/bldcmoter
 	url = https://github.com/niravdesai712/bldcmoter
+	ignore = dirty
 [submodule "QUTMS_BrakeLight"]
 	path = QUTMS_BrakeLight
 	url = https://github.com/QUT-Motorsport/QUTMS_BrakeLight
