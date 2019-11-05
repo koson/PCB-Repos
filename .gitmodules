@@ -1498,3 +1498,6 @@
 [submodule "PCB-multi-layer/dangerous-prototypes-open-hardware"]
 	path = PCB-multi-layer/dangerous-prototypes-open-hardware
 	url = https://github.com/mikef5410/dangerous-prototypes-open-hardware
+[submodule "Arduino-project/LittleArduinoProjects"]
+	path = Arduino-project/LittleArduinoProjects
+	url = https://github.com/chipsi007/LittleArduinoProjects
