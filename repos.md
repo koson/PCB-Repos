@@ -29,7 +29,38 @@
 - 
 - 
 - 
-- 
+- https://github.com/XDjackieXD/TomoStrap
+- https://github.com/microresearch/mycelium.git
+ url = https://github.com/Taur-Tech/Impedance-Analyzer.git
+ 	url = https://github.com/hongxiongncsu/RoachZStack.git
+ 	url = https://github.com/tkircher/OSHpark.git
+ 	url = https://github.com/kpdangelo/OpenCTD-Conduino-K1.0.git
+ 	url = https://github.com/open-ephys/autoimpedance.git
+ 	url = https://github.com/justiceamoh/bioimpedancelab.git
+ 	url = https://github.com/glocklueng/impy.git
+ 	url = https://github.com/EvenQAQ/AD5933_DataStream.git
+ 	url = https://github.com/StephanJoubert/ad5933-dotnet.git
+ 	url = https://github.com/MatejGomboc/Small-Impedance-Meter.git
+ 	url = https://github.com/StephanJoubert/ad5933-dotnet.git
+ 	url = https://github.com/TimothyAhong/stest.git
+ 	url = https://github.com/mahdiTalebiIMTEK/AD5933_ZLogger.git
+ 	url = https://github.com/mahdiTalebiIMTEK/Ad5933_ArduinoDue.git
+ 	url = https://github.com/eusebiuburlacu/WWS.git
+ 	url = https://github.com/michelcanagasabey/FGIDS.git
+ 	url = https://github.com/brenande/TCC_Bernardo_Joao.git
+ 	url = https://github.com/abeljim/bio_impd.git
+ 	url = https://github.com/danielje/ABE-Stat-Arduino.git
+ 	url = https://github.com/danielje/ABE-Stat.git
+ 	url = https://github.com/WuMRC/drive.git
+ 	url = https://github.com/phillpas/MultiAD5933.git
+ 	url = https://github.com/ashtonchase/portable_impedance_tomography.git
+ 	url = https://github.com/kbknudsen/PyEIS.git
+ 	url = https://github.com/LinnesLab/MiniStat-LL-Design.git
+ 	url = https://github.com/LinnesLab/MiniStat.git
+ 	url = https://github.com/BenoitSchillings/mcp4728.git
+ 	url = https://github.com/romnegrillo/THESIS_AQUAPONICS.git
+ 	url = https://github.com/Protocentral/AFE4490_Oximeter.git
+
 - 
 - 
 - 
